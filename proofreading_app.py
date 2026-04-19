@@ -78,6 +78,10 @@ def parse_text(value: object) -> str:
     return text.strip()
 
 
+def strip_hierarchy_indent(value: str) -> str:
+    return parse_text(value).lstrip("\u3000").lstrip(" ")
+
+
 @st.cache_data(show_spinner=False)
 def load_dataset(root_dir: str) -> Tuple[pd.DataFrame, List[Dict[str, object]]]:
     batch_files = discover_batch_files(root_dir)
@@ -85,7 +89,7 @@ def load_dataset(root_dir: str) -> Tuple[pd.DataFrame, List[Dict[str, object]]]:
 
     for batch_info in batch_files:
         path = Path(str(batch_info["path"]))
-        with path.open("r", encoding="utf-8-sig", newline="") as fp:
+        with path.open("r", encoding="utf-8", newline="") as fp:
             reader = csv.reader(fp)
             for line_no, raw_row in enumerate(reader, start=1):
                 if not raw_row:
@@ -173,6 +177,7 @@ def init_state() -> None:
     st.session_state.file_lookup = {str(item["name"]): item for item in batch_files}
     st.session_state.modified_files = set()
     st.session_state.editor_nonce = 0
+    st.session_state.editor_row_uids = {}
 
     page_candidates = sorted({int(p) for p in data_df["page"].dropna().tolist()})
     if page_candidates:
@@ -242,7 +247,7 @@ def save_source_file(file_name: str) -> None:
     ].copy()
     subset = subset.sort_values(by=["page", "_order", "_uid"], ascending=[True, True, True])
 
-    with source_path.open("w", encoding="utf-8-sig", newline="") as fp:
+    with source_path.open("w", encoding="utf-8", newline="") as fp:
         fp.write(",".join(DATA_COLUMNS) + "\n")
         for _, row in subset.iterrows():
             page_value = str(parse_int(row["page"], 0))
@@ -280,8 +285,74 @@ def resequence_page(page: int) -> None:
         data_df.at[idx, "_order"] = float(order)
 
 
-def apply_page_edits(current_page: int, edited_df: pd.DataFrame) -> None:
+def swap_page_row_order(page: int, position: int, direction: int) -> None:
     data_df: pd.DataFrame = st.session_state.data_df
+    page_df = get_active_page_df(page)
+    if page_df.empty:
+        return
+
+    sorted_idx = list(page_df.sort_values(by=["_order", "_uid"], ascending=[True, True]).index)
+    if position < 1 or position > len(sorted_idx):
+        return
+
+    target_position = position + direction
+    if target_position < 1 or target_position > len(sorted_idx):
+        return
+
+    current_idx = sorted_idx[position - 1]
+    target_idx = sorted_idx[target_position - 1]
+    current_order = float(data_df.at[current_idx, "_order"])
+    target_order = float(data_df.at[target_idx, "_order"])
+
+    data_df.at[current_idx, "_order"] = target_order
+    data_df.at[target_idx, "_order"] = current_order
+    resequence_page(page)
+    st.session_state.data_df = data_df
+
+
+def add_row_below(page: int, position: int) -> None:
+    data_df: pd.DataFrame = st.session_state.data_df
+    page_df = get_active_page_df(page)
+    if page_df.empty:
+        return
+
+    sorted_idx = list(page_df.sort_values(by=["_order", "_uid"], ascending=[True, True]).index)
+    if position < 1 or position > len(sorted_idx):
+        return
+
+    selected_idx = sorted_idx[position - 1]
+    selected_order = float(data_df.at[selected_idx, "_order"])
+
+    for idx in sorted_idx[position:]:
+        data_df.at[idx, "_order"] = float(data_df.at[idx, "_order"]) + 1.0
+
+    new_row = {
+        "_uid": uuid.uuid4().hex,
+        "page": page,
+        "level": 0,
+        "chinese": "",
+        "english": "",
+        "code": "",
+        "_source_file": resolve_source_file(page),
+        "_source_line": -1,
+        "_order": selected_order + 1.0,
+        "_deleted": False,
+        "_is_new": True,
+    }
+    data_df.loc[len(data_df)] = new_row
+    resequence_page(page)
+    st.session_state.data_df = data_df
+
+
+def apply_page_edits(current_page: int, edited_df: pd.DataFrame, row_uid_map: Optional[List[str]] = None) -> None:
+    data_df: pd.DataFrame = st.session_state.data_df
+
+    if "_uid" not in edited_df.columns and row_uid_map is not None:
+        edited_df = edited_df.reset_index(drop=True)
+        uid_values = [str(uid) for uid in row_uid_map]
+        uid_values = uid_values[: len(edited_df)] + [""] * max(0, len(edited_df) - len(uid_values))
+        edited_df["_uid"] = uid_values
+
     uid_to_idx = {str(uid): idx for idx, uid in data_df["_uid"].items()}
 
     existing_ids = set(
@@ -292,7 +363,7 @@ def apply_page_edits(current_page: int, edited_df: pd.DataFrame) -> None:
     seen_ids = set()
 
     normalized = edited_df.copy()
-    for col in ["_uid"] + DATA_COLUMNS:
+    for col in ["_uid", "_order"] + DATA_COLUMNS:
         if col not in normalized.columns:
             normalized[col] = ""
 
@@ -300,11 +371,11 @@ def apply_page_edits(current_page: int, edited_df: pd.DataFrame) -> None:
         uid = parse_text(row.get("_uid", ""))
         page = parse_int(row.get("page", current_page), current_page)
         level = parse_int(row.get("level", 0), 0)
-        chinese = parse_text(row.get("chinese", ""))
+        order_value = parse_int(row.get("_order", position + 1), position + 1)
+        chinese = strip_hierarchy_indent(parse_text(row.get("chinese", "")))
         english = parse_text(row.get("english", ""))
         code = parse_text(row.get("code", ""))
 
-        # Ignore purely blank placeholder rows added by the editor.
         if uid == "" and chinese == "" and english == "" and code == "":
             continue
 
@@ -322,6 +393,7 @@ def apply_page_edits(current_page: int, edited_df: pd.DataFrame) -> None:
                 "chinese": chinese,
                 "english": english,
                 "code": code,
+                "_order": order_value,
             }
 
             for field_name, new_value in field_updates.items():
@@ -337,19 +409,13 @@ def apply_page_edits(current_page: int, edited_df: pd.DataFrame) -> None:
             if target_source_file:
                 st.session_state.modified_files.add(target_source_file)
 
-            if page == current_page:
-                data_df.at[idx, "_order"] = float(position + 1)
-            else:
-                data_df.at[idx, "_order"] = get_next_order(page)
-
-            touched_pages.add(old_page)
-            touched_pages.add(page)
-            data_df.at[idx, "_deleted"] = False
+            if page != current_page:
+                data_df.at[idx, "_order"] = float(order_value) if order_value > 0 else get_next_order(page)
 
         else:
             new_uid = uuid.uuid4().hex
             source_file = target_source_file
-            order_value = float(position + 1) if page == current_page else get_next_order(page)
+            order_value_float = float(order_value) if order_value > 0 else (float(position + 1) if page == current_page else get_next_order(page))
 
             new_row = {
                 "_uid": new_uid,
@@ -360,7 +426,7 @@ def apply_page_edits(current_page: int, edited_df: pd.DataFrame) -> None:
                 "code": code,
                 "_source_file": source_file,
                 "_source_line": -1,
-                "_order": order_value,
+                "_order": order_value_float,
                 "_deleted": False,
                 "_is_new": True,
             }
@@ -479,24 +545,26 @@ def render_hierarchical_editor(page_df: pd.DataFrame, current_page: int) -> None
     edited_rows: List[Dict[str, object]] = []
 
     with st.form(key=f"hierarchy_editor_{current_page}"):
-        header_cols = st.columns([0.7, 4, 4, 2, 1])
+        header_cols = st.columns([0.7, 4, 4, 2])
         header_cols[0].markdown("**Level**")
         header_cols[1].markdown("**中文**")
         header_cols[2].markdown("**English**")
         header_cols[3].markdown("**Code**")
-        header_cols[4].markdown("**UID**")
 
-        for _, row in page_df.iterrows():
-            uid = parse_text(row["_uid"])
-            level = parse_int(row["level"], 0)
-            chinese = parse_text(row["chinese"])
-            english = parse_text(row["english"])
-            code = parse_text(row["code"])
+        for row_idx, row in enumerate(
+            page_df[["_uid", "page", "level", "chinese", "english", "code"]].itertuples(index=False, name=None),
+            start=1,
+        ):
+            uid = parse_text(row[0])
+            level = parse_int(row[2], 0)
+            chinese = parse_text(row[3])
+            english = parse_text(row[4])
+            code = parse_text(row[5])
 
             indent = "\u3000" * max(level, 0)
-            cols = st.columns([1, 4, 4, 2, 1])
+            cols = st.columns([1, 4, 4, 2])
             level_input = cols[0].number_input(
-                label=f"Level {uid[:8]}",
+                label=f"Level {row_idx}",
                 value=level,
                 min_value=0,
                 step=1,
@@ -506,26 +574,24 @@ def render_hierarchical_editor(page_df: pd.DataFrame, current_page: int) -> None
 
             display_chinese = f"{indent}{chinese}"
             chinese_input = cols[1].text_input(
-                label=f"中文 {uid[:8]}",
+                label=f"中文 {row_idx}",
                 value=display_chinese,
                 key=f"hierarchy_chinese_{uid}",
                 label_visibility="collapsed",
             )
             chinese_input = chinese_input.lstrip("\u3000").lstrip(" ")
             english_input = cols[2].text_input(
-                label=f"English {uid[:8]}",
+                label=f"English {row_idx}",
                 value=english,
                 key=f"hierarchy_english_{uid}",
                 label_visibility="collapsed",
             )
             code_input = cols[3].text_input(
-                label=f"Code {uid[:8]}",
+                label=f"Code {row_idx}",
                 value=code,
                 key=f"hierarchy_code_{uid}",
                 label_visibility="collapsed",
             )
-            cols[4].markdown(f"`{uid[:8]}`")
-
             edited_rows.append(
                 {
                     "_uid": uid,
@@ -537,7 +603,8 @@ def render_hierarchical_editor(page_df: pd.DataFrame, current_page: int) -> None
                 }
             )
 
-        if st.form_submit_button("保存层级编辑"):
+        submit_pressed = st.form_submit_button("保存层级编辑")
+        if submit_pressed:
             edited_df = pd.DataFrame(edited_rows)
             apply_page_edits(current_page=current_page, edited_df=edited_df)
             st.rerun()
@@ -642,51 +709,109 @@ def render_main() -> None:
     with right_col:
         st.subheader("提取结果（可编辑）")
 
-        with st.expander("层级可视化预览并编辑", expanded=True):
-            render_hierarchical_editor(page_df, current_page)
-
-        preview_df = build_tree_preview(page_df)
-        with st.expander("原始层级表格预览", expanded=False):
-            st.dataframe(preview_df, width="stretch", hide_index=True)
-
         if page_df.empty:
             editor_input = pd.DataFrame(
                 [
                     {
-                        "_uid": "",
                         "page": current_page,
                         "level": 0,
+                        "_order": 1,
                         "chinese": "",
                         "english": "",
                         "code": "",
                     }
                 ]
             )
+            row_uid_map: List[str] = []
         else:
-            editor_input = page_df[["_uid"] + DATA_COLUMNS].copy()
+            editor_input = page_df[["_order"] + DATA_COLUMNS].copy()
+            editor_input["chinese"] = page_df.apply(
+                lambda row: f"{chr(0x3000) * max(parse_int(row['level'], 0), 0)}{parse_text(row['chinese'])}",
+                axis=1,
+            )
+            row_uid_map = page_df["_uid"].astype(str).tolist()
+
+        st.session_state.editor_row_uids[current_page] = row_uid_map
+
+        editor_input = editor_input.reset_index(drop=True)
+        editor_input.index = range(1, len(editor_input) + 1)
+
+        st.markdown(
+            """
+            <style>
+            [data-testid="stDataFrame"] {
+                min-height: calc(100vh - 260px) !important;
+                height: calc(100vh - 260px) !important;
+            }
+            [data-testid="stDataFrameGlideDataEditor"] {
+                min-height: 100% !important;
+                height: 100% !important;
+            }
+            </style>
+            """,
+            unsafe_allow_html=True,
+        )
 
         editor_key = f"page_editor_{st.session_state.editor_nonce}_{current_page}"
         edited_df = st.data_editor(
             editor_input,
             key=editor_key,
-            hide_index=True,
+            hide_index=False,
             width="stretch",
+            height=900,
             num_rows="dynamic",
-            disabled=["_uid"],
+            column_order=["page", "level", "_order", "chinese", "english", "code"],
             column_config={
-                "_uid": st.column_config.TextColumn("row_id", help="内部行标识（不可编辑）", width="small"),
                 "page": st.column_config.NumberColumn("page", step=1, format="%d", width="small"),
                 "level": st.column_config.NumberColumn("level", step=1, format="%d", width="small"),
+                "_order": st.column_config.NumberColumn("order", step=1, format="%d", width="small"),
                 "chinese": st.column_config.TextColumn("chinese", width="large"),
                 "english": st.column_config.TextColumn("english", width="large"),
                 "code": st.column_config.TextColumn("code", width="small"),
             },
         )
 
+        st.info(
+            "当前 Streamlit 版本不支持在表格中直接拖拽排序。请编辑“顺序”列或使用下面的行移动按钮来调整条目顺序。"
+        )
+
+        if not page_df.empty:
+            row_options = [
+                f"{idx + 1}. {parse_text(row['chinese'])[:60]}"
+                for idx, row in enumerate(page_df.sort_values(by=["_order", "_uid"], ascending=[True, True]).to_dict(orient="records"))
+            ]
+            selected_row_index = st.selectbox(
+                "选择要移动的行",
+                options=list(range(1, len(row_options) + 1)),
+                format_func=lambda i: row_options[i - 1],
+                key=f"row_move_select_{current_page}",
+            )
+
+            move_col1, move_col2, move_col3 = st.columns([1, 1, 1])
+            with move_col1:
+                if st.button("上移一行", key=f"move_up_{current_page}"):
+                    swap_page_row_order(current_page, selected_row_index, -1)
+                    st.session_state.editor_nonce += 1
+                    st.rerun()
+            with move_col2:
+                if st.button("下移一行", key=f"move_down_{current_page}"):
+                    swap_page_row_order(current_page, selected_row_index, 1)
+                    st.session_state.editor_nonce += 1
+                    st.rerun()
+            with move_col3:
+                if st.button("在下方插入空行", key=f"insert_below_{current_page}"):
+                    add_row_below(current_page, selected_row_index)
+                    st.session_state.editor_nonce += 1
+                    st.rerun()
+
         action_col1, action_col2 = st.columns([1, 1])
         with action_col1:
             if st.button("应用本页修改", type="primary", width="stretch"):
-                apply_page_edits(current_page=current_page, edited_df=edited_df)
+                apply_page_edits(
+                    current_page=current_page,
+                    edited_df=edited_df,
+                    row_uid_map=st.session_state.editor_row_uids.get(current_page, []),
+                )
                 st.session_state.editor_nonce += 1
                 st.rerun()
         with action_col2:

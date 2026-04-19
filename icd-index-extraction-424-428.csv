@@ -1,6 +1,6 @@
-page,level,chinese,english,code
+﻿page,level,chinese,english,code
 424,1,"Bristow 手术(肩关节脱位修补术)","Bristow operation (repair of shoulder dislocation)",81.82
-424,1,"Brockman 手术(软组织松解用于跖形足)","Brockman operation (soft tissue release for clubfoot)",83.84
+424,1,"Brockman 手术(软组织松解用于畸形足)","Brockman operation (soft tissue release for clubfoot)",83.84
 424,1,"Brock 手术(肺动脉瓣膜切开术)","Brock operation (pulmonary valvotomy)",35.03
 424,1,"Browne(-Denis)手术(尿道下裂修补术)","Browne (-Denis) operation (hypospadias repair)",58.45
 424,1,"Brunschwig 手术(暂时性胃造口术)","Brunschwig operation (temporary gastrostomy)",43.19
@@ -8,16 +8,16 @@ page,level,chinese,english,code
 424,1,"Burch 操作(耻骨后尿道悬吊术用于尿道口失禁)","Burch procedure (retropubic urethral suspension for urinary stress incontinence)",59.5
 424,1,"Burgess 手术(踝截断术)","Burgess operation (amputation of ankle)",84.14
 424,1,"Burr 孔","Burr holes",01.24
-424,1,"巴登霍伊尼手术-见 Bardenheuer 手术","巴登霍伊尼手术- see Bardenheuer operation",
+424,1,"巴登霍伊厄手术-见 Bardenheuer 手术","巴登霍伊厄手术- see Bardenheuer operation",
 424,1,"巴蒂斯塔手术-见 Batista 手术","巴蒂斯塔手术- see Batista operation",
 424,1,"巴尔手术-见 Barr 手术","巴尔手术- see Barr operation",
 424,1,"巴菲斯手术-见 Baffes 手术","巴菲斯手术- see Baffes operation",
 424,1,"巴坎手术-见 Barkan 手术","巴坎手术- see Barkan operation",
 424,1,"巴奇-斯皮特勒-麦克法丁手术-见 Batch-Spittler-McFaddin 手术","巴奇-斯皮特勒-麦克法丁手术- see Batch-Spittler-McFaddin operation",
-424,1,"巴塞特手术-见 Bassett 手术","巴塞特手术- see Bassett operation",
+424,1,"巴塞手术-见 Bassett 手术","巴塞手术- see Bassett operation",
 424,1,"巴斯基手术-见 Barsky 手术","巴斯基手术- see Barsky operation",
 424,1,"巴西尼手术-见 Bassini 手术","巴西尼手术- see Bassini operation",
-424,1,"包革手术-见 Burch 手术","包革手术- see Burch operation",
+424,1,"巴治手术-见 Burch 手术","巴治手术- see Burch operation",
 424,1,"拔除","Evulsion",
 424,2,"指甲(床)(褶)","nail (bed) (fold)",86.23
 424,1,"白细胞介素-2,输注","Interleukin-2, infusion",
@@ -25,42 +25,42 @@ page,level,chinese,english,code
 424,2,"小剂量","low-dose",99.28
 424,1,"白细胞除去术,治疗性","Leukopheresis, therapeutic",99.72
 424,1,"班克哈特手术-见 Bankhart 手术","班克哈特手术- see Bankhart operation",
-424,1,"瓣环成形术(心脏)(posteromedial)","Annuloplasty (heart) (posteromedial)",35.33
-424,2,"开放和其他","open and other",45.73
+424,1,"瓣环成形术(心脏)(中后的)","Annuloplasty (heart) (posteromedial)",35.33
+424,3,"开放和其他","open and other",45.73
 424,2,"左","left",
-424,3,"腔镜的","laparoscopic",17.35
+424,3,"腹腔镜的","laparoscopic",17.35
 424,3,"开放和其他","open and other",45.75
 425,1,"瓣膜成形术","Valvuloplasty",
-425,2,"心脏(开放性心瓣技术)(不作有瓣置换)","heart, unspecified (without valve replacement)",35.10
+425,2,"心脏(开放性心脏技术)(不伴有瓣置换)","heart, unspecified (without valve replacement)",35.10
 425,3,"伴假体或组织移植-见瓣膜,心脏,瓣膜,按部位","with prosthesis or tissue graft-see Replacement, heart, valve, by site",
 425,3,"二尖瓣","mitral valve",
-425,4,"经导管修补伴植入","transcatheter repair with implant",35.97
+425,4,"经导管修补伴有植入","transcatheter repair with implant",35.97
 425,4,"经皮(球囊)","percutaneous repair",
-425,5,"有植入(小叶片)","with implant (leaflet clip)",35.97
-425,5,"开放性,不作有瓣置换","open, without replacement",35.12
-425,5,"球囊,经皮修补","balloon, percutaneous repair",35.96
-425,5,"血管内修补伴体植入","endovascular repair with implant",35.97
-425,4,"肺动脉瓣","pulmonary valve",35.13
-425,4,"法管四联症全部修补术","in total repair of tetralogy of Fallot",35.81
-425,3,"经皮(球囊)","percutaneous (balloon)",35.96
+425,5,"伴有植入(小叶钳)","with implant (leaflet clip)",35.97
+425,4,"开放性,不伴有置换","open, without replacement",35.12
+425,4,"球囊,经皮修补","balloon, percutaneous repair",35.96
+425,4,"血管内修补伴植入","endovascular repair with implant",35.97
+425,3,"肺动脉瓣","pulmonary valve",35.13
+425,4,"法鲁四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+425,4,"经皮(球囊)","percutaneous (balloon)",35.96
 425,3,"合并心房和心室间隔缺损修补术-见修补术,心内膜垫缺损","combined with repair of atrial and ventricular septal defects-see Repair, endocardial cushion defect",
 425,3,"经皮(球囊)","percutaneous (balloon)",35.96
 425,3,"开放性心脏技术","open heart technique",35.10
 425,3,"球囊,经皮","balloon, percutaneous",35.96
-425,3,"三尖瓣修膜","tricuspid valve",35.14
-425,3,"主动脉瓣","aortic valve",35.11
-425,3,"经皮(球囊)","percutaneous (balloon)",35.96
+425,3,"三尖瓣瓣膜","tricuspid valve",35.14
+425,3,"主动脉瓣膜","aortic valve",35.11
+425,4,"经皮(球囊)","percutaneous (balloon)",35.96
 425,1,"瓣膜切除术,心脏-见瓣膜成形术,心脏","Valvulectomy, heart-see Valvuloplasty, heart",
 425,2,"瓣膜切开术,心脏(闭合性心脏技术)(经心房)(经心室)","Valvulotomy, Valvotomy heart (closed heart technique) (transatrial) (transventricular)",35.00
 425,3,"二尖瓣","mitral valve",35.02
 425,3,"肺动脉瓣","pulmonary valve",35.03
-425,3,"法管四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+425,4,"法鲁四联症全部修补术","in total repair of tetralogy of Fallot",35.81
 425,3,"开放性心脏技术-见瓣膜成形术,心脏","open heart technique-see Valvuloplasty, heart",
 425,3,"三尖瓣","tricuspid valve",35.04
 425,3,"主动脉瓣","aortic valve",35.01
 425,1,"半结肠切除术","Hemicolectomy",
-425,2,"右(扩大片)","right (extended)",
-425,3,"腔镜的","laparoscopic",17.33
+425,2,"右(扩大)","right (extended)",
+425,3,"腹腔镜的","laparoscopic",17.33
 425,1,"半膀胱切除术","Hemicystectomy",57.6
 426,1,"半上颌切除术(伴骨移植)(伴假体)","Hemimaxillectomy (with bone graft) (with prosthesis)",76.39
 426,1,"半舌切除术","Hemiglossectomy",25.2
@@ -70,14 +70,14 @@ page,level,chinese,english,code
 426,2,"肩锁的","acromioclavicular",80.91
 426,2,"颞下颌的(关节)","temporomandibular (joint)",76.5
 426,2,"腕","wrist",80.93
-426,2,"胸锁锁骨的","sternoclavicular",80.91
+426,2,"胸骨锁骨的","sternoclavicular",80.91
 426,1,"半月神经节后神经切断术","Retrogasserian neurotomy",04.02
 426,1,"邦内尔手术-见 Bunnell 手术","邦内尔手术- see Bunnell operation",
 426,1,"邦尼手术-见 Bonney 手术","邦尼手术- see Bonney operation",
 426,1,"绑扎","Banding",
 426,2,"肺动脉","pulmonary artery",38.85
 426,2,"胃","gastric",44.68
-426,2,"垂直的","vertical",44.68
+426,3,"垂直的","vertical",44.68
 426,1,"绑扎(非牵引)","Strapping (non-traction)",93.59
 426,1,"包裹术,动脉瘤(纱布)(甲基丙烯酸甲酯)(塑料)","Wrapping, aneurysm (gauze) (methyl methacrylate) (plastic)",39.52
 426,1,"包皮环切术(男性)","Circumcision (male)",64.0
@@ -91,7 +91,7 @@ page,level,chinese,english,code
 426,1,"鲍尔手术-见 Ball 手术","鲍尔手术- see Ball operation",
 426,1,"暴露-另见切开术,按部位","Exposure-see also Incision, by site",
 426,2,"牙(为矫形器的治疗)","tooth (for orthodontic treatment)",24.6
-426,1,"贝尔-博伊特特手术-见 BellBeuttner 手术","贝尔-博伊特特手术- see Bell-Beuttner operation",
+426,1,"贝尔-博伊特讷手术-见 BellBeuttner 手术","贝尔-博伊特讷手术- see Bell-Beuttner operation",
 426,1,"贝尔西手术-见 Belsey 手术","贝尔西手术- see Belsey operation",
 426,1,"贝克-加努手术-见 BeckJianu 手术","贝克-加努手术- see Beck-Jianu operation",
 426,1,"贝克手术-见 Beck 手术","贝克手术- see Beck operation",
@@ -99,14 +99,13 @@ page,level,chinese,english,code
 426,1,"腹膜前切术,肾","Decapsulation, kidney",55.91
 426,1,"贲门成形术(胃和食管)","Cardioplasty (stomach and esophagus)",44.65
 426,2,"仅胃","stomach alone",44.66
-426,2,"腹腔镜","laparoscopic",44.67
+427,3,"腹腔镜","laparoscopic",44.67
 427,1,"贲门肌切开术","Cardiomyotomy",42.7
-427,2,"腹腔镜","laparoscopic",44.67
 427,1,"贲门切除术(胃)","Cardiectomy (stomach)",43.5
 427,1,"苯酚化学剥脱术(皮肤)","Phenopel (skin)",86.24
 427,1,"绷带","Bandage",93.37
 427,2,"弹性","elastic",93.56
-427,1,"鼻测试法","Rhinomanometry",89.12
+427,1,"鼻测压法","Rhinomanometry",89.12
 427,1,"鼻成形术(外部)(内的) NEC","Rhinoplasty (external) (internal) NEC",21.87
 427,2,"尖","tip",21.86
 427,2,"扭曲鼻","twisted nose",21.84
@@ -115,24 +114,24 @@ page,level,chinese,english,code
 427,2,"增大(用移植物)(用人造植入物)","augmentation (with graft) (with synthetic implant)",21.85
 427,1,"鼻唇成形术","Rhinocheiloplasty",27.59
 427,2,"唇裂","cleft lip",27.54
-427,1,"鼻膜合术(外部)(内的)","Rhinorrhaphy (external) (internal)",21.81
+427,1,"鼻缝合术(外部)(内的)","Rhinorrhaphy (external) (internal)",21.81
 427,2,"用于鼻出血","for epistaxis",21.09
 427,1,"鼻甲切除术(完全)(部分) NEC","Turbinectomy (complete) (partial) NEC",21.69
 427,2,"伴窦切除术-见窦切除术","with sinusectomy-see Sinusectomy",
 427,2,"通过","by",
 427,3,"冷冻术","cryosurgery",21.61
-427,3,"电灼术","diathermy",21.61
+427,3,"透热疗法","diathermy",21.61
 427,1,"鼻甲切除术","Conchectomy",21.69
 427,1,"鼻甲切开术","Conchotomy",21.1
-427,1,"鼻窦检查","Rhinoscopy",21.21
+427,1,"鼻镜检查","Rhinoscopy",21.21
 427,1,"鼻切除术","Rhinectomy",21.4
 427,1,"鼻切开术","Rhinotomy",21.1
-427,1,"鼻咽造影","Nasopharynogram",87.09
+427,1,"鼻咽管造影","Nasopharynogram",87.09
 427,2,"对比","contrast",87.06
 427,1,"鼻中隔成形术 NEC","Septoplasty NEC",21.88
-427,2,"伴黏膜下切除术","with submucous resection of septum",21.5
+427,2,"伴隔黏膜下切除术","with submucous resection of septum",21.5
 427,1,"鼻中隔成形术","Septorhinoplasty",21.84
-427,1,"鼻中隔曲成形术","Rhinoseptoplasty",21.84
+427,1,"鼻中隔偏曲成形术","Rhinoseptoplasty",21.84
 427,1,"鼻中隔切开术","Septotomy, nasal",21.1
 427,1,"比利利特疗法-见 Bililite 疗法","Billilite therapy-see Billilite therapy",
 427,1,"比罗特Ⅰ型手术-见 Billroth Ⅰ 型手术","Billroth I operation-see Billroth I operation",
@@ -146,7 +145,7 @@ page,level,chinese,english,code
 428,3,"鼻中隔","nasal septum",21.88
 428,3,"耳鼓膜-另见鼓室成形术","ear drum-see also Tympanoplasty",19.4
 428,3,"鼓膜-另见鼓室成形术","tympanic membrane-see also Tympanoplasty",19.4
-428,2,"食管","esophagus",42.82
+428,3,"食管","esophagus",42.82
 428,2,"胆囊造口术","cholecystostomy",51.92
 428,2,"点,泪的(乳头)","punctum, lacrimal (papilla)",09.91
 428,2,"动脉导管未闭","patent ductus arteriosus",38.85
@@ -154,19 +153,19 @@ page,level,chinese,english,code
 428,3,"伴伞状装置(KingMills 型)","with umbrella device (King-Mills type)",35.52
 428,3,"合并瓣膜和心室间隔缺损的修补术-见修补术,心内膜垫缺损","combined with repair of valvular and ventricular septal defects-see Repair, endocardial cushion defect",
 428,2,"腹壁","abdominal wall",54.63
-428,3,"二期","secondary",54.61
-428,3,"三期","tertiary",54.62
+428,3,"II期","secondary",54.61
+428,3,"III期","tertiary",54.62
 428,3,"延迟的(肉芽性伤口)","delayed (granulating wound)",54.62
-428,3,"腹壁裂开(手术后)","disrupted abdominal wall (postoperative)",54.61
+428,2,"腹壁裂开(手术后)","disrupted abdominal wall (postoperative)",54.61
 428,2,"隔缺损(心脏)-另见修补术,心脏,间隔","septum defect (heart)-see also Repair, heart, septum",35.70
 428,2,"回肠造口术","ileostomy",46.51
-428,2,"脊髓膨出","myelomeningocele",03.52
+428,2,"脊髓脊膜突出","myelomeningocele",03.52
 428,2,"间隙裂(牙槽)(牙的)","diastema (alveolar) (dental)",24.8
 428,2,"结肠造口术","colostomy",46.52
 428,2,"开窗术","fenestration",
-428,3,"隔的,心脏-另见修补术,心脏,间隔","septal, heart-see also Repair, heart, septum",35.70
-428,2,"主动脉肺动脉","aorticopulmonary",39.59
-428,2,"腹腔切开术,延迟的","laparotomy, delayed",54.62
+428,3,"间隔的,心脏-另见修补术,心脏,间隔","septal, heart-see also Repair, heart, septum",35.70
+428,3,"主动脉肺动脉","aorticopulmonary",39.59
+428,2,"开腹手术,延迟的","laparotomy, delayed",54.62
 428,2,"空肠造口术","jejunostomy",46.51
 428,2,"溃疡(出血)(消化性)(穿孔性)","ulcer (bleeding) (peptic) (perforated)",44.40
 428,3,"肠(穿孔)","intestine (perforated)",46.79
