@@ -21,13 +21,31 @@ TARGET_PAGES_DIR = ROOT_DIR / "target_pages"
 TARGET_PDF_PATH = ROOT_DIR / "target.pdf"
 
 
+def get_csv_file_signatures(root_dir: str) -> Tuple[Tuple[str, float], ...]:
+    root = Path(root_dir)
+    signatures = []
+    for path in sorted(root.glob("icd-index-extraction-*.csv")):
+        match = CSV_NAME_PATTERN.match(path.name)
+        if not match:
+            continue
+        try:
+            signatures.append((path.name, path.stat().st_mtime))
+        except OSError:
+            continue
+    return tuple(signatures)
+
+
 @st.cache_data(show_spinner=False)
-def discover_batch_files(root_dir: str) -> List[Dict[str, object]]:
+def discover_batch_files(root_dir: str, file_signatures: Tuple[Tuple[str, float], ...]) -> List[Dict[str, object]]:
     root = Path(root_dir)
     batch_files: List[Dict[str, object]] = []
 
-    for path in sorted(root.glob("icd-index-extraction-*.csv")):
-        match = CSV_NAME_PATTERN.match(path.name)
+    for name, _ in file_signatures:
+        path = root / name
+        if not path.exists():
+            continue
+
+        match = CSV_NAME_PATTERN.match(name)
         if not match:
             continue
 
@@ -39,7 +57,7 @@ def discover_batch_files(root_dir: str) -> List[Dict[str, object]]:
 
         batch_files.append(
             {
-                "name": path.name,
+                "name": name,
                 "path": str(path),
                 "start": start_page,
                 "end": end_page,
@@ -83,8 +101,8 @@ def strip_hierarchy_indent(value: str) -> str:
 
 
 @st.cache_data(show_spinner=False)
-def load_dataset(root_dir: str) -> Tuple[pd.DataFrame, List[Dict[str, object]]]:
-    batch_files = discover_batch_files(root_dir)
+def load_dataset(root_dir: str, file_signatures: Tuple[Tuple[str, float], ...]) -> Tuple[pd.DataFrame, List[Dict[str, object]]]:
+    batch_files = discover_batch_files(root_dir, file_signatures)
     rows: List[Dict[str, object]] = []
 
     for batch_info in batch_files:
@@ -169,7 +187,8 @@ def init_state() -> None:
     if st.session_state.get("proofread_initialized"):
         return
 
-    data_df, batch_files = load_dataset(str(ROOT_DIR))
+    file_signatures = get_csv_file_signatures(str(ROOT_DIR))
+    data_df, batch_files = load_dataset(str(ROOT_DIR), file_signatures)
 
     st.session_state.data_df = data_df
     st.session_state.batch_files = batch_files
