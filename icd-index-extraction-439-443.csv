@@ -47,7 +47,7 @@ page,level,chinese,english,code
 440,4,"手","hand",82.96
 440,3,"心包","pericardium",37.93
 440,3,"心脏","heart",37.92
-440,1,"苍白球核样切开术","Pallidoansotomy",01.42
+440,1,"苍白球豆状核襻切开术","Pallidoansotomy",01.42
 440,1,"苍白球切除术","Pallidectomy",01.42
 440,1,"苍白球切开术","Pallidotomy",01.42
 440,2,"通过立体定位放射外科学","by stereotactic radiosurgery",92.32
@@ -59,7 +59,7 @@ page,level,chinese,english,code
 440,3,"粒子束流","particle beam",92.33
 440,3,"线性加速器（LINAC）","linear accelerator (LINAC)",92.31
 440,1,"苍白球丘脑化学破坏术","Chemopallidectomy",01.42
-440,1,"操作—另见具体操作","Procedure-see also specific procedure",
+440,1,"操作—另见特指操作","Procedure-see also specific procedure",
 440,2,"呼吸（非手术的）NEC","respiratory (nonoperative) NEC",93.99
 440,2,"其他（非手术的）NEC","miscellaneous (nonoperative) NEC",99.99
 440,2,"外科手术的—见手术","surgical-see Operation",
@@ -112,12 +112,12 @@ page,level,chinese,english,code
 441,4,"桡骨","radius",78.83
 441,4,"锁骨","clavicle",78.81
 441,4,"特指部位 NEC","specified site NEC",78.89
-442,3,"腕骨的，掌骨的","carpal, metacarpal",78.84
-442,3,"胸（肋骨）（胸骨）","thorax (ribs) (sternum)",78.81
-442,3,"趾骨（足）（手）","phalanges (foot) (hand)",78.89
-442,3,"椎骨","vertebrae",78.89
+442,4,"腕骨的，掌骨的","carpal, metacarpal",78.84
+442,4,"胸（肋骨）（胸骨）","thorax (ribs) (sternum)",78.81
+442,4,"趾骨（足）（手）","phalanges (foot) (hand)",78.89
+442,4,"椎骨","vertebrae",78.89
 442,3,"关节（囊）（韧带）（结构）NEC","joint (capsule) (ligament) (structure) NEC",81.98
-442,3,"面的","facial",76.19
+442,4,"面的","facial",76.19
 442,3,"横膈","diaphragm",34.28
 442,3,"虹膜","iris",12.29
 442,3,"喉","larynx",31.48
@@ -125,8 +125,8 @@ page,level,chinese,english,code
 442,3,"呼吸","respiratory",33.29
 442,3,"回肠","ileum",45.19
 442,3,"肌肉","muscle",83.29
-442,3,"乳头（心脏）","papillary (heart)",37.29
-442,3,"眼外（斜肌）（直肌）","extraocular (oblique) (rectus)",15.09
+442,4,"乳头（心脏）","papillary (heart)",37.29
+442,4,"眼外（斜肌）（直肌）","extraocular (oblique) (rectus)",15.09
 442,3,"脊柱，脊髓的（管）（索）（脑膜）（结构）","spine, spinal (canal) (cord) (meninges) (structure)",03.39
 442,3,"颊","buccal",27.24
 442,3,"甲状旁腺","parathyroid gland",06.19

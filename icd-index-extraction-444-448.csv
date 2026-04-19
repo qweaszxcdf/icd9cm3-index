@@ -19,7 +19,7 @@ page,level,chinese,english,code
 444,3,"眼，眼的","eye, ocular",16.29
 444,4,"后房","posterior chamber",14.19
 444,4,"前房","anterior chamber",12.29
-444,3,"肌肉","muscle",15.09
+444,4,"肌肉","muscle",15.09
 444,3,"眼睑","eyelid",08.19
 444,3,"眼科学的","ophthalmologic",16.29
 444,3,"眼球","eyeball",16.29
@@ -41,123 +41,123 @@ page,level,chinese,english,code
 444,3,"指甲","nail",86.19
 444,3,"眦","canthus",08.19
 444,3,"子宫和支持结构","uterus and supporting structures",68.19
-444,3,"子宫颈","cervix",67.19
-444,3,"纵隔","mediastinum",34.29
-444,1,"测定","Determination",
-444,2,"肺活量","vital capacity (pulmonary)",89.37
-444,2,"精神状态（临床的）（法医学的）（精神病学的）NEC","mental status (clinical) (medicolegal) (psychiatric) NEC",94.11
-444,3,"心理学的 NEC","psychologic NEC",94.09
-444,1,"测量","Measurement",
-444,2,"奥狄括约肌压","sphincter of Oddi pressure",51.15
-444,2,"动脉血气","arterial blood gases",89.65
-444,3,"基础代谢率（BMR）","basal metabolic rate (BMR)",89.39
-444,3,"血气","blood gases",
-444,4,"动脉","arterial",89.65
-444,5,"连续性动脉内","continuous intra-arterial",89.60
-444,4,"静脉","venous",89.66
-444,2,"肺活量（肺动脉）","vital capacity, lung volume (pulmonary)",89.37
-444,2,"肺气道流量，内镜的","pulmonary airway flow, endoscopic",33.72
-444,2,"肝门静脉压","porto venous pressure",89.62
-444,2,"冠脉血流","coronary blood flow",89.69
-444,3,"血管内压力测量","intravascular pressure measurement",00.59
-444,3,"血流储备分数（FFR）","fractional flow reserve (FFR)",00.59
-444,2,"呼吸 NEC","respiratory NEC",89.38
-444,2,"混合静脉血气","mixed venous blood gases",89.66
-444,2,"解剖学的 NEC","anatomic NEC",89.39
-444,2,"静脉血气","venous blood gases",89.66
-444,2,"颅内压","intracranial pressure",01.10
-444,2,"尿（生物测定）（化学）","urine (bioassay) (chemistry)",89.29
-444,2,"皮肤褶子厚度","skin fold thickness",93.07
-444,2,"气道阻力","airway resistance",89.38
-444,2,"身体","body",93.07
-444,2,"肾清除","renal clearance",89.29
-444,2,"生理学的 NEC","physiologic NEC",89.39
-444,2,"体动脉","systemic arterial",
-444,3,"血气","blood gases",89.65
-444,4,"连续性动脉内","continuous intra-arterial",89.60
-444,3,"压力","pressure",89.61
-444,2,"头围","skull circumference",93.07
-444,2,"胃功能 NEC","gastric function NEC",89.39
-444,2,"心排血量（通过）","cardiac output (by)",
-444,3,"菲克方法","Fick method",89.67
-445,3,"热稀释指示剂","thermodilution indicator",89.68
-445,3,"氧消耗技术","oxygen consumption technique",89.67
-445,3,"指示剂稀释技术","indicator dilution technique",89.68
-445,2,"心血管的 NEC","cardiovascular NEC",89.59
-445,2,"血管的","vascular",89.59
-445,2,"血管内压","intravascular pressure",00.69
-445,3,"肠系膜的","mesenteric",00.69
-445,3,"腹腔内","intra-abdominal",00.69
-445,3,"冠状动脉","coronary",00.59
-445,3,"髂的","iliac",00.69
-445,3,"肾的","renal",00.69
-445,3,"胸腔内","intrathoracic",00.67
-445,4,"颈动脉的","carotid",00.67
-445,4,"主动脉","aorta",00.67
-445,4,"主动脉弓","aortic arch",00.67
-445,3,"周围的","peripheral",00.68
-445,2,"眼内压力","intraocular tension or pressure",89.11
-445,3,"作为扩大眼科操作部分的","as part of extended ophthalmologic work-up",95.03
-445,2,"腰围","girth",93.07
-445,2,"运动范围","range of motion",93.05
-445,2,"肢体长度","limb length",93.06
-445,2,"智力","intelligence",94.01
-445,2,"中心静脉压","central venous pressure",89.62
-445,2,"子宫内压","intrauterine pressure",75.35
-445,1,"测验，测定（为了）","Test, testing (for)",
-445,2,"14C—尿素呼气","14 C-Urea breath",89.39
-445,2,"本德尔视觉-运动完整形象测验","Bender Visual-Motor Gestalt",94.02
-445,2,"本顿视觉保持测验","Benton Visual Retention",94.02
-445,2,"刺激物，用于青光眼","provocative, for glaucoma",95.26
-445,2,"丹佛智力发育（筛查法）","Denver developmental (screening)",94.02
-445,2,"耳的功能 NEC","auditory function NEC",95.46
-445,2,"耳语（听觉）","whispered speech (hearing)",95.42
-445,2,"放射性-钴 B12 希林","radio-cobalt B12 Schilling",92.04
-445,2,"功能","function",
-445,3,"肌（通过）","muscle (by)",
-445,4,"肌电描记术","electromyography",93.08
-445,4,"手法的","manual",93.04
-445,3,"前庭","vestibular",95.46
-445,4,"临床的","clinical",95.44
-445,3,"神经的 NEC","neurologic NEC",89.15
-445,3,"听觉 NEC","hearing NEC",95.46
-446,3,"心的 NEC","cardiac NEC",89.59
-446,2,"肌肉功能（通过）","muscle function (by)",
-446,3,"肌电描记术","electromyography",93.08
-446,3,"手法的","manual",93.04
-446,2,"颈内-锁骨下静脉回流","internal jugular-subclavian venous reflux",89.62
-446,2,"颈内动脉异戊巴比妥（瓦达）","intracarotid amobarbital (Wada)",89.10
-446,2,"马斯特斯二阶应激（心的）","Masters’ two-step stress (cardiac)",89.42
-446,2,"尿素呼气（14C）","Urea breath, (14 C)",89.39
-446,2,"前庭功能 NEC","vestibular function NEC",95.46
-446,3,"热","thermal",95.44
-446,2,"青光眼 NEC","glaucoma NEC",95.26
-446,2,"神经的功能 NEC","neurologic function NEC",89.15
-446,2,"神经生理的监测","neurophysiologic monitoring",
-446,3,"手术中的","intra-operative",00.94
-446,2,"睡眠功能障碍—见细目","sleep disorder function-see categories",89.17
-446,2,"斯坦福-比奈","Stanford-Binet",94.01
-446,2,"铊应激（经食管起搏）","Thallium stress (transesophageal pacing)",89.44
-446,2,"胎儿，胎儿","fetus, fetal",
-446,3,"催产素激惹（收缩应激）","oxytocin challenge (contraction stress)",75.35
-446,3,"敏感性（对催产素的）—省略编码","sensitivity (to oxytocin)-omit code",
-446,3,"无激惹（胎儿活动加速试验）","nonstress (fetal activity acceleration determinations)",75.34
-446,2,"听觉","hearing",95.47
-446,3,"临床的 NEC","clinical NEC",95.42
-446,2,"瓦达（半脑功能）","Wada (hemispheric function)",89.10
-446,2,"心的（血管的）","cardiac (vascular)",
-446,3,"功能 NEC","function NEC",89.59
-446,3,"应激","stress",89.44
-446,4,"马斯特斯二阶","Masters’ two-step",89.42
-446,4,"踏车","treadmill",89.41
-446,4,"自行车测力计","bicycle ergometer",89.43
-446,2,"心理测验的","psychometric",94.01
-446,2,"心理学的 NEC","psychologic NEC",94.08
-446,2,"旋转（巴唐尼椅）（听觉）","rotation (Barany chair) (hearing)",95.45
-446,2,"夜间阴茎肿大","nocturnal penile tumescence",89.29
-446,2,"音叉（听觉）","tuning fork (hearing)",95.42
+445,3,"子宫颈","cervix",67.19
+445,3,"纵隔","mediastinum",34.29
+445,1,"测定","Determination",
+445,2,"肺活量","vital capacity (pulmonary)",89.37
+445,2,"精神状态（临床的）（法医学的）（精神病学的）NEC","mental status (clinical) (medicolegal) (psychiatric) NEC",94.11
+445,3,"心理学的 NEC","psychologic NEC",94.09
+445,1,"测量","Measurement",
+445,2,"奥狄括约肌压","sphincter of Oddi pressure",51.15
+445,2,"动脉血气","arterial blood gases",89.65
+445,3,"基础代谢率（BMR）","basal metabolic rate (BMR)",89.39
+445,3,"血气","blood gases",
+445,4,"动脉","arterial",89.65
+445,5,"连续性动脉内","continuous intra-arterial",89.60
+445,4,"静脉","venous",89.66
+445,2,"肺活量（肺动脉）","vital capacity, lung volume (pulmonary)",89.37
+445,2,"肺气道流量，内镜的","pulmonary airway flow, endoscopic",33.72
+445,2,"肝门静脉压","porto venous pressure",89.62
+445,2,"冠脉血流","coronary blood flow",89.69
+445,3,"血管内压力测量","intravascular pressure measurement",00.59
+445,3,"血流储备分数（FFR）","fractional flow reserve (FFR)",00.59
+445,2,"呼吸 NEC","respiratory NEC",89.38
+445,2,"混合静脉血气","mixed venous blood gases",89.66
+445,2,"解剖学的 NEC","anatomic NEC",89.39
+445,2,"静脉血气","venous blood gases",89.66
+445,2,"颅内压","intracranial pressure",01.10
+445,2,"尿（生物测定）（化学）","urine (bioassay) (chemistry)",89.29
+445,2,"皮肤褶子厚度","skin fold thickness",93.07
+445,2,"气道阻力","airway resistance",89.38
+445,2,"身体","body",93.07
+445,2,"肾清除","renal clearance",89.29
+445,2,"生理学的 NEC","physiologic NEC",89.39
+445,2,"体动脉","systemic arterial",
+445,3,"血气","blood gases",89.65
+445,4,"连续性动脉内","continuous intra-arterial",89.60
+445,3,"压力","pressure",89.61
+445,2,"头围","skull circumference",93.07
+445,2,"胃功能 NEC","gastric function NEC",89.39
+445,2,"心排血量（通过）","cardiac output (by)",
+445,3,"菲克方法","Fick method",89.67
+446,3,"热稀释指示剂","thermodilution indicator",89.68
+446,3,"氧消耗技术","oxygen consumption technique",89.67
+446,3,"指示剂稀释技术","indicator dilution technique",89.68
+446,2,"心血管的 NEC","cardiovascular NEC",89.59
+446,2,"血管的","vascular",89.59
+446,2,"血管内压","intravascular pressure",00.69
+446,3,"肠系膜的","mesenteric",00.69
+446,3,"腹腔内","intra-abdominal",00.69
+446,3,"冠状动脉","coronary",00.59
+446,3,"髂的","iliac",00.69
+446,3,"肾的","renal",00.69
+446,3,"胸腔内","intrathoracic",00.67
+446,4,"颈动脉的","carotid",00.67
+446,4,"主动脉","aorta",00.67
+446,4,"主动脉弓","aortic arch",00.67
+446,3,"周围的","peripheral",00.68
+446,2,"眼内压力","intraocular tension or pressure",89.11
+446,3,"作为扩大眼科操作部分的","as part of extended ophthalmologic work-up",95.03
+446,2,"腰围","girth",93.07
 446,2,"运动范围","range of motion",93.05
+446,2,"肢体长度","limb length",93.06
 446,2,"智力","intelligence",94.01
+446,2,"中心静脉压","central venous pressure",89.62
+446,2,"子宫内压","intrauterine pressure",75.35
+446,1,"测验，测定（为了）","Test, testing (for)",
+446,2,"14C—尿素呼气","14 C-Urea breath",89.39
+446,2,"本德尔视觉-运动完整形象测验","Bender Visual-Motor Gestalt",94.02
+446,2,"本顿视觉保持测验","Benton Visual Retention",94.02
+446,2,"刺激物，用于青光眼","provocative, for glaucoma",95.26
+446,2,"丹佛智力发育（筛查法）","Denver developmental (screening)",94.02
+446,2,"耳的功能 NEC","auditory function NEC",95.46
+446,2,"耳语（听觉）","whispered speech (hearing)",95.42
+446,2,"放射性-钴 B12 希林","radio-cobalt B12 Schilling",92.04
+446,2,"功能","function",
+446,3,"肌（通过）","muscle (by)",
+446,4,"肌电描记术","electromyography",93.08
+446,4,"手法的","manual",93.04
+446,3,"前庭","vestibular",95.46
+446,4,"临床的","clinical",95.44
+446,3,"神经的 NEC","neurologic NEC",89.15
+446,3,"听觉 NEC","hearing NEC",95.46
+447,3,"心的 NEC","cardiac NEC",89.59
+447,2,"肌肉功能（通过）","muscle function (by)",
+447,3,"肌电描记术","electromyography",93.08
+447,3,"手法的","manual",93.04
+447,2,"颈内-锁骨下静脉回流","internal jugular-subclavian venous reflux",89.62
+447,2,"颈内动脉异戊巴比妥（瓦达）","intracarotid amobarbital (Wada)",89.10
+447,2,"马斯特斯二阶应激（心的）","Masters’ two-step stress (cardiac)",89.42
+447,2,"尿素呼气（14C）","Urea breath, (14 C)",89.39
+447,2,"前庭功能 NEC","vestibular function NEC",95.46
+447,3,"热","thermal",95.44
+447,2,"青光眼 NEC","glaucoma NEC",95.26
+447,2,"神经的功能 NEC","neurologic function NEC",89.15
+447,2,"神经生理的监测","neurophysiologic monitoring",
+447,3,"手术中的","intra-operative",00.94
+447,2,"睡眠功能障碍—见细目","sleep disorder function-see categories",89.17
+447,2,"斯坦福-比奈","Stanford-Binet",94.01
+447,2,"铊应激（经食管起搏）","Thallium stress (transesophageal pacing)",89.44
+447,2,"胎儿，胎儿","fetus, fetal",
+447,3,"催产素激惹（收缩应激）","oxytocin challenge (contraction stress)",75.35
+447,3,"敏感性（对催产素的）—省略编码","sensitivity (to oxytocin)-omit code",
+447,3,"无激惹（胎儿活动加速试验）","nonstress (fetal activity acceleration determinations)",75.34
+447,2,"听觉","hearing",95.47
+447,3,"临床的 NEC","clinical NEC",95.42
+447,2,"瓦达（半脑功能）","Wada (hemispheric function)",89.10
+447,2,"心的（血管的）","cardiac (vascular)",
+447,3,"功能 NEC","function NEC",89.59
+447,3,"应激","stress",89.44
+447,4,"马斯特斯二阶","Masters’ two-step",89.42
+447,4,"踏车","treadmill",89.41
+447,4,"自行车测力计","bicycle ergometer",89.43
+447,2,"心理测验的","psychometric",94.01
+447,2,"心理学的 NEC","psychologic NEC",94.08
+447,2,"旋转（巴腊尼椅）（听觉）","rotation (Barany chair) (hearing)",95.45
+447,2,"夜间阴茎肿大","nocturnal penile tumescence",89.29
+447,2,"音叉（听觉）","tuning fork (hearing)",95.42
+447,2,"运动范围","range of motion",93.05
+447,2,"智力","intelligence",94.01
 448,1,"插管法—另见导管插入术和插入","Intubation-see also Catheterization and Insertion",
 448,2,"鼻-肠的","naso-intestinal",96.08
 448,2,"鼻胆的（引流）","nasobiliary (drainage)",51.86
@@ -179,7 +179,7 @@ page,level,chinese,english,code
 448,3,"撕裂引流，鼻内的","tear drainage, intranasal",09.81
 448,2,"脑室小脑延髓池","ventriculocisternal",02.22
 448,2,"气管","trachea",96.04
-448,2,"食管（非手术的）（森斯塔肯）","esophagus (nonoperative) (Sengstaken)",96.06
+448,2,"食管（非手术的）（森斯塔）","esophagus (nonoperative) (Sengstaken)",96.06
 448,3,"永久性管（硅）（苏塔）","permanent tube (silicone) (Souttar)",42.81
 448,2,"胃（鼻胃）（用于肠减压）NEC","stomach (nasogastric) (for intestinal decompression) NEC",96.07
 448,3,"用于喂养","for feeding",96.6

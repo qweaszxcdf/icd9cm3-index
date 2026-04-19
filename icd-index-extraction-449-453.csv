@@ -5,7 +5,7 @@ page,level,chinese,english,code
 449,2,"Dynesys®（腰椎椎弓根螺钉软系统固定装置）","Dynesys®",84.82
 449,2,"Kirschner 固定法（牵引）","Kirschner wire",93.44
 449,3,"伴骨折或脱位的复位—见复位，骨折和复位，脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
-449,2,"Lap-Band™（可调节性胃细带系统）","Lap-Band™",44.95
+449,2,"Lap-Band™（可调节性胃绷带系统）","Lap-Band™",44.95
 449,2,"M-Brace™（一种脊椎固定装置）","M-Brace™",84.82
 449,2,"Tandem™ 心脏","Tandem™ heart",37.68
 449,2,"X Stop™（治疗腰椎管狭窄的一种动力性稳定装置）","X Stop™",84.80
@@ -16,7 +16,7 @@ page,level,chinese,english,code
 449,3,"哈纳格—见置换，心脏瓣膜","Hufnagel-see Replacement, heart valve",
 449,3,"霍尔特尔","Holter",02.22
 449,3,"输精管","vas deferens",63.95
-449,3,"斯皮兹-霍尔特尔","Spitz-Holter",02.22
+449,3,"斯皮兹霍尔特尔","Spitz-Holter",02.22
 449,3,"咽的（人工的）","pharyngeal (artificial)",31.75
 449,3,"支气管","bronchus",
 449,4,"单叶","single lobe",33.71
@@ -32,7 +32,7 @@ page,level,chinese,english,code
 449,4,"喂养","feeding",96.6
 449,2,"鼻胰引流管（内镜）","nasopancreatic drainage tube (endoscopic)",52.97
 450,2,"避孕装置（宫内）","contraceptive device (intrauterine)",69.7
-450,2,"布莱克莫尔森斯塔肯背管","Blakemore-Sengstaken tube",96.06
+450,2,"布莱克莫尔森斯塔肯管","Blakemore-Sengstaken tube",96.06
 450,2,"齿矫形器（填塞器）（栓结术）","orthodontic appliance (obturator) (wiring)",24.7
 450,2,"传感器","sensor (lead)",
 450,3,"动脉内的，用于连续性血气监测","intra-aneurysm sac pressure monitoring device",00.58
@@ -43,7 +43,7 @@ page,level,chinese,english,code
 450,2,"刺激接收器—见植入，神经刺激器，按部位","stimceiver-see Implant, neurostimulator, by site",
 450,2,"刺激器用于骨生长—见亚目","stimulator for bone growth-see subcategory",78.9
 450,2,"带（可调节性）","band (adjustable)",
-450,3,"Lap-Band™（可调节性胃细带系统）","Lap-Band™",44.95
+450,3,"Lap-Band™（可调节性胃绷带系统）","Lap-Band™",44.95
 450,3,"胃的，腹腔镜的","gastric, laparoscopic",44.95
 450,2,"袋，子宫颈（非产科的）","bag, cervix (nonobstetrical)",67.0
 450,3,"帮助分娩或引产","to assist delivery or induce labor",73.1
@@ -53,17 +53,17 @@ page,level,chinese,english,code
 450,3,"内镜","endoscopic",51.87
 450,2,"导管","catheter",
 450,3,"NeuroFlo™（部分腹主动脉闭合）","NeuroFlo™ (partial abdominal aorta occlusion)",39.77
-450,4,"胆管","bile duct(s)",51.59
+450,3,"胆管","bile duct(s)",51.59
+450,4,"内镜","endoscopic",51.87
+450,4,"总","common",51.51
 450,5,"内镜","endoscopic",51.87
-450,5,"总","common",51.51
-450,6,"内镜","endoscopic",51.87
-450,4,"动脉","artery",38.91
-450,4,"静脉 NEC","vein NEC",38.93
-450,5,"用于肾透析","for renal dialysis",38.95
-450,4,"经气管用于氧化","transtracheal for oxygenation",31.99
-450,4,"肋间（伴水密封），为了引流","intercostal (with water seal), for drainage",34.04
-450,5,"胸腔镜的","thoracoscopic",34.06
-450,5,"修复术（伴粘连松解术）","revision (with lysis of adhesions)",34.04
+450,3,"动脉","artery",38.91
+450,3,"静脉 NEC","vein NEC",38.93
+450,4,"用于肾透析","for renal dialysis",38.95
+450,3,"经气管用于氧化","transtracheal for oxygenation",31.99
+450,3,"肋间（伴水密封），为了引流","intercostal (with water seal), for drainage",34.04
+450,4,"胸腔镜的","thoracoscopic",34.06
+450,4,"修复术（伴粘连松解术）","revision (with lysis of adhesions)",34.04
 451,5,"胸腔镜的","thoracoscopic",34.06
 451,3,"颅内的","intracerebral",01.26
 451,4,"经伯尔孔放置","placement via burr hole(s)",01.28
@@ -80,16 +80,16 @@ page,level,chinese,english,code
 451,3,"胸","chest",34.04
 451,4,"胸腔镜的","thoracoscopic",34.06
 451,4,"修复术（伴粘连松解术）","revision (with lysis of adhesions)",34.04
-451,4,"胸腔镜的","thoracoscopic",34.06
+451,5,"胸腔镜的","thoracoscopic",34.06
 451,3,"暂时性闭全，腹主动脉","temporary occlusion, abdominal aorta",39.77
 451,3,"支气管","bronchus",96.05
 451,4,"伴灌洗","with lavage",96.56
 451,3,"中心静脉 NEC","central venous NEC",38.93
 451,4,"伴有诱导","with guidance",38.97
 451,4,"经周围静脉插入中心静脉导管（PICC）","peripherally inserted central catheter (PICC)",38.93
-451,5,"用于","for",
-451,6,"血液透析","hemodialysis",38.95
-451,6,"压力监测","pressure monitoring",89.62
+451,4,"用于","for",
+451,5,"血液透析","hemodialysis",38.95
+451,5,"压力监测","pressure monitoring",89.62
 451,3,"椎管腔（硬膜外的）（蛛网膜下）（硬膜下的），用于治疗性或姑息治疗性物质输注","spinal canal space (epidural) (subarachnoid) (subdural) for infusion of therapeutic or palliative substances",03.90
 451,2,"导联—见插入，电极","leads-see Insertion, electrode(s)",
 451,2,"电刺激器—见植入，电刺激器，按部位","electronic stimulator-see Implant, electronic stimulator, by site",
@@ -97,28 +97,28 @@ page,level,chinese,english,code
 451,3,"骶神经","sacral nerve",04.92
 451,3,"蝶的","sphenoidal",02.96
 451,2,"骨生长刺激器（侵入）（经皮）（半侵入）见亚目","bone growth stimulator (invasive) (percutaneous) (semi-invasive)-see subcategory",78.9
-452,2,"骨原性（用于骨生长刺激）—见亚目","osteogenic (for bone growth stimulation)-see subcategory",78.9
-452,2,"脊柱","spine",03.93
-452,2,"颅内","intracranial",02.93
-452,2,"卵圆孔","foramen ovale",02.93
-452,2,"脑","brain",02.93
-452,3,"蝶的","sphenoidal",02.96
+452,3,"骨原性（用于骨生长刺激）—见亚目","osteogenic (for bone growth stimulation)-see subcategory",78.9
+452,3,"脊柱","spine",03.93
+452,3,"颅内","intracranial",02.93
 452,3,"卵圆孔","foramen ovale",02.93
+452,3,"脑","brain",02.93
+452,4,"蝶的","sphenoidal",02.96
+452,4,"卵圆孔","foramen ovale",02.93
+452,4,"深部","depth",02.93
 452,3,"深部","depth",02.93
-452,2,"深部","depth",02.93
-452,2,"胃的","gastric",04.92
-452,2,"心脏（初始的）（经静脉）","heart (initial) (transvenous)",37.70
-452,3,"心房（初始的）","atrium (initial)",37.73
-452,4,"置换","replacement",37.76
-452,3,"心房和心室（初始的）","atrium and ventricle (initial)",37.72
-452,4,"置换","replacement",37.76
-452,3,"心室（初始的）","ventricle (initial)",37.71
-452,4,"置换","replacement",37.76
-452,3,"心外膜（胸骨切开或胸廓切开术入路）","epicardium (sternotomy or thoracotomy approach)",37.74
+452,3,"胃的","gastric",04.92
+452,3,"心脏（初始的）（经静脉）","heart (initial) (transvenous)",37.70
+452,4,"心房（初始的）","atrium (initial)",37.73
+452,5,"置换","replacement",37.76
+452,4,"心房和心室（初始的）","atrium and ventricle (initial)",37.72
+452,5,"置换","replacement",37.76
+452,4,"心室（初始的）","ventricle (initial)",37.71
+452,5,"置换","replacement",37.76
+452,4,"心外膜（胸骨切开或胸廓切开术入路）","epicardium (sternotomy or thoracotomy approach)",37.74
 452,4,"暂时性经静脉起搏器系统","temporary transvenous pacemaker system",37.78
-452,4,"心脏手术中和心脏手术即时后","during and immediately following cardiac surgery",39.64
-452,3,"左心室冠状静脉系统","left ventricular coronary venous system",00.52
-452,2,"周围神经","peripheral nerve",04.92
+452,5,"心脏手术中和心脏手术即时后","during and immediately following cardiac surgery",39.64
+452,4,"左心室冠状静脉系统","left ventricular coronary venous system",00.52
+452,3,"周围神经","peripheral nerve",04.92
 452,2,"蝶骨电极","sphenoidal electrodes",02.96
 452,2,"氡管","radon seeds",92.27
 452,2,"动脉内血气监测系统","intra-arterial blood gas monitoring system",89.60
