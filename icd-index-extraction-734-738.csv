@@ -1,0 +1,173 @@
+page,level,chinese,english,code
+734,2,"外固定装置","external fixation device",97.88
+734,3,"微型固定(骨)一见亚目","minifixator (bone)-see subcategory",78.6
+734,3,"下颌骨的 NEC","mandibular NEC",97.36
+734,2,"消化系统 NEC","digestive system NEC",97.59
+734,2,"胸 NEC","thorax NEC",97.49
+734,2,"引流一见去除,管","drainage-see Removal, tube",
+734,2,"用于肌肉骨骼固定 NEC","for musculoskeletal immobilization NEC",97.88
+734,2,"支气管","bronchus",33.78
+734,2,"瓣膜","valve",33.78
+734,2,"子宫内避孕","intrauterine contraceptive",97.71
+734,1,"子宫托,阴道 NEC","pessary, vagina NEC",97.74
+734,1,"子宫外胚胎一见去除,异位胎儿","extrauterine embryo-see Removal, ectopic fetus",
+734,1,"组织扩张器(皮肤) NEC","tissue expander (skin) NEC",86.05
+734,2,"乳房","breast",85.96
+734,1,"去除覆盖一另见切开,按部位","Unroofing-see also Incision, by site",
+734,2,"肾囊肿","kidney cyst",55.39
+734,1,"外的","external",
+734,2,"耳 NEC","ear NEC",18.09
+734,2,"耳道","auditory canal",18.02
+734,1,"去除扭转","Detorsion",
+734,2,"肠(扭曲的)(肠扭结的)","intestine (twisted) (volvulus)",46.80
+734,3,"大的","large",46.82
+734,3,"内镜(球囊)","endoscopic (balloon)",46.85
+734,3,"小的","small",46.81
+734,2,"肠扭结的","volvulus",46.80
+734,2,"内镜的(球囊)","endoscopic (balloon)",46.85
+734,1,"睾丸","testis",63.52
+734,2,"伴睾丸固定术","with orchiopexy",62.5
+734,1,"精索","spermatic cord",63.52
+734,2,"伴睾丸固定术","with orchiopexy",62.5
+734,1,"卵巢","ovary",65.95
+734,1,"肾","kidney",55.84
+734,1,"去心脏纤颤,电的(外部)(内的)","Defibrillation, electric (external) (internal)",99.62
+734,1,"自动的复律器/除颤器一见亚目","automatic cardioverter/defibrillator-see subcategory",37.9
+734,1,"去皮质术","Decortication",
+734,2,"鼻","nose",21.89
+734,2,"鼻甲一见鼻甲切除术","nasal turbinates-see Turbinectomy",
+734,2,"动脉","arterial",05.25
+735,2,"肺(部分)(全部)","lung (partial) (total)",34.51
+735,3,"胸腔镜的","thoracoscopic",34.52
+735,1,"卵巢","ovary",65.29
+735,2,"腹腔镜","laparoscopic",65.25
+735,1,"脑","brain",01.51
+735,1,"脑膜","cerebral meninges",01.51
+735,1,"肾","kidney",55.91
+735,1,"心包","pericardium",37.31
+735,1,"心室,心脏(完全)","ventricle, heart (complete)",37.31
+735,1,"心脏","heart",37.31
+735,1,"周围动脉","periarterial",05.25
+735,1,"去蹼","Dewebbing",
+735,1,"并趾(手指)(趾)","syndactyly (fingers) (toes)",86.85
+735,1,"食管","esophagus",42.01
+735,1,"去神经术","Denervation",
+735,1,"宫颈周围的子宫","paracervical uterine",69.3
+735,1,"颈动脉体","carotid body",39.89
+735,1,"卵巢","ovarian",65.94
+735,1,"主动脉体","aortic body",39.89
+735,1,"椎骨关节面,经皮的(射频)","facet, percutaneous (radiofrequency)",03.96
+735,1,"子宫骶骨的","uterosacral",69.3
+735,1,"去脏术","Exenteration",
+735,1,"骨盆(器官)(女性)","pelvic (organs) (female)",68.8
+735,2,"男性","male",57.71
+735,2,"眶","orbit",16.59
+735,2,"伴","with",
+735,3,"颞肌移植","temporalis muscle transplant",16.59
+735,3,"去除邻近结构","removal of adjacent structures",16.51
+735,3,"治疗性骨去除","therapeutic removal of bone",16.52
+735,1,"筛窦气泡","ethmoid air cells",22.63
+735,1,"岩锥气泡","petrous pyramid air cells",20.59
+735,1,"去脂,皮瓣或蒂移植","Defatting, flap or pedicle graft",86.75
+735,1,"全子宫切除术(腹的)","Panhysterectomy (abdominal)",68.49
+735,1,"腹腔镜的","laparoscopic",68.41
+735,1,"阴道的","vaginal",68.59
+735,2,"腹腔镜辅助的(LAVH)","laparoscopically assisted (LAVH)",68.51
+735,1,"圈套法,动脉瘤(脑的)","Trapping, aneurysm (cerebral)",39.52
+735,1,"群体疗法","Group therapy",94.44
+735,1,"Ramadier 手术(颞骨岩部内引流)","Ramadier operation (intrapetrosal drainage)",20.22
+736,1,"Ramstedt 手术(幽门肌切开术)(伴楔形切除术)","Ramstedt operation (pyloromyotomy) (with wedge resection)",43.3
+736,1,"Rankin 手术","Rankin operation",
+736,2,"肠外置术","exteriorization of intestine",46.03
+736,2,"直肠切除术(完全),NOS","proctectomy (complete), NOS",48.50
+736,3,"腹腔镜的","laparoscopic",48.51
+736,3,"开放性","open",48.52
+736,3,"其他","other",48.59
+736,1,"Rashkind 手术(球囊房间隔造口术)","Rashkind operation (balloon septostomy)",35.41
+736,1,"Rastelli 手术(在右心室和肺动脉之间创建通道)","Rastelli operation (creation of conduit between right ventricle and pulmonary artery)",35.92
+736,1,"于修补术中的","in repair of",
+736,2,"大血管转位","transposition of great vessels",35.92
+736,2,"动脉干","truncus arteriosus",35.83
+736,2,"肺动脉闭锁","pulmonary artery atresia",35.92
+736,1,"Raz-Pereyra 操作(膀胱颈悬吊术)","Raz-Pereyra procedure (bladder neck suspension)",59.79
+736,1,"Retavase(重组组织型纤溶酶原激活因子),输注","Retavase, infusion",99.10
+736,1,"Reteplase(人组织型纤溶酶原激活物重组体),输注","Reteplase, infusion",99.10
+736,1,"Ripstein 手术(脱垂直肠修补术)","Ripstein operation (repair of prolapsed rectum)",48.75
+736,1,"Rodney-Smith 手术(根治性胰腺大部切除术)","Rodney Smith operation (radical subtotal pancreatectomy)",52.53
+736,1,"Roux-Goldthwait 手术(复发性髌骨脱位修补术)","Roux-Goldthwait operation (repair of recurrent patellar dislocation)",81.44
+736,1,"Roux-HerzenJudine 手术(空肠袢间置术)","Roux-Herzen-Judine operation (jejunal loop interposition)",42.63
+736,1,"Rubin 测验(输卵管吹入法)","Rubin test (insufflation of fallopian tube)",66.8
+736,1,"Ruiz-Mora 手术(近端趾骨切除术,用于锤状趾)","Ruiz-Mora operation (proximal phalangectomy for hammer toe)",77.99
+736,1,"Russe 手术(舟状骨骨移植)","Russe operation (bone graft of scaphoid)",78.04
+736,1,"热成形术","Thermoplasty",
+736,2,"支气管镜的,支气管的(肺)","bronchoscopic, bronchial (lung)",32.27
+736,1,"热烙术一见烧灼","Thermocautery-see Cauterization",
+736,1,"热量测验,前庭功能","Caloric test, vestibular function",95.44
+737,1,"热疗法(热包裹)(石蜡浴) NEC","Thermotherapy (hot packs) (paraffin bath) NEC",93.35
+737,1,"前列腺","prostate",
+737,2,"经","by",
+737,3,"射频","radiofrequency",60.97
+737,3,"微波","microwave",60.96
+737,2,"经尿道微波热疗法(TUMT)","transurethral microwave thermotherapy (TUMT)",60.96
+737,2,"经尿道针吸消融,切除(TUNA)","transurethral needle ablation (TUNA)",60.97
+737,2,"TUMT(经尿道微波热疗法)","TUMT (transurethral microwave thermotherapy)",60.96
+737,2,"TUNA(经尿道针吸消融,切除)","TUNA (transurethral needle ablation)",60.97
+737,1,"热象图术","Thermography",88.89
+737,2,"骨","bone",88.83
+737,2,"骨关节的","osteoarticular",88.83
+737,2,"肌肉","muscle",88.84
+737,2,"静脉,深","vein, deep",88.86
+737,2,"淋巴结","lymph gland",88.89
+737,2,"脑的","cerebral",88.81
+737,2,"乳房","breast",88.85
+737,2,"特指的部位 NEC","specified site NEC",88.89
+737,2,"血管","blood vessel",88.86
+737,2,"眼","eye",88.82
+737,2,"眼的","ocular",88.82
+737,1,"人工的","Artificial",
+737,1,"膜破裂","rupture of membranes",73.09
+737,1,"肾","kidney",39.95
+737,1,"授精","insemination",69.92
+737,1,"心脏","heart",37.52
+737,2,"AbioCor®","AbioCor®",37.52
+737,2,"CardioWest™暂时完全人工心脏(TAH-t)","CardioWest™ (TAH-t)",37.52
+737,1,"人工角膜","Keratoprosthesis",11.73
+737,1,"人工油胸","Oleothorax",33.39
+737,1,"韧带切开术一另见切断,韧带","Desmotomy, Syndesmotomy-see also Division, ligament",80.40
+737,1,"日常生活的活动(ADL)","Activities of daily living (ADL)",
+737,2,"对盲人训练","training for the blind",93.78
+737,2,"疗法","therapy",93.83
+737,1,"融合术","Fusion",
+738,1,"背的,背腰的见融合,脊椎,背的,腰背的","dorsal, dorsolumbar-see Fusion, spinal, dorsal, dorsolumbar",
+738,1,"锤状趾","hammer toe",77.56
+738,1,"唇与舌","lip to tongue",25.59
+738,1,"骨一另见骨成形术","bone-see also Osteoplasty",78.40
+738,1,"骨骺骨干的一另见停止,骨生长","epiphyseal-diaphyseal-see also Arrest, bone growth",78.20
+738,1,"关节(伴骨移植)一另见关节固定术","joint (with bone graft)-see also Arthrodesis",81.20
+738,2,"锤状趾","hammer toe",77.56
+738,2,"跗骨关节 NEC","tarsal joints NEC",81.17
+738,2,"跗骨间的","midtarsal",81.14
+738,2,"跗跖的","tarsometatarsal",81.15
+738,2,"踝","ankle",81.11
+738,2,"脊髓的一另见融合术,脊髓的","spinal-see also Fusion, spinal",81.00
+738,2,"胫距的","tibiotalar",81.11
+738,2,"距下的","subtalar",81.13
+738,2,"髋","hip",81.21
+738,2,"全距骨的","pantalar",81.11
+738,2,"爪形趾","claw toe",77.57
+738,2,"跖趾","metatarsophalangeal",81.16
+738,2,"指(趾)间关节,手指","interphalangeal, finger",81.28
+738,2,"趾 NEC","toe NEC",77.58
+738,3,"锤状趾","hammer toe",77.56
+738,3,"爪形趾","claw toe",77.57
+738,3,"重叠趾","overlapping toe(s)",77.58
+738,2,"重叠趾","overlapping toe(s)",77.58
+738,2,"足 NEC","foot NEC",81.17
+738,2,"坐骨股骨的","ischiofemoral",81.21
+738,1,"骺骨干固定术一另见停止,骨生长","epiphysiodesis-see also Arrest, bone growth",78.20
+738,1,"寰枢(脊柱)一见融合,脊柱,寰枢","atlas-axis (spine)-see Fusion, spinal, atlas-axis",
+738,1,"脊椎的,NOS(伴移植)(伴内固定)(伴辅助装置)","spinal, NOS (with graft) (with internal fixation) (with instrumentation)",81.00
+738,2,"后路腰椎体融合(PLIF)","posterior lumbar interbody fusion (PLIF)",81.08
+738,2,"寰枢(前路经口的)(后的)","atlas-axis (anterior transoral) (posterior)",81.01
+738,3,"用于假关节","for pseudarthrosis",81.31
+738,2,"极外侧椎体融合(XLIF®)","extreme lateral interbody fusion (XLIF®)",81.06

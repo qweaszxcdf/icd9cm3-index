@@ -1,0 +1,156 @@
+page,level,chinese,english,code
+479,3,"伴异物去除","with removal of foreign body",98.21
+479,2,"泪的","lacrimal",
+479,3,"点","punctum",09.41
+479,3,"泪小管","canaliculi",09.42
+479,2,"泪小管","canaliculus",09.42
+479,2,"脑室分流","ventricular shunt",02.41
+479,2,"膀胱造口术","cystostomy",96.47
+479,2,"气管NEC","trachea NEC",96.56
+479,2,"前房(眼)","anterior chamber (eye)",12.91
+479,2,"伤口(清洗)NEC","wound (cleaning) NEC",96.59
+479,2,"肾盂造口术","pyelostomy",96.45
+479,2,"肾造口术","nephrostomy",96.45
+479,2,"输尿管造口术","ureterostomy",96.46
+479,2,"胃","stomach",96.33
+479,2,"胃造口术","gastrostomy",96.36
+479,2,"眼","eye",96.51
+479,3,"伴异物去除","with removal of foreign body",98.21
+479,2,"支气管NEC","bronchus NEC",96.56
+479,2,"直肠的","rectal",96.39
+479,1,"冲洗-见灌洗和冲洗","Washing-see Lavage and Irrigation",
+479,1,"冲洗,灌洗","Lavage",
+479,2,"鼻窦","nasal sinus(es), antral",22.00
+479,3,"经穿刺","by puncture",22.01
+479,3,"经自然腔口","through natural ostium",22.02
+479,2,"肺(全部)(整个)","lung (total) (whole)",33.99
+479,3,"诊断性(内镜的)支气管肺泡灌洗(BAL)(微型-BAL)","diagnostic (endoscopic) bronchoalveolar lavage (BAL) (mini-BAL)",33.24
+479,2,"腹膜的(诊断性)","peritoneal (diagnostic)",54.25
+479,2,"气管NEC","trachea NEC",96.56
+479,2,"气管内的","endotracheal",96.56
+479,2,"胃的","gastric",96.33
+479,2,"支气管NEC","bronchus NEC",96.56
+479,3,"诊断性(内镜)支气管肺泡灌洗(BAL)","diagnostic (endoscopic) bronchoalveolar lavage (BAL)",33.24
+479,1,"冲洗,阴道","Douche, vagina",96.44
+479,1,"冲洗,注射","Syringing",
+479,2,"鼻泪管","nasolacrimal duct",09.43
+479,3,"伴","with",
+479,4,"管或支架插入","insertion of tube or stent",09.44
+479,4,"扩张","dilation",09.43
+479,2,"泪管或囊","lacrimal duct or sac",09.43
+479,1,"抽出(摘出术)","Extraction",
+480,2,"白内障","cataract",13.19
+480,3,"抽吸(单纯)(伴冲洗)","aspiration (simple) (with irrigation)",13.3
+480,3,"复发性白内障(经)","after cataract (by)",
+480,4,"刺开术,挑开术","discission",13.64
+480,4,"虹膜囊切除术","iridocapsulectomy",13.65
+480,4,"机械性碎裂","mechanical fragmentation",13.66
+480,4,"晶状体碎裂(机械性)","phacofragmentation (mechanical)",13.66
+480,4,"囊切除术","capsulectomy",13.65
+480,4,"囊切开术","capsulotomy",13.64
+480,4,"切除术","excision",13.65
+480,4,"针刺","needling",13.64
+480,4,"刮匙排空(囊外入路)","curette evacuation (extracapsular approach)",13.2
+480,3,"继发膜性(复发性白内障)(经)","secondary membranous (after cataract) (by)",
+480,4,"虹膜囊切除术","iridocapsulectomy",13.65
+480,4,"机械性碎裂","mechanical fragmentation",13.66
+480,4,"截囊术","discission",13.64
+480,4,"晶状体碎裂(机械性)","phacofragmentation (mechanical)",13.66
+480,4,"囊切除术","capsulectomy",13.65
+480,4,"囊切开术","capsulotomy",13.64
+480,4,"切除术","excision",13.65
+480,4,"针刺","needling",13.64
+480,3,"晶状体乳化(和抽吸)","phacoemulsification (and aspiration)",13.41
+480,3,"晶状体碎裂(机械性)","phacofragmentation (mechanical)",
+480,4,"伴抽吸,经","with aspiration by",
+481,5,"后入路","posterior route",13.42
+481,5,"特指入路NEC","specified route NEC",13.43
+481,4,"超声","ultrasonic",13.41
+481,3,"晶状体吸盘(囊内入路)","erysiphake (intracapsular approach)",13.19
+481,4,"颞下入路(存在大疱瘘)","temporal inferior route (in presence of fistulization bleb)",13.11
+481,3,"冷冻摘出术(囊内入路)","cryoextraction (intracapsular approach)",13.19
+481,4,"颞下入路(存在大疱瘘)","temporal inferior route (in presence of fistulization bleb)",13.11
+481,3,"囊内(联合的)(单纯)(伴虹膜切除术)(伴抽吸)(伴睫状体小带松解术)","intracapsular (combined) (simple) (with iridectomy) (with suction) (with zonulolysis)",13.19
+481,4,"经颞下入路(存在大疱瘘)","by temporal inferior route (in presence of fistulization bleb)",13.11
+481,3,"囊外入路(伴虹膜切除术)NEC","extracapsular approach (with iridectomy) NEC",13.59
+481,4,"抽吸(单纯)(伴冲洗)","aspiration (simple) (with irrigation)",13.3
+481,4,"刮匙排除术","curette evacuation",13.2
+481,4,"机械性碎裂,破碎伴抽吸,经","mechanical fragmentation with aspiration by",
+481,5,"后入路","posterior route",13.42
+481,5,"特指入路NEC","specified route NEC",13.43
+481,4,"晶状体碎裂(机械性)","phacofragmentation (mechanical)",
+481,5,"伴抽吸,经","with aspiration by",
+481,6,"后入路","posterior route",13.42
+481,6,"特指入路NEC","specified route NEC",13.43
+481,5,"超声(伴吸引)","ultrasonic (with aspiration)",13.41
+481,4,"晶状体乳化(超声)(伴抽吸)","phacoemulsification (ultrasonic) (with aspiration)",13.41
+481,5,"经颞下入路(存在大疱瘘)","by temporal inferior route (in presence of fistulization bleb)",13.51
+481,4,"乳化(和抽吸)","emulsification (and aspiration)",13.41
+481,4,"线形抽吸术","linear extraction",13.2
+481,4,"旋转摘出(机械性)伴抽吸,经","rotoextraction (mechanical) with aspiration by",
+481,5,"后入路","posterior route",13.42
+481,5,"特指入路NEC","specified route NEC",13.43
+481,4,"乳化(和抽吸)","emulsification (and aspiration)",13.41
+482,3,"线性抽吸术(囊外入路)","linear extraction (extracapsular approach)",13.2
+482,3,"旋转摘出(机械性)","rotoextraction (mechanical)",
+482,4,"伴抽吸,经","with aspiration by",
+482,5,"后入路","posterior route",13.42
+482,5,"特指入路NEC","specified route NEC",13.43
+482,2,"玻璃体-另见去除,玻璃体","vitreous-see also Removal, vitreous",14.72
+482,2,"胆总管石(经皮)(经窦道)(用网)","common duct stones (percutaneous) (through sinus tract) (with basket)",51.96
+482,2,"晶状体(眼)-另见抽吸术,白内障","lens (eye)-see also Extraction, cataract",13.19
+482,2,"肾结石,经皮的","kidney stone(s), percutaneous",55.03
+482,3,"伴碎裂操作","with fragmentation procedure",55.04
+482,2,"牙(经钳)(多个)(单个)NEC","tooth (by forceps) (multiple) (single) NEC",23.09
+482,3,"伴黏膜骨膜瓣掀起","with mucoperiosteal flap elevation",23.19
+482,3,"乳齿","deciduous",23.01
+482,3,"外科手术的NEC-另见去除,牙,外科手术的","surgical NEC-see also Removal, tooth, surgical",23.19
+482,2,"异物-见去除,异物","foreign body-see Removal, foreign body",
+482,1,"抽出术,神经(颅的)(周围的)NEC","Avulsion, nerve (cranial) (peripheral) NEC",04.07
+482,2,"膈神经的","phrenic",33.31
+482,2,"交感神经的","sympathetic",05.29
+482,2,"听神经的","acoustic",04.01
+482,1,"抽吸,吸引术","Aspiration",
+482,2,"巴多林腺(囊肿)(经皮)","Bartholin's gland (cyst) (percutaneous)",71.21
+482,2,"白内障","cataract",13.3
+482,3,"伴","with",
+482,4,"晶状体乳化","phacoemulsification",13.41
+482,4,"晶状体碎裂","phacofragmentation",13.43
+482,5,"后入路","posterior route",13.42
+483,2,"肺(经皮)(穿刺)(针吸)(套针)","lung (percutaneous) (puncture) (needle) (trocar)",33.93
+483,3,"胸腔镜的","thoracoscopic",33.20
+483,2,"腹水","ascites",54.91
+483,2,"肝(经皮)","liver (percutaneous)",50.91
+483,2,"干细胞","stem cell",99.79
+483,2,"睾丸","testis",62.91
+483,2,"睾丸鞘膜(积水)(经皮)","tunica vaginalis (hydrocele) (percutaneous)",61.91
+483,2,"骨髓(用于活组织检查)","bone marrow (for biopsy)",41.31
+483,3,"干细胞","stem cell",99.79
+483,3,"来自供者用于移植","from donor for transplant",41.91
+483,2,"刮宫","curettage, uterus",69.59
+483,3,"伴终止妊娠","to terminate pregnancy",69.51
+483,3,"流产或分娩后","after abortion or delivery",69.52
+483,3,"诊断性","diagnostic",69.59
+483,2,"关节","joint",81.91
+483,3,"用于关节造影术-见关节造影术","for arthrography-see Arthrogram",
+483,2,"活组织检查-见活组织检查,按部位","biopsy-see Biopsy, by site",
+483,2,"肌肉","muscle",83.95
+483,3,"手","hand",82.93
+483,2,"积水,睾丸鞘膜","hydrocele, tunica vaginalis",61.91
+483,2,"脊髓的(穿刺)","spinal (puncture)",03.31
+483,2,"甲状腺(区)(腺)","thyroid (field) (gland)",06.01
+483,3,"手术后","postoperative",06.02
+483,2,"腱","tendon",83.95
+483,3,"手","hand",82.93
+483,2,"结石,膀胱","calculus, bladder",57.0
+483,2,"筋膜","fascia",83.95
+483,3,"手","hand",82.93
+483,2,"精囊","seminal vesicles",60.71
+483,2,"精子囊肿","spermatocele",63.91
+483,2,"经皮-见抽吸,按部位","percutaneous-see Aspiration, by site",
+483,2,"经以前植入导管或囊(欧麻亚)(里克汉)","through previously implanted catheter or reservoir (Ommaya) (Rickham)",01.02
+483,2,"眶,诊断性","orbit, diagnostic",16.22
+483,2,"腊特克凹","Rathke's pouch",07.72
+483,2,"颅的(穿刺)","cranial (puncture)",01.09
+483,2,"颅颊囊","craniobuccal pouch",07.72
+483,2,"颅内腔(硬膜外的)(硬膜外的)(蛛网膜下的)(硬膜下的)(脑室的)","intracranial space (epidural) (extradural) (subarachnoid) (subdural) (ventricular)",01.09

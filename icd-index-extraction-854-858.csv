@@ -1,0 +1,181 @@
+page,level,chinese,english,code
+854,5,"脑膨出(脑的)","encephalocele (cerebral)",02.12
+854,5,"内翻子宫 NEC","inverted uterus NEC",69.29
+854,5,"产科的","obstetrical",
+854,6,"手法的","manual",75.94
+854,6,"外科手术的","surgical",75.93
+854,5,"手法的","manual",
+854,6,"产科的","obstetric",75.94
+854,6,"非产科的","nonobstetric",69.94
+854,5,"阴道入路","vaginal approach",69.23
+854,5,"内生趾(指)甲","ingrown toenail",86.23
+854,5,"尿道 NEC","urethra NEC",58.49
+854,5,"道","meatus",58.47
+854,6,"撕裂(经缝合)","laceration (by suture)",58.41
+854,7,"产科的(近期)","obstetric (current)",75.61
+854,8,"陈旧性","old",58.49
+854,5,"尿道口失禁-见修补术,应激性失禁","urinary stress incontinence-see Repair, stress incontinence",
+854,5,"尿道膨出(前的阴道缝合术)(女性)","urethrocele (anterior colporrhaphy) (female)",70.51
+854,6,"伴移植物或假体","with graft or prosthesis",70.54
+854,6,"和直肠膨出","and rectocele",70.50
+854,7,"伴移植物或假体","with graft or prosthesis",70.53
+854,5,"尿道上裂","epispadias",58.45
+854,5,"尿道下裂","hypospadias",58.45
+854,5,"膀胱 NEC","bladder NEC",57.89
+854,6,"颈","neck",57.85
+854,6,"撕裂(经缝合)","laceration (by suture)",57.81
+854,7,"产科的(近期)","obstetric (current)",75.61
+854,8,"陈旧性","old",57.89
+854,6,"外翻","exstrophy",57.86
+854,6,"用于应激性失禁-见修补术,应激性失禁","for stress incontinence-see Repair, stress incontinence",
+854,5,"膀胱膨出","cystocele",70.51
+854,6,"伴移植物或假体","with graft or prosthesis",70.54
+854,6,"和直肠膨出","and rectocele",70.50
+854,7,"伴移植物或假体","with graft or prosthesis",70.53
+854,5,"膀胱外翻","exstrophy of bladder",57.86
+854,5,"脾","spleen",41.95
+854,5,"皮肤(整形的)(不伴移植)","skin (plastic) (without graft)",86.89
+854,6,"撕裂(经缝合)","laceration (by suture)",86.59
+854,5,"瓶状,睾丸鞘膜积水","bottle, hydrocele of tunica vaginalis",61.2
+854,5,"破裂腱 NEC","ruptured tendon NEC",83.88
+855,6,"手","hand",82.86
+855,5,"脐突出","omphalocele",
+855,6,"腹腔镜的","laparoscopic",53.43
+855,7,"伴移植物或假体","with graft or prosthesis",53.42
+855,8,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
+855,8,"其他开放性","other open",53.49
+855,5,"起搏器","pacemaker",
+855,6,"心的","cardiac",
+855,7,"电极(导联) NEC","electrodes (leads) NEC",37.75
+855,7,"囊袋(皮肤)(皮下)","pocket (skin) (subcutaneous)",37.79
+855,7,"装置(永久性)","device (permanent)",37.89
+855,5,"气管 NEC","trachea NEC",31.79
+855,5,"撕裂(经缝合)","laceration (by suture)",31.71
+855,5,"前列腺","prostate",60.93
+855,5,"槌趾","cockup toe",77.58
+855,5,"全部异常肺动静脉连接","total anomalous pulmonary venous connection",
+855,6,"部分的-见特指操作","partial-see specific procedure",
+855,6,"全部的(一期)","total (one-stage)",35.82
+855,5,"人工开口-见修补术,口","artificial opening-see Repair, stoma",
+855,5,"韧带-另见关节成形术","ligament-see also Arthroplasty",81.96
+855,6,"侧的,膝 NEC","collateral, knee NEC",81.46
+855,6,"阔","broad",69.29
+855,6,"十字形,膝 NEC","cruciate, knee NEC",81.45
+855,6,"圆","round",69.29
+855,6,"子宫","uterine",69.29
+855,5,"乳房(整形的)-另见乳房成形术","breast (plastic)-see also Mammoplasty",85.89
+855,5,"乳糜池","cisterna chyli",40.69
+855,5,"乳头 NEC","nipple NEC",85.87
+855,5,"乳头肌(心脏)","papillary muscle (heart)",35.31
+855,5,"乳突(窦)(腔)","mastoid (antrum) (cavity)",19.9
+855,5,"三尖瓣闭锁","tricuspid atresia",35.94
+855,5,"疝 NEC","hernia NEC",53.9
+855,6,"福开森","Ferguson",53.00
+855,6,"腹的(腹腔镜不伴移植物或假体)","ventral (laparoscopic without graft or prosthesis)",53.59
+855,7,"伴移植物或假体","with prosthesis or graft",
+855,8,"腹腔镜的","laparoscopic",53.63
+855,8,"其他和开放性","other and open",53.69
+855,8,"切开的","incisional",53.51
+856,8,"腹腔镜不伴移植物或假体","laparoscopic without graft or prosthesis",53.59
+856,8,"其他和开放伴有假体或移植物","other open with prosthesis or graft",53.61
+856,6,"腹股沟的(单侧)","inguinal (unilateral)",53.00
+856,7,"伴假体或移植物","with prosthesis or graft",53.05
+856,8,"间接(斜)的(单侧的)","indirect (unilateral)",
+856,9,"腹腔镜伴移植物或假体","laparoscopic with graft or prosthesis",17.12
+856,8,"其他和开放(腹腔镜不伴移植物或假体)","other and open (laparoscopic without graft or prosthesis)",53.02
+856,9,"伴假体或移植物","with prosthesis or graft",53.04
+856,8,"双侧的","bilateral",53.10
+856,9,"伴假体或移植物","with prosthesis or graft",53.17
+856,10,"腹腔镜的","laparoscopic",17.24
+856,9,"间接(斜)的","indirect",
+856,10,"腹腔镜伴移植物或假体","laparoscopic with graft or prosthesis",17.22
+856,9,"其他和开放(腹腔镜不伴移植物或假体)","other and open (laparoscopic without graft or prosthesis)",53.12
+856,10,"伴假体或移植物","with prosthesis or graft",53.15
+856,9,"直接的","direct",
+856,10,"腹腔镜伴假体或移植物","laparoscopic with graft or prosthesis",17.21
+856,9,"其他和开放(腹腔镜不伴移植物或假体)","other and open (laparoscopic without graft or prosthesis)",53.11
+856,10,"伴假体或移植物","with prosthesis or graft",53.14
+856,9,"直接和间接(斜)的","direct and indirect",
+856,10,"腹腔镜伴移植物或假体","laparoscopic with graft or prosthesis",17.23
+856,9,"其他和开放(腹腔镜不伴移植物或假体)","other and open (laparoscopic without graft or prosthesis)",53.13
+856,10,"伴假体或移植物","with prosthesis or graft",53.16
+856,8,"直接的(单侧的)","direct (unilateral)",
+856,9,"伴假体或移植物","with prosthesis or graft",53.03
+856,9,"腹腔镜伴移植物或假体","laparoscopic with graft or prosthesis",17.11
+856,8,"和间接(斜)的(单侧的)","and indirect (unilateral)",
+856,9,"腹腔镜伴移植物或假体","laparoscopic with graft or prosthesis",17.11
+856,8,"其他和开放(腹腔镜不伴移植物或假体)","other and open (laparoscopic without graft or prosthesis)",53.01
+857,9,"伴假体或移植物","with prosthesis or graft",53.03
+857,8,"其他和开放(腹腔镜不伴移植物或假体)","other and open (laparoscopic without graft or prosthesis)",53.01
+857,9,"伴假体或移植物","with prosthesis or graft",53.03
+857,5,"腹膜后的","retroperitoneal",53.9
+857,5,"腹膜前的(腹膜外的)","preperitoneal",53.29
+857,5,"腹腔镜伴移植物或假体,NOS","laparoscopic with graft or prosthesis, NOS",17.13
+857,6,"股的(单侧)","femoral (unilateral)",53.29
+857,7,"伴假体或移植物","with prosthesis or graft",53.21
+857,7,"双侧的","bilateral",53.39
+857,8,"伴假体或移植物","with prosthesis or graft",53.31
+857,6,"横膈的","diaphragmatic",
+857,7,"腹入路","abdominal approach",
+857,8,"腹腔镜的","laparoscopic",53.71
+857,8,"其他和开放性","other and open",53.72
+857,8,"未特指的","unspecified",53.75
+857,7,"胸,胸腹入路","thoracic, thoracoabdominal approach",53.80
+857,8,"腹腔镜的","laparoscopic",53.83
+857,8,"其他和开放性","other and open",53.84
+857,5,"回肠造口旁的","paraileostomy",46.41
+857,5,"霍尔斯特德","Halsted",53.00
+857,5,"结肠造口术","colostomy",46.42
+857,5,"结肠造口周围","pericolostomy",46.42
+857,5,"筋膜","fascia",83.89
+857,6,"手","hand",82.89
+857,5,"裂孔旁的","parahiatal",
+857,6,"腹腔镜的","laparoscopic",53.71
+857,6,"其他和开放性","other and open",53.72
+857,6,"未特指的","unspecified",53.75
+857,5,"内的","internal",53.9
+857,5,"葡萄膜的","uveal",12.39
+857,5,"脐的","umbilical",
+857,6,"腹腔镜的","laparoscopic",53.43
+857,7,"伴移植物或假体","with graft or prosthesis",53.42
+857,8,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
+857,8,"其他开放性","other open",53.49
+857,5,"脐旁的","paraumbilical",
+857,6,"腹腔镜的","laparoscopic",53.43
+857,7,"伴移植物或假体","with graft or prosthesis",53.42
+858,8,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
+858,8,"其他开放性","other open",53.49
+858,5,"前腹壁 NEC(腹腔镜的伴移植物或假体)","anterior abdominal wall NEC (laparoscopic without graft or prosthesis)",53.59
+858,6,"伴假体或移植","with prosthesis or graft",
+858,7,"腹腔镜的","laparoscopic",53.63
+858,7,"其他和开放性","other and open",53.69
+858,6,"切开的","incisional",53.51
+858,6,"腹腔镜的伴假体或移植物","laparoscopic with prosthesis or graft",53.62
+858,6,"其他开放伴假体或移植物","other open with prosthesis or graft",53.61
+858,5,"上腹的","epigastric",53.59
+858,6,"伴假体或移植物","with prosthesis or graft",53.69
+858,6,"食管裂孔","esophageal hiatus",
+858,7,"腹入路","abdominal approach",
+858,8,"腹腔镜的","laparoscopic",53.71
+858,8,"其他和开放性","other and open",53.72
+858,8,"未特指的","unspecified",53.75
+858,7,"胸,胸腹入路","thoracic, thoracoabdominal approach",53.80
+858,6,"食管旁的","paraesophageal",
+858,7,"腹腔镜的","laparoscopic",53.71
+858,7,"其他和开放性","other and open",53.72
+858,7,"未特指的","unspecified",53.75
+858,6,"手法的","manual",96.27
+858,6,"斯皮格尔氏[肝尾状叶]","spigelian",53.59
+858,7,"伴假体或移植物","with prosthesis or graft",53.69
+858,6,"填塞物","obturator",53.9
+858,6,"网膜的","omental",53.9
+858,6,"希尔阿利森(食管裂孔疝修补术,经胸膜入路)","Hill-Allison (hiatal hernia repair, transpleural approach)",53.80
+858,7,"下腹部的","hypogastric",53.59
+858,8,"伴假体或移植物","with prosthesis or graft",53.69
+858,7,"小腿","crural",53.29
+858,7,"胸骨旁的","parasternal",53.82
+858,7,"腰的","lumbar",53.9
+858,7,"阴部的","pudendal,perineal (enterocele)",53.9
+858,7,"阴囊的-见修补术,疝,腹股沟的","scrotal-see Repair, hernia, inguinal",
+858,7,"直肠子宫陷凹(道格拉斯)","cul-de-sac (Douglas')",70.92
+858,7,"坐骨的","sciatic",53.9

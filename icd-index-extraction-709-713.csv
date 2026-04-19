@@ -1,0 +1,190 @@
+page,level,chinese,english,code
+709,2,"牙齿的","dental",96.54
+709,2,"切除的,NOS","excisional, NOS",86.22
+709,3,"髌骨","patella",77.66
+709,3,"带蒂皮瓣移植","pedicle graft",86.75
+709,3,"腹壁","abdominal wall",54.3
+709,3,"感染(皮肤)","infection (skin)",86.22
+709,4,"指(趾)甲床或褶","nail (bed) (fold)",86.27
+709,3,"骨-另见切除术,病损,骨","bone-see also Excision, lesion, bone",77.60
+709,3,"骨折-见清创术,开放性骨折","fracture-see Debridement, open fracture",
+709,3,"关节-见切除术,病损,关节","joint-see Excision, lesion, joint",
+709,3,"肌肉","muscle",83.45
+709,4,"手","hand",82.36
+709,3,"脊索(脑膜)","spinal cord (meninges)",03.4
+709,3,"腱","tendon",83.39
+709,3,"筋膜","fascia",83.44
+709,3,"开放性骨折(复合性)","open fracture (compound)",79.60
+709,4,"臂","arm NEC",79.62
+709,4,"尺骨","ulna",79.62
+709,4,"腓骨","fibula",79.66
+709,4,"跗骨,跖骨","tarsal, metatarsal",79.67
+709,4,"肱骨","humerus",79.61
+709,4,"股骨","femur",79.65
+709,4,"胫骨","tibia",79.66
+709,4,"面骨","facial bone",76.2
+709,4,"桡骨","radius",79.62
+709,4,"手 NEC","hand NEC",79.63
+709,4,"特指部位 NEC","specified site NEC",79.69
+709,4,"腿 NEC","leg NEC",79.66
+709,4,"腕骨,掌骨","carpal, metacarpal",79.63
+709,4,"趾骨","phalanges",
+709,5,"手","hand",79.64
+709,5,"足","foot",79.68
+709,5,"足 NEC","foot NEC",79.67
+709,3,"颅骨","skull",01.25
+709,3,"复合性骨折","compound fracture",02.02
+709,3,"脑","brain",01.59
+709,3,"脑膜(大脑的)","meninges (cerebral)",01.51
+709,4,"脊髓的","spinal",03.4
+709,2,"脑脑膜","cerebral meninges",01.51
+709,2,"黏液囊","bursa",83.5
+709,2,"皮瓣移植","flap graft",86.75
+710,3,"皮肤或皮下组织(烧伤)(感染)(伤口)","skin or subcutaneous tissue (burn) (infection) (wound)",86.22
+710,3,"复律器/除颤器(自动的)囊袋","cardioverter/defibrillator (automatic) pocket",37.79
+710,3,"囊袋","pocket",
+710,4,"复律器/除颤器(自动的)","cardioverter/defibrillator (automatic)",37.79
+710,4,"心脏起搏器","cardiac pacemaker",37.79
+710,4,"心脏装置 NEC","cardiac device NEC",37.79
+710,4,"起搏器囊袋","pacemaker pocket",37.79
+710,3,"移植","graft",86.75
+710,3,"指甲,指甲床,或指甲褶","nail, nail bed, or nail fold",86.27
+710,2,"伤口(皮肤)","wound (skin)",86.22
+710,2,"烧伤(皮肤)","burn (skin)",86.22
+710,2,"神经(周围的)","nerve (peripheral)",04.07
+710,2,"心脏瓣膜(钙化)-见瓣膜成形术,心脏","heart valve (calcified)-see Valvuloplasty, heart",
+710,2,"移植物(皮瓣)(蒂)","graft (flap) (pedicle)",86.75
+710,2,"指(趾)甲","nail (bed) (fold)",86.27
+710,1,"清扫术-另见切除术","Dissection-see also Excision",
+710,2,"动脉静脉神经束","artery-vein-nerve bundle",39.91
+710,2,"动脉瘤","aneurysm",38.60
+710,2,"腹股沟(淋巴结)根治","groin, radical",40.54
+710,2,"腹膜后的 NEC","retroperitoneal NEC",59.00
+710,2,"根治颈-见清扫术,颈,根治","radical neck-see Dissection, neck, radical",
+710,2,"股疝","femoral hernia",53.29
+710,2,"喉大块(整块)","larynx block (en bloc)",30.3
+710,2,"颈,根治","neck, radical",40.40
+710,3,"伴喉切除术","with laryngectomy",30.4
+710,3,"单侧","unilateral",40.41
+710,3,"双侧","bilateral",40.42
+710,2,"眶纤维带","orbital fibrous bands",16.92
+710,2,"鳃裂瘘或窦","branchial cleft fistula or sinus",29.52
+710,2,"胸结构(块)(整块)(根治)","thoracic structures (block) (en bloc) (radical)",32.6
+710,2,"血管束","vascular bundle",39.91
+710,2,"翼状赘肉(伴复位)","pterygium (with reposition)",11.31
+710,2,"支气管","bronchus",32.1
+710,2,"纵隔伴肺切除术","mediastinum with pneumonectomy",32.59
+710,3,"胸腔镜的","thoracoscopic",32.50
+710,1,"清洗,伤口","Cleaning, wound",96.59
+711,1,"清洗创口","Toilette",
+711,2,"皮肤-见清创术,皮肤或皮下组织","skin-see Debridement, skin or subcutaneous tissue",
+711,2,"气管造口","tracheostomy",96.55
+711,1,"轻抚法","Effleurage",93.39
+711,1,"琼斯手术-见 Jones 手术","琼斯手术--- see Jones operation",
+711,1,"丘脑化学破坏术","Chemothalamectomy",01.41
+711,1,"丘脑冷冻切除术","Cryothalamectomy",01.41
+711,1,"丘脑切除术","Thalamectomy",01.41
+711,1,"丘脑切开术","Thalamotomy",01.41
+711,2,"经立体定位放射外科","by stereotactic radiosurgery",92.32
+711,3,"单源光子","single source photon",92.31
+711,3,"多源","multi-source",92.32
+711,3,"放射外科学 NEC","radiosurgery NEC",92.39
+711,3,"钴-60","cobalt-60",92.32
+711,3,"粒子","particulate",92.33
+711,3,"粒子束流","particle beam",92.33
+711,3,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+711,1,"球结膜环状切除术","Peridectomy,Peritomy",10.31
+711,1,"球结膜环状切开术","Peritomy",10.1
+711,1,"球囊","Balloon",
+711,2,"泵,主动脉内","pump, intra-aortic",37.61
+711,2,"间隔造口术(心房)","systostomy (atrial)",35.41
+711,2,"血管成形术-见血管成形术,球囊","angioplasty-see Angioplasty, balloon",
+711,1,"球切除术","Glomectomy",
+711,2,"颈的","jugulare",20.51
+711,2,"颈动脉","carotid",39.89
+711,1,"屈光性角膜成形术,角膜磨镶术","Keratomileusis",11.71
+711,1,"躯体疗法,精神病学的 NEC","Somatotherapy, psychiatric NEC",94.29
+711,1,"去除-另见切除术","Removal-see also Excision",
+711,2,"CCM(心脏收缩力调节)不伴有置换(可充电脉冲发生器)(全系统)","CCM (cardiac contractility modulation) without replacement (rechargeable pulse generator) (total system)",37.79
+711,2,"Rheos 颈动脉窦压力反射激活装置","Rheos carotid sinus baroreflex activation device",86.05
+711,2,"T 管(胆管)","T-tube (bile duct)",97.55
+711,2,"艾布勒姆斯棒(胸壁)","Abrams bar (chest wall)",34.01
+711,2,"巴尔通钳(颅骨)","Barton's tongs (skull)",02.95
+711,3,"同时伴置换","with synchronous replacement",02.94
+711,2,"瓣膜","valve",
+711,3,"脑室(脑的)","ventricular (cerebral)",02.43
+711,3,"输精管","vas deferens",63.85
+712,2,"泵辅助装置,心脏","pump assist device, heart",37.64
+712,3,"伴置换","with replacement",37.63
+712,3,"非手术的","nonoperative",97.44
+712,2,"鼻石","rhinolith",21.31
+712,2,"扁桃体残余","tonsil tag",28.4
+712,2,"髌骨(完全)","patella (complete)",77.96
+712,3,"部分","partial",77.86
+712,2,"病损-见切除术,病损,按部位","lesion-see Excision, lesion, by site",
+712,2,"玻璃体(伴置换)","vitreous (with replacement)",14.72
+712,3,"开放式技术","open sky technique",14.71
+712,3,"前入路(部分)","anterior approach (partial)",14.71
+712,2,"不可吸收的外科手术材料 NEC-见去除,异物,按部位","nonabsorbable surgical material NEC-see Removal, foreign body, by site",
+712,2,"产后物(经)","secundines (by)",
+712,3,"抽吸刮宫","aspiration curettage",69.52
+712,3,"手法的","manual",75.4
+712,3,"子宫颈扩宫和刮宫","D and C",69.02
+712,2,"刺激接收器-见去除,神经刺激器","stimoceiver-see Removal, neurostimulator",
+712,2,"胆石","gallstones",
+712,3,"肠","intestine",45.00
+712,4,"大","large",45.03
+712,4,"小 NEC","small NEC",45.02
+712,3,"胆管(经切开) NEC","bile duct (by incision) NEC",51.49
+712,4,"内镜","endoscopic",51.88
+712,3,"胆囊","gallbladder",51.04
+712,4,"腹腔镜","laparoscopic",51.88
+712,4,"内镜","endoscopic",51.88
+712,3,"胆总管(经切开)","common duct (by incision)",51.41
+712,4,"经皮的","percutaneous",51.96
+712,4,"内镜","endoscopic",51.88
+712,3,"肝","liver",50.0
+712,3,"肝管","hepatic ducts",51.49
+712,4,"内镜","endoscopic",51.88
+712,3,"十二指肠","duodenum",45.01
+712,2,"导管(留置的)-另见去除,管","catheter (indwelling)-see also Removal, tube",
+712,2,"颅腔","cranial cavity",01.27
+712,3,"泌尿系","urinary",97.64
+712,3,"膀胱","bladder",97.64
+712,3,"输尿管","ureter",97.62
+712,2,"中耳(鼓室)","middle ear (tympanum)",20.1
+712,2,"导联(心的)-见去除,电极,心脏起搏器","leads (cardiac)-see Removal, electrodes, cardiac pacemaker",
+713,2,"碘苯醌染色,脊髓管","pantopaque dye, spinal canal",03.31
+713,2,"电刺激器-见去除,电的,刺激器,按部位","electrostimulator-see Removal, electronic, stimulator, by site",
+713,2,"电的","electronic",
+713,3,"刺激器-见去除,神经刺激器,按部位","stimulator-see Removal, neurostimulator, by site",
+713,4,"骨","bone",78.6
+713,4,"骨骼肌","skeletal muscle",83.93
+713,5,"同时伴置换","with synchronous replacement",83.92
+713,4,"膀胱","bladder",57.98
+713,4,"输尿管","ureter",56.94
+713,2,"电极","electrodes",
+713,3,"骶神经","sacral nerve",04.93
+713,3,"蝶的-省略编码","sphenoidal-omit code",
+713,4,"同时伴置换","with synchronous replacement",02.96
+713,3,"骨生长刺激器-见亚目","bone growth stimulator-see subcategory",78.6
+713,3,"脊髓的","spinal",03.94
+713,4,"同时伴置换","with synchronous replacement",03.93
+713,3,"颈动脉窦","carotid sinus",39.87
+713,4,"伴同步脉冲发生器去除(全系统)","with synchronous pulse generator removal (total system)",39.86
+713,4,"伴同步置换","with synchronous replacement",39.82
+713,3,"颅内的","intracranial",01.22
+713,4,"同时伴置换","with synchronous replacement",02.93
+713,3,"卵圆孔","foramen ovale",01.22
+713,4,"同时伴置换","with synchronous replacement",02.93
+713,3,"脑","brain",01.22
+713,4,"蝶的-省略编码","sphenoidal-omit code",
+713,5,"同时伴置换","with synchronous replacement",02.96
+713,4,"卵圆孔","foramen ovale",01.22
+713,5,"with synchronous replacement","with synchronous replacement",02.93
+713,4,"深部","depth",01.22
+713,5,"同时伴置换","with synchronous replacement",02.93
+713,3,"胃的","gastric",04.93
+713,4,"同时伴置换","with synchronous replacement",04.92
+713,3,"心外膜(心肌)","epicardial (myocardial)",37.77
+713,4,"伴置换(经)","with replacement (by)",

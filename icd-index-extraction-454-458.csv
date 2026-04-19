@@ -1,0 +1,160 @@
+page,level,chinese,english,code
+454,3,"胆管","bile duct",51.43
+454,4,"内镜","endoscopic",51.87
+454,3,"肋间（伴水密封），为了引流","intercostal (with water seal), for drainage",34.04
+454,4,"修复术（伴粘连松解术）","revision (with lysis of adhesions)",34.04
+454,5,"胸腔镜的","thoracoscopic",34.06
+454,3,"米勒阿博特（用于肠减压）","Miller-Abbott (for intestinal decompression)",96.08
+454,3,"气管内的","endotracheal",96.04
+454,3,"气管支气管的","tracheobronchial",96.05
+454,3,"食管（非手术的）（森斯塔肯）","esophagus (nonoperative) (Sengstaken)",96.06
+454,4,"永久性（硅）（苏塔）","permanent (silicone) (Souttar)",42.81
+454,3,"胃（鼻胃）（用于肠减压）NEC","stomach (nasogastric) (for intestinal decompression) NEC",96.07
+454,4,"用于喂养","for feeding",96.6
+454,3,"胃的","gastric",
+454,4,"经胃造口术—见亚目","by gastrostomy-see subcategory",43.1
+454,4,"用于","for",
+454,5,"减压，肠","decompression, intestinal",96.07
+454,5,"喂养","feeding",96.6
+454,4,"喂养","feeding",
+454,5,"鼻胃的","nasogastric",96.6
+454,5,"食管","esophageal",42.81
+454,3,"胃的","gastric",96.6
+454,3,"胸","chest",34.04
+454,4,"胸腔镜的","thoracoscopic",34.06
+454,4,"修复术（伴粘连松解术）","revision (with lysis of adhesions)",34.04
+454,4,"胸腔镜的","thoracoscopic",34.06
+454,3,"胰腺管","pancreatic duct",52.92
+454,4,"内镜的","endoscopic",52.93
+454,3,"直肠","rectum",96.09
+454,3,"冠状（动脉）","coronary (artery)",
+454,4,"支架，非药物洗脱","stent, non-drug-eluting",36.06
+454,4,"支架，药物洗脱","stent, drug-eluting",36.07
+454,2,"过滤器","filter",
+455,3,"腔静脉（下）（上）（经静脉）","vena cava (inferior) (superior) (transvenous)",38.7
+455,2,"哈里斯钉","Harris pin",79.15
+455,2,"哈林顿棒—另见融合术，脊柱的，按水平","Harrington rod-see also Fusion, spinal, by level",
+455,3,"伴背、腰的融合术","with dorsal, dorsolumbar fusion",81.05
+455,2,"哈纳格瓣膜—见置换，心脏瓣膜","Hufnagel valve-see Replacement, heart valve",
+455,2,"喉，装有阀的管","larynx, valved tube",31.75
+455,2,"环钉装置（颅骨）（同时伴骨骼牵引）","halo device (skull) (with synchronous skeletal traction)",02.94
+455,2,"霍尔特尔瓣膜","Holter valve",02.22
+455,2,"脊柱","spine",
+455,3,"非融合性稳定装置—见亚目","non-fusion stabilization device-see subcategory",84.8
+455,3,"骨填充物","bone void filler",
+455,4,"同时伴脊柱后凸成形术","that with percutaneous vertebral augmentation",81.66
+455,4,"同时伴椎骨成形术","that with percutaneous vertebroplasty",81.65
+455,3,"后路运动保护装置—见亚目","posterior motion preservation device(s)-see subcategory",84.8
+455,3,"护架（BAK）","cage (BAK)",84.51
+455,3,"棘突减压装置","interspinous process decompression device",84.80
+455,4,"填充块","spacer",84.51
+455,4,"椎弓根动力稳定装置","pedicle-based dynamic stabilization device(s)",84.82
+455,3,"椎骨关节面置换装置","facet replacement device(s)",84.84
+455,3,"椎体脊椎融合术装置","interbody spinal fusion device",84.51
+455,2,"加德纳维尔斯钳（颅骨）（同时伴骨骼牵引）","Gardner Wells tongs (skull) (with synchronous skeletal traction)",02.94
+455,2,"假体，假体装置","prosthesis, prosthetic device",
+455,3,"臂（生物电的）（运动成型性）（运动成型性）","arm (bioelectric) (cineplastic) (kineplastic)",84.44
+455,3,"胆道","biliary tract",51.99
+455,3,"睾丸（双侧）（单侧）","testicular (bilateral) (unilateral)",62.7
+455,3,"股骨头（奥斯汀穆尔）（双极）（艾彻）（汤普森）","femoral head (Austin-Moore) (bipolar) (Eicher) (Thompson)",81.52
+455,3,"关节—见植入，关节","joint-see Arthroplasty",
+455,3,"踝（全部）","ankle (total)",81.56
+455,3,"脊柱","spine",
+455,4,"其他装置","other device",84.59
+456,4,"人工椎间盘 NOS","artificial disc, NOS",84.60
+456,5,"颈的","cervical",84.62
+456,6,"部分","partial",84.61
+456,6,"核","nucleus",84.61
+456,6,"全部","total",84.62
+456,5,"胸（部分）（全部）","thoracic (partial) (total)",84.63
+456,5,"腰的，腰骶的","lumbar, lumbosacral",84.65
+456,6,"部分","partial",84.64
+456,6,"核","nucleus",84.64
+456,6,"全部","total",84.65
+456,4,"肩","shoulder",
+456,5,"部分","partial",81.81
+456,5,"全部，NEC","total, NEC",81.80
+456,6,"反向","reverse",81.88
+456,6,"其他","other",81.80
+456,5,"修复术","revision",81.97
+456,4,"晶状体","lens",13.91
+456,4,"颏（聚乙烯）（硅橡胶）","chin (polyethylene) (silastic)",76.68
+456,4,"髋（部分）","hip (partial)",81.52
+456,5,"全部","total",81.51
+456,6,"修复术","revision",
+456,7,"髋臼和股骨成分（全部的）","acetabular and femoral components (total)",00.70
+456,7,"全部的（髋臼和股骨成分）","total (acetabular and femoral components)",00.70
+456,5,"修复术 NOS","revision NOS",81.53
+456,6,"部分的","partial",
+456,7,"仅股骨成分","femoral component only",00.72
+456,7,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
+456,7,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
+456,6,"髋臼成分","acetabular component only",00.71
+456,6,"仅股骨成分","femoral component only",00.72
+456,6,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
+456,6,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
+456,5,"髋臼成分","acetabular component only",00.71
+456,5,"髋臼和股骨成分（全部的）","acetabular and femoral components (total)",00.70
+457,6,"全部的（髋臼和股骨成分）","total (acetabular and femoral components)",00.70
+457,4,"髋臼（部分）","acetabulum (partial)",81.52
+457,5,"髋","hip",81.52
+457,5,"修复术 NOS","revision NOS",81.53
+457,6,"部分的","partial",
+457,7,"仅股骨成分","femoral component only",00.72
+457,7,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
+457,7,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
+457,6,"髋臼成分","acetabular component only",00.71
+457,6,"仅股骨成分","femoral component only",00.72
+457,6,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
+457,6,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
+457,6,"髋臼成分","acetabular component only",00.71
+457,6,"髋臼和股骨成分（全部的）","acetabular and femoral components (total)",00.70
+457,5,"全部的（髋臼和股骨成分）","total (acetabular and femoral components)",00.70
+457,5,"修复术 NOS","revision NOS",81.53
+457,3,"流出道（三角片型）（心脏）","outflow tract (gusset type) (heart)",
+457,4,"于","in",
+457,5,"肺动脉瓣膜成形术","pulmonary valvuloplasty",35.26
+457,5,"全部法洛四联症修补术","total repair of tetralogy of Fallot",35.81
+457,3,"罗森（用于泌尿系失禁）","Rosen (for urinary incontinence)",59.79
+457,3,"乳房（双侧）","breast (bilateral)",85.54
+457,4,"单侧","unilateral",85.53
+457,3,"输卵管","fallopian tube",66.93
+457,3,"腿（生物电的）（运动成型性）（运动成型性）","leg (bioelectric) (cineplastic) (kineplastic)",84.48
+457,3,"膝（部分）（全部）","knee (partial) (total)",81.54
+457,4,"修复术 NOS","revision NOS",81.55
+457,5,"髌骨成分","patellar component",00.83
+457,6,"部分的","partial",
+457,7,"髌骨成分","patellar component",00.83
+457,7,"股骨成分","femoral component",00.82
+457,7,"胫骨插入","tibial insert",00.84
+458,7,"胫骨成分","tibial component",00.81
+458,7,"股骨成分","femoral component",00.82
+458,7,"胫骨插入","tibial insert",00.84
+458,6,"胫骨成分","tibial component",00.81
+458,6,"全部的（所有组成）","total (all components)",00.80
+458,2,"心脏支持装置（CSD）（CorCap™）","cardiac support device (CSD) (CorCap™)",37.41
+458,3,"眼的（II期）","ocular (secondary)",16.61
+458,4,"伴眶内容物剜出","with orbital exenteration",16.42
+458,3,"阴道","vagina",
+458,4,"人造的","synthetic",70.95
+458,4,"阴茎（内的）（非可膨胀的）","penis (internal) (noninflatable)",64.95
+458,5,"伴","with",
+458,6,"重建术","reconstruction",64.44
+458,6,"建造术","construction",64.43
+458,5,"可膨胀的（内的）","inflatable (internal)",64.97
+458,3,"肢（生物电的）（运动成型性）（运动成型性）","extremity (bioelectric) (cineplastic) (kineplastic)",84.40
+458,4,"上的","upper",84.44
+458,4,"下的","lower",84.48
+458,3,"趾","toe",81.57
+458,4,"踇外翻修补术","hallux valgus repair",77.59
+458,3,"肘（全部）","elbow (total)",81.84
+458,4,"修复术","revision",81.97
+458,2,"金米尔斯伞状装置（心脏）","King-Mills umbrella device (heart)",35.52
+458,2,"金属钉入骨骺金属板—另见钉合术，骨骺金属板","metal staples into epiphyseal plate-see also Stapling, epiphyseal plate",78.20
+458,2,"晶状体，假体（眼内的）","lens, prosthetic (intraocular)",13.70
+458,3,"伴白内障抽吸术，一期","with cataract extraction, one-stage",13.71
+458,3,"II期（白内障摘出后）","secondary (subsequent to cataract extraction)",13.72
+458,2,"颈动脉动脉支架（支架植入）","carotid artery stent(s) (stent graft)",00.63
+458,2,"卡钳（颅骨）（同时伴骨骼牵引）","caliper tongs (skull) (with synchronous skeletal traction)",02.94
+458,2,"康特洛维兹","Kantrowitz",
+458,3,"搏动球囊（正交转换）","pulsation balloon (phase-shift)",37.61

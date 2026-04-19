@@ -1,0 +1,185 @@
+page,level,chinese,english,code
+654,1,"气管切开术(紧急的)(暂时性)(用于辅助呼吸)","Tracheotomy (emergency) (temporary) (for assistance in breathing)",31.1
+654,2,"经皮扩张的","percutaneous dilatational",
+654,3,"临时性的","temporary",31.1
+654,3,"其他永久性的","other permanent",31.29
+654,2,"永久性","permanent",31.29
+654,1,"气管造口术(紧急的)(暂时性)(用于辅助呼吸)","Tracheostomy (emergency) (temporary) (for assistance in breathing)",31.1
+654,2,"经皮扩张的","percutaneous dilatational",
+654,3,"临时性的","temporary",31.1
+654,3,"其他永久性的","other permanent",31.29
+654,2,"修复术","revision",31.74
+654,2,"永久性 NEC","permanent NEC",31.29
+654,2,"纵隔","mediastinal",31.21
+654,1,"气管造影术","Tracheography",87.32
+654,1,"气脑造影","Pneumoencephalogram",87.01
+654,1,"气体动脉内膜切除术","Gas endarterectomy",38.10
+654,2,"腹","abdominal",38.16
+654,2,"冠状动脉","coronary artery",36.09
+654,2,"颅内 NEC","Intracranial NEC",38.11
+654,2,"上肢","upper limb",38.13
+654,2,"头和颈 NEC","head and neck NEC",38.12
+654,2,"下肢","lower limb",38.18
+654,2,"胸 NEC","thoracic NEC",38.15
+654,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.14
+654,1,"气胸(人工的)(外科手术的)","Pneumothorax (artificial) (surgical)",33.32
+654,2,"胸膜内的","intrapleural",33.32
+654,1,"憩室切除术","Diverticulectomy",
+654,2,"肠","intestine",
+654,3,"大的","large",45.41
+654,4,"内镜的","endoscopic",45.43
+654,3,"小的","small",45.33
+654,2,"美克尔","Meckel's",45.33
+654,2,"尿道","urethra",58.39
+654,3,"内镜","endoscopic",58.31
+654,2,"膀胱(耻骨上)","bladder (suprapubic)",57.59
+654,3,"经尿道入路","transurethral approach",57.49
+654,2,"肾","kidney",55.39
+654,2,"十二指肠","duodenum",45.31
+654,3,"内镜的","endoscopic",45.30
+654,2,"食管","esophagus",42.31
+655,3,"内镜","endoscopic",42.33
+655,2,"食管肌层切开术","esophagomyotomy",42.7
+655,2,"胃","stomach",43.42
+655,3,"内镜的","endoscopic",43.41
+655,2,"下咽的(经环咽肌切开术)","hypopharyngeal (by cricopharyngeal myotomy)",29.32
+655,2,"咽(经环咽肌切开术)","pharyngeal (by cricopharyngeal myotomy)",29.32
+655,2,"咽食管的(经环咽肌切开术)","pharyngoesophageal (by cricopharyngeal myotomy)",29.32
+655,1,"牵伸术","Extension",
+655,2,"唇颊沟","buccolabial sulcus",24.91
+655,2,"舌沟","lingual sulcus",24.91
+655,2,"下颌嵴","mandibular ridge",76.43
+655,2,"肢体,强迫性","limb, forced",93.25
+655,1,"牵引","Traction",
+655,2,"伴骨折或脱位的复位—见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+655,2,"布克","Buck's",93.46
+655,2,"布赖恩特(骨骼)","Bryant's (skeletal)",93.44
+655,2,"邓洛普(骨骼)","Dunlop's (skeletal)",93.44
+655,2,"骨骼 NEC","skeletal NEC",93.44
+655,3,"间歇性","intermittent",93.43
+655,2,"环钳装置,颅骨","halo device, skull",93.41
+655,3,"同时伴装置插入","with synchronous insertion of device",02.94
+655,2,"机械性,间歇性","mechanical, intermittent",93.21
+655,2,"脊髓的 NEC","spinal NEC",93.42
+655,3,"伴颅骨装置(环钳)(卡钳)(克拉奇菲尔德)(加德纳维尔斯)(文凯)(钳)","with skull device (halo) (caliper) (Crutchfield) (Gardner Wells) (Vinke) (tongs)",93.41
+655,4,"同时伴装置插入","with synchronous insertion of device",02.94
+655,3,"加德纳维尔斯","Gardner Wells",93.41
+655,4,"同时伴装置插入","with synchronous insertion of device",02.94
+655,2,"胶带(皮肤)","adhesive tape (skin)",93.46
+655,2,"卡钳","caliper tongs",93.41
+655,3,"同时伴插入装置","with synchronous insertion of device",02.94
+655,2,"克拉奇菲尔德钳","Crutchfield tongs",93.41
+656,3,"同时伴装置插入","with synchronous insertion of device",02.94
+656,2,"克特雷尔(脊髓的)","Cortel's (spinal)",93.42
+656,2,"莱曼史密斯(骨骼)","Lyman Smith (skeletal)",93.44
+656,2,"鲁塞尔(骨骼)","Russell's (skeletal)",93.44
+656,2,"皮肤,四肢 NEC","skin, limbs NEC",93.46
+656,2,"手法的,间歇性","manual, intermittent",93.21
+656,2,"托马斯夹板","Thomas' splint",93.45
+656,2,"文凯钳","Vinke tongs",93.41
+656,3,"同时伴装置插入","with synchronous insertion of device",02.94
+656,2,"靴状","boot",93.46
+656,2,"支架","gallows",93.46
+656,1,"牵制","Pinning",
+656,2,"耳","ear",18.5
+656,2,"骨—见固定,骨,内部的","bone-see Fixation, bone, internal",
+656,1,"钱伯林操作—见纵隔切开术","Chamberlain procedure-see Mediastinotomy",
+656,1,"钱德勒手术—见 Chandler 手术","钱德勒手术— see Chandler operation",
+656,1,"钳夹","Clipping",
+656,2,"动静脉瘘","arteriovenous fistula",39.53
+656,2,"动脉瘤(基底)(颈动脉)(小脑的)(小脑脑桥的)(交通动脉)(脊椎的)","aneurysm (basilar) (carotid) (cerebellar) (cerebellopontine) (communicating artery) (vertebral)",39.51
+656,2,"动脉瘤(脑的)","aneurysm (cerebral)",39.51
+656,2,"脑室分流","ventricular shunt",02.43
+656,2,"系带","frenulum, frenum",
+656,3,"唇(嘴唇)","labia (lips)",27.91
+656,3,"舌(舌头)","lingual (tongue)",25.91
+656,2,"悬雍垂尖","tip of uvula",27.72
+656,2,"血管—见结扎,血管","blood vessel-see Ligation, blood vessel",
+656,2,"左心耳","left atrial appendage",37.36
+656,1,"钳夹和烧灼,痔","Clamp and cautery, hemorrhoids",49.43
+656,1,"前房角穿刺","Goniopuncture",12.51
+656,2,"伴前房角切开术","with goniotomy",12.53
+656,1,"前房角镜检查","Gonioscopy",12.29
+656,1,"前房角牵引术","Goniospasis",12.59
+656,1,"前房角切开术(Barkan)","Goniotomy (Barkan's)",12.52
+656,2,"伴前房角穿刺术","with goniopuncture",12.53
+656,1,"前列腺精囊切除术","Prostatovesiculectomy",60.5
+656,1,"前列腺冷冻切除术","Cryoprostatectomy",60.62
+656,1,"前列腺膀胱切开术","Prostatocystotomy",60.0
+657,1,"前列腺切除术(完全的)(部分的) NEC","Prostatectomy (complete) (partial) NEC",60.69
+657,2,"耻骨后(钻孔)(经囊)","retropubic (punch) (transcapsular)",60.4
+657,2,"耻骨上(钻孔)(经膀胱)","suprapubic (punch) (transvesical)",60.3
+657,2,"根治性(任何入路)","radical (any approach)",60.5
+657,2,"会阴的","perineal",60.62
+657,2,"经会阴的","transperineal",60.62
+657,2,"经囊 NEC","transcapsular NEC",60.69
+657,3,"耻骨后","retropubic",60.4
+657,2,"经尿道","transurethral",60.29
+657,2,"超声引导激光诱发的(TULIP)","ultrasound guided laser induced (TULIP)",60.21
+657,3,"电汽化术","electrovaporization",60.29
+657,3,"前列腺切除术(TURP)","resection of prostate (TURP)",60.29
+657,3,"剜出术","enucleative",60.29
+657,3,"消融,切除(接触性)(非接触性)经激光","ablation (contact) (noncontact) by laser",60.21
+657,2,"经膀胱钻孔(耻骨上)","transvesical punch (suprapubic)",60.3
+657,2,"襻式","loop",60.29
+657,1,"前列腺切开取石术","Prostatolithotomy",60.0
+657,1,"前列腺切开术(会阴的)","Prostatotomy (perineal)",60.0
+657,1,"前列腺 RCSA(根治冷冻外科,切除)","RCSA (radical cryosurgical ablation) of prostate",60.62
+657,1,"前徙术","Advancement",
+657,2,"蒂(皮瓣)","pedicle (flap)",86.72
+657,2,"肌","eye muscle",15.12
+657,3,"多条(伴切除术或退缩术)","multiple (with resection or recession)",15.3
+657,2,"腱","tendon",83.71
+657,3,"深部(瓦格纳)","profundus (Wagner)",82.51
+657,3,"手","hand",82.51
+657,2,"深部肌腱(瓦格纳)","profundus tendon (Wagner)",82.51
+657,2,"瓦格纳(深部肌腱)","Wagner (profundus tendon)",82.51
+657,2,"小叶(心脏)","leaflet (heart)",35.10
+657,2,"眼睑肌","eyelid muscle",08.59
+657,2,"眼外肌","extraocular muscle",15.12
+657,3,"多条(伴切除术或退缩术)","multiple (with resection or recession)",15.3
+657,2,"移植—见移植物","graft-see Graft",
+657,2,"圆韧带","round ligament",69.22
+657,1,"嵌缝法","Filleting",
+657,2,"锤状趾","hammer toe",77.56
+658,2,"胰","pancreas",52.3
+658,1,"嵌体,牙","Inlay, tooth",23.3
+658,1,"腔静脉照相术(下腔静脉)","Cavography (inferior vena cava)",88.51
+658,1,"强力裂断法(强力折裂骨性关节强硬)","Brisement (forcé)",93.26
+658,1,"强迫性伸展,肢体","Forced extension, limb",93.25
+658,1,"乔普林手术—见 Joplin 手术","乔普林手术— see Joplin operation",
+658,1,"切除的活组织检查—见活组织检查","Excisional biopsy-see Biopsy",
+658,1,"切除术","Excision",
+658,2,"LAA(左心耳)","LAA",37.36
+658,2,"巴多林腺","Bartholin's gland",71.24
+658,2,"白内障—另见抽吸术,白内障","cataract-see also Extraction, cataract",13.19
+658,3,"后发性膜(后发障)","secondary membrane (after cataract)",13.65
+658,2,"瘢痕—另见切除术,病损,按部位","scar-see also Excision, lesion, by site",
+658,3,"皮肤","skin",86.3
+658,3,"乳突","mastoid",20.92
+658,3,"心包","pericardium",37.31
+658,3,"心外膜","epicardium",37.31
+658,3,"胸","thorax",34.4
+658,3,"胸膜","pleura",34.59
+658,2,"瘢痕(皮肤)","cicatrix (skin)",86.3
+658,2,"瘢痕疙瘩(瘢痕),皮肤","keloid (scar), skin",86.3
+658,2,"半月板(膝)","meniscus (knee)",80.6
+658,2,"颌骨","jaw",76.5
+658,2,"肩锁","acromioclavicular",80.91
+658,2,"肩锁骨的","sternoclavicular",80.91
+658,2,"颞下颌的(关节)","temporomandibular (joint)",76.5
+658,2,"腕","wrist",80.93
+658,2,"伴增殖腺切除术","with adenoidectomy",28.3
+658,2,"贝克囊肿,膝","Baker's cyst, knee",83.39
+658,2,"鼻唇囊肿","nasolabial cyst",27.49
+658,2,"鼻腭部囊肿","nasopalatine cyst",27.31
+658,3,"经广泛切除术","by wide excision",27.32
+658,2,"扁桃(腺)","tonsil",28.2
+658,2,"髌骨(完全)","patella (complete)",77.96
+658,3,"部分的","partial",77.86
+658,2,"病损(局部的)","lesion (local)",
+658,3,"奥狄括约肌","sphincter of Oddi",51.62
+658,4,"内镜的","endoscopic",51.64
+658,3,"鼻","nose",21.30
+658,4,"鼻内的","intranasal",21.31
+658,4,"皮肤","skin",21.32

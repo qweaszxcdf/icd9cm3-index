@@ -1,0 +1,168 @@
+page,level,chinese,english,code
+639,0,"O","O",
+639,1,"O'Donoghue 手术(膝关节三联修补术)","O'Donoghue operation (triad knee repair)",81.43
+639,1,"Ober(-Yount)手术(臀髂胫筋膜切开术)","Ober (-Yount) operation (gluteal-iliotibial fasciotomy)",83.14
+639,1,"OCT(光学相干性摄影术)(血管内成像)","OCT (optical coherence tomography) (intravascular imaging)",
+639,2,"非冠状血管","non-coronary vessel(s)",38.25
+639,2,"冠状血管","coronary vessel(s)",38.24
+639,1,"Olshausen 手术(子宫悬吊术)","Olshausen operation (uterine suspension)",69.22
+639,1,"OscarMiller 手术(跗骨间关节固定术)","Oscar Miller operation (midtarsal arthrodesis)",81.14
+639,1,"Osmond-Clark[奥斯蒙德-克拉克]手术(软组织松解伴腓骨短肌腱移植)","Osmond-Clark operation (soft tissue release with peroneus brevis tendon transfer)",83.75
+639,1,"Oxford 手术(用于泌尿系失禁)","Oxford operation (for urinary incontinence)",59.4
+639,1,"欧温手术—见 Irwin 手术","欧温手术— see Irwin operation",
+639,1,"欧文手术—见 Irving 手术","欧文手术— see Irving operation",
+639,0,"P","P",
+639,1,"Panas 手术(线形直肠切开术)","Panas operation (linear proctotomy)",48.0
+639,1,"Pancoast 手术(于卵圆孔处的三叉神经切断)","Pancoast operation (division of trigeminal nerve at foramen ovale)",04.02
+639,1,"Paquin 手术(输尿管肾囊肿吻合术)","Paquin operation (ureteroneocystostomy)",56.74
+639,1,"Partsch 手术(牙齿囊肿袋形缝合术)","Partsch operation (marsupialization of dental cyst)",24.4
+639,1,"Pattee 手术(耳道)","Pattee operation (auditory canal)",18.6
+639,1,"Peet 手术(内脏神经切除术)","Peet operation (splanchnic resection)",05.29
+639,1,"PEG(经皮内镜胃造口术)","PEG (percutaneous endoscopic gastrostomy)",43.11
+639,1,"PEGJJ(经皮内镜胃空肠造口术)","PEGJJ (percutaneous [endoscopic] gastrojejunostomy)",44.32
+639,1,"PEJ(经皮的内镜空肠造口术)","PEJ (percutaneous endoscopic jejunostomy)",46.32
+639,1,"Pemberton 手术","Pemberton operation",
+639,2,"髂骨骨切开术","osteotomy of ilium",77.39
+640,2,"直肠(松动术和固定,用于脱垂修补术)","rectum (mobilization and fixation for prolapse repair)",48.76
+640,1,"Pereyra 手术(尿道旁悬吊术)","Pereyra operation (paraurethral suspension)",59.6
+640,1,"PICC(经周围静脉插入中心静脉导管)","PICC (peripherally inserted central catheter)",38.93
+640,1,"Pinsker 手术(鼻中隔毛细血管扩张闭塞)","Pinsker operation (obliteration of nasoseptal telangiectasia)",21.07
+640,1,"Piper 手术(产钳)","Piper operation (forceps)",72.6
+640,1,"Pirogoff 手术(踝截断术,经胫腓骨踝)","Pirogoff operation (ankle amputation through malleoli of tibia and fibula)",84.14
+640,1,"Politano-Leadbetter 手术(输尿管肾囊肿吻合术)","Politano-Leadbetter operation (ureteroneocystostomy)",56.74
+640,1,"Polya 手术(胃切除术)","Polya operation (gastrectomy)",43.7
+640,1,"Pomeroy 手术(输卵管结扎和切断)","Pomeroy operation (ligation and division of fallopian tubes)",66.32
+640,1,"Poncet 手术","Poncet operation",
+640,2,"跟腱延长","lengthening of Achilles tendon",83.85
+640,2,"尿道造口术,会阴的","urethrostomy, perineal",58.0
+640,1,"Porro 手术(剖宫产术)","Porro operation (cesarean section)",74.99
+640,1,"PottsSmith 手术(降主动脉左肺动脉吻合术)","Potts-Smith operation (descending aorta-left pulmonary artery anastomosis)",39.0
+640,1,"PPN (周围的肠营养)","PPN (peripheral parenteral nutrition)",99.15
+640,1,"PPVI(经皮肺动脉瓣植入)","PPVI (percutaneous pulmonary valve implantation)",35.07
+640,1,"PrintenandMason 手术(高位胃旁路)","Printen and Mason operation (high gastric bypass)",44.31
+640,1,"PTCA(经皮经管腔冠状血管成形术)—见血管成形术,球囊,冠状","PTCA (percutaneous transluminal coronary angioplasty)-see Angioplasty, balloon, coronary",
+640,1,"Puestow 手术(胰空肠吻合术)","Puestow operation (pancreaticojejunostomy)",52.96
+640,1,"Pulmowrap","Pulmowrap",93.99
+640,1,"PuttiPlatt 手术(肩关节囊缝合术,用于复发性脱臼)","Putti-Platt operation (capsulorrhaphy of shoulder for recurrent dislocation)",81.82
+640,1,"PVAD (经皮的心室辅助装置)","pVAD (percutaneous ventricular assist device)",37.68
+640,1,"帕蒂普拉特手术—见 Putti-Platt 手术","帕蒂普拉特手术— see Putti-Platt operation",
+640,1,"帕蒂手术—见 Pattee 手术","帕蒂手术— see Pattee operation",
+640,1,"帕昆手术—见 Paquin 手术","帕昆手术— see Paquin operation",
+640,1,"帕纳手术—见 Panas 手术","帕纳手术— see Panas operation",
+641,1,"帕特施手术—见 Partsch 手术","帕特施手术— see Partsch operation",
+641,1,"排空术","Evacuation",
+641,2,"泪管链丝菌属","streptothrix from lacrimal duct",09.42
+641,2,"囊肿—另见切除术,病损,按部位","cyst-see also Excision, lesion, by site",
+641,3,"肝","liver",50.29
+641,3,"乳房","breast",85.91
+641,3,"肾","kidney",55.01
+641,2,"脓肿—见引流,按部位","abscess-see Drainage, by site",
+641,2,"盆腔血凝块(经切开)","pelvic blood clot (by incision)",54.19
+641,3,"经","by",
+641,4,"后穹窿穿刺术","culdocentesis",70.0
+641,4,"陷凹镜检查","culdoscopy",70.22
+641,2,"前房(眼)(水的)(眼前房出血)","anterior chamber (eye) (aqueous) (hyphema)",12.91
+641,2,"血肿—另见切开,血肿","hematoma-see also Incision, hematoma",
+641,3,"产科的","obstetrical",75.92
+641,4,"切开的","incisional",75.91
+641,2,"痔(形成血栓的)","hemorrhoids (thrombosed)",49.47
+641,2,"滞留胎盘","retained placenta",
+641,3,"伴刮宫","with curettage",69.02
+641,3,"手法的","manual",75.4
+641,1,"派姆伯敦手术—见 Pemberton 手术","派姆伯敦手术— see Pemberton operation",
+641,1,"派珀尔手术—见 Piper 手术","派珀尔手术— see Piper operation",
+641,1,"潘科斯特手术—见 Pancoast 手术","潘科斯特手术— see Pancoast operation",
+641,1,"襻镜检查(回肠通道)","Looposcopy (ileal conduit)",56.35
+641,1,"襻式回肠造口—另见回肠造口术","Loop ileal stoma (see also Ileostomy)",46.01
+641,1,"襻造影术","Loopogram",87.78
+641,1,"膀胱成形术 NEC","Cystoplasty NEC",57.89
+641,1,"膀胱缝合术","Cystorrhaphy",57.81
+641,1,"膀胱固定术 NEC","Cystopexy NEC",57.89
+641,1,"膀胱结肠吻合术","Cystocolostomy",57.88
+641,1,"膀胱结石切除术","Cystolithotomy",57.19
+641,1,"膀胱镜检查(经尿道)","Cystoscopy (transurethral)",57.32
+641,2,"伴活组织检查","with biopsy",57.33
+641,2,"回肠通道","ileal conduit",56.35
+641,2,"经造口(人工的)","through stoma (artificial)",57.31
+641,2,"用于","for",
+641,3,"出血控制","control of hemorrhage",
+641,4,"膀胱","bladder",57.93
+641,4,"前列腺","prostate",60.94
+641,2,"逆行的肾盂造影术","retrograde pyelography",87.74
+642,1,"膀胱内压图","Cystometrogram",89.22
+642,1,"膀胱尿道成形术","Cystourethroplasty, Vesicourethroplasty",57.85
+642,1,"膀胱尿道固定术(经)","Cystourethropexy (by)",59.79
+642,2,"耻骨后悬吊术","retropubic suspension",59.5
+642,2,"耻骨上悬吊术","suprapubic suspension",59.4
+642,2,"提肌悬吊","levator muscle sling",59.71
+642,1,"膀胱尿道镜检查","Cystourethroscopy",57.32
+642,2,"伴活组织检查","with biopsy",
+642,3,"膀胱","bladder",57.33
+642,3,"输尿管","ureter",56.33
+642,1,"膀胱尿道造影术(逆行的)(排空的)","Cystourethrogram (retrograde) (voiding)",87.76
+642,1,"膀胱前列腺切除术,根治","Cystoprostatectomy, radical",57.71
+642,1,"膀胱切开取石术(耻骨上)","Vesicolithotomy (suprapubic)",57.19
+642,1,"膀胱切开术(开放)(为了结石去除)","Cystotomy (open) (for removal of calculi)",57.19
+642,1,"膀胱三角区切除术","Trigonectomy",57.6
+642,1,"膀胱肾盂造影术","Cystopyelography",87.74
+642,1,"膀胱碎石洗出术","Cystolitholapaxy",57.0
+642,1,"膀胱造口术","Cystostomy",
+642,2,"闭合的(耻骨上)(经皮)","closed (suprapubic) (percutaneous)",57.17
+642,2,"耻骨上","suprapubic",
+642,3,"闭合性","closed",57.17
+642,3,"开放","open",57.18
+642,2,"经皮(闭合的)(耻骨上)","percutaneous (closed) (suprapubic)",57.17
+642,2,"开放(耻骨上)","open (suprapubic)",57.18
+642,1,"膀胱造口术","Vesicostomy",57.21
+642,1,"膀胱造影术,膀胱造影术 NEC","Cystogram, cystography NEC",87.77
+642,1,"膀胱直肠吻合术","Cystoproctostomy",57.88
+642,1,"旁路","Bypass",
+642,2,"动脉的(移植物)(心轴生长移植物)(静脉移植) NEC","arterial (graft) (mandril grown graft) (vein graft) NEC",39.29
+642,3,"腹内 NEC","intra-abdominal NEC",39.26
+642,3,"颈脊椎的","carotid-vertebral",39.28
+642,3,"颈脑的","carotid-cerebral",39.28
+642,3,"颅外-颅内[EC-IC]","extracranial-intracranial [EC-IC]",39.28
+642,3,"胸内 NEC","intrathoracic NEC",39.23
+642,3,"周围的 NEC","peripheral NEC",39.29
+642,3,"肺动脉","pulmonary",39.61
+642,4,"经皮的(闭合的)","percutaneous (closed)",39.66
+642,4,"开放性","open",39.61
+643,2,"分流","shunt",
+643,3,"肠","intestine",
+643,4,"大至大","large-to-large",45.94
+643,4,"小至大","small-to-large",45.93
+643,4,"小至小","small-to-small",45.91
+643,3,"胃","stomach",44.39
+643,4,"腹腔镜的","laparoscopic",44.38
+643,4,"高位胃","high gastric",44.31
+643,2,"腹冠状动脉","abdominal-coronary artery",36.17
+643,2,"高位胃","high gastric",44.31
+643,2,"冠状—另见旁路,主动脉冠状动脉","coronary-see also Bypass, aortocoronary",36.10
+643,2,"回肠-空肠","ileo-jejunal",45.91
+643,2,"回肠末端","terminal ileum",45.93
+643,2,"颈动脉-脊椎的","carotid-vertebral",39.28
+643,2,"颈动脉-脑的","carotid-cerebral",39.28
+643,2,"空肠-回肠","jejunal-ileum",45.91
+643,2,"颅外-颅内[EC-IC]","extracranial-intracranial [EC-IC]",39.28
+643,2,"乳房内-冠状动脉(单)","internal mammary-coronary artery (single)",36.13
+643,3,"双血管","double vessel",36.16
+643,2,"胃","gastric",44.39
+643,3,"腹腔镜","laparoscopic",44.38
+643,3,"高位","high",44.31
+643,3,"普林特和梅森","Printen and Mason",44.31
+643,2,"胃肠吻合术","gastroenterostomy",44.39
+643,3,"腹腔镜的","laparoscopic",44.38
+643,2,"胃十二指肠吻合术(雅布累)","gastroduodenostomy (Jaboulay's)",44.39
+643,3,"腹腔镜的","laparoscopic",44.38
+643,3,"经皮的[内镜的]","percutaneous [endoscopic]",44.32
+643,2,"胃网膜-冠状动脉","gastroepiploic-coronary artery",36.17
+643,2,"胃胃吻合术","gastrogastrostomy",44.39
+643,3,"腹腔镜的","laparoscopic",44.38
+643,2,"心-肺(完全)(部分)","heart-lung (complete) (partial)",39.61
+643,3,"经皮的(闭合的)","percutaneous (closed)",39.66
+643,3,"开放性","open",39.61
+643,2,"心肺动脉","cardiopulmonary",39.61
+643,3,"经皮的(闭合的)","percutaneous (closed)",39.66
+643,3,"开放性","open",39.61
+643,2,"血管的(动脉)(移植)(心轴生长移植物)(静脉移植) NEC","vascular (arterial) (graft) (mandril grown graft) (vein graft) NEC",39.29
+643,3,"动脉","arterial",39.26

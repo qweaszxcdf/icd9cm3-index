@@ -1,0 +1,178 @@
+page,level,chinese,english,code
+434,3,"伴组织粘连","with tissue adhesive",86.59
+434,2,"肾盂造口术","pyelostomy,pelviostomy",55.82
+434,2,"肾造口术","nephrostomy",55.82
+434,2,"十二指肠造口术","duodenostomy",46.51
+434,2,"食管造口术","esophagostomy",42.83
+434,2,"输尿管造口术","ureterostomy",56.83
+434,2,"撕裂—另见缝合,按部位","laceration-see also Suture, by site",
+434,3,"肝","liver",50.61
+434,2,"胃空肠吻合术","gastrojejunostomy",44.5
+434,2,"胃十二指肠吻合术","gastroduodenostomy",44.5
+434,2,"胃造口术","gastrostomy",44.62
+434,2,"纤维环","anulus fibrosus",80.54
+434,3,"伴移植物或假体","with graft or prosthesis",80.53
+434,2,"消化性溃疡(出血)(穿孔)","peptic ulcer (bleeding) (perforated)",44.40
+434,2,"心内膜垫缺损—另见修补术,心内膜垫缺损","endocardial cushion defect-see also Repair, endocardial cushion defect",35.73
+434,2,"胸廓造口术","thoracostomy",34.72
+434,2,"血管的","vascular",
+434,3,"经皮穿刺—省略编码","percutaneous puncture-omit code",
+434,2,"乙状结肠造口术","sigmoidostomy",46.52
+434,2,"阴道","vagina",70.8
+434,2,"造口","stoma",
+434,3,"肠","intestine",46.50
+434,4,"大的","large",46.52
+434,4,"小的","small",46.51
+434,3,"胆管","bile duct",51.79
+434,3,"胆囊","gallbladder",51.92
+434,3,"胆总管","common duct",51.72
+434,3,"肝管","hepatic duct",51.79
+434,3,"喉","larynx",31.62
+434,3,"尿道","urethra",58.42
+434,3,"膀胱","bladder",57.82
+434,3,"气管","trachea",31.72
+434,3,"肾","kidney",55.82
+434,3,"食管","esophagus",42.83
+434,3,"输尿管","ureter",56.83
+434,3,"胃","stomach",44.62
+434,3,"胸","thorax",34.72
+434,3,"支气管","bronchus",33.42
+434,3,"直肠","rectum",48.72
+434,2,"掌裂","palmar cleft",82.82
+434,2,"支气管造口术","bronchostomy",33.42
+435,2,"直肠造口术","rectostomy,proctostomy",48.72
+435,2,"主动脉肺动脉开窗术(瘘)","aorticopulmonary fenestration (fistula)",39.59
+435,2,"椎间盘环","annular disc",80.54
+435,3,"伴移植物或假体","with graft or prosthesis",80.53
+435,1,"闭塞","Occlusion",
+435,2,"动脉","artery",
+435,3,"通过结扎—见结扎,动脉","by ligation-see Ligation, artery",
+435,3,"通过栓塞—见栓塞,动脉","by embolization-see Embolization, artery",
+435,3,"通过血管内入路—见栓塞,动脉","by endovascular approach-see Embolization, artery",
+435,2,"动脉导管未闭(PDA)","patent ductus arteriosus (PDA)",38.85
+435,2,"静脉","vein",
+435,3,"通过结扎—见结扎,静脉","by ligation-see Ligation, vein",
+435,3,"通过栓塞—见栓塞,静脉","by embolization-see Embolization, vein",
+435,3,"通过血管内入路—见栓塞,静脉","by endovascular approach-see Embolization, vein",
+435,2,"腔静脉(外科手术的)","vena cava (surgical)",38.7
+435,2,"输卵管—见结扎,输卵管","fallopian tube-see Ligation, fallopian tube",
+435,1,"闭塞术","Obliteration",
+435,2,"颅骨脑凸出","sacral meningocoele",03.51
+435,2,"额窝(伴脂肪)","frontal sinus (with fat)",22.42
+435,2,"骨腔—另见骨成形术","bone cavity-see also Osteoplasty",78.40
+435,2,"鼓室乳突","tympanomastoid cavity",19.9
+435,2,"脊膨出(蛛网)","meningocoele (sacral)",03.51
+435,2,"泪点","lacrimal punctum",09.91
+435,2,"泪小管","canaliculi",09.6
+435,2,"淋巴结结构(周围的)","lymphatic structure(s) (peripheral)",40.9
+435,2,"脑脊髓液","cerebrospinal fistula",02.12
+435,2,"盆腔","pelvic",68.8
+435,2,"上颌窦","maxillary sinus",22.31
+435,2,"骨盆窦","calyceal diverticulum",55.39
+435,2,"斯基恩腺(女性尿道旁腺)","Skene's gland",71.3
+435,2,"胸膜腔","pleural cavity",34.6
+435,2,"腰部假性脊膜膨出","lumbar pseudomeningocele",03.51
+435,2,"阴道,阴道(部分的)(全部的)","vagina, vaginal (partial) (total)",70.4
+435,2,"穹窿部","vault",70.8
+435,2,"直肠子宫陷凹","cul-de-sac",70.92
+435,3,"伴移植物或假体","with graft or prosthesis",70.93
+435,1,"毕肖夫手术—见 Bischoff 手术","see Bischoff operation",
+435,1,"毕晓夫手术—见 Bischoff 手术","see Bischoff operation",
+435,1,"扁桃腺切除术","tonsillectomy",28.2
+436,2,"伴腺样体切除术","with adenoidectomy",28.3
+436,1,"扁桃腺切开术","Tonsillotomy",28.0
+436,1,"标测图","Mapping",
+436,2,"仅心电图","electrocardiogram only",89.52
+436,2,"心的(电生理)","cardiac (electrophysiologic)",37.27
+436,3,"多普勒(流向)","doppler (flow)",88.72
+436,1,"表层角膜镜片术","Epikeratophakia",11.76
+436,1,"宾尼手术—见 Binnie 手术","see Binnie operation",
+436,1,"髌骨成形术 NEC","Patellaplasty NEC",78.46
+436,1,"髌骨固定术","Patellapexy",78.46
+436,1,"髌骨切除术","Patellectomy",77.96
+436,2,"部分的","partial",77.86
+436,1,"冰冻","Freezing",
+436,2,"前列腺","prostate",60.62
+436,2,"胃","gastric",96.32
+436,1,"并指(趾)","Syndactylization",86.89
+436,1,"波茨-史密斯手术—见 PottsSmith 手术","see Potts-Smith operation",
+436,1,"波亚手术—见 Polya 手术","see Polya operation",
+436,1,"波利坦诺-利德贝特手术—见 PolitanoLeadbetter 手术","see Politano-Leadbetter operation",
+436,1,"波罗手术—见 Porro 手术","see Porro operation",
+436,1,"波默罗手术—见 Pomeroy 手术","see Pomeroy operation",
+436,1,"玻璃体切除术(机械性)(后入路)","Vitrectomy (mechanical) (posterior approach)",14.74
+436,2,"伴巩膜环扎术","with scleral buckling",14.49
+436,2,"前的人路","anterior approach",14.73
+436,1,"剥膜术—见切开，按部位","Uncovering-see Incision, by site",
+436,1,"剥脱术","Stripping",
+436,2,"骨—另见切开,骨","bone-see also Incision, bone",77.10
+436,2,"筋膜","fascia",83.14
+436,2,"手","hand",82.12
+436,3,"颈动脉窦","carotid sinus",39.89
+436,3,"静脉曲张(下肢)","varicose veins (lower limb)",38.59
+436,3,"上肢","upper limb",38.53
+436,2,"颅缝合","cranial suture",02.01
+436,2,"膜,用于手术诱发分娩","membranes for surgical induction of labor",73.1
+436,2,"脑膜(脑的)","meninges (cerebral)",01.51
+436,3,"脊髓的","spinal",03.4
+436,2,"声带","vocal cords",30.09
+436,2,"隐静脉,静脉曲张","saphenous vein, varicose",38.59
+437,2,"硬膜下的(脑的)","subdural membrane (cerebral)",01.51
+437,2,"脊髓的","spinal",03.4
+437,1,"博阿里手术—见 Boari 手术","see Boari operation",
+437,1,"博斯特手术—见 Bost 手术","see Bost operation",
+437,1,"博斯沃斯手术—见 Bosworth 手术","see Bosworth operation",
+437,1,"博藤手术—见 Borthen 手术","see Borthen operation",
+437,1,"博伊德手术—见 Boyd 手术","see Boyd operation",
+437,1,"伯吉斯手术—见 Burgess 手术","see Burgess operation",
+437,1,"伯克手术—见 Berke 手术","see Berke operation",
+437,1,"补片","Patch",
+437,2,"脊髓的,血(硬膜外的)","spinal, blood (epidural)",03.95
+437,2,"血,脊髓的(硬膜外的)","blood, spinal (epidural)",03.95
+437,2,"移植—见移植物","graft-see Graft",
+437,2,"硬膜下的,脑的","subdural, brain",02.12
+437,1,"不对称 X 射线片—见扫描,放射性核素","Asymmetrogramagram-see Scan, radioisotope",
+437,1,"不全骨折,鼻甲(鼻的)","Infraction, turbinates (nasal)",21.62
+437,2,"布尔孔—见 Burr 孔","see Burr hole",
+437,2,"布拉斯科维奇手术—见 Blascovic 手术","see Blascovic operation",
+437,2,"布莱洛克手术—见 Blalock 手术","see Blalock operation",
+437,2,"布莱洛克-汉里恩手术—见 BlalockHanlion 手术","see Blalock-Hanlion operation",
+437,2,"布莱洛克-陶西格手术—见 BlalockTaussig 手术","see Blalock-Taussig operation",
+437,2,"布朗(-丹尼斯)手术—见 Browne (-Denis) 手术","see Browne (-Denis) operation",
+437,2,"布朗特手术—见 Blount 手术","see Blount operation",
+437,2,"布朗施韦格手术—见 Brunschwig 手术","see Brunschwig operation",
+437,2,"布劳尔手术—见 Brauer 手术","see Brauer operation",
+437,2,"布里克手术—见 Bricker 手术","see Bricker operation",
+437,2,"布里斯托手术—见 Bristow 手术","see Bristow operation",
+437,2,"布洛克手术—见 Brock 手术","see Brock operation",
+437,1,"步态训练","Gait training",93.22
+437,0,"C","C",
+437,1,"C. A. T.(计算机轴向 X 线断层摄影术)","C. A. T. (computerized axial tomography)",88.38
+437,1,"Caldwell 手术(颊唇沟或舌沟牵伸术)","Caldwell operation (sulcus extension)",24.91
+437,1,"Caldwell-Luc 手术(上颌窦切开术)","Caldwell-Luc operation (maxillary sinusotomy)",22.39
+438,1,"伴膜材切除术","with removal of membrane lining",22.31
+438,1,"Callander 手术(膝关节离断)","Callander operation (knee disarticulation)",84.16
+438,1,"Campbell 手术","Campbell operation",
+438,2,"筋膜切开术(髂嵴)","fasciotomy (iliac crest)",83.14
+438,2,"前交叉韧带重建术","reconstruction of anterior cruciate ligament",81.45
+438,2,"融合术,踝","bone block, ankle",81.11
+438,1,"Cardio West 暂时完全人工心脏","Cardio West™ Total Temporary Artificial Heart (TAH-t)",37.52
+438,1,"Carroll 和 Taber 关节成形术(近端指(趾)间关节)","Carroll and Taber arthroplasty (proximal interphalangeal joint)",81.72
+438,1,"Cattell 手术(疝修补术)","Cattell operation (herniorrhaphy)",53.51
+438,1,"CCM(植入心脏收缩力调节装置)","CCM (implantation of cardiac contractility modulation)",
+438,2,"仅是可充电的脉冲发生器","rechargeable pulse generator only",17.52
+438,2,"全系统","total system",17.51
+438,1,"Cecil 手术(尿道再建术)","Cecil operation (urethral reconstruction)",58.46
+438,1,"CentriMag 急性循环支持装置","CentriMag® acute circulatory support device",37.62
+438,1,"Chandler 手术(髋融合术)","Chandler operation (hip fusion)",81.21
+438,1,"Charles 手术(淋巴水肿矫正术)","Charles operation (correction of lymphedema)",40.9
+438,1,"Charnley 手术(加压关节固定术)","Charnley operation (compression arthrodesis)",
+438,2,"踝","ankle",81.11
+438,2,"髋","hip",81.21
+438,2,"膝","knee",81.22
+438,1,"Cheatle-Henry 手术—见修补术、疝、股的","Cheatle-Henry operation-see Repair, hernia, femoral",
+438,1,"Chevalier-Jackson 手术(部分喉切除术)","Chevalier-Jackson operation (partial laryngectomy)",30.29
+438,1,"Child 手术(胰腺大部根治切除术)","Child operation (radical subtotal pancreatectomy)",52.53
+438,1,"Chopart 手术(踝骨间的截断术)","Chopart operation (midtarsal amputation)",84.12
+438,1,"Clagett 手术(皮瓣开放引流术后的胸壁闭合)","Clagett operation (closure of chest wall following open flap drainage)",34.72
+438,1,"Clayton 手术(胫骨头和跖骨底部切除术)","Clayton operation (resection of metatarsal heads and bases of phalanges)",77.88

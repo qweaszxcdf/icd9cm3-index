@@ -1,0 +1,187 @@
+page,level,chinese,english,code
+809,3,"胸的NEC","thoracic NEC",38.05
+809,2,"空肠","jejunum",45.02
+809,2,"眶-另见眶切开术","orbit-see also Orbitotomy",16.09
+809,2,"泪的","lacrimal",
+809,3,"囊","sac",09.53
+809,3,"腺","gland",09.0
+809,2,"淋巴结构(管道)(结)(管)","lymphatic structure(s) (channel) (node) (vessel)",40.0
+809,2,"颅骨","cranium",01.24
+809,2,"脉络膜","choroid",14.9
+809,2,"脑(组织)","brain (tissue)",01.39
+809,2,"脑垂体","hypophysis",07.72
+809,2,"黏液囊","bursa",83.03
+809,3,"手","hand",82.03
+809,2,"尿道(经切开)","urethra (by incision)",58.0
+809,3,"内镜的","endoscopic",58.22
+809,2,"膀胱(经切开)","bladder (by incision)",57.19
+809,3,"内镜的","endoscopic",57.32
+809,4,"经造口(人工的)","through stoma (artificial)",57.31
+809,2,"膀胱周组织","perivesical tissue",59.19
+809,2,"盆腔(经剖腹手术)","pelvis (by laparotomy)",54.11
+809,3,"经阴道切开术","by colpotomy",70.12
+809,2,"脾","spleen",41.2
+809,2,"皮肤","skin",86.09
+809,2,"皮下组织","subcutaneous tissue",86.09
+809,2,"剖腹手术部位","laparotomy site",54.12
+809,2,"气管(经切开)","trachea (by incision)",31.3
+809,3,"内镜-见气管镜检查","endoscopic-see Tracheoscopy",
+809,2,"前列腺","prostate",60.0
+809,2,"前列腺周围的组织","periprostatic tissue",60.81
+809,2,"乳房","breast",85.0
+809,2,"乳突","mastoid",20.21
+809,2,"软组织NEC","soft tissue NEC",83.09
+809,3,"手","hand",82.09
+809,2,"筛窦","ethmoid sinus",22.51
+809,2,"上颌窦(考德威尔卢克入路)","maxillary antrum or sinus (Caldwell-Luc approach)",22.39
+809,2,"神经(颅的)(周围的)NEC","nerve (cranial) (peripheral) NEC",04.04
+809,3,"耳的","auditory",04.01
+809,3,"根(脊髓的)","root (spinal)",03.09
+809,2,"肾","kidney",55.01
+809,3,"盆腔","pelvis",55.11
+810,2,"阴囊","scrotum",61.0
+810,2,"支气管","bronchus",33.0
+810,3,"内镜-见支气管镜检查","endoscopic-see Bronchoscopy",
+810,2,"直肠-另见直肠镜检查","rectum-see also Proctoscopy",48.23
+810,3,"经切开","by incision",48.0
+810,2,"直肠子宫陷凹","cul-de-sac",70.12
+810,3,"内镜的","endoscopic",70.22
+810,2,"中耳(经鼓室的)","middle ear (transtympanic)",20.23
+810,2,"周围血管","peripheral vessels",
+810,3,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+810,3,"下肢","lower limb",
+810,4,"动脉","artery",38.08
+810,4,"静脉","vein",38.09
+810,2,"椎间盘间隙","disc space",03.09
+810,2,"子宫(体)","uterus (corpus)",68.0
+810,3,"产后的,手法的","postpartal, manual",75.7
+810,3,"指法的","digital",68.11
+810,3,"子宫颈","cervix",69.95
+810,2,"纵隔","mediastinum",34.1
+810,3,"内镜","endoscopic",34.22
+810,1,"探通术","Probing",
+810,2,"鼻泪管(伴冲洗)","nasolacrimal duct (with irrigation)",09.43
+810,3,"伴管或支架插入","with insertion of tube or stent",09.44
+810,2,"泪的","lacrimal",
+810,3,"点(伴冲洗)","punctum (with irrigation)",09.41
+810,3,"泪小管","canaliculi",09.42
+810,2,"泪小管,泪的(伴冲洗)","canaliculus, lacrimal (with irrigation)",09.42
+810,2,"涎腺管(用于扩张管)(为了去除结石)","salivary duct (for dilation of duct) (for removal of calculus)",26.91
+810,3,"伴切开","with incision",26.0
+810,1,"探子通道,尿道","Passage of sounds, urethra",58.6
+810,1,"弹力袜","Elastic hosiery",93.59
+810,1,"汤姆金斯手术-见 Tomkins 手术","汤姆金斯手术-see Tomkins operation",
+810,1,"汤普森手术-见 Thompson 手术","汤普森手术-see Thompson operation",
+810,1,"糖蛋白I B/IIIa 抑制剂","Glycoprotein I B/IIIa inhibitor",99.20
+810,1,"套管插入术-另见插入,导管","Cannulation, Cannulization-see also Insertion, catheter",
+810,2,"鼻窦(经穿刺)","nasal sinus (by puncture)",22.01
+810,3,"经自然腔口","through natural ostium",22.02
+810,2,"动静脉","arteriovenous",39.93
+810,2,"动脉","artery",38.91
+811,3,"窦(鼻的)(经穿刺)","sinus (nasal) (by puncture)",22.01
+811,4,"经自然腔口","through natural ostium",22.02
+811,3,"窦","antrum",22.01
+811,3,"耳咽管","Eustachian tube",20.8
+811,3,"法特壶腹","ampulla of Vater",51.99
+811,3,"泪器","lacrimal apparatus",09.42
+811,3,"淋巴管,左(胸)","lymphatic duct, left (thoracic)",40.61
+811,3,"脾肾的(静脉)","splenorenal (venous)",39.1
+811,4,"动脉","arterial",39.26
+811,3,"腔静脉肠系膜静脉","caval-mesenteric vein",39.1
+811,3,"乳糜池","cisterna chyli",40.61
+811,3,"肾静脉门静脉的","renoportal",39.1
+811,3,"胸管(颈入路)(胸入路)","thoracic duct (cervical approach) (thoracic approach)",40.61
+811,3,"胰腺管(置换)","pancreatic duct",52.92
+811,4,"经逆行内镜检查(ERP)","by retrograde endoscopy (ERP)",52.93
+811,1,"特科手术-见 Turco 手术","特科手术-see Turco operation",
+811,1,"特劳纳手术-见 Trauner 手术","特劳纳手术-see Trauner operation",
+811,1,"提尔施手术-见 Thiersch 手术","提尔施手术-see Thiersch operation",
+811,1,"提起,移植蒂","Raising, pedicle graft",86.71
+811,1,"提升","Elevation",
+811,2,"带蒂皮瓣移植","pedicle graft",86.71
+811,2,"骨片(骨折的)","bone fragments (fractured)",
+811,3,"窦(鼻的)","sinus (nasal)",
+811,4,"额的","frontal",22.79
+811,4,"上颌","maxillary",22.79
+811,3,"脊髓的","spinal",03.53
+811,3,"眶","orbit",76.79
+811,3,"颅骨(伴清创术)","skull (with debridement)",02.02
+811,1,"体层照相术,断层照相术-见放射照相术","Laminography-see Radiography",
+811,1,"体积描记(颈动脉)","Plethysmogram (carotid)",89.58
+811,2,"差异的","differential",89.58
+811,2,"充气(气的)","air-filled (pneumatic)",89.58
+811,2,"充水的","water-filled",89.58
+811,2,"光电的","photoelectric",89.58
+811,2,"呼吸功能测量(体)","respiratory function measurement (body)",89.38
+811,2,"节段的","segmental",89.58
+811,2,"静脉闭塞","venous occlusion",89.58
+811,2,"脑的","cerebral",89.58
+811,2,"区域性","regional",89.58
+811,2,"容量","capacitance",89.58
+812,2,"胸阻抗","thoracic impedance",89.38
+812,2,"眼体积描记","oculoplethysmogram",89.58
+812,2,"阴茎","penile",89.58
+812,2,"应变量表","strain-gauge",89.58
+812,1,"体积描记术","Plethysmography",
+812,2,"CaverMap","CaverMap™",89.58
+812,2,"阴茎","penile",89.58
+812,1,"体外","Extracorporeal",
+812,2,"光细胞分离法,治疗性","photopheresis, therapeutic",99.88
+812,2,"膜氧化(ECMO)","membrane oxygenation (ECMO)",39.65
+812,2,"体外克波碎石(ESWL)NEC","shockwave lithotripsy (ESWL) NEC",98.59
+812,3,"胆道","bile duct",98.52
+812,3,"胆囊","gallbladder",98.52
+812,3,"膀胱","bladder",98.51
+812,3,"肾","kidney",98.51
+812,3,"肾盂","renal pelvis",98.51
+812,3,"输尿管","ureter",98.51
+812,3,"特指部位NEC","specified site NEC",98.59
+812,2,"血液透析","hemodialysis",39.95
+812,2,"循环(区域性),除外肝的","circulation (regional), except hepatic",39.61
+812,3,"肝的","hepatic",50.92
+812,3,"经皮的","percutaneous",39.66
+812,1,"体外肝辅助","Hepatic assistance, extracorporeal",50.92
+812,1,"替罗非班(HCL),输注","Tirofiban (HCL), infusion",99.20
+812,1,"填充,牙(汞合金)(塑料)(硅酸盐)","Filling, tooth (amalgam) (plastic) (silicate)",23.2
+812,2,"根管-另见疗法,根管","root canal-see also Therapy, root canal",23.70
+812,1,"填塞","Tamponade",
+812,2,"宫内(非产科)","intrauterine (nonobstetric)",69.91
+812,3,"产前","antepartum",73.1
+812,3,"分娩或流产后","after delivery or abortion",75.8
+812,2,"食管","esophageal",96.06
+812,2,"阴道","vagina",96.14
+812,3,"产前","antepartum",73.1
+812,3,"分娩或流产后","after delivery or abortion",75.8
+812,1,"填塞-另见插入,塞子","Packing-see also Insertion, pack",
+812,2,"鼻,用于鼻出血(前的)","nose, for epistaxis (anterior)",21.01
+812,3,"后的(和前的)","posterior (and anterior)",21.02
+812,2,"蝶鞍","sella turcica",07.79
+812,2,"耳道","auditory canal",96.11
+812,2,"阴道的","vaginal",96.14
+813,1,"Urban(胸膜内法)手术(乳房切除术)(单侧)","Urban operation (mastectomy) (unilateral)",85.47
+813,2,"双侧的","bilateral",85.48
+813,1,"UVP(悬雍垂腭咽成形术)","UVP (uvulopalatopharyngoplasty)",27.69[29.4]
+813,1,"V-Y 手术(修补术)","V-Y operation (repair)",
+813,2,"唇","lip",27.59
+813,2,"睑外翻","ectropion",08.44
+813,2,"膀胱","bladder",57.89
+813,3,"颈","neck",57.85
+813,2,"皮肤(不伴移植)","skin (without graft)",86.89
+813,2,"皮下组织(不伴皮肤移植)","subcutaneous tissue (without skin graft)",86.89
+813,2,"舌","tongue",25.59
+813,1,"VAD(血管通路装置)","VAD",
+813,2,"心室辅助装置-见植入,心脏辅助系统","ventricular assist device-see Implant, heart assist system",
+813,2,"血管通路装置见血管通路装置,全部可植入的","vascular access device-see Vascular access device, totally implantable",
+813,1,"VEP(视觉诱发电位)","VEP (visual evoked potential)",95.23
+813,1,"VH™IVUS-见超声,侵入性,按部位","VH™-IVUS-see Ultrasound, intravascular, by site",
+813,1,"Vicq D'azyr 手术(喉)","Vicq D'azyr operation (larynx)",31.1
+813,1,"Vidal 手术(精索静脉曲张结扎术)","Vidal operation (varicocele ligation)",63.1
+813,1,"von Kraske 手术(直肠切除术)","von Kraske operation (proctectomy)",48.64
+813,1,"Voss 手术(髋悬吊手术)","Voss operation (hanging hip operation)",83.19
+813,1,"Vulpius(-Compere)手术(腓肠肌延长术)","Vulpius (-Compere) operation (lengthening of gastrocnemius muscle)",83.85
+813,1,"Wada 测验(半球功能)","Wada test (hemispheric function)",89.10
+813,1,"Ward-Mayo 手术(阴道子宫切除术)","Ward-Mayo operation (vaginal hysterectomy)",68.59
+813,2,"腹腔镜辅助(LAVH)","laparoscopically assisted (LAVH)",68.51
+813,1,"Waterston 手术(主动脉右肺动脉吻合术)","Waterston operation (aorta-right pulmonary artery anastomosis)",39.0
+813,1,"Watkins(-Wertheim)手术(子宫间置术)","Watkins (-Wertheim) operation (uterus interposition)",69.21
+813,1,"Watson-Jones 手术","Watson-Jones operation",

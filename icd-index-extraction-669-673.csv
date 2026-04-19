@@ -1,0 +1,191 @@
+page,level,chinese,english,code
+669,3,"特指类型 NEC","specified type NEC",32.29
+669,4,"内镜的","endoscopic",32.28
+669,5,"胸腔镜的","thoracoscopic",32.20
+669,3,"楔形","wedge",32.29
+669,4,"胸腔镜的","thoracoscopic",32.20
+669,3,"胸腔镜的","thoracoscopic",32.50
+669,3,"肺大泡(气肿性的),肺","bleb (emphysematous), lung",32.29
+669,4,"内镜","endoscopic",32.28
+669,5,"胸腔镜的","thoracoscopic",32.20
+669,3,"脓和脓腔","empyema pocket, lung",34.09
+669,3,"附睾","epididymis",63.4
+669,3,"副组织—另见切除术,病损,按组织来源的部位","accessory tissue-see also Excision, lesion, by site of tissue origin",
+669,4,"肺","lung",32.29
+669,5,"内镜","endoscopic",32.28
+669,6,"胸腔镜的","thoracoscopic",32.20
+669,3,"脾","spleen",41.93
+669,3,"肝(部分)","liver (partial)",50.22
+669,3,"肛门(完全)(部分)","anus (complete) (partial)",49.6
+669,3,"肛门乳头","anal papilla",49.39
+669,4,"内镜的","endoscopic",49.31
+669,3,"肛周组织","perianal tissue",49.04
+669,3,"皮肤附属物","skin tags",49.03
+669,3,"骨(末端)(部分),除外面—见亚目","bone (ends) (partial), except facial-see subcategory",77.8
+669,4,"骨刺—见切除术,病损,骨","spur-see Excision, lesion, bone",
+669,4,"面 NEC","facial NEC",76.39
+669,5,"全部","total",76.45
+669,6,"伴再建造术","with reconstruction",76.44
+669,4,"全部,除外面部—见亚目","total, except facial-see subcategory",77.9
+669,5,"面的 NEC","facial NEC",76.45
+669,6,"伴再建造术","with reconstruction",76.44
+669,4,"下颌骨","mandible",76.42
+669,5,"伴再建造术","with reconstruction",76.41
+669,4,"碎片(片屑)—另见切开,骨","fragments (chips)-see also Incision, bone",77.10
+669,4,"关节—另见关节切开术","joint-see also Arthrotomy",80.10
+669,4,"坏死的—另见死骨切除术,骨","necrotic-see also Sequestrectomy, bone",77.00
+669,4,"下颌骨","mandible",76.31
+669,5,"伴关节固定术—见关节固定术","with arthrodesis-see Arthrodesis",
+669,5,"全部","total",76.42
+670,6,"伴再建造术","with reconstruction",76.41
+670,4,"异位的,自","heterotopic, from",
+670,5,"肌肉","muscle",83.32
+670,6,"手","hand",82.22
+670,5,"腱","tendon",83.31
+670,6,"手","hand",82.21
+670,5,"皮肤","skin",86.3
+670,4,"用于移植(自体移植)(自体移植)—见亚目","for graft (autograft) (homograft)-see subcategory",77.7
+670,3,"骨化性肌炎","myositis ossificans",83.32
+670,4,"手","hand",82.22
+670,3,"骨软骨炎切除—另见切除术,病损,关节","osteochondritis dissecans-see also Excision, lesion, joint",80.80
+670,3,"关节—另见关节切除术","joint-see also Arthrectomy",80.90
+670,3,"管","duct",
+670,4,"副中肾","paramesonephric",69.19
+670,4,"甲状舌管(伴舌骨切除术)","thyroglossal (with resection of hyoid bone)",06.7
+670,4,"苗勒管","mullerian",69.19
+670,3,"管内乳头状瘤","intraductal papilloma",85.21
+670,3,"汗腺","sweat gland",86.3
+670,3,"颌下腺—另见切除术,涎液腺","submaxillary gland-see also Excision, salivary gland",26.30
+670,3,"横膈","diaphragm",34.81
+670,3,"虹膜脱出(伤口中)","prolapsed iris (in wound)",12.13
+670,3,"虹膜脱垂","iris prolapse",12.13
+670,3,"后发性膜,晶状体","secondary membrane, lens",13.65
+670,3,"黄瘤(腱鞘,手)","xanthoma (tendon sheath, hand)",82.21
+670,4,"除手以外的部位","site other than hand",83.31
+670,3,"黄韧带(脊柱)—省略编码","ligamentum flavum (spine)-omit code",
+670,3,"会厌","epiglottis",30.21
+670,3,"肌","muscle",83.45
+670,4,"手","hand",82.36
+670,5,"用于移植","for graft",82.34
+670,5,"用于移植","for graft",83.43
+670,6,"手","hand",82.34
+670,3,"基底神经节","basal ganglion",01.59
+670,3,"积水","hydrocele",
+670,4,"睾丸鞘膜","tunica vaginalis",61.2
+670,4,"精索","spermatic cord",63.1
+670,4,"男性","male",63.1
+670,4,"努克管(女性)","canal of Nuck (female)",69.19
+671,4,"圆韧带","round ligament",69.19
+671,3,"棘球囊肿,肝","hydatid cyst, liver",50.29
+671,3,"脊突","spinous process",77.89
+671,3,"颊黏膜","buccal mucosa",27.49
+671,3,"甲状旁腺(部分)(大部) NEC—另见甲状旁腺切除术","parathyroid gland (partial) (subtotal) NEC-see also Parathyroidectomy",06.89
+671,3,"甲状舌管或管道(伴舌骨切除术)","thyroglossal duct or tract (with resection of hyoid bone)",06.7
+671,3,"甲状腺 NEC—另见甲状腺切除术","thyroid NEC-see also Thyroidectomy",06.39
+671,3,"甲状腺肿—见甲状腺切除术","goiter-see Thyroidectomy",
+671,4,"尖,心脏瓣膜","cusp, heart valve",35.10
+671,4,"二尖瓣的","mitral",35.12
+671,4,"三尖瓣","tricuspid",35.14
+671,4,"主动脉","aortic",35.11
+671,3,"睑板(眼睑)","tarsal plate (eyelid)",08.20
+671,4,"经楔形切除术","by wedge resection",08.24
+671,3,"睑板腺囊肿(多发)(单)","chalazion (multiple) (single)",08.21
+671,3,"腱(鞘)","tendon (sheath)",83.42
+671,4,"手","hand",82.33
+671,5,"用于移植","for graft",82.32
+671,5,"用于移植","for graft",83.41
+671,6,"手","hand",82.32
+671,3,"间隔—另见切除术,按部位","septum-see also Excision, by site",
+671,4,"阴道","vagina",70.33
+671,4,"子宫(先天性的)","uterus (congenital)",68.22
+671,3,"腱膜","aponeurosis",83.42
+671,4,"手","hand",82.33
+671,3,"角膜","cornea",11.49
+671,4,"上皮(用化学烙术)","epithelium (with chemocauterization)",11.41
+671,5,"用于涂片或培养","for smear or culture",11.21
+671,3,"睫毛底","cilia base",08.20
+671,3,"结膜环","conjunctival ring",10.31
+671,3,"睫状体,脱垂","ciliary body, prolapsed",12.98
+671,3,"筋膜","fascia",83.44
+671,4,"手","hand",82.35
+671,5,"用于移植","for graft",82.34
+671,5,"用于移植","for graft",83.43
+671,6,"手","hand",82.34
+671,3,"精囊","seminal vesicle",60.73
+671,4,"伴根治前列腺切除术","with radical prostatectomy",60.5
+671,3,"精索静脉曲张","varicocele, spermatic cord",63.1
+672,3,"精子囊肿","spermatocele",63.2
+672,3,"颈","cervical",
+672,4,"残端","stump",67.4
+672,4,"肋","rib",77.91
+672,3,"颈动脉体(病损)(部分)(全部)","carotid body (lesion) (partial) (total)",39.89
+672,3,"颈静脉球瘤","glomus jugulare tumor",20.51
+672,3,"静脉—另见静脉切除术","vein-see also Phlebectomy",38.60
+672,4,"静脉曲张","varicose",38.50
+672,5,"腹的","abdominal",38.57
+672,5,"颅内的 NEC","intracranial NEC",38.51
+672,5,"卵巢","ovarian",38.67
+672,5,"上肢","upper limb",38.53
+672,5,"头和颈 NEC","head and neck NEC",38.52
+672,5,"下肢","lower limb",38.59
+672,5,"胸的 NEC","thoracic NEC",38.55
+672,3,"髁—见亚目","condyle-see subcategory",77.8
+672,4,"下颌骨","mandible",76.5
+672,3,"眶内容物—另见去眶术,眶","orbital contents-see also Exenteration, orbit",16.59
+672,3,"溃疡—另见切除术,病损,按部位","ulcer-see also Excision, lesion, by site",
+672,4,"十二指肠","duodenum",45.31
+672,5,"内镜的","endoscopic",45.30
+672,4,"胃","stomach",43.42
+672,5,"内镜的","endoscopic",43.41
+672,3,"阔韧带","broad ligament",69.19
+672,3,"阑尾—另见阑尾切除术","appendix-see also Appendectomy",
+672,4,"附睾","epididymis",63.3
+672,4,"睾丸","testis",62.2
+672,4,"阑尾残端","appendiceal stump",47.09
+672,5,"腹腔镜的","laparoscopic",47.01
+672,3,"肋骨(颈)","rib (cervical)",77.91
+672,3,"肋软骨","costal cartilage",80.99
+672,3,"泪的","lacrimal",
+672,4,"囊","sac",09.6
+672,4,"通道","passage",09.6
+672,4,"腺","gland",09.20
+672,5,"部分的","partial",09.22
+672,5,"全部的","total",09.23
+672,3,"镰状韧带","falciform ligament",54.4
+672,3,"裂,肛门","fissure, anus",49.39
+672,4,"内镜","endoscopic",49.31
+672,3,"淋巴,淋巴的","lymph, lymphatic",
+673,4,"结(单纯) NEC","node (simple) NEC",40.29
+673,5,"伴","with",
+673,6,"肌肉和深筋膜—见切除术,淋巴,结,根治","muscle and deep fascia-see Excision, lymph, node, radical",
+673,5,"淋巴引流区(包括皮肤,皮下组织和脂肪)","lymphatic drainage area (including skin subcutaneous tissue and fat)",40.3
+673,6,"乳房切除术—见乳房切除术,根治","mastectomy-see Mastectomy, radical",
+673,6,"腹股沟","groin",40.24
+673,7,"根治性","radical",40.54
+673,7,"区域性(扩大)","regional (extended)",40.3
+673,6,"腹股沟的(深的)(表浅的)","inguinal (deep) (superficial)",40.24
+673,7,"根治性","radical",40.54
+673,7,"区域性(扩大)","regional (extended)",40.3
+673,6,"根治性","radical",40.50
+673,6,"伴乳房切除术—乳乳房切除术,根治性","with mastectomy-see Mastectomy, radical",
+673,5,"特指部位 NEC","specified site NEC",40.59
+673,5,"颈(深)(伴斜角肌脂肪垫切除术)","cervical (deep) (with excision of scalene fat pad)",40.21
+673,6,"伴喉切除术","with laryngectomy",30.4
+673,6,"表浅的","superficial",40.29
+673,6,"根治(包括肌和深筋膜)","radical (including muscle and deep fascia)",40.40
+673,7,"单侧","unilateral",40.41
+673,7,"双侧","bilateral",40.42
+673,7,"区域性(扩大)","regional (extended)",40.3
+673,6,"颈的—见切除术,淋巴,结,颈的","jugular-see Excision, lymph, node, cervical",
+673,6,"气管旁的—见切除术,淋巴,结,颈的","paratracheal-see Excision, lymph, node, cervical",
+673,5,"髂的","iliac",40.29
+673,6,"根治性","radical",40.53
+673,6,"区域性(扩大的)","regional (extended)",40.3
+673,5,"区域性(扩大的)","regional (extended)",40.3
+673,5,"乳房的(内部的)","mammary (internal)",40.22
+673,6,"根治性","radical",40.59
+673,6,"区域性(扩大)","regional (extended)",40.3
+673,5,"外的","external",40.29
+673,6,"根治性","radical",40.59
+673,6,"区域性(扩大的)","regional (extended)",40.3
+673,5,"胸骨的—见切除术,淋巴,结,乳房","stern al-see Excision, lymph, node, mammary",

@@ -1,0 +1,190 @@
+page,level,chinese,english,code
+829,3,"心肌","myocardium",36.2
+829,2,"胸膜硬脊膜的(伴有瓣)","pleurothecal (with valve)",03.79
+829,2,"胸内血管 NEC","intrathoracic vessel NEC",39.23
+829,2,"胰(管)(与)","pancreas (duct) (to)",52.96
+829,3,"肠","intestine",52.96
+829,3,"胆管","bile duct",51.39
+829,3,"胆囊","gall bladder",51.33
+829,3,"空肠","jejunum",52.96
+829,3,"胃","stomach",52.96
+829,2,"支气管","bronchus",33.48
+829,2,"支气管气管","bronchotracheal",33.48
+829,2,"直肠 NEC","rectum, rectal NEC",48.74
+829,2,"残端与小肠","stump to small intestine",45.92
+829,2,"主动脉(降)肺动脉(动脉)","aorta (descending)-pulmonary (artery)",39.0
+829,2,"主动脉(髂动脉)股动脉","aorto(ilio)femoral",39.25
+829,2,"主动脉肠系膜动脉","aortomesenteric",39.26
+829,2,"主动脉腹动脉","aortoceliac",39.26
+829,2,"主动脉肾动脉","aorta-renal artery",39.24
+829,2,"主动脉锁骨下动脉","aorta-subclavian artery",39.22
+829,2,"蛛网膜下腹膜的(伴有瓣)","subarachnoid-peritoneal (with valve)",03.71
+829,2,"蛛网膜下输尿管的(伴有瓣)","subarachnoid-ureteral (with valve)",03.72
+829,2,"左右(体动脉肺动脉)","left-to-right (systemic-pulmonary artery)",39.0
+829,1,"沃德-梅奥手术—见 WardMayo 手术","沃德-梅奥手术-see Ward-Mayo operation",
+829,1,"沃森-琼斯手术—见 WatsonJones 手术","沃森-琼斯手术-see Watson-Jones operation",
+829,1,"沃森(-沃特海姆)手术—见 Watkins(Wertheim)手术","沃森 (-沃特海姆) 手术-see Watkins (-Wertheim) operation",
+829,1,"沃斯手术—见 Voss 手术","沃斯手术-see Voss operation",
+829,1,"沃特海姆手术—见 Wertheim 手术","沃特海姆手术-see Wertheim operation",
+829,1,"沃特斯顿手术—见 Waterston 手术","沃特斯顿手术-see Waterston operation",
+829,1,"握力","Grip, strength",93.04
+829,1,"五合一修补术,膝","Five-in-one repair, knee",81.42
+829,1,"伍德沃德手术—见 Woodward 手术","伍德沃德手术-see Woodward operation",
+829,1,"伍尔皮厄斯(-唐佩尔)手术—见 Vulpius(Compere)手术","伍尔皮厄斯 (-Compere) 手术-see Vulpius (-Compere) operation",
+829,1,"物理疗法—见疗法,物理","Physical therapy-see Therapy, physical",
+829,1,"物理疗法,胸","Physiotherapy, chest",93.99
+829,1,"物理医学—见疗法,物理","Physical medicine-see Therapy, physical",
+829,1,"雾气疗法(呼吸)","Fog therapy (respiratory)",93.94
+830,0,"X","X",
+830,1,"X 线","X-ray",
+830,2,"对比—见放射照相术,对比","contrast-see Radiography, contrast",
+830,2,"放射性不透明物质注射—见放射照相术,对比","injection of radio-opaque substance-see Radiography, contrast",
+830,2,"骨骼系列,全部或完全","skeletal series, whole or complete",88.31
+830,2,"胸(常规)","chest (routine)",87.44
+830,3,"壁 NEC","wall NEC",87.39
+830,2,"诊断性—见放射照相术","diagnostic-see Radiography",
+830,2,"治疗性—见疗法,放射","therapeutic-see Therapy, radiation",
+830,1,"X 线电影照相术—见放射照相术","Cineradiograph-see Radiography",
+830,1,"X 线断层摄影术—另见放射照相术","Tomography-see also Radiography",
+830,2,"肺","lung",87.42
+830,2,"腹 NEC","abdomen NEC",88.02
+830,2,"光学相干性(血管内成像)","optical coherence (intravascular imaging)",
+830,3,"冠状血管","coronary vessel(s)",38.24
+830,3,"非冠状血管","non-coronary vessel(s)",38.25
+830,2,"计算机轴向 NEC","computerized axial NEC",88.38
+830,3,"腹","abdomen",88.01
+830,3,"骨","bone",88.38
+830,4,"定量的","quantitative",88.98
+830,3,"骨骼","skeletal",88.38
+830,4,"定量的","quantitative",88.98
+830,3,"冠状动脉","coronary",87.41
+830,3,"脑","brain",87.03
+830,3,"肾","kidney",87.71
+830,3,"头","head",87.03
+830,3,"心的","cardiac",87.41
+830,3,"胸","thorax",87.41
+830,2,"肾 NEC","kidney NEC",87.72
+830,2,"头 NEC","head NEC",87.04
+830,2,"心的","cardiac",87.42
+830,2,"胸 NEC","thorax NEC",87.42
+830,1,"X 线照相术—另见放射照相术,心的,负对比","Roentgenography-see also Radiography cardiac, negative contrast",88.58
+830,1,"西尔弗手术—见 Silver 手术","西尔弗手术-see Silver operation",
+830,1,"西斯特伦克手术—见 Sistrunk 手术","西斯特伦克手术-see Sistrunk operation",
+830,1,"希布尔手术—见 Hibbs 手术","希布尔手术-see Hibbs operation",
+830,1,"希尔-阿利森手术—见 HillAllison 手术","希尔-阿利森手术-see Hill-Allison operation",
+830,1,"希金斯手术—见 Higgins 手术","希金斯手术-see Higgins operation",
+830,1,"希罗德卡手术—见 Shirodkar 手术","希罗德卡手术-see Shirodkar operation",
+831,1,"希尼手术—见 Heaney 手术","希尼手术-see Heaney operation",
+831,1,"希奇科克手术—见 Hitchcock 手术","希奇科克手术-see Hitchcock operation",
+831,1,"希氏束描记","His bundle recording",37.29
+831,1,"吸光测定(双)(单)","Absorptiometry photon (dual) (single)",88.98
+831,1,"息肉切除术—另见切除术,病损,按部位","Polypectomy-see also Excision, lesion, by site",
+831,2,"鼻的","nasal",21.31
+831,2,"大肠(结肠)","large intestine (colon)",45.42
+831,2,"食管","esophageal",42.32
+831,3,"内镜的","endoscopic",42.33
+831,2,"胃(内镜)","gastric (endoscopic)",43.41
+831,2,"直肠(内镜)","rectum (endoscopic)",48.36
+831,1,"细胞块和帕帕尼格拉乌涂片—见检查,显微镜","Cell block and Papanicolaou smear-see Examination, microscopic",
+831,1,"细胞学—见检查,显微镜的","Cytology-see Examination, microscopic",
+831,1,"细菌涂片—见检查,显微镜","Bacterial smear-see Examination, microscopic",
+831,1,"系带切除术","Frenectomy, Frenulectomy",
+831,2,"唇的","labial, lip",27.41
+831,2,"上颌","maxillary",27.41
+831,2,"舌的","lingual, tongue",25.92
+831,1,"系带切开术","Frenotomy",
+831,2,"唇的","labial",27.91
+831,2,"舌的","lingual",25.91
+831,1,"峡部切除术,甲状腺—另见甲状腺切除术,部分","Isthmectomy, thyroid-see also Thyroidectomy, partial",06.39
+831,1,"下巴突出退缩术","Prognathic recession",76.64
+831,1,"下颌骨切除术(部分)","Mandibulectomy (partial)",76.31
+831,2,"全部的","total",76.42
+831,2,"伴重建","with reconstruction",76.41
+831,1,"下消化道钡剂摄影(X-线)","Lower GI series (x-ray)",87.64
+831,1,"下游系统(AO疗法)(水氧)","Downstream System (AO therapy) (aqueous oxygen)",00.49
+831,1,"涎道成形术 NEC","Sialodochoplasty NEC",26.49
+831,1,"涎管扩张","Ptyalectasis",26.91
+831,1,"涎管 X 线照相术","Sialogram",87.09
+831,1,"涎石切除术","Ptyalithotomy, Sialoadenolithotomy",26.0
+831,1,"涎腺切除术(腮腺)(舌下腺)(颌下腺)","Sialoadenectomy (parotid) (sublingual) (submaxillary)",26.30
+831,2,"部分","partial",26.31
+831,2,"根治","radical",26.32
+832,1,"完全","complete",26.32
+832,1,"涎腺切开术","Sialadenotomy",26.0
+832,1,"涎腺切石术","Ptyalolithotomy, Sialolithotomy",26.0
+832,1,"阴凹镜检查(后穹窿镜检查)(探查术)(异物去除或病损)","Culdoscopy (exploration) (removal of foreign body or lesion)",70.22
+832,1,"腺切除术—另见切除术,按部位","Adenectomy-see also Excision, by site",
+832,2,"耻骨后","retropubic",60.4
+832,2,"前列腺 NEC","prostate NEC",60.69
+832,1,"纤维镜检查—见内窥检查,按部位","Fiberoscopy-see Endoscopy, by site",
+832,1,"限制性","Restrictive",
+832,2,"胃带,腹腔镜的","gastric band, laparoscopic",44.95
+832,1,"象征性经济疗法(行为疗法)","Token economy (behavior therapy)",94.33
+832,1,"消融(切除)","Ablation",
+832,2,"病损","lesion",
+832,3,"肠","intestine",
+832,4,"大","large",45.49
+832,5,"内镜","endoscopic",45.43
+832,4,"大肠","large intestine",45.49
+832,5,"内镜","endoscopic",45.43
+832,3,"肺","lung",32.26
+832,4,"经皮的","percutaneous",32.24
+832,4,"开放性","open",32.23
+832,4,"胸腔镜的","thoracoscopic",32.25
+832,4,"支气管镜热成形术","bronchoscopic thermoplasty",32.27
+832,3,"肝","liver",50.26
+832,4,"腹腔镜的","laparoscopic",50.25
+832,4,"经皮的","percutaneous",50.24
+832,4,"开放性","open",50.23
+832,3,"肾的","renal",55.35
+832,4,"腹腔镜的","laparoscopic",55.34
+832,4,"经皮的","percutaneous",55.33
+832,4,"开放性","open",55.32
+832,3,"食管","esophagus",42.39
+832,4,"内镜","endoscopic",42.33
+832,3,"心脏","heart",
+832,4,"经周围血管插入导管","by peripherally inserted catheter",37.34
+832,4,"迷宫操作(Cox-maze)","maze procedure (Cox-maze)",
+832,5,"经胸腔镜入路","thoracoscopic approach",37.37
+832,5,"切开(经胸)入路","open approach",37.33
+832,5,"血管内入路","endovascular approach",37.34
+832,4,"胸腔镜入路","thoracoscopic approach",37.37
+832,4,"血管内入路","endovascular approach",37.34
+833,3,"垂体","pituitary",07.69
+833,3,"经","by",
+833,4,"钴-60","Cobalt-60",92.32
+833,4,"植入(锶钇)(Y) NEC","implantation (strontium-yttrium) (Y) NEC",07.68
+833,5,"经蝶骨入路","transphenoidal approach",07.65
+833,5,"经前额入路","transfrontal approach",07.64
+833,4,"质子束(Bragg峰)","proton beam (Bragg peak)",92.33
+833,2,"胆管(病损),用逆行胰胆管造影法","biliary tract (lesion) by ERCP",51.64
+833,2,"内耳(冷冻术)(超声)","inner ear (cryosurgery) (ultrasound)",20.79
+833,3,"经注射","by injection",20.72
+833,2,"前列腺","prostate",
+833,3,"经","by",
+833,4,"激光,经尿道","laser, transurethral",60.21
+833,4,"经尿道针吸消融(TUNA)","transurethral needle ablation (TUNA)",60.97
+833,4,"冷冻切除","cryoablation",60.62
+833,4,"冷冻外科根治切除(RCSA)","radical cryosurgical ablation (RCSA)",60.62
+833,4,"射频热疗法","radiofrequency thermotherapy",60.97
+833,2,"子宫内膜(子宫镜)","endometrial (hysteroscopic)",68.23
+833,2,"组织","tissue",
+833,3,"肺—见消融,病损,肺","lung-see Ablation, lesion, lung",
+833,3,"肝—见消融,病损,肝","liver-see Ablation, lesion, liver",
+833,3,"肾的—见消融,病损,肾的","renal-see Ablation, lesion, renal",
+833,3,"心脏—见消融(切除)病损,心脏","heart-see Ablation, lesion, heart",
+833,1,"小肠结肠切除术 NEC","Enterocolectomy NEC",45.79
+833,1,"小肠结肠吻合术","Enterocolostomy",45.93
+833,1,"小肠摄影(X线)","Small bowel series (x-ray)",87.63
+833,1,"小梁粘连松解术","Trabeculodialysis",12.59
+833,1,"哮吼喷雾","Croupette, croup tent",93.94
+833,1,"肖帕尔手术—见 Chopart 手术","肖帕尔手术-see Chopart operation",
+833,1,"斜角肌切除术","Scalenectomy",83.45
+833,1,"斜角肌切开术","Scalenotomy",83.19
+833,1,"斜坡照相术(颅后窝)","Clivogram",87.02
+833,1,"谢德手术—见 Schede 手术","谢德手术-see Schede operation",
+833,1,"谢瓦利埃-杰克逊手术—见 ChevalierJackson 手术","谢瓦利 埃-杰克逊手术-see Chevalier-Jackson operation",
+833,1,"心瓣膜切开术—见瓣膜切开术,心脏","Cardiovalvulotomy-see Valvulotomy, heart",
+833,1,"心包成形术","Pericardioplasty",37.49
+833,1,"心包穿刺术","Pericardiocentesis",37.0
+833,1,"心包缝合术","Pericardiorrhaphy",37.49

@@ -1,0 +1,205 @@
+page,level,chinese,english,code
+699,3,"内","inner",20.79
+699,3,"外部","external",18.09
+699,3,"中","middle",20.23
+699,2,"耳道或口,外部的","auditory canal or meatus, external",18.02
+699,2,"肺","lung",33.1
+699,2,"腹壁","abdominal wall",54.0
+699,3,"作为手术入路—省略编码","as operative approach-omit code",
+699,2,"附睾","epididymis",63.92
+699,2,"腹股沟区(腹壁)(腹股沟的)","groin region (abdominal wall) (inguinal)",54.0
+699,3,"皮肤","skin",86.09
+699,3,"皮下组织","subcutaneous tissue",86.09
+699,2,"腹膜","peritoneum",54.95
+699,3,"骨盆(女性)","pelvic (female)",70.12
+699,4,"男性","male",54.19
+699,3,"经剖腹术,腹切开术","by laparotomy",54.19
+699,2,"腹膜后","retroperitoneum",54.0
+699,2,"腹膜内的","intraperitoneal",54.19
+699,2,"肝","liver",50.0
+699,2,"肝管","hepatic ducts",51.59
+699,2,"肛门 NEC","anus NEC",49.93
+699,3,"隔","septum",49.91
+699,3,"瘘","fistula",49.11
+699,2,"肛周的(皮肤)(组织)","perianal (skin) (tissue)",49.02
+699,3,"脓肿","abscess",49.01
+699,2,"睾丸","testis",62.0
+699,2,"睾丸鞘膜","tunica vaginalis",61.0
+699,2,"膈下隙","subphrenic space",54.19
+699,2,"巩膜","sclera",12.89
+699,2,"骨","bone",77.10
+699,3,"髌骨","patella",77.16
+699,3,"尺骨","ulna",77.13
+699,3,"腓骨","fibula",77.17
+699,3,"跗骨,跖骨","tarsals, metatarsals",77.18
+699,3,"肱骨","humerus",77.12
+699,3,"股骨","femur",77.15
+699,3,"骨盆","pelvic",77.19
+699,3,"肩胛骨","scapula",77.11
+699,3,"胫骨","tibia",77.17
+699,3,"颅骨","skull",01.24
+699,3,"面","facial",76.09
+699,3,"桡骨","radius",77.13
+700,3,"锁骨","clavicle",77.11
+700,3,"特指部位 NEC","specified site NEC",77.19
+700,3,"腕骨,掌骨","carpals, metacarpals",77.14
+700,3,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",77.11
+700,2,"牙龈,牙槽的","alveolus, alveolar",24.0
+700,2,"趾骨(足)(手)","phalanges (foot) (hand)",77.19
+700,2,"椎骨","vertebrae",77.19
+700,2,"关节结构—另见关节切开术","joint structures-see also Arthrotomy",80.10
+700,2,"腘动脉间隙","popliteal space",86.09
+700,2,"汗腺,皮肤","sweat glands, skin",86.04
+700,2,"颌下腺","submaxillary",86.09
+700,3,"伴引流","with drainage",86.04
+700,2,"横膈下间隙","subdiaphragmatic space",54.19
+700,2,"喉 NEC","larynx NEC",31.3
+700,2,"黄韧带(脊柱)—省略编码","ligamentum flavum (spine)-omit code",
+700,2,"会阴(女性)","perineum (female)",71.09
+700,3,"男性","male",86.09
+700,2,"肌肉","muscle",83.02
+700,3,"伴切断","with division",83.19
+700,4,"手","hand",82.19
+700,3,"手","hand",82.02
+700,4,"伴切断","with division",82.19
+700,2,"脊髓的","spinal",
+700,3,"神经根","nerve root",03.1
+700,3,"索","cord",03.09
+700,2,"脊柱","vertebral column",03.09
+700,2,"季肋部","hypochondrium",54.0
+700,2,"腹内","intra-abdominal",54.19
+700,2,"颊","cheek",86.09
+700,2,"甲沟炎","paronychia",86.09
+700,2,"颊腔","buccal space",27.0
+700,2,"甲状腺(区)(腺)NEC","thyroid (field) (gland) NEC",06.09
+700,3,"手术后","postoperative",06.02
+700,2,"睑板腺囊肿","chalazion",08.09
+700,3,"伴囊去除","with removal of capsule",08.21
+700,2,"睑腺炎","hordeolum",08.09
+700,2,"腱(鞘)","tendon (sheath)",83.01
+700,3,"伴切断","with division",83.13
+700,4,"手","hand",82.11
+700,3,"手","hand",82.01
+700,4,"伴切断","with division",82.11
+700,2,"角膜","cornea",11.1
+701,3,"放射状的(折射的)","radial (refractive)",11.75
+701,2,"疖—见切开,按部位","furuncle-see Incision, by site",
+701,2,"结膜","conjunctiva",10.1
+701,2,"筋膜","fascia",83.09
+701,3,"伴切断","with division",83.14
+701,4,"手","hand",82.12
+701,3,"手","hand",82.09
+701,4,"伴切断","with division",82.12
+701,2,"筋膜腔隙,头和颈","fascial compartments, head and neck",27.0
+701,2,"精囊","seminal vesicle",60.72
+701,2,"精索","spermatic cord",63.93
+701,2,"颈","neck",86.09
+701,2,"颈动脉体","carotid body",39.89
+701,2,"静脉","vein",38.00
+701,3,"腹","abdominal",38.07
+701,3,"颅内的 NEC","intracranial NEC",38.01
+701,3,"上肢","upper limb",38.03
+701,3,"头和颈 NEC","head and neck NEC",38.02
+701,3,"下肢","lower limb",38.09
+701,3,"胸的 NEC","thoracic NEC",38.05
+701,2,"颏下间隙","submental space",27.0
+701,2,"口 NEC","mouth NEC",27.92
+701,3,"底","floor",27.0
+701,2,"眶—另见眶切开术","orbit-see also Orbitotomy",16.09
+701,2,"腊特克囊","Rathke's pouch",07.72
+701,2,"阑尾","appendix",47.2
+701,2,"雷济厄斯间隙","space of Retzius",59.19
+701,2,"泪的","lacrimal",
+701,3,"点","punctum",09.51
+701,3,"泪小管","canaliculus",09.52
+701,3,"囊","sac",09.53
+701,3,"通道 NEC","passage NEC",09.59
+701,3,"腺","gland",09.0
+701,2,"淋巴结构(管道)(结)(血管)","lymphatic structure (channel) (node) (vessel)",40.0
+701,2,"淋巴血管瘤","lymphangioma",40.0
+701,2,"瘘,肛门的","fistula, anal",49.11
+701,2,"颅窦","cranial sinus",01.21
+701,2,"颅骨(骨)","skull (bone)",01.24
+701,2,"颅颊囊","craniobuccal pouch",07.72
+701,2,"颅内(硬膜外腔)(硬膜外间隙)","intracranial (epidural space) (extradural space)",01.24
+702,2,"蛛网膜下或硬膜下腔","subarachnoid or subdural space",01.31
+702,2,"卵巢","ovary",65.09
+702,3,"腹腔镜","laparoscopic",65.01
+702,2,"麦粒肿","stye",08.09
+702,2,"毛囊","hair follicles",86.09
+702,2,"眉","eyebrow",08.09
+702,2,"面","face",86.09
+702,2,"囊肿","cyst",
+702,3,"根的(根尖的)(根尖周的)","radicular (apical) (periapical)",24.0
+702,3,"含齿的","dentigerous",24.0
+702,2,"脑","brain,cerebrum",01.39
+702,3,"皮质粘连","cortical adhesions",02.91
+702,2,"脑垂体","hypophysis",07.72
+702,2,"脑的(脑膜)","cerebral (meninges)",01.39
+702,3,"硬膜外的或硬膜外间隙","epidural or extradural space",01.24
+702,3,"蛛网膜下或硬膜下腔","subarachnoid or subdural space",01.31
+702,2,"脑膜(脑的)","meninges (cerebral)",01.31
+702,3,"脊髓的","spinal",03.09
+702,2,"内淋巴囊","endolymphatic sac",20.79
+702,2,"内生指甲","ingrown nail",86.09
+702,2,"黏液囊","bursa",83.03
+702,3,"手","hand",82.03
+702,3,"咽","pharynx",29.0
+702,2,"尿道","urethra",58.0
+702,2,"尿道球腺","bulbourethral gland",58.91
+702,2,"尿道周围组织","periurethral tissue",58.91
+702,2,"颞窝","temporal pouches",27.0
+702,2,"颞下窝","infratemporal fossa",27.0
+702,2,"脓肿—另见切开,按部位","abscess-see also Incision, by site",
+702,3,"唇","lip",27.0
+702,3,"腹股沟区(腹壁)(腹股沟的)","groin region (abdominal wall) (inguinal)",54.0
+702,4,"皮肤","skin",86.04
+702,4,"皮下组织","subcutaneous tissue",86.04
+702,3,"腹膜的 NEC","peritoneal NEC",54.19
+702,4,"骨盆(女性)","pelvic (female)",70.12
+702,3,"腹膜后","retroperitoneal",54.0
+702,3,"腹膜外的","extraperitoneal",54.0
+702,3,"肝下的","subhepatic",54.19
+702,3,"肛周","perianal",49.01
+702,3,"膈下的","subphrenic",54.19
+702,2,"巩膜","sclera",12.89
+703,3,"腘动脉间隙","popliteal space",86.04
+703,3,"颌下腺的","submaxillary",86.04
+703,3,"横膈下","subdiaphragmatic",54.19
+703,3,"会阴(女性)","perineum (female)",71.09
+703,4,"男性","male",86.04
+703,3,"颊","cheek",86.04
+703,3,"甲沟炎","paronychia",86.04
+703,3,"颈","neck",86.04
+703,3,"阑尾","appendix",47.2
+703,4,"伴阑尾切除术","with appendectomy",47.09
+703,5,"腹腔镜的","laparoscopic",47.01
+703,3,"毛囊","hair follicle",86.04
+703,3,"面","face",86.04
+703,3,"皮肤","skin",86.04
+703,3,"皮下组织","subcutaneous tissue",86.04
+703,3,"脾周的","perisplenic",54.19
+703,3,"输精管","vas deferens",63.6
+703,3,"锁骨上窝","supraclavicular fossa",86.04
+703,3,"臀肌的","gluteal",86.04
+703,3,"网膜的","omental",54.19
+703,3,"胃周的","perigastric",54.19
+703,3,"腋窝","axilla",86.04
+703,3,"指(趾)甲床或甲褶","nailbed or nailfold",86.04
+703,3,"肘窝","antecubital fossa",86.04
+703,3,"坐骨直肠","ischiorectal",49.01
+703,2,"膀胱","bladder",57.19
+703,3,"耻骨上 NEC","suprapubic NEC",57.18
+703,3,"颈(经尿道)","neck (transurethral)",57.91
+703,3,"经皮的耻骨上(闭合的)","percutaneous suprapubic (closed)",57.17
+703,2,"膀胱周围组织","perivesical tissue",59.19
+703,2,"盆腔直肠组织","pelvirectal tissue",48.81
+703,2,"脾","spleen",41.2
+703,2,"皮肤","skin",86.09
+703,3,"伴引流","with drainage",86.04
+703,4,"鼻","nose",21.1
+703,4,"耳","ear",18.09
+703,4,"皮下管道,用于脉搏发生器导联线","tunnel, subcutaneous for pulse generator lead wire",86.99
+703,5,"伴首次操作—省略编码","with initial procedure-omit code",
+703,4,"皮下隧道用于脉搏发生器导联","subcutaneous tunnel for pulse generator lead wire",86.99
+703,5,"伴首次操作—省略编码","with initial procedure-omit code",

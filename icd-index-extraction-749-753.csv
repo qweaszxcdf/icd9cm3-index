@@ -1,0 +1,187 @@
+page,level,chinese,english,code
+749,2,"圆韧带","round ligament",69.19
+749,2,"支气管","bronchus",32.09
+749,3,"内镜的","endoscopic",32.01
+749,2,"直肠","rectum",48.32
+749,3,"根治","radical",48.31
+749,2,"痔疮","hemorrhoids",49.43
+749,2,"子宫","uterus",68.29
+749,2,"子宫骶骨韧带","uterosacral ligament",69.19
+749,2,"子宫颈","cervix",67.32
+749,2,"子宫内膜植入一见切除术,病损按部位","endometrial implant-see Excision, lesion, by site",
+749,2,"子宫输卵管口","uterotubal ostia",66.61
+749,1,"绍塔(-阿姆赖克)手术一见 Schauta(Amreich) 手术","绍塔(-阿姆赖克)手术-see Schauta (-Amreich)operation",
+749,1,"舌成形术 NEC","Glossoplasty NEC",25.59
+749,1,"舌缝合术","Glossorrhaphy",25.51
+749,1,"舌固定术","Glossopexy",25.59
+749,1,"舌切除术(完全)(全部)","Glossectomy (complete) (total)",25.3
+749,2,"部分或大部","partial or subtotal",25.2
+749,2,"根治性","radical",25.4
+749,1,"舌切开术 NEC","Glossotomy NEC",25.94
+749,2,"用于舌系带","for tongue tie",25.91
+749,1,"舌系带手术","Tongue tie operation",25.91
+749,1,"射毛术(动脉瘤)(Gallagher)","Pilojection (aneurysm) (Gallagher)",39.52
+749,1,"摄影术","Photography",89.39
+749,2,"眼底","fundus",95.11
+749,1,"伸长","Stretching",
+749,2,"包皮","foreskin",99.95
+749,2,"虹膜","iris",12.63
+749,2,"肌肉","muscle",93.27
+749,2,"腱","tendon",93.27
+749,2,"筋膜","fascia",93.28
+749,2,"神经(颅的)(周围的)","nerve (cranial) (peripheral)",04.91
+749,2,"眼睑(伴延长)","eyelid (with elongation)",08.71
+749,1,"伸展疗法,关节","Hyperextension, joint",93.25
+749,1,"神经成形术(颅的)(周围的) NEC","Neuroplasty (cranial) (peripheral) NEC",04.79
+749,2,"陈旧性损伤的(延迟修补术)","of old injury (delayed repair)",04.76
+749,2,"修复术","revision",04.75
+749,1,"神经抽出术 NEC","Neurexeresis NEC",04.07
+749,1,"神经缝合术(颅的)(周围的)","Neurorrhaphy (cranial) (peripheral)",04.3
+749,1,"神经根切断术(射频)(脊髓的)","Rhizotomy (radiofrequency) (spinal)",03.1
+750,2,"三叉的","trigeminal",04.02
+750,2,"听神经的","acoustic",04.01
+750,1,"神经根切断术","Radicotomy, Radiculectomy, Radiculotomy",03.1
+750,1,"神经化学松解术","Chemoneurolysis",04.2
+750,1,"神经监测","Neuromonitoring",
+750,2,"手术中的","intra-operative",00.94
+750,1,"神经节切除术","Ganglionectomy",
+750,2,"半月的","gasserian",04.05
+750,2,"蝶腭(美克尔)","sphenopalatine (Meckel's)",05.21
+750,2,"腱鞘(腕关节)","tendon sheath (wrist)",82.21
+750,2,"除手以外的部位","site other than hand",83.31
+750,2,"三叉","trigeminal",04.05
+750,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.06
+750,3,"交感神经","sympathetic",05.29
+750,2,"腰的交感神经","lumbar sympathetic",05.23
+750,1,"神经节切开术,三叉(射频)","Ganglionotomy, trigeminal (radiofrequency)",04.02
+750,1,"神经冷冻止痛(颅的)(周围的)","Cryoanalgesia nerve (cranial) (peripheral)",04.2
+750,1,"神经牵伸术(颅的)(周围的)","Neurectasis (cranial) (peripheral)",04.91
+750,1,"神经切除术(颅的)(眶下的)(枕部的)(周围的)(脊髓的) NEC","Neurectomy (cranial) (infraorbital) (occipital) (peripheral) (spinal) NEC",04.07
+750,2,"半月神经节后根的","retrogasserian",04.07
+750,2,"骶前的","presacral",05.24
+750,2,"鼓室的","tympanic",20.91
+750,2,"交感的一见交感神经切除术","sympathetic-see Sympathectomy",
+750,2,"颈旁的","paracervical",05.22
+750,2,"三叉的","trigeminal",04.07
+750,2,"视神经睫状体","opticociliary",12.79
+750,2,"胃的(迷走神经)一另见迷走神经切断术","gastric (vagus)-see also Vagotomy",44.00
+750,1,"神经切断术(颅的)(周围的)(脊髓的) NEC","Neurotomy (cranial) (peripheral) (spinal) NEC",04.04
+750,2,"半月神经节后","retrogasserian",04.02
+750,2,"交感神经的","sympathetic",05.0
+750,2,"泪支","lacrimal branch",05.0
+750,2,"前庭的","vestibular",04.01
+750,2,"舌咽的","glossopharyngeal",29.92
+750,2,"听神经","acoustic",04.01
+750,1,"神经束切断术","Tractotomy",
+750,2,"脊索(一期)(二期)","spinal cord (one-stage) (two-stage)",03.29
+751,2,"经皮的","percutaneous",03.21
+751,2,"脑","brain",01.32
+751,2,"三叉神经(经皮)(射频)","trigeminal (percutaneous) (radiofrequency)",04.02
+751,2,"延髓","medulla oblongata",01.32
+751,2,"中脑","mesencephalon",01.32
+751,1,"神经松解术(周围神经) NEC","Neurolysis (peripheral nerve) NEC",04.49
+751,2,"附管","tarsal tunnel",04.44
+751,2,"脊髓的(索)(神经根)","spinal (cord) (nerve roots)",03.6
+751,2,"颅神经 NEC","cranial nerve NEC",04.42
+751,2,"三叉神经","trigeminal nerve",04.41
+751,2,"腕管","carpal tunnel",04.43
+751,1,"神经吻合术(颅的)(周围的) NEC","Neuroanastomosis (cranial) (peripheral) NEC",04.74
+751,2,"副面","accessory-facial",04.72
+751,2,"副舌下","accessory-hypoglossal",04.73
+751,2,"舌下面","hypoglossal-facial",04.71
+751,1,"神经消融,切除","Neuroablation",
+751,2,"射频","radiofrequency",04.2
+751,1,"神经压轧术(周围的) NEC","Neurotripsy (peripheral) NEC",04.03
+751,2,"三叉的","trigeminal",04.02
+751,1,"神经支切断术(交感神经)","Ramiseciton (sympathetic)",05.0
+751,1,"神经阻滞(颅的)(周围的) NEC一另见阻滞,按部位","Nerve block (cranial) (peripheral) NEC-see also Block, by site",04.81
+751,1,"肾部分切除术","Heminephrectomy",55.4
+751,1,"肾成形术","Nephroplasty",55.89
+751,1,"肾穿刺(经皮)","Renipuncture (percutaneous)",55.92
+751,1,"肾断层照相,肾断层照相术 NEC","Nephrotomogram, nephrotomography NEC",87.72
+751,1,"肾缝合术","Nephrorrhaphy",55.81
+751,1,"肾固定术","Nephropexy",55.7
+751,1,"肾结肠固定术","Nephrocolopexy",55.7
+751,1,"肾镜检查","Nephroscopy",55.21
+751,1,"肾膀胱吻合术 NEC","Nephrocystanastomosis NEC",56.73
+751,1,"肾切除术(完全的)(全部的)(单侧的)","Nephrectomy (complete) (total) (unilateral)",55.51
+751,2,"部分的(楔形)","partial (wedge)",55.4
+751,2,"残留或孤立肾","remaining or solitary kidney",55.52
+751,2,"去除移植肾","removal transplanted kidney",55.53
+751,2,"双侧的","bilateral",55.54
+751,1,"肾切开术","Nephrotomy",55.01
+751,1,"肾上腺缝合术","Adrenalorrhaphy",07.44
+752,1,"肾上腺切除术(单侧)","Adrenalectomy (unilateral)",07.22
+752,2,"伴残留的腺体部分去除术","with partial removal of remaining gland",07.29
+752,2,"部分 NEC","partial NEC",07.29
+752,2,"残留的腺体","remaining gland",07.3
+752,2,"大部 NEC","subtotal NEC",07.29
+752,2,"全部","total",07.3
+752,2,"双侧","bilateral",07.3
+752,3,"部分","partial",07.29
+752,3,"大部","subtotal",07.29
+752,3,"完全","complete",07.3
+752,1,"肾上腺切开术(伴引流)","Adrenalotomy (with drainage)",07.41
+752,1,"肾石切除术","Nephrolithotomy",55.01
+752,1,"肾输尿管膀胱切除术","Nephroureterocystectomy",55.51
+752,1,"肾输尿管切除术(伴膀胱反折)","Nephroureterectomy (with bladder cuff)",55.51
+752,1,"肾松解术","Nephrolysis",59.02
+752,2,"腹腔镜","laparoscopic",59.03
+752,1,"肾探测图","Renogram",92.03
+752,1,"肾移植 NEC","Renotransplantation NEC",55.69
+752,1,"肾盂成形术","Pelvioplasty, kidney, Pyeloplasty, Nephropyeloplasty",55.87
+752,1,"肾盂缝合术","Pyelorrhaphy",55.81
+752,1,"肾盂回肠吻合术","Pyeloileostomy",56.71
+752,1,"肾盂切除术(部分的)","Pelvectomy, kidney (partial)",55.4
+752,1,"肾盂切开取石术","Pyeliolithotomy, Pyelolithotomy",55.11
+752,1,"肾盂切开术","Pyelotomy",55.11
+752,1,"肾盂输尿管成形术","Pelvi-ureteroplasty, Pyeloureteroplasty",55.87
+752,1,"肾盂输尿管吻合术","Nephropyeloureterostomy",55.86
+752,1,"肾盂 X 线透视检查","Pyeloscopy",55.22
+752,1,"肾盂造口结石切除术,经皮的","Pyelostolithotomy, percutaneous",55.03
+752,1,"肾盂造口术","Pelviostomy,Pyelostomy",55.12
+752,2,"闭合性","closure",55.82
+752,1,"肾盂造影(静脉内)","Pyelogram (intravenous)",87.73
+752,2,"经皮的","percutaneous",87.75
+752,2,"逆行的","retrograde",87.74
+752,2,"输注(持续性)(利尿剂)","infusion (continuous) (diuretic)",87.73
+752,1,"肾造口取石术,经皮的","Nephrostolithotomy, percutaneous",55.03
+752,1,"肾造口术(伴引流管)","Nephrostomy (with drainage tube)",55.02
+752,2,"闭合","closure",55.82
+752,2,"经皮的","percutaneous",55.03
+753,2,"伴碎裂,破碎(超声)","with fragmentation (ultrasound)",55.04
+753,1,"肾盏回肠膀胱吻合术","Calyco-ileoneocystostomy",55.86
+753,1,"肾盏切除术(肾)","Calicectomy,Calycectomy (renal)",55.4
+753,1,"肾盏切开术(肾)","Calycotomy (renal)",55.11
+753,1,"声带固定术","Cordopexy, vocal",31.69
+753,1,"声带切除术","Chordectomy,Cordectomy, vocal",30.22
+753,1,"声带切开术","Cordotomy",
+753,2,"声带","vocal",31.3
+753,1,"生物反馈,精神疗法","Biofeedback, psychotherapy",94.39
+753,1,"失败(试验的)产钳术","Failed (trial) forceps",73.3
+753,1,"尸检","Autopsy",89.8
+753,1,"尸体检查","Postmortem examination",89.8
+753,1,"施拉特手术一见 Schlatter 手术","施拉特手术-see Schlatter operation",
+753,1,"施罗德手术一见 Schroeder 手术","施罗德手术-see Schroeder operation",
+753,1,"施塔姆(-卡德尔)手术一见 Stamm(Kader)手术","施塔姆(-卡德尔)手术-see Stamm (-Kader) operation",
+753,1,"施特罗迈尔-利特尔一见 StromeyerLittle 手术","施特罗迈尔-利特尔一see Stromeyer-Little operation",
+753,1,"施瓦茨手术一见 Schwartze 手术","施瓦茨手术-see Schwartze operation",
+753,1,"十二指肠成形术","Duodenoplasty",46.79
+753,1,"十二指肠胆总管切开术","Duodenocholedochotomy",51.51
+753,1,"十二指肠缝合术","Duodenorrhaphy",46.71
+753,1,"十二指肠回肠吻合术","Duodenoileostomy",45.91
+753,1,"十二指肠镜检查","Duodenoscopy",45.13
+753,2,"经腹(手术的)","transabdominal (operative)",45.11
+753,2,"经造口(人工的)","through stoma (artificial)",45.12
+753,1,"十二指肠空肠吻合术","Duodenojejunostomy",45.91
+753,1,"十二指肠切除术","Duodenectomy",45.62
+753,2,"伴","with",
+753,3,"胃切除术一见胃切除术","gastrectomy-see Gastrectomy",
+753,3,"胰腺切除术一见胰腺切除术","pancreatectomy-see Pancreatectomy",
+753,1,"十二指肠切开术","Duodenotomy",45.01
+753,1,"十二指肠十二指肠吻合术","Duodenoduodenostomy",45.91
+753,2,"近端与远端段","proximal to distal segment",45.62
+753,1,"十二指肠造口术","Duodenostomy",46.39
+753,1,"食管肠吻合术(胸内) NEC一另见吻合术,食管,与肠段","Esophagoenterostomy (intrathoracic) NEC-see also Anastomosis, esophagus, to intestinal-segment",42.54
+753,2,"胸骨前或胸前一另见吻合术,食管,胸骨前,至肠段","antesternal or antethoracic-see also Anastomosis, esophagus, antesternal, to intestinal segment",42.64
+753,1,"食管成形术 NEC","Esophagoplasty NEC",42.89

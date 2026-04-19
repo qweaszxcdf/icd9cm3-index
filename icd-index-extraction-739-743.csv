@@ -1,0 +1,163 @@
+page,level,chinese,english,code
+739,2,"颈的(C2 水平或以下) NEC","cervical (C2 level or below) NEC",81.02
+739,3,"C1-C2 水平(前的)(后的)","C1-C2 level (anterior) (posterior)",81.01
+739,4,"用于假关节","for pseudarthrosis",81.31
+739,3,"后柱,后侧路法","posterior column, posterolateral (posterior) technique",81.03
+739,4,"用于假关节","for pseudarthrosis",81.33
+739,3,"前柱(椎体),前外侧(前路)法","anterior column (interbody), anterolateral (anterior) technique",81.02
+739,4,"用于假关节","for pseudarthrosis",81.32
+739,3,"用于假关节","for pseudarthrosis",81.32
+739,2,"经椎体孔入路腰椎体融合(TLIF)","transforaminal lumbar interbody fusion (TLIF)",81.08
+739,2,"颅颈的(前路经口的)(后的)","craniocervical (anterior transoral) (posterior)",81.01
+739,3,"用于假关节","for pseudarthrosis",81.31
+739,2,"前腰椎体融合(ALIF)","anterior lumbar interbody fusion (ALIF)",81.06
+739,2,"腰的,腰骶的 NEC","dorsal, dorsolumbar NEC",81.05
+739,3,"后柱,后侧路法","posterior column, posterolateral (posterior) technique",81.05
+739,4,"用于假关节","for pseudarthrosis",81.35
+739,3,"前柱(椎体),前外侧路法(前的)(椎管外)","anterior column (interbody), anterolateral (anterior) (extracavitary) technique",81.04
+739,4,"用于假关节","for pseudarthrosis",81.34
+739,3,"用于假关节","for pseudarthrosis",81.35
+739,2,"腰的,腰骶的 NEC","lumbar, lumbosacral NEC",81.08
+739,3,"后柱,后侧路法","posterior column, posterior (posterolateral) (transverse process) technique",81.07
+739,3,"前柱(椎体)","anterior column (interbody)",81.08
+739,3,"后路法","posterior technique",81.08
+739,4,"用于假关节","for pseudarthrosis",81.38
+739,3,"前外侧(前路)法","anterolateral (anterior) technique",81.06
+739,4,"用于假关节","for pseudarthrosis",81.36
+739,3,"外侧横突法","lateral transverse process technique",81.07
+739,4,"用于假关节","for pseudarthrosis",81.37
+740,2,"枕部C2(前路经口的)(后的)","occiput-C2 (anterior transoral) (posterior)",81.01
+740,3,"用于假关节","for pseudarthrosis",81.31
+740,2,"直接外侧椎体融合术(DLIF)","direct lateral interbody fusion (DLIF)",81.06
+740,2,"轴向腰椎椎体融合术(AxiaLIF®)","axial lumbar interbody fusion (AxiaLIF®)",81.08
+740,2,"椎骨关节面","facet",81.07
+740,2,"椎骨数量一见编码","number of vertebrae-see codes",81.62
+740,1,"颈(脊柱)(C2水平或以下)一见融合术,脊柱的,颈的","cervical (spine) (C2 level or below)-see Fusion, spinal, cervical",
+740,1,"颅颈的见融合,脊椎,颅颈的","craniocervical-see Fusion, spinal, craniocervical",
+740,1,"舌(至唇)","tongue (to lip)",25.59
+740,1,"腰的,腰骶的一见融合,脊椎,腰的,腰骶的","lumbar, lumbosacral-see Fusion, spinal, lumbar, lumbosacral",
+740,1,"爪形趾","claw toe",77.57
+740,1,"枕部-C2(脊髓的)一见融合,脊椎,枕部","occiput-C2 (spinal)-see Fusion, spinal, occiput",
+740,1,"乳房成形术","Mammoplasty, Mammaplasty, Mastoplasty",85.89
+740,1,"伴","with",
+740,2,"带蒂皮瓣移植","pedicle graft",85.84
+740,2,"肌瓣","muscle flap",85.85
+740,2,"全层移植","full-thickness graft",85.83
+740,2,"中厚皮片移植","split-thickness graft",85.82
+740,1,"截除性(缩小)(双侧)","amputative (reduction) (bilateral)",85.32
+740,2,"单侧","unilateral",85.31
+740,1,"缩小(双侧)","reduction (bilateral)",85.32
+740,2,"单侧","unilateral",85.31
+740,1,"体积缩小(男性乳房发育症)(双侧)","size reduction (gynecomastia) (bilateral)",85.32
+740,2,"单侧","unilateral",85.31
+740,1,"修复术","revision",85.89
+740,1,"增大","augmentation",85.50
+740,2,"伴","with",
+740,3,"单侧","unilateral",85.51
+740,3,"乳房植入(双侧)","breast implant (bilateral)",85.54
+740,4,"单侧","unilateral",85.53
+740,3,"注入乳房(双侧)","injection into breast (bilateral)",85.52
+740,1,"乳房缝合术","Mastorrhaphy",85.81
+740,1,"乳房固定术","Mastopexy",85.6
+741,1,"乳房切除术一另见乳房切除术","Mammectomy-see also Mastectomy",
+741,2,"皮下(单侧)","subcutaneous (unilateral)",85.34
+741,2,"双侧","bilateral",85.36
+741,3,"同时伴植入","with synchronous implant",85.35
+741,2,"同时伴植入","with synchronous implant",85.33
+741,1,"乳房切除术(完全)(预防性)(单纯)(单侧)","Mastectomy (complete) (prophylactic) (simple) (unilateral)",85.41
+741,1,"伴","with",
+741,2,"保留皮肤和乳头","preservation of skin and nipple",85.34
+741,3,"双侧","bilateral",85.36
+741,4,"同时伴植入","with synchronous implant",85.35
+741,3,"同时伴植入","with synchronous implant",85.33
+741,2,"区域性淋巴结切除术","excision of regional lymph nodes",85.43
+741,3,"双侧","bilateral",85.44
+741,1,"部分的","partial",85.23
+741,1,"次全的","subtotal",85.23
+741,1,"改良根治的(单侧)","modified radical (unilateral)",85.43
+741,2,"双侧的","bilateral",85.44
+741,1,"根治性(霍尔斯特德)(迈耶)(单侧)","radical (Halsted) (Meyer) (unilateral)",85.45
+741,2,"改良的(单侧)","modified (unilateral)",85.43
+741,3,"双侧的","bilateral",85.44
+741,2,"扩大的(胸膜内法)(单侧)","extended (Urban) (unilateral)",85.47
+741,3,"双侧的","bilateral",85.48
+741,2,"双侧的","bilateral",85.46
+741,1,"扩大的","extended",
+741,2,"单纯的(伴区域性淋巴腺切除术)(单侧)","simple (with regional lymphadenectomy) (unilateral)",85.43
+741,3,"双侧的","bilateral",85.44
+741,2,"根治性(胸膜内法)(单侧)","radical (Urban) (unilateral)",85.47
+741,3,"双侧的","bilateral",85.48
+741,1,"皮下的","subcutaneous",85.34
+741,2,"双侧的","bilateral",85.36
+741,2,"同时伴植入","with synchronous implant",85.35
+741,2,"同时伴植入","with synchronous implant",85.33
+741,1,"双侧的","bilateral",85.42
+741,1,"乳房切开术","Mastotomy, Mammotomy",85.0
+741,1,"乳房X线照相术 NEC","Mammography NEC",87.37
+741,1,"乳房象限切除术","Quadrant resection of breast",85.22
+741,1,"乳头成形术","Mammilloplasty, Theliplasty",85.87
+741,1,"乳头切除术,理疗的","Papillectomy, anal",49.39
+741,2,"内镜的","endoscopic",49.31
+742,1,"乳头切开术(胰)","Papillotomy (pancreas)",51.82
+742,1,"内镜的","endoscopic",51.85
+742,1,"乳突鼓室切除术","Mastoidotympanectomy",20.42
+742,1,"乳突切除术(皮层的)(保守的)","Mastoidectomy (cortical) (conservative)",20.49
+742,1,"单纯(完全)","simple (complete)",20.41
+742,1,"改良根治的","modified radical",20.49
+742,1,"根治性","radical",20.42
+742,2,"改良","modified",20.49
+742,1,"完全(单纯)","complete (simple)",20.41
+742,1,"乳突切开术","Mastoidotomy",20.21
+742,1,"乳腺部分切除术(根治)","Hemimastectomy (radical)",85.23
+742,1,"软骨成形术一见关节成形术","Chondroplasty-see Arthroplasty",
+742,1,"软骨结台切开术一另见切断,软骨","Synchondrotomy-see also Division, cartilage",80.40
+742,1,"软骨切除术","Chondrectomy",80.90
+742,1,"半月软骨(膝)","semilunar cartilage (knee)",80.6
+742,1,"鼻的(黏膜下)","nasal (submucous)",21.5
+742,1,"踝","ankle",80.97
+742,1,"脊柱一见亚目","spine-see subcategory",80.5
+742,1,"肩","shoulder",80.91
+742,1,"髋","hip",80.95
+742,1,"手和手指","hand and finger",80.94
+742,1,"特指部位 NEC","specified site NEC",80.99
+742,1,"腕","wrist",80.93
+742,1,"膝(半月软骨)","knee (semilunar cartilage)",80.6
+742,1,"肘","elbow",80.92
+742,1,"椎间软骨一见亚目","intervertebral cartilage-see subcategory",80.5
+742,1,"足和趾","foot and toe",80.98
+742,1,"软骨切开术一另见切断,软骨","Chondrotomy-see also Division, cartilage",80.40
+742,1,"鼻的","nasal",21.1
+742,1,"软硬腭缝合术","Uranostaphylorrhaphy",27.62
+742,1,"S. P. Rogers 手术(膝关节离断)","S. P. Rogers operation (knee disarticulation)",84.16
+742,1,"Saemisch 手术(角膜切除)","Saemisch operation (corneal section)",11.1
+742,1,"Salter 手术(无名骨切开术)","Salter operation (innominate osteotomy)",77.39
+742,1,"Sauer-Bacon 手术(腹会阴切除术),NOS","Sauer-Bacon operation (abdominoperineal resection), NOS",48.50
+743,1,"腹腔镜的","laparoscopic",48.51
+743,1,"开放性","open",48.52
+743,1,"其他","other",48.59
+743,1,"Schanz 手术(股骨骨切开术)","Schanz operation (femoral osteotomy)",77.35
+743,1,"Schauta(-Amreich)手术(根治阴道子宫切除术)","Schauta (-Amreich) operation (radical vaginal hysterectomy)",68.79
+743,1,"腹腔镜的","laparoscopic",68.71
+743,1,"Schede 手术(胸成形术)","Schede operation (thoracoplasty)",33.34
+743,1,"Scheie 手术","Scheie operation",
+743,1,"巩膜烧灼","cautery of sclera",12.62
+743,1,"巩膜造口术","sclerostomy",12.62
+743,1,"Schlatter 手术(胃全部切除术)","Schlatter operation (total gastrectomy)",43.99
+743,1,"Schroeder 手术(子宫颈内切除术)","Schroeder operation (endocervical excision)",67.39
+743,1,"Schuchardt 手术(非产科外阴切开术)","Schuchardt operation (nonobstetrical episiotomy)",71.09
+743,1,"Schwartze 手术(单纯乳突切除术)","Schwartze operation (simple mastoidectomy)",20.41
+743,1,"Scinti 扫描一见扫描,放射性核素","Scintiscan-see Scan, radioisotope",
+743,1,"摄影术一见扫描,放射性核素","Scintiphotography-see Scan, radioisotope",
+743,1,"Scott 手术","Scott operation",
+743,1,"肠旁路用于肥胖","intestinal bypass for obesity",45.93
+743,1,"空肠结肠吻合术(旁路)","jejunocolostomy (bypass)",45.93
+743,1,"Seddon-Brooks 手术(胸大肌肌腱移植术)","Seddon-Brooks operation (transfer of pectoralis major tendon)",83.75
+743,1,"Semb 手术(肺尖松解术)","Semb operation (apicolysis of lung)",33.39
+743,1,"Senning 手术(大血管转位矫正术)","Senning operation (correction of transposition of great vessels)",35.91
+743,1,"Sever 手术(臂软组织切断)","Sever operation (division of soft tissue of arm)",83.19
+743,1,"Sewell 手术(心脏)","Sewell operation (heart)",36.2
+743,1,"Sharrard 手术(髂腰肌转移)","Sharrard operation (iliopsoas muscle transfer)",83.77
+743,1,"Shelf 手术(髋关节成形术)","Shelf operation (hip arthroplasty)",81.40
+743,1,"Shirodkar 手术(子宫颈环形缝合)","Shirodkar operation (encirclement suture, cervix)",67.59
+743,1,"Silver 手术(踇囊肿切除术)","Silver operation (bunionectomy)",77.59
+743,1,"Sistrunk 手术(甲状舌管囊肿切除术)","Sistrunk operation (excision of thyroglossal cyst)",06.7

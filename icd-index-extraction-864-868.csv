@@ -1,0 +1,190 @@
+page,level,chinese,english,code
+864,7,"嵌入","inlay",23.3
+864,7,"填充(汞合金)(塑料)(硅酸盐)","filling (amalgam) (plastic) (silicate)",23.2
+864,5,"牙齿弓","dental arch",24.8
+864,5,"眼,眼球","eye, eyeball",16.89
+864,6,"多数结构","multiple structures",16.82
+864,6,"破裂","rupture",16.82
+864,6,"窝","socket",16.64
+864,7,"伴移植","with graft",16.63
+864,5,"眼睑","eyelid",8.89
+864,6,"板层","partial-thickness",8.83
+864,7,"涉及睑缘","involving lid margin",8.82
+864,6,"全层","full-thickness",8.85
+864,7,"涉及睑缘","involving lid margin",8.84
+864,6,"撕裂","laceration",8.81
+864,7,"板层","partial-thickness",8.83
+864,8,"涉及睑缘","involving lid margin",8.82
+864,8,"全层","full-thickness",8.85
+864,8,"涉及睑缘","involving lid margin",8.84
+864,6,"退缩","retraction",8.38
+864,6,"线形","linear",8.81
+864,5,"眼距过宽","telecanthus",8.59
+864,5,"咽 NEC","pharynx NEC",29.59
+864,6,"撕裂(经缝合)","laceration (by suture)",29.51
+864,6,"整形的","plastic",29.4
+864,5,"胰 NEC","pancreas NEC",52.95
+864,5,"维尔松管","Wirsung's duct",52.99
+864,5,"阴唇-见修补术,外阴","labia-see Repair, vulva",
+864,5,"阴道,阴道(穹隆断端)(壁) NEC","vagina, vaginal (cuff) (wall) NEC",70.79
+864,6,"肠膨出","enterocele",70.92
+864,7,"伴移植物或假体","with graft or prosthesis",70.93
+864,6,"后的","posterior",70.52
+864,7,"伴前修补术","with anterior repair",70.5
+864,8,"伴移植物或假体","with graft or prosthesis",70.53
+864,6,"尿道膨出","urethrocele",70.51
+864,7,"伴移植物或假体","with graft or prosthesis",70.54
+864,7,"和直肠膨出","and rectocele",70.5
+864,8,"伴移植物或假体","with graft or prosthesis",70.53
+864,6,"膀胱膨出","cystocele",70.51
+864,7,"伴移植物或假体","with graft or prosthesis",70.54
+864,7,"和直肠膨出","and rectocele",70.5
+864,8,"伴移植物或假体","with graft or prosthesis",70.53
+865,6,"前的","anterior",70.51
+865,7,"伴后部修补术","with posterior repair",70.5
+865,8,"伴移植物或假体","with graft or prosthesis",70.53
+865,7,"伴移植物或假体","with graft or prosthesis",70.54
+865,6,"撕裂(经缝合)","laceration (by suture)",70.71
+865,7,"产科的(近期)","obstetric (current)",75.69
+865,8,"陈旧性","old",70.79
+865,6,"直肠膨出","rectocele",70.52
+865,7,"伴移植物或假体","with graft or prosthesis",70.55
+865,7,"和膀胱膨出","and cystocele",70.5
+865,8,"伴移植物或假体","with graft or prosthesis",70.53
+865,5,"阴茎 NEC","penis NEC",64.49
+865,6,"膨胀假体","inflatable prosthesis",64.99
+865,6,"撕裂","laceration",64.41
+865,6,"用于尿道上裂或尿道下裂","for epispadias or hypospadias",58.45
+865,5,"阴囊","scrotum",61.49
+865,5,"龈,齿槽的(突)(嵴)(伴移植)(伴植入)","alveolus, alveolar (process) (ridge) (with graft) (with implant)",24.5
+865,5,"应激性失禁(泌尿系) NEC","stress incontinence (urinary) NEC",59.79
+865,6,"皮下组织(整形的)(不伴皮肤移植)","subcutaneous tissue (plastic) (without skin graft)",86.89
+865,7,"撕裂(经缝合)","laceration (by suture)",86.59
+865,6,"通过","by",
+865,7,"巴治","Burch",59.5
+865,7,"耻骨后尿道悬吊术","retropubic urethral suspension",59.5
+865,7,"耻骨上悬吊","suprapubic sling",59.4
+865,7,"耻骨尾骨悬吊","pubococcygeal sling",59.71
+865,7,"尿道膀胱连接处折叠术","plication of urethrovesical junction",59.3
+865,7,"尿道膀胱悬吊术","urethrovesical suspension",59.4
+865,8,"股薄肌移植物","gracilis muscle transplant",59.71
+865,8,"提肌悬吊","levator muscle sling",59.71
+865,7,"尿道旁悬吊术(佩里拉)","paraurethral suspension (Pereyra)",59.6
+865,7,"尿道周围悬吊术","periurethral suspension",59.6
+865,7,"膀胱尿道固定术(伴提肌悬吊)","cystourethropexy (with levator muscle sling)",59.71
+865,7,"前的尿道固定术","anterior urethropexy",59.79
+865,7,"无张力阴道悬吊","tension free vaginal tape",59.79
+865,7,"注射植入物(胶原质)(脂肪)(聚四氟乙烯)","injection of implant (fat) (collagen) (polytef)",59.72
+865,5,"圆韧带","round ligament",69.29
+865,5,"爪形趾","claw toe",77.57
+865,5,"支气管 NEC","bronchus NEC",33.48
+866,6,"撕裂(经缝合)","laceration (by suture)",33.41
+866,5,"直肠 NEC","rectum NEC",48.79
+866,6,"撕裂(经缝合)","laceration (by suture)",48.71
+866,6,"脱垂 NEC","prolapse NEC",48.76
+866,7,"腹入路","abdominal approach",48.75
+866,7,"STARR(吻合器经肛门直肠切除)操作","STARR procedure",48.74
+866,5,"直肠膨出(后的阴道缝合术)","rectocele (posterior colporrhaphy)",70.52
+866,6,"伴移植物或假体","with graft or prosthesis",70.55
+866,6,"和膀胱膨出","and cystocele",70.5
+866,7,"伴移植物或假体","with graft or prosthesis",70.53
+866,5,"主动脉","aorta",39.31
+866,5,"主动脉肺动脉开窗术","aortopulmonary window",39.59
+866,5,"椎间盘环","anular disc",80.54
+866,6,"伴移植物或假体","with graft or prosthesis",80.53
+866,5,"赘余指(手指)","bifid digit (finger)",82.89
+866,5,"眦(侧的)","canthus (lateral)",8.59
+866,5,"子宫,子宫","uterus, uterine",69.49
+866,6,"内翻-见修补术,内翻子宫","inversion-see Repair, inverted uterus",
+866,6,"韧带","ligaments",69.29
+866,7,"通过","by",
+866,8,"间置","interposition",69.21
+866,8,"折叠术","plication",69.22
+866,7,"撕裂(经缝合)","laceration (by suture)",69.41
+866,8,"产科的(近期)","obstetric (current)",75.5
+866,9,"陈旧性","old",69.49
+866,5,"子宫颈","cervix",67.69
+866,6,"内口","internal os",67.59
+866,7,"经腹的","transabdominal",67.51
+866,7,"经阴道的","transvaginal",67.59
+866,6,"撕裂(经缝合)","laceration (by suture)",67.61
+866,7,"产科的(近期)","obstetric (current)",75.51
+866,8,"陈旧性","old",67.69
+866,4,"修复","Restoration",
+866,5,"贲门食管角","cardioesophageal angle",44.66
+866,6,"腹腔镜的","laparoscopic",44.67
+866,5,"眉","eyebrow",8.7
+866,6,"伴移植","with graft",8.63
+866,5,"牙 NEC","tooth NEC",23.2
+866,6,"经","by",
+866,7,"冠(人工的)","crown (artificial)",23.41
+866,7,"嵌入","inlay",23.3
+867,7,"填充(汞合金)(塑料)(硅酸盐)","filling (amalgam) (plastic) (silicate)",23.2
+867,5,"牙的 NEC","dental NEC",23.49
+867,6,"经","by",
+867,7,"安装冠(人工的)","application of crown (artificial)",23.41
+867,7,"插入桥(固定的)","insertion of bridge (fixed)",23.42
+867,8,"去除","removable",23.43
+867,5,"眼窝","eye socket",16.64
+867,6,"伴移植","with graft",16.63
+867,5,"肢-见再附着,肢","extremity-see Reattachment, extremity",
+867,4,"修复术","Revision",
+867,5,"瘢痕","scar",
+867,6,"皮肤","skin",86.84
+867,7,"伴切除术","with excision",86.3
+867,5,"鼻成形术","rhinoplasty",21.84
+867,5,"侧眦","lateral canthus",8.59
+867,5,"肠造口术(口)","enterostomy (stoma)",46.4
+867,6,"大肠","large intestine",46.43
+867,6,"小肠","small intestine",46.41
+867,5,"槌状指","mallet finger",82.84
+867,5,"刺激器","stimulator",
+867,6,"电极","electrode(s)",
+867,7,"颈动脉窦","carotid sinus",39.84
+867,6,"脉冲发生器","pulse generator",
+867,7,"颈动脉窦","carotid sinus",39.85
+867,5,"胆囊造口术","cholecystostomy",51.99
+867,5,"镫骨切除术 NEC","stapedectomy NEC",19.29
+867,6,"伴砧骨置换(自体移植)(假体)","with incus replacement (homograft) (prosthesis)",19.21
+867,5,"动静脉分流(套管)(为了透析)","arteriovenous shunt (cannula) (for dialysis)",39.42
+867,5,"腭裂修补术","cleft palate repair",27.63
+867,5,"分流","shunt",
+867,6,"动静脉(套管)(为了透析)","arteriovenous (cannula) (for dialysis)",39.42
+867,7,"腹腔颈静脉","peritoneojugular",54.99
+867,7,"腹腔血管的","peritoneovascular",54.99
+867,7,"脊髓的(鞘) NEC","spinal (thecal) NEC",3.97
+867,7,"脑室(脑的)","ventricular (cerebral)",2.42
+867,7,"脑室腹膜的","ventriculoperitoneal",
+867,8,"在腹膜部位","at peritoneal site",54.95
+867,8,"在脑室部位","at ventricular site",2.42
+868,7,"输卵管硬脊膜的","salpingothecal",3.97
+868,7,"胸腔脊膜","pleurothecal",3.97
+868,7,"腰的蛛网膜下 NEC","lumbar-subarachnoid NEC",3.97
+868,7,"蛛网膜下腹膜的","subarachnoid-peritoneal",3.97
+868,7,"蛛网膜下输尿管的","subarachnoid-ureteral",3.97
+868,5,"复律器/除颤器(自动的)囊袋","cardioverter/defibrillator (automatic) pocket",37.79
+868,5,"巩膜的造口术","scleral fistulization",12.66
+868,5,"骨皮瓣,颅骨,","bone flap, skull",2.06
+868,5,"鼓室成形术","tympanoplasty",19.6
+868,5,"固定装置(破损的)(移位的)-另见固定,骨,内的","fixation device (broken) (displaced)-see also Fixation, bone, internal",78.5
+868,5,"关节成形术-见关节成形术","arthroplasty-see Arthroplasty",
+868,5,"关节置换","joint replacement",
+868,6,"踝","ankle",81.59
+868,7,"仅股骨成分","femoral component only",0.72
+868,7,"仅股骨头和(或)髋臼衬垫","femoral head only and/or acetabular liner",0.73
+868,7,"仅髋臼衬垫和(或)股骨头","acetabular liner and/or femoral head only",0.73
+868,6,"髋,NOS","hip,NOS",81.53
+868,7,"部分的","partial",
+868,8,"仅股骨成分","femoral component only",0.72
+868,8,"仅股骨头和(或)髋臼衬垫","femoral head only and/or acetabular liner",0.73
+868,8,"仅髋臼衬垫和(或)股骨头","acetabular liner and/or femoral head only",0.73
+868,8,"髋臼成分","acetabular component only",0.71
+868,8,"仅股骨成分","femoral component only",0.72
+868,8,"仅股骨头和(或)髋臼衬垫","femoral head only and/or acetabular liner",0.73
+868,8,"仅髋臼衬垫和(或)股骨头","acetabular liner and/or femoral head only",0.73
+868,8,"髋臼成分","acetabular component only",0.71
+868,8,"髋臼和股骨成分(全部的)","acetabular and femoral components (total)",0.7
+868,7,"全部的(髋臼和股骨成分)","total (acetabular and femoral components)",0.7
+868,6,"髋臼成分","acetabular component only",0.71
+868,6,"髋臼和股骨成分(全部的)","acetabular and femoral components (total)",0.7
+868,6,"上肢","upper extremity",81.97

@@ -1,0 +1,178 @@
+page,level,chinese,english,code
+624,2,"胆囊","gallbladder",51.93
+624,2,"胆囊胃肠的","cholecystogastroenteric",51.93
+624,2,"腹胸的","abdominothoracic",34.83
+624,2,"腹子宫","abdominouterine",69.42
+624,2,"肝肺动脉的","hepatopulmonary",34.73
+624,2,"肝管","hepatic duct",51.79
+624,2,"肝胸膜的","hepatopleural",34.73
+624,2,"肛门","anus",49.12
+624,2,"骨—另见切除术,病损,骨","bone-see also Excision, lesion, bone",77.60
+624,2,"关节—另见切除术,病损,关节","joint-see also Excision, lesion, joint",80.80
+624,2,"横膈","diaphragm",34.83
+624,2,"喉","larynx",31.62
+624,2,"喉气管的","laryngotracheal",31.62
+624,2,"会阴乙状结肠的","perineosigmoidal",71.72
+624,2,"会阴直肠的","perineorectal,vulvorectal",71.72
+624,2,"角膜","cornea",11.49
+624,2,"口 NEC","mouth NEC",27.53
+624,2,"口鼻的","oronasal",21.82
+624,2,"口腔鼻窦的","oroantral",22.71
+624,2,"阑尾","appendix",47.92
+624,2,"泪的","lacrimal",
+624,3,"囊","sac",09.6
+624,3,"腺","gland",09.21
+624,2,"尿道","urethra",58.43
+624,2,"膀胱(经尿道入路)","bladder (transurethral approach)",57.84
+624,2,"膀胱乙状结肠阴道的","vesicosigmoidovaginal",57.83
+624,2,"皮肤","skin",86.3
+624,2,"皮下组织","subcutaneous tissue",86.3
+624,2,"气管 NEC","trachea NEC",31.73
+624,2,"气管食管的","tracheoesophageal",31.73
+624,2,"鳃裂","branchial cleft",29.52
+624,2,"声带","vocal cords",31.62
+624,2,"食管 NEC","esophagus NEC",42.84
+624,2,"食管胸膜皮肤的","esophagopleurocutaneous",34.73
+624,2,"输卵管","fallopian tube",66.73
+624,2,"输尿管","ureter",56.84
+624,2,"胃 NEC","stomach,gastric NEC",44.63
+624,2,"涎腺(管)(腺)","salivary (duct) (gland)",26.42
+624,2,"胸 NEC","thorax NEC",34.73
+624,2,"胸肠的","thoracointestinal",34.83
+624,2,"胸腹的","thoracoabdominal",34.83
+624,2,"胸膜的","pleura",34.73
+625,2,"胸胃的","thoracogastric",34.83
+625,2,"咽 NEC","pharynx NEC",29.53
+625,2,"咽食管的","pharyngoesophageal",29.53
+625,2,"胰","pancreas",52.95
+625,2,"阴道","vagina",70.75
+625,2,"阴囊","scrotum",61.42
+625,2,"支气管内脏的","bronchovisceral",33.42
+625,2,"支气管皮肤的","bronchocutaneous",33.42
+625,2,"支气管食管的","bronchoesophageal",33.42
+625,2,"支气管胸膜的","bronchopleural",34.73
+625,2,"支气管胸膜皮肤的","bronchopleurocutaneous",34.73
+625,2,"支气管胸膜纵隔的","bronchopleuromediastinal",34.73
+625,2,"支气管纵隔的","bronchomediastinal",34.73
+625,2,"直肠","rectum",48.73
+625,2,"直肠尿道的","rectourethral",58.43
+625,2,"直肠膀胱","rectovesical",57.83
+625,2,"直肠外阴的","rectovulvar",71.72
+625,2,"直肠阴唇的","rectolabial",71.72
+625,2,"直肠阴道的","rectovaginal",70.73
+625,2,"直肠周的,开口不进入直肠","perirectal, not opening into rectum",48.93
+625,2,"直肠子宫的","rectouterine",69.42
+625,2,"子宫肠的","uteroenteric,uterointestinal",69.42
+625,2,"子宫颈乙状结肠的","cervicosigmoidal",67.62
+625,2,"子宫阴道的","uterovaginal",69.42
+625,2,"子宫直肠的","uterorectal",69.42
+625,2,"纵隔皮肤的","mediastinocutaneous",34.73
+625,1,"瘘管造影术","Fistulogram",
+625,2,"腹壁","abdominal wall",88.03
+625,2,"腹膜后","retroperitoneum",88.14
+625,2,"特指部位 NEC","specified site NEC",88.49
+625,2,"胸壁","chest wall",87.38
+625,1,"卢卡斯和默里手术—见 Lucas and Murray 手术","卢卡斯和默里手术— see Lucas 和 Murray operation",
+625,1,"颅底破碎术","Basilotripsy",73.8
+625,1,"颅骨部分切除术","Craniectomy",01.25
+625,2,"部位再切开","reopening of site",01.23
+625,2,"条带状(颅缝分开术)","strip (opening of cranial suture)",02.01
+625,2,"线形(颅缝分开术)","linear (opening of cranial suture)",02.01
+625,1,"颅骨成形术","Cranioplasty",02.06
+625,2,"同时伴脑膨出修补术","with synchronous repair of encephalocele",02.12
+625,1,"颅骨切开术","Craniotomy",01.24
+626,2,"部位再切开","reopening of site",01.23
+626,2,"胎儿","fetal",73.8
+626,2,"用于骨折减压","for decompression of fracture",02.02
+626,2,"作为手术入路-省略编码","as operative approach-omit code",
+626,1,"颅外颅内血管搭桥[ECLC]","Extracranial-intracranial bypass [EC-IC]",39.28
+626,1,"鲁宾试验—见 Rubin 测验","鲁宾试验— see Rubin test",
+626,1,"鲁戈德思维特手术—见 Roux-Goldthwait 手术","鲁-戈德思维特手术— see Roux-Goldthwait operation",
+626,1,"鲁伊斯莫拉手术—见 Ruiz-Mora 手术","鲁伊斯-莫拉手术— see Ruiz-Mora operation",
+626,1,"滤网,腔静脉","Sieve, vena cava",38.7
+626,1,"卵巢成形术","Oophoroplasty",65.79
+626,1,"卵巢缝合术","Oophorrhaphy",65.71
+626,2,"腹腔镜的","laparoscopic",65.74
+626,1,"卵巢固定术","Oophoropexy",65.79
+626,1,"卵巢囊切除术","Oophorocystectomy",65.29
+626,2,"腹腔镜的","laparoscopic",65.25
+626,1,"卵巢切除术(单侧的)","Oophorectomy (unilateral)",65.39
+626,2,"伴输卵管切除术","with salpingectomy",65.49
+626,3,"腹腔镜的","laparoscopic",65.41
+626,2,"部分的","partial",65.29
+626,3,"腹腔镜的","laparoscopic",65.25
+626,3,"楔形","wedge",65.22
+626,4,"经腹腔镜","that by laparoscope",65.24
+626,2,"残留卵巢","remaining ovary",65.52
+626,3,"伴输卵管","with tube",65.62
+626,4,"腹腔镜的","laparoscopic",65.64
+626,3,"腹腔镜的","laparoscopic",65.54
+626,2,"腹腔镜","laparoscopic",65.31
+626,2,"双侧的(同期手术)","bilateral (same operative episode)",65.51
+626,3,"伴输卵管切除术","with salpingectomy",65.61
+626,4,"腹腔镜的","laparoscopic",65.63
+626,3,"腹腔镜的","laparoscopic",65.53
+626,1,"卵巢切开术","Oophorotomy",65.09
+626,2,"腹腔镜的","laparoscopic",65.01
+626,1,"卵巢造口术","Oophorostomy",65.09
+626,2,"腹腔镜的","laparoscopic",65.01
+626,1,"罗德尼史密斯手术—见 RodneySmith 手术","罗德尼史密斯手术— see Rodney Smith operation",
+626,1,"罗杰斯手术—见 S. P. Rogers 手术","罗杰斯手术— see S. P. Rogers operation",
+627,1,"洛德手术—见 Lord 手术","洛德手术— see Lord operation",
+627,1,"Madlener 手术(输卵管结扎)","Madlener operation (tubal ligation)",66.31
+627,1,"Magnuson(-Stack)手术(关节成形术用于复发性肩关节脱位)","Magnuson (-Stack) operation (arthroplasty for recurrent shoulder dislocation)",81.82
+627,1,"Mako Tactile 触觉引导系统™[TGS]—见亚目","Mako Tactile Guidance System™[TGS]-see subcategory",17.4
+627,1,"Manchester(-Donald)(-Fothergill)手术(子宫悬吊术)","Manchester (-Donald) (-Fothergill) operation (uterine suspension)",69.22
+627,1,"Marckwald 手术(子宫颈口修补术)","Marckwald operation (cervical os repair)",67.59
+627,1,"Marshall-Marchetti(-Krantz)手术(耻骨后尿道悬吊术)","Marshall-Marchetti (-Krantz) operation (retropubic urethral suspension)",59.5
+627,1,"MAST (军用抗休克库)","MAST (military anti-shock trousers)",93.58
+627,1,"Masters 应激测验(二阶)","Masters stress test (two-step)",89.42
+627,1,"Matas 手术(动脉瘤缝合术)","Matas operation (aneurysmorrhaphy)",39.52
+627,1,"Mayo 手术","Mayo operation",
+627,2,"踇囊肿切除术","bunionectomy",77.59
+627,2,"疝缝合术","herniorrhaphy",
+627,3,"腹腔镜的","laparoscopic",53.43
+627,3,"伴移植物或假体","with graft or prosthesis",53.42
+627,3,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
+627,3,"其他开放性","other open",53.49
+627,2,"阴道子宫切除术","vaginal hysterectomy",68.59
+627,2,"腹腔镜辅助(LAVH)","laparoscopically assisted (LAVH)",68.51
+627,1,"Maze 操作","Maze procedure",
+627,2,"Cox-maze,开放的","Cox-maze, open",37.33
+627,2,"maze,改良,开放的","maze, modified, open",37.33
+627,2,"maze,改良,血管内的","maze, modified, endovascular",37.34
+627,1,"Mazet 手术(膝关节离断)","Mazet operation (knee disarticulation)",84.16
+627,1,"McBride 手术(踇囊肿切除术伴软组织矫正)","McBride operation (bunionectomy with soft tissue correction)",77.53
+627,1,"Mcburney 手术—见修补术,疝,腹股沟的","McBurney operation-see Repair, hernia, inguinal",
+627,1,"McCall 手术(肠膨出修补术)","McCall operation (enterocele repair)",70.92
+627,1,"McCauley 手术(畸形足松解术)","McCauley operation (release of clubfoot)",83.84
+627,1,"McDonald 手术(环绕缝合,子宫颈)","McDonald operation (encirclement suture, cervix)",67.59
+628,1,"McIndoe 手术(阴道建造术)","McIndoe operation (vaginal construction)",70.61
+628,2,"伴移植物或假体","with graft or prosthesis",70.63
+628,1,"McKeever 手术(融合术第一跖趾关节,用于踇外翻修补术)","McKeever operation (fusion of first metatarsophalangeal joint for hallux valgus repair)",77.52
+628,1,"McKissock 手术(乳房缩小)","McKissock operation (breast reduction)",85.33
+628,1,"McVay 手术","McVay operation",
+628,2,"腹股沟疝—见修补术,疝,腹股沟的","inguinal hernia-see Repair, hernia, inguinal",
+628,2,"股骨疝—见修补术,疝,股的","femoral hernia-see Repair, hernia, femoral",
+628,1,"Mikulicz 手术(肠外置术)(一期)","Mikulicz operation (exteriorization of intestine) (first stage)",46.03
+628,2,"二期","second stage",46.04
+628,1,"Miles 手术(直肠切除术),NOS","Miles operation (proctectomy), NOS",48.50
+628,2,"腹腔镜的","laparoscopic",48.51
+628,2,"开放性","open",48.52
+628,2,"其他","other",48.59
+628,1,"Millard 手术(唇成形术)","Millard operation (cheiloplasty)",27.54
+628,1,"Miller 手术","Miller operation",
+628,2,"跗骨间关节固定术","midtarsal arthrodesis",81.14
+628,2,"尿道膀胱悬吊术","urethrovesical suspension",59.4
+628,1,"Millin-Read 手术(尿道膀胱悬吊术)","Millin-Read operation (urethrovesical suspension)",59.4
+628,1,"Mist 疗法","Mist therapy",93.94
+628,1,"Mitchell 手术(踇外翻修补术)","Mitchell operation (hallux valgus repair)",77.51
+628,1,"MitraClip®二尖瓣小叶钳","MitraClip® mitral valve leaflet clip",35.97
+628,1,"Mohs 手术(皮肤化学外科切除术)","Mohs operation (chemosurgical excision of skin)",86.24
+628,1,"Moore 手术(关节成形术)","Moore operation (arthroplasty)",81.52
+628,1,"MRI--见影,磁共振","MRI-see Imaging, magnetic resonance",
+628,1,"Muller 手术(肺动脉结扎)","Muller operation (banding of pulmonary artery)",38.85
+628,1,"Mumford 手术(部分锁骨切除术)","Mumford operation (partial claviculectomy)",77.81
+628,1,"Mustard 手术(心房间静脉回流转位)","Mustard operation (interatrial transposition of venous return)",35.91
+628,1,"麻醉","Anesthesia",
+628,2,"脊髓的—省略编码","spinal-omit code",

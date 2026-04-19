@@ -1,0 +1,185 @@
+page,level,chinese,english,code
+649,3,"脑的 NEC","cerebral NEC",01.59
+649,3,"脑膜","meninges",01.51
+649,3,"脑膜(脑的)","meninges (cerebral)",01.51
+649,3,"脊髓的","spinal",03.4
+649,3,"尿道(切除的)","urethra (excisional)",58.39
+649,4,"内镜","endoscopic",58.31
+649,3,"膀胱","bladder",57.59
+649,4,"经尿道","transurethral",57.49
+649,3,"脾","spleen",41.42
+649,4,"经袋形缝合术","by marsupialization",41.41
+649,3,"皮肤 NEC","skin NEC",86.3
+649,3,"皮下组织 NEC","subcutaneous tissue NEC",86.3
+649,3,"乳房 NEC","breast NEC",85.20
+649,3,"舌","tongue",25.1
+649,3,"神经(周围的)","nerve (peripheral)",04.07
+649,4,"交感","sympathetic",05.29
+649,3,"肾","kidney",55.39
+649,4,"经袋形缝合术","by marsupialization",55.31
+649,3,"十二指肠 NEC","duodenum NEC",45.32
+649,4,"经切除术","by excision",45.31
+649,5,"内镜","endoscopic",45.30
+649,3,"食管(化学外科)(冷冻术)(电切术)(电灼疗法) NEC","esophagus (chemosurgery) (cryosurgery) (electroresection) (fulguration) NEC",42.39
+649,4,"经切除术","by excision",42.32
+649,5,"内镜","endoscopic",42.33
+649,3,"视网膜","retina",14.29
+649,4,"经","by",
+649,5,"放射疗法","radiation therapy",14.26
+649,5,"放射源植入","implantation of radiation source",14.27
+649,5,"光凝术","photocoagulation",14.25
+649,5,"激光","laser",14.24
+649,5,"氙弧光","xenon arc",14.23
+649,5,"冷冻疗法","cryotherapy",14.22
+649,5,"透热法","diathermy",14.21
+649,3,"唾液腺 NEC","salivary gland NEC",26.29
+649,4,"经袋形缝合术","by marsupialization",26.21
+649,3,"胃 NEC","stomach NEC",43.49
+649,4,"经切除术","by excision",43.42
+649,5,"内镜","endoscopic",43.41
+650,5,"内镜","endoscopic",43.41
+650,3,"心脏","heart",
+650,4,"经导管消融,切除","by catheter ablation",37.34
+650,4,"经切开入路","by open approach",37.33
+650,4,"经胸腔镜入路","by thoracoscopic approach",37.37
+650,4,"经血管内入路","by endovascular approach",37.34
+650,4,"左心耳","left atrial appendage",37.36
+650,3,"心脏组织—见切除,损害,心脏","tissue of heart-see Excision, lesion, heart",
+650,3,"眼 NEC","eye NEC",16.93
+650,3,"眼睑","eyelid",08.25
+650,4,"切除的—见切除,病损,眼睑","excisional-see Excision, lesion, eyelid",
+650,3,"咽(切除的)","pharynx (excisional)",29.39
+650,3,"胰","pancreas",52.22
+650,4,"经袋形缝合术","by marsupialization",52.3
+650,4,"内镜","endoscopic",52.21
+650,3,"胰腺管","pancreatic duct",52.22
+650,4,"内镜","endoscopic",52.21
+650,3,"阴茎","penis",64.2
+650,3,"阴囊","scrotum",61.3
+650,3,"支气管 NEC","bronchus NEC",32.09
+650,4,"内镜","endoscopic",32.01
+650,3,"直肠(局部的)","rectum (local)",48.32
+650,4,"根治","radical",48.31
+650,5,"经","by",
+650,6,"电凝术","electrocoagulation",48.32
+650,6,"电灼疗法","fulguration",48.32
+650,6,"激光(氩)","laser (Argon)",48.33
+650,6,"冷冻术","cryosurgery",48.34
+650,6,"切除术","excision",48.35
+650,6,"息肉","polyp",48.36
+650,3,"直肠子宫陷凹","cul-de-sac",70.32
+650,3,"子宫","uterus",68.29
+650,3,"子宫颈","cervix",67.39
+650,4,"经","by",
+650,5,"电锥形切除术","electroconization",67.32
+650,5,"冷冻术,冷冻锥形切除术","cryosurgery, cryoconization",67.33
+650,5,"烧灼","cauterization",67.32
+650,3,"睫状体","ciliary body",12.74
+650,3,"泪囊","lacrimal sac",09.6
+650,3,"脉络膜视网膜病—另见破坏,病损,脉络膜","chorioretinopathy-see also Destruction, lesion, choroid",14.29
+650,3,"内耳 NEC","inner ear NEC",20.79
+651,4,"经注射","by injection",20.72
+651,3,"前列腺(前列腺组织)","prostate (prostatic tissue)",
+651,4,"TULIP(经尿道(超声)激光引导下前列腺切除术)","TULIP (transurethral (ultrasound) guided laser induced prostatectomy)",60.21
+651,4,"TUMT(经尿道微波热疗法)","TUMT (transurethral microwave thermotherapy)",60.96
+651,4,"TUNA(经尿道针吸消融,切除)","TUNA (transurethral needle ablation)",60.97
+651,4,"经","by",
+651,5,"冷冻疗法","cryotherapy",60.62
+651,5,"射频","radiofrequency",60.97
+651,5,"微波","microwave",60.96
+651,4,"经尿道微波热疗法(TUMT)","transurethral microwave thermotherapy (TUMT)",60.96
+651,4,"经尿道针吸消融,切除(TUNA)","transurethral needle ablation (TUNA)",60.97
+651,3,"前庭,经注射","vestibule, by injection",20.72
+651,3,"乳房","breast",85.20
+651,3,"上皮向下生长,前房","epithelial downgrowth, anterior chamber",12.93
+651,3,"神经(颅的)(周围的)(经射频)","nerve (cranial) (peripheral) (by cryoanalgesia) (by radiofrequency)",04.2
+651,4,"交感神经,经注射神经破坏剂","sympathetic, by injection of neurolytic agent",05.32
+651,3,"神经瘤","neuroma",
+651,4,"颅的","cranial",04.07
+651,4,"莫顿","Morton's",04.07
+651,4,"听神经","acoustic",04.01
+651,5,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
+651,6,"单源光子","single source photon",92.31
+651,6,"多源","multi-source",92.32
+651,6,"放射外科学 NEC","radiosurgery NEC",92.39
+651,6,"钴-60","cobalt 60",92.32
+651,6,"粒子","particulate",92.33
+651,6,"粒子束流","particle beam",92.33
+651,6,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+651,5,"经颅骨切开术","by craniotomy",04.01
+651,4,"周围的","peripheral",
+651,5,"莫顿","Morton's",04.07
+651,3,"输卵管","fallopian tube",66.39
+651,4,"伴","with",
+651,5,"挤压术(和结扎)","crushing (and ligation)",66.31
+652,5,"经内镜检查(腹腔镜检查)","by endoscopy (laparoscopy)",66.21
+652,5,"结扎","ligation",66.39
+652,6,"伴","with",
+652,7,"挤压术","crushing",66.31
+652,7,"经内镜检查(后穹窿镜检查)","by endoscopy (laparoscopy)",66.21
+652,6,"切断","division",66.32
+652,7,"经内镜检查(后穹窿镜检查)(子宫镜检查)(腹腔镜检查)(腹腔镜检查)","by endoscopy (culdoscopy) (hysteroscopy) (laparoscopy) (peritoneoscopy)",66.22
+652,6,"切断(和结扎)","division (and ligation)",66.32
+652,7,"经内镜检查(后穹窿镜检查)(子宫镜检查)(腹腔镜检查)(腹腔镜检查)","by endoscopy (culdoscopy) (hysteroscopy) (laparoscopy) (peritoneoscopy)",66.22
+652,3,"胎儿","fetus",73.8
+652,3,"痔","hemorrhoids",49.49
+652,4,"经","by",
+652,5,"冷冻疗法","cryotherapy",49.44
+652,5,"硬化疗法","sclerotherapy",49.42
+652,3,"椎间盘 NOS","intervertebral disc NOS",80.50
+652,4,"经其他特指的方法","by other specified method",80.59
+652,4,"经注射","by injection",80.52
+652,4,"疝出的(髓核)","herniated (nucleus pulposus)",80.51
+652,3,"左心耳","left atrial appendage",37.36
+652,1,"破裂","Rupture",
+652,2,"关节粘连,手法的","joint adhesions, manual",93.26
+652,2,"卵巢囊肿,手法的","ovarian cyst, manual",65.93
+652,2,"膜,人工","membranes, artificial",73.09
+652,3,"用于手术性引产","for surgical induction of labor",73.01
+652,2,"食管蹼","esophageal web",42.01
+652,1,"剖宫产术","Cesarean section",74.99
+652,2,"腹膜排除","peritoneal exclusion",74.4
+652,2,"腹膜外的","extraperitoneal",74.2
+652,2,"古典式的","classical",74.0
+652,2,"经腹膜的","transperitoneal",74.4
+652,3,"古典式的","classical",74.0
+652,3,"子宫颈下的","low cervical",74.1
+652,2,"拉兹科","Latzko",74.2
+652,2,"膀胱上","supravesical",74.2
+652,2,"特指类型 NEC","specified type NEC",74.4
+652,2,"沃特斯","Waters",74.2
+652,2,"阴道的","vaginal",74.4
+652,2,"子宫底的","fundal",74.0
+653,2,"子宫颈切开剖腹产术","laparotrachelotomy",74.1
+653,2,"子宫颈下的","low cervical",74.1
+653,2,"子宫上段","upper uterine segment",74.0
+653,2,"子宫体的","corporeal",74.0
+653,2,"子宫下段","lower uterine segment",74.1
+653,1,"剖腹术,腹切开术 NEC","Laparotomy NEC",54.19
+653,2,"近期手术部位再切开(用于出血控制)(用于探查术)(用于血肿切开)","reopening of recent operative site (for control of hemorrhage) (for exploration) (for incision of hematoma)",54.12
+653,2,"探查术(骨盆)","exploratory (pelvic)",54.11
+653,2,"作为手术入路—省略编码","as operative approach-omit code",
+653,1,"蹼化(并趾化)","Webbing (syndactylization)",86.89
+653,1,"普林特和梅森手术—见 PrintenandMason 手术","普林特和梅森手术— see PrintenandMason operation",
+653,1,"普斯托手术—见 Puestow 手术","普斯托手术— see Puestow operation",
+653,0,"Q","Q",
+653,1,"Quenu 胸成形术","Quenu thoracoplasty",77.31
+653,1,"奇静脉造影术","Azygography",88.63
+653,1,"奇特尔亨利手术—见 CheatleHenry 手术","奇特尔-亨利手术— see Cheatle-Henry operation",
+653,1,"脐切除术","Omphalectomy, Umbilectomy",54.3
+653,1,"起搏器","Pacemaker",
+653,2,"心的—另见插入,起搏器,心脏","cardiac-see also Insertion, pacemaker, cardiac",
+653,3,"手术中的(暂时性)","intraoperative (temporary)",39.64
+653,3,"暂时性(心脏手术中或即后)","temporary (during and immediately following cardiac surgery)",39.64
+653,1,"气腹(外科手术诱发的)","Pneumoperitoneum (surgically-induced)",54.96
+653,2,"骨盆","pelvic",88.12
+653,2,"用于肺萎陷","for collapse of lung",33.33
+653,1,"气管成形术","Tracheoplasty",31.79
+653,2,"伴人工喉","with artificial larynx",31.75
+653,1,"气管分裂术","Tracheofissure",31.1
+653,1,"气管缝合术","Tracheorrhaphy",31.71
+653,1,"气管喉切开术(紧急的)","Tracheolaryngotomy (emergency)",31.1
+653,2,"永久性开放","permanent opening",31.29
+653,1,"气管环状软骨切开术(用于辅助呼吸)","Tracheocricotomy (for assistance in breathing)",31.1
+653,1,"气管镜检查 NEC","Tracheoscopy NEC",31.42
+653,2,"经气管切开术(口)","through tracheotomy (stoma)",31.41

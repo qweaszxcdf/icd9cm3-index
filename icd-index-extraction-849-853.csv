@@ -1,0 +1,197 @@
+page,level,chinese,english,code
+849,9,"移植或植入(腱)","transfer or transplantation (tendon)",82.56
+849,9,"移植或植入(腱)","graft or implant (tendon)",82.79
+849,10,"通过或伴","by or with",
+849,11,"缝合(直接)(立即)(初期)-另见缝合,腱","suture (direct) (immediate) (primary)-see also Suture, tendon",83.64
+849,12,"手","hand",82.45
+849,10,"关节成形术-见关节成形术","arthroplasty-see Arthroplasty",
+849,10,"移植或植入(腱)","transfer for transplantation (tendon)",83.75
+849,11,"手","hand",82.56
+849,10,"移植或植入(腱)","graft or implant (tendon)",83.81
+849,11,"肌肉","muscle",83.82
+849,12,"手","hand",82.72
+849,11,"筋膜","fascia",83.82
+849,12,"手","hand",82.72
+849,11,"手","hand",82.79
+849,9,"旋转环带(直接缝合)","rotator cuff (direct suture)",83.63
+849,5,"腱索","chordae tendineae",35.32
+849,5,"角膜 NEC","cornea NEC",11.59
+849,6,"伴","with",
+849,7,"结膜瓣","conjunctival flap",11.53
+849,7,"移植物-见角膜成形术","transplant-see Keratoplasty",
+849,5,"手术后裂开","postoperative dehiscence",11.52
+849,5,"结肠造口术","colostomy",46.43
+849,5,"结膜 NEC","conjunctiva NEC",10.49
+849,6,"伴巩膜修补术","with scleral repair",12.81
+849,5,"沙眼晚期效应","late effect of trachoma",10.49
+849,5,"撕裂","laceration",10.6
+849,6,"伴巩膜修补术","with repair of sclera",12.81
+849,5,"筋膜","fascia",83.89
+849,6,"关节-见关节成形术","joint-see Arthroplasty",
+849,6,"经或伴","by or with",
+849,7,"缝合(直接)","suture (direct)",83.65
+849,8,"手","hand",82.46
+849,7,"关节成形术-见关节成形术","arthroplasty-see Arthroplasty",
+849,7,"移植(筋膜)(肌肉)","graft (fascial) (muscle)",83.82
+849,8,"腱","tendon",83.81
+849,9,"手","hand",82.79
+849,9,"手","hand",82.72
+849,8,"手","hand",82.89
+849,8,"通过","by",
+850,9,"缝合(直接)","suture (direct)",82.46
+850,9,"移植 NEC","graft NEC",82.79
+850,10,"肌肉","muscle",82.72
+850,10,"面的","fascial",82.72
+850,5,"精索 NEC","spermatic cord NEC",63.59
+850,5,"撕裂(经缝合)","laceration (by suture)",63.51
+850,5,"精索静脉曲张","varicocele",63.1
+850,5,"静脉 NEC","vein NEC",39.59
+850,6,"伴","with",
+850,7,"补片移植","patch graft",39.58
+850,7,"伴切除术或血管切除术-见静脉切除术,伴移植物置换,按部位","with excision or resection of vessel-see Phlebectomy, with graft replacement, by site",
+850,7,"合成(涤纶)(聚四氟乙烯)","synthetic (Dacron) (Teflon)",39.57
+850,7,"组织(静脉)(自体的)(自体移植)","tissue (vein) (autogenous) (homograft)",39.56
+850,6,"缝合","suture",39.32
+850,6,"通过(用)","by",
+850,7,"血管内入路","endovascular approach",
+850,8,"头和颈(栓塞或闭塞)","head and neck (embolization or occlusion)",39.72
+850,5,"锯齿状唇","notched lip",27.59
+850,5,"巨指","macrodactyly",82.83
+850,5,"空肠造口术","jejunostomy",46.41
+850,5,"口","stoma",
+850,6,"肠","intestine",46.40
+850,7,"大的","large",46.43
+850,7,"小的","small",46.41
+850,6,"胆管","bile duct",51.79
+850,6,"胆囊","gallbladder",51.99
+850,6,"胆总管","common duct",51.72
+850,6,"肝管","hepatic duct",51.79
+850,6,"喉","larynx",31.63
+850,6,"尿道","urethra",58.49
+850,6,"膀胱","bladder",57.22
+850,6,"气管","trachea",31.74
+850,6,"肾","kidney",55.89
+850,6,"食管","esophagus",42.89
+850,6,"输尿管","ureter",56.62
+850,6,"胃","stomach",44.69
+850,7,"腹腔镜的","laparoscopic",44.68
+850,6,"胸","thorax",34.79
+850,6,"支气管","bronchus",33.42
+851,6,"直肠","rectum",48.79
+851,5,"口 NEC","mouth NEC",27.59
+851,5,"撕裂 NEC","laceration NEC",27.52
+851,5,"眶","orbit",16.89
+851,6,"伤口","wound",16.81
+851,5,"阔韧带","broad ligament",69.29
+851,5,"泪点 NEC","punctum, lacrimal NEC",09.72
+851,6,"用于外翻矫正术","for correction of eversion",09.71
+851,5,"泪器系统 NEC","lacrimal system NEC",09.99
+851,6,"点","punctum",09.72
+851,7,"用于外翻","for eversion",09.71
+851,6,"泪小管","canaliculus",09.73
+851,5,"泪小管,泪的","canaliculus, lacrimal",09.73
+851,5,"裂","cleft",
+851,6,"唇","lip",27.54
+851,6,"腭","palate",27.62
+851,7,"II期或随后的","secondary or subsequent",27.63
+851,6,"喉气管的","laryngotracheal",31.69
+851,6,"手","hand",82.82
+851,5,"淋巴(管道)(周围的) NEC","lymphatic (channel) (peripheral) NEC",40.9
+851,6,"管,左(胸的) NEC","duct, left (thoracic) NEC",40.69
+851,5,"漏斗胸(伴植入)","funnel chest (with implant)",34.74
+851,5,"瘘-见乳闭合,瘘","fistula-see also Closure, fistula",
+851,6,"肠膀胱的","enterovesical,intestinovesical",57.83
+851,6,"肠阴道的","enterovaginal,intestinovaginal",70.74
+851,6,"胆总管十二指肠的","choledochoduodenal",51.72
+851,6,"动静脉","arteriovenous",39.53
+851,7,"闭塞","occlusion",39.53
+851,8,"血管内入路","endovascular approach",39.79
+851,9,"头和颈","head and neck",39.72
+851,7,"缝合","suture",39.53
+851,7,"结扎","ligation",39.53
+851,8,"冠状动脉","coronary artery",36.99
+851,7,"凝固","coagulation",39.53
+851,8,"血管内入路","endovascular approach",39.79
+851,9,"头和颈","head and neck",39.72
+851,7,"钳夹","clipping",39.53
+851,7,"切除术或切除术-见见动脉瘤切除术,按部位","excision or resection-see also Aneurysmectomy, by site",
+851,8,"伴","with",
+851,9,"吻合术-见动脉瘤切除术,伴吻合,按部位","anastomosis-see Aneurysmectomy, with anastomosis, by site",
+852,9,"移植物置换-见动脉瘤切除术,伴移植物置换,按部位","graft replacement-see Aneurysmectomy, with graft replacement, by site",
+852,9,"切断","division",39.53
+852,5,"窦","sinus",
+852,6,"鼻","nasal",22.71
+852,6,"瓦尔萨尔瓦的","of Valsalva",35.39
+852,5,"肛门阴道的","anovaginal",70.73
+852,5,"回肠膀胱的","ileovesical",57.83
+852,5,"会阴直肠的","vulvorectal",48.73
+852,5,"结肠阴道的","colovaginal",70.72
+852,5,"口腔龈窦的","oroantral",22.71
+852,5,"尿道会阴膀胱","urethroperineovesical",57.84
+852,5,"尿道膀胱","urethrovesical",57.84
+852,5,"尿道膀胱阴道的","urethrovesicovaginal",57.84
+852,5,"膀胱肠的","vesicoenteric,vesicointestinal",57.83
+852,5,"膀胱会阴的","vesicoperineal",57.84
+852,5,"膀胱结肠的","vesicocolic",57.83
+852,5,"膀胱尿道的","vesicourethral",57.84
+852,5,"膀胱尿道直肠的","vesicourethrorectal",57.83
+852,5,"膀胱皮肤的","vesicocutaneous",57.84
+852,5,"膀胱乙状结肠的","vesicosigmoidal",57.83
+852,5,"膀胱乙状结肠阴道的","vesicosigmoidovaginal",57.83
+852,5,"膀胱阴道的","vesicovaginal",57.84
+852,5,"膀胱直肠的","vesicorectal",57.83
+852,5,"膀胱子宫的","vesicouterine",57.84
+852,5,"膀胱子宫颈阴道的","vesicocervicovaginal",57.84
+852,5,"膀胱子宫直肠的","vesicometrorectal",57.83
+852,5,"脾结肠的","splenocolic",41.95
+852,5,"食管皮肤的","esophagocutaneous",42.84
+852,5,"外阴","vulva",71.72
+852,5,"胸膜心包的","pleuropericardial",37.49
+852,5,"乙状结肠阴道的","sigmoidovaginal",70.74
+852,5,"阴道 NEC","vagina NEC",70.75
+852,5,"阴道肠的 NEC","vaginoenteric NEC",70.74
+852,5,"阴道回肠的","vaginoileal",70.74
+852,5,"阴道会阴的","vaginoperineal",70.75
+852,5,"阴道膀胱的","vaginovesical",57.84
+852,5,"阴道皮肤的","vaginocutaneous",70.75
+852,5,"阴囊","scrotum",61.42
+852,5,"直肠膀胱","rectovesical",57.83
+852,5,"直肠膀胱阴道的","rectovesicovaginal",57.83
+852,5,"直肠阴道的","rectovaginal",70.73
+853,5,"直肠周围","perirectal",48.93
+853,5,"子宫颈","cervix",67.62
+853,5,"子宫颈膀胱的","cervicovesical",57.84
+853,5,"子宫膀胱","uterovesical",57.84
+853,5,"颅骨 NEC","skull,cranium NEC",02.06
+853,6,"伴","with",
+853,7,"皮瓣(骨)","flap (bone)",02.03
+853,7,"移植(骨)","graft (bone)",02.04
+853,5,"卵巢","ovary",65.79
+853,6,"伴管","with tube",65.73
+853,7,"腹腔镜的","laparoscopic",65.76
+853,5,"卵圆孔(未闭)","foramen ovale (patent)",35.71
+853,6,"伴","with",
+853,7,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.51
+853,7,"闭合性心脏技术","closed heart technique",35.52
+853,7,"组织移植","tissue graft",35.61
+853,5,"滤泡(角膜)(巩膜的)(经切除术)","filtering bleb (corneal) (scleral) (by excision)",12.82
+853,6,"经","by",
+853,7,"缝合","suture",11.51
+853,7,"伴结膜瓣","with conjunctival flap",11.53
+853,7,"巩膜成形术","scleroplasty",12.82
+853,7,"角膜移植-另见角膜成形术","corneal graft-see also Keratoplasty",11.60
+853,5,"脉络膜 NEC","choroid NEC",14.9
+853,5,"伴视网膜修补术-见修补术,视网膜","with retinal repair-see Repair, retina",
+853,5,"眉","eyebrow",08.89
+853,6,"线形","linear",08.81
+853,5,"泌尿系括约肌,人工(构成)","urinary sphincter, artificial (component)",58.99
+853,5,"踇外翻 NEC","hallux valgus NEC",77.59
+853,5,"关节切除术伴假体植入","resection of joint with prosthetic implant",77.59
+853,5,"脑(创伤) NEC","brain (trauma) NEC",02.92
+853,5,"脑(脊)膜突出(脊髓的)","meningocele (spinal)",03.51
+853,6,"颅的","cranial",02.12
+853,5,"脑膜(脑的) NEC","meninges (cerebral) NEC",02.12
+853,6,"脊髓的 NEC","spinal NEC",03.59
+853,7,"脊髓脊膜突出","myelomeningocele",03.52
+853,7,"脑(脊)膜突出","meningocele",03.51
+853,5,"脑膜","cerebral meninges",02.12

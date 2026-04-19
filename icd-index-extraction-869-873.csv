@@ -1,0 +1,172 @@
+page,level,chinese,english,code
+869,7,"手","hand",81.97
+869,7,"腕","wrist",81.97
+869,7,"膝","knee",81.55
+869,7,"膝关节置换 NOS","knee replacement NOS",81.55
+869,8,"髌骨成分","patellar component",0.83
+869,8,"部分的","partial",
+869,9,"髌骨成分","patellar component",0.83
+869,9,"股骨成分","femoral component",0.82
+869,9,"胫骨插入","tibial insert",0.84
+869,9,"胫骨成分","tibial component",0.81
+869,9,"股骨成分","femoral component",0.82
+869,9,"胫骨插入","tibial insert",0.84
+869,9,"胫骨成分","tibial component",0.81
+869,8,"全部的(所有组成)","total (all components)",0.8
+869,7,"下肢 NEC","lower extremity NEC",81.59
+869,7,"趾","toe",81.59
+869,7,"肘","elbow",81.97
+869,7,"足","foot",81.59
+869,5,"管","tunnel",
+869,6,"脉搏发生器导联","pulse generator lead wire",86.99
+869,7,"伴首次操作-省略编码","with initial procedure-omit code",
+869,5,"喉造口术","laryngostomy",31.63
+869,5,"踝置换(假体)","ankle replacement (prosthesis)",81.59
+869,5,"回肠代尿道","ileal conduit",56.52
+869,5,"回肠造口术","ileostomy",46.41
+869,5,"霍尔特尔(-斯皮兹)瓣膜","Holter (-Spitz) valve",2.42
+869,5,"假体","prosthesis",
+869,6,"踝","ankle",81.59
+869,6,"脊柱","spine",
+869,7,"棘突装置","interspinous process device(s)",84.81
+869,7,"椎弓根动力稳定装置","pedicle-based dynamic stabilization device(s)",84.83
+869,7,"椎骨关节面置换装置","facet replacement device(s)",84.85
+869,6,"肩","shoulder",81.97
+869,7,"仅股骨成分","femoral component only",0.72
+869,7,"仅股骨头和(或)髋臼衬垫","femoral head only and/or acetabular liner",0.73
+869,7,"仅髋臼衬垫和(或)股骨头","acetabular liner and/or femoral head only",0.73
+869,6,"髋,NOS","hip,NOS",81.53
+869,7,"部分的","partial",
+869,8,"仅股骨成分","femoral component only",0.72
+870,8,"仅股骨头和(或)髋臼衬垫","femoral head only and/or acetabular liner",0.73
+870,8,"仅髋臼衬垫和(或)股骨头","acetabular liner and/or femoral head only",0.73
+870,8,"髋臼成分","acetabular component only",0.71
+870,7,"仅股骨成分","femoral component only",0.72
+870,7,"仅股骨头和(或)髋臼衬垫","femoral head only and/or acetabular liner",0.73
+870,7,"仅髋臼衬垫和(或)股骨头","acetabular liner and/or femoral head only",0.73
+870,7,"髋臼成分","acetabular component only",0.71
+870,7,"髋臼和股骨成分(全部的)","acetabular and femoral components (total)",0.7
+870,6,"全部的(髋臼和股骨成分)","total (acetabular and femoral components)",0.7
+870,6,"髋臼成分","acetabular component only",0.71
+870,6,"髋臼和股骨成分(全部的)","acetabular and femoral components (total)",0.7
+870,6,"乳房","breast",85.93
+870,6,"上肢","upper extremity",81.97
+870,7,"手","hand",81.97
+870,7,"腕","wrist",81.97
+870,7,"膝 NOS","knee NOS",81.55
+870,8,"髌骨成分","patellar component",0.83
+870,8,"部分的","partial",
+870,9,"髌骨成分","patellar component",0.83
+870,9,"股骨成分","femoral component",0.82
+870,9,"胫骨插入","tibial insert",0.84
+870,9,"胫骨成分","tibial component",0.81
+870,9,"股骨成分","femoral component",0.82
+870,9,"胫骨插入","tibial insert",0.84
+870,9,"胫骨成分","tibial component",0.81
+870,8,"全部的(所有组成)","total (all components)",0.8
+870,6,"下肢 NEC","lower extremity NEC",81.59
+870,6,"心脏瓣膜(阀门)","heart valve (poppet)",35.95
+870,6,"趾","toe",81.59
+870,6,"肘","elbow",81.97
+870,6,"足","foot",81.59
+870,5,"肩置换(假体)","shoulder replacement (prosthesis)",81.97
+870,5,"睑下垂过度矫正术","ptosis overcorrection",8.37
+870,5,"结肠造口术","colostomy",46.43
+870,5,"截断残端","amputation stump",84.3
+871,5,"近期创伤的-见截断术","current traumatic-see Amputation",
+871,5,"开窗术,内耳","fenestration, inner ear",20.62
+871,5,"空肠回肠旁路移","jejunoileal bypass",46.93
+871,5,"空肠造口术","jejunostomy",46.41
+871,5,"髋置换 NOS","hip replacement NOS",81.53
+871,6,"部分的","partial",
+871,7,"仅股骨成分","femoral component only",0.72
+871,7,"仅股骨头和(或)髋臼衬垫","femoral head only and/or acetabular liner",0.73
+871,7,"仅髋臼衬垫和(或)股骨头","acetabular liner and/or femoral head only",0.73
+871,7,"髋臼成分","acetabular component only",0.71
+871,7,"仅股骨成分","femoral component only",0.72
+871,7,"仅股骨头和(或)髋臼衬垫","femoral head only and/or acetabular liner",0.73
+871,7,"仅髋臼衬垫和(或)股骨头","acetabular liner and/or femoral head only",0.73
+871,7,"髋臼成分","acetabular component only",0.71
+871,7,"髋臼和股骨成分(全部的)","acetabular and femoral components (total)",0.7
+871,6,"全部的(髋臼和股骨成分)","total (acetabular and femoral components)",0.7
+871,5,"眶植入","orbital implant",16.62
+871,5,"滤泡","filtering bleb",12.66
+871,5,"泌尿系通道","urinary conduit",56.52
+871,5,"囊袋","pocket",
+871,6,"颈动脉窦刺激脉冲发生器","carotid sinus stimulation pulse generator",39.85
+871,7,"伴有初次脉冲发生器置入-省略编码","with initial insertion of pulse generator-omit code",
+871,6,"皮下装置囊袋 NEC","subcutaneous device pocket NEC",
+871,7,"伴首次插入发生器或装置-省略编码","with initial insertion of generator or device-omit code",
+871,7,"新部位","new site",86.09
+871,6,"丘脑刺激器脉搏发生器","thalamic stimulator pulse generator",
+871,7,"伴首次电池包置入-省略编码","with initial insertion of battery package-omit code",
+871,7,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",86.09
+871,6,"心内血流动力学监测","intracardiac hemodynamic monitoring",37.79
+871,6,"心脏起搏器","cardiac device (defibrillator)(pacemaker)",
+872,7,"伴首次起搏器置入-省略编码","with initial insertion of cardiac device-omit code",
+872,7,"新部位(心脏装置袋)(皮肤)(皮下)","new site (cardiac device pocket)(skin)(subcutaneous)",37.79
+872,5,"脑室分流(脑的)","ventricular shunt (cerebral)",2.42
+872,5,"尿道造口术","urethrostomy",58.49
+872,5,"盘-见修复术,椎间盘","disc-see Revision, intervertebral disc",
+872,5,"膀胱造口术口,除外闭合","vesicostomy stoma,cystostomy",57.22
+872,5,"旁路移植(血管的)","bypass graft (vascular)",39.49
+872,6,"CABG-见修复术,主动脉冠状动脉旁路移植","CABG-see Revision, aortocoronary bypass graft",
+872,7,"腹冠状动脉","abdominal-coronary artery",36.17
+872,7,"冠状动脉旁路移植(CABG)-见修复术,主动脉冠状动脉旁路移植,腹冠状动脉旁路和乳内冠状动脉旁路","coronary artery bypass graft (CABG)-see Revision, aortocoronary bypass graft, abdominal-coronary artery bypass, and internal mammary-coronary artery bypass",
+872,6,"肋间导管(伴粘连松解术)","intercostal catheter (with lysis of adhesions)",34.04
+872,7,"胸腔镜的","thoracoscopic",34.06
+872,7,"乳内冠状动脉(单)","internal mammary-coronary artery (single)",36.15
+872,8,"双血管","double vessel",36.16
+872,6,"胸管-见肋间导管","chest tube-see intercostal catheter",
+872,6,"主动脉冠状动脉(导管支架)(伴假体)(伴隐静脉移植)(伴静脉移植)","aortocoronary (catheter stent)(with prosthesis)(with saphenous vein graft)(with vein graft)",36.1
+872,7,"根冠状血管","one coronary vessel",36.11
+872,7,"两根冠状血管","two coronary vessels",36.12
+872,7,"三根冠状血管","three coronary vessels",36.13
+872,7,"四根冠状血管","four coronary vessels",36.14
+872,5,"皮瓣或蒂移植(皮肤)","flap or pedicle graft (skin)",86.75
+872,5,"气管造口术","tracheostomy",31.74
+872,5,"前节(眼)伤口(手术的) NEC","anterior segment (eye) wound (operative) NEC",12.83
+872,5,"去眶术腔","exenteration cavity",16.66
+872,6,"伴 II 期移植","with secondary graft",16.65
+872,5,"乳房植入","breast implant",85.93
+872,5,"乳突窦","mastoid antrum",19.9
+872,5,"乳突切除术","mastoidectomy",20.92
+872,5,"神经成形术","neuroplasty",4.75
+872,5,"肾盂造口术","pyelostomy",55.12
+872,5,"肾造口术","nephrostomy",55.89
+873,5,"食管造口术","esophagostomy",42.83
+873,5,"手置换(假体)","hand replacement (prosthesis)",81.97
+873,5,"输尿管回肠造口术,皮肤的","uretero-ileostomy, cutaneous",56.52
+873,5,"输尿管造口术(皮肤的)(口) NEC","ureterostomy (cutaneous) (stoma) NEC",56.62
+873,6,"回肠","ileal",56.52
+873,5,"塔克手术","tack operation",20.79
+873,5,"套管,血管血管(动静脉)","cannula, vessel-to-vessel (arteriovenous)",39.94
+873,5,"通道,泌尿系","conduit, urinary",56.52
+873,5,"腕关节置换(假体)","wrist replacement (prosthesis)",81.97
+873,5,"胃肠吻合术(伴空肠间置术)","gastrointestinal anastomosis (with jejunal interposition)",44.5
+873,5,"胃带,腹腔镜","gastric band, laparoscopic",44.96
+873,5,"胃端口装置","gastric port device",
+873,6,"腹腔镜的","laparoscopic",44.96
+873,5,"胃空肠吻合术","gastrojejunostomy",44.5
+873,5,"胃十二指肠吻合术(伴空肠间置术)","gastroduodenostomy (with jejunal interposition)",44.5
+873,5,"胃吻合术(伴空肠间置术)","gastric anastomosis (with jejunal interposition)",44.5
+873,5,"胃造口术","gastrostomy",44.69
+873,6,"腹腔镜的","laparoscopic",44.68
+873,5,"吻合术","anastomosis",
+873,6,"肠(大的)","intestine (large)",46.94
+873,7,"小的","small",46.93
+873,6,"胆道","biliary tract",51.94
+873,6,"肾盂肠管的","pyelointestinal",56.72
+873,6,"输卵管硬脊膜的","salpingothecal",3.97
+873,6,"输尿管肠管","ureterointestinal",56.72
+873,6,"胃,胃肠的(伴空肠间置术)","gastric, gastrointestinal (with jejunal interposition)",44.5
+873,6,"胸腔脊膜","pleurothecal",3.97
+873,6,"血管","blood vessel",39.49
+873,6,"蛛网膜下腹膜的","subarachnoid-peritoneal",3.97
+873,6,"蛛网膜下输尿管的","subarachnoid-ureteral",3.97
+873,5,"膝置换(假体) NOS","knee replacement (prosthesis) NOS",81.55
+873,6,"髌骨成分","patellar component",0.83
+873,6,"部分的","partial",
+873,7,"髌骨成分","patellar component",0.83
+873,7,"股骨成分","femoral component",0.82
+873,7,"胫骨插入","tibial insert",0.84

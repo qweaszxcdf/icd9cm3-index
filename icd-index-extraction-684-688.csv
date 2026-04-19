@@ -1,0 +1,203 @@
+page,level,chinese,english,code
+684,3,"回肠","ileum",45.62
+684,4,"伴盲肠","with cecum",
+684,5,"腹腔镜的","laparoscopic",17.32
+684,5,"开放和其他","open and other",45.72
+684,4,"节段的(大肠)","segmental (large intestine)",
+684,5,"多数的","multiple",
+684,6,"腹腔镜的","laparoscopic",17.31
+684,6,"开放和其他","open and other",45.71
+684,5,"腹腔镜的","laparoscopic",17.39
+684,5,"开放和其他","open and other",45.79
+684,5,"小肠","small intestine",45.62
+684,6,"多数的","multiple",45.61
+684,5,"开放和其他","open and other",45.79
+684,4,"盲肠(伴回肠末端)","cecum (with terminal ileum)",
+684,5,"腹腔镜的","laparoscopic",17.32
+684,5,"开放和其他","open and other",45.72
+684,4,"全前的","total",
+684,5,"大肠","large intestine",
+684,6,"腹腔镜的","laparoscopic",45.81
+684,6,"开放","open",45.82
+684,6,"其他","other",45.83
+684,7,"未特指的","unspecified",45.83
+684,5,"小肠","small intestine",45.63
+684,4,"外置的(大肠)","exteriorized (large intestine)",46.04
+684,4,"小肠","small intestine",46.02
+684,4,"小的(部分的)(节段的) NEC","small (partial) (segmental) NEC",45.62
+684,5,"多节段的","multiple segmental",45.61
+684,5,"全部的","total",45.63
+684,5,"用于间置术","for interposition",45.51
+684,4,"乙状","sigmoid",
+684,5,"腹腔镜的","laparoscopic",17.36
+684,5,"开放和其他","open and other",45.76
+684,4,"用于间置术","for interposition",45.50
+684,5,"大肠","large intestine",45.52
+684,5,"小肠","small intestine",45.51
+684,4,"右半结肠","right hemicolon",
+684,5,"腹腔镜的","laparoscopic",17.33
+684,5,"开放和其他","open and other",45.73
+684,4,"左半结肠","left hemicolon",
+684,5,"腹腔镜的","laparoscopic",17.35
+684,5,"开放和其他","open and other",45.75
+684,3,"肠系膜","mesentery",54.4
+685,2,"胆管 NEC","bile duct NEC",51.69
+685,3,"胆总管 NEC","common duct NEC",51.63
+685,2,"胆囊(全部的)","gallbladder (total)",51.22
+685,2,"动脉—见动脉切除术","artery-see Arteriectomy",
+685,2,"动脉瘤—见动脉瘤切除术","aneurysm-see Aneurysmectomy",
+685,2,"腭(骨性)(局部的)","palate (bony) (local)",27.31
+685,3,"经广泛切除术","by wide excision",27.32
+685,3,"软","soft",27.49
+685,2,"耳内的","endaural",20.79
+685,2,"肺(楔形) NEC","lung (wedge) NEC",32.29
+685,3,"节段的(任何部分)","segmental (any part)",32.39
+685,3,"胸腔镜的","thoracoscopic",32.30
+685,3,"内镜的","endoscopic",32.28
+685,3,"容量减小","volume reduction",32.22
+685,3,"生物学肺容积减少术—见亚目","biologic lung volume reduction (BLVR)-see subcategory",33.7
+685,3,"胸腔镜的","thoracoscopic",32.20
+685,2,"腹会阴的(直肠),NOS","abdominoperineal (rectum), NOS",48.50
+685,3,"拖出(阿尔特迈尔)(斯温森) NEC","pull-through (Altemeier) (Swenson) NEC",48.49
+685,4,"杜哈梅尔型","Duhamel type",48.65
+685,5,"腹腔镜的","laparoscopic",48.42
+685,5,"开放性","open",48.43
+685,5,"其他方面未特指的","not otherwise specified",48.40
+685,2,"腹膜","peritoneum",54.4
+685,2,"腹直肠内(联合的),NOS","abdominoendorectal (combined), NOS",48.50
+685,3,"腹腔镜的","laparoscopic",48.51
+685,3,"开放性","open",48.52
+685,3,"其他","other",48.59
+685,2,"肝(部分的)(楔形的)","liver (partial) (wedge)",50.22
+685,3,"全部的","total",50.4
+685,3,"叶(全部的)","lobe (total)",50.3
+685,2,"肝的","hepatic",
+685,3,"管","duct",51.69
+685,3,"曲(结肠)","flexure (colon)",
+685,4,"腹腔镜的","laparoscopic",17.33
+685,4,"开放和其他","open and other",45.73
+685,2,"膈神经","phrenic nerve",04.03
+685,3,"用于肺萎陷","for collapse of lung",33.31
+685,2,"根(牙)(尖)","root (tooth) (apex)",23.73
+685,3,"伴根管疗法","with root canal therapy",23.72
+686,4,"残留或滞留","residual or retained",23.11
+686,2,"巩膜","sclera",12.65
+686,3,"板层的(用于视网膜再附着)","lamellar (for retinal reattachment)",14.49
+686,4,"伴植入","with implant",14.41
+686,3,"伴巩膜环扎术—另见环扎术,巩膜的","with scleral buckling-see also Buckling, scleral",14.49
+686,2,"关节结构 NEC—另见关节截除术","joint structure NEC-see also Arthrectomy",80.90
+686,2,"横膈","diaphragm",34.81
+686,2,"横结肠","transverse colon",
+686,3,"腹腔镜","laparoscopic",17.34
+686,3,"开放和其他","open and other",45.74
+686,2,"喉—另见喉切除术","larynx-see also Laryngectomy",
+686,3,"黏膜下","submucous",30.29
+686,2,"滑膜(完全的)(部分的)—另见滑膜切除术","synovial membrane (complete) (partial)-see also Synovectomy",80.70
+686,2,"肌肉","muscle",83.45
+686,3,"手","hand",82.36
+686,3,"用于移植","for graft",82.34
+686,3,"眼—见切除术,肌,眼外的","ocular-see Resection, muscle, extraocular",
+686,3,"眼外的","extraocular",15.13
+686,4,"伴","with",
+686,5,"其他眼肌前徙术或退缩术","advancement or recession of other eye muscle",15.3
+686,5,"首次插入的缝合","suture of original insertion",15.13
+686,5,"睑板的,用于下垂","tarsal, for blepharoptosis",08.35
+686,5,"穆勒,用于下垂","Muller's, for blepharoptosis",08.35
+686,5,"提上睑肌","levator palpebrae",08.33
+686,5,"眼轮匝肌","orbicularis oculi",08.20
+686,3,"用于移植","for graft",83.43
+686,4,"手","hand",82.34
+686,2,"脊索(脑膜)","spinal cord (meninges)",03.4
+686,2,"腱","tendon",83.42
+686,3,"手","hand",82.33
+686,2,"角的(输卵管)(单侧)","cornual (fallopian tube) (unilateral)",66.69
+686,3,"双侧的","bilateral",66.63
+686,2,"结肠(部分)(节段的)","colon (partial) (segmental)",
+686,3,"多节段的","multiple segmental",
+686,4,"腹腔镜的","laparoscopic",17.31
+686,4,"开放和其他","open and other",45.71
+686,3,"腹腔镜的","laparoscopic",17.39
+686,3,"肝曲","hepatic flexure",
+687,4,"腹腔镜的","laparoscopic",17.33
+687,4,"开放和其他","open and other",45.73
+687,3,"哈特曼","Hartmann",
+687,4,"腹腔镜的","laparoscopic",17.35
+687,4,"开放和其他","open and other",45.75
+687,3,"横的","transverse",
+687,4,"腹腔镜","laparoscopic",17.34
+687,4,"开放和其他","open and other",45.74
+687,3,"降(乙状)","descending (sigmoid)",
+687,4,"腹腔镜的","laparoscopic",17.36
+687,4,"开放和其他","open and other",45.76
+687,3,"节段的 NEC","segmental NEC",
+687,4,"多","multiple",
+687,5,"腹腔镜的","laparoscopic",17.31
+687,5,"开放和其他","open and other",45.71
+687,4,"腹腔镜的","laparoscopic",17.39
+687,4,"开放和其他","open and other",45.79
+687,3,"开放和其他","open and other",45.79
+687,3,"盲肠(和回肠末端)","cecum (and terminal ileum)",
+687,4,"腹腔镜的","laparoscopic",17.32
+687,4,"开放和其他","open and other",45.72
+687,3,"脾曲","splenic flexure",
+687,4,"腹腔镜的","laparoscopic",17.35
+687,4,"开放和其他","open and other",45.75
+687,3,"全部的","total",
+687,4,"腹腔镜的","laparoscopic",45.81
+687,4,"开放","open",45.82
+687,4,"其他","other",45.83
+687,4,"未特指的","unspecified",45.83
+687,3,"升(盲肠和回肠末端)","ascending (cecum and terminal ileum)",
+687,4,"腹腔镜的","laparoscopic",17.32
+687,4,"开放和其他","open and other",45.72
+687,3,"完全的","complete",
+687,4,"腹腔镜的","laparoscopic",45.81
+687,4,"开放","open",45.82
+687,4,"其他","other",45.83
+687,4,"未特指的","unspecified",45.83
+687,3,"乙状","sigmoid",
+687,4,"腹腔镜的","laparoscopic",17.36
+687,4,"开放和其他","open and other",45.76
+687,3,"用于间置术","for interposition",45.52
+687,2,"右根治(半结肠)(回肠结肠切除术)","right radical (hemicolon) (ileocolectomy)",
+688,4,"腹腔镜的","laparoscopic",17.33
+688,4,"开放和其他","open and other",45.73
+688,2,"左根治(半结肠)","left radical (hemicolon)",
+688,4,"腹腔镜的","laparoscopic",17.35
+688,4,"开放和其他","open and other",45.75
+688,2,"结膜,用于翼状窝肉","conjunctiva, for pterygium",11.39
+688,3,"角膜移植","corneal graft",11.32
+688,2,"筋膜","fascia",83.44
+688,3,"手","hand",82.35
+688,4,"用于移植","for graft",82.34
+688,3,"用于移植","for graft",83.43
+688,4,"手","hand",82.34
+688,2,"静脉—见静脉切除术","vein-see Phlebectomy",
+688,2,"经尿道的","transurethral",
+688,3,"膀胱 NEC","bladder NEC",57.49
+688,3,"前列腺","prostate",60.29
+688,2,"眶上颌,根治性","orbitomaxillary, radical",16.51
+688,2,"阔韧带","broad ligament",69.19
+688,2,"肋骨(经腋的)","rib (transaxillary)",77.91
+688,2,"附属于胸的手术—省略编码","incidental to thoracic operation-omit code",
+688,3,"作为手术入路—省略编码","as operative approach-omit code",
+688,2,"漏斗状,心脏(右)","infundibula, heart (right)",35.34
+688,2,"卵巢—另见卵巢切除术","ovary-see also Oophorectomy",
+688,3,"楔形","wedge",65.22
+688,4,"腹腔镜的","laparoscopic",65.24
+688,2,"盲肠(和回肠末端)","cecum (and terminal ileum)",
+688,3,"腹腔镜的","laparoscopic",17.32
+688,3,"开放和其他","open and other",45.72
+688,2,"踇趾外翻(关节)—另见踇囊炎切除术伴假体植入","hallux valgus (joint)-see also Bunionectomy with prosthetic implant",77.59
+688,2,"脑","brain",01.59
+688,3,"半球","hemisphere",01.52
+688,3,"经","by",
+688,4,"立体定位放射外科学","stereotactic radiosurgery",92.30
+688,5,"单源光子","single source photon",92.31
+688,5,"多源","multi-source",92.32
+688,5,"放射外科学 NEC","radiosurgery NEC",92.39
+688,5,"钴-60","cobalt-60",92.32
+688,5,"粒子","particulate",92.33
+688,5,"粒子束流","particle beam",92.33
+688,5,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+688,2,"叶","lobe",01.53

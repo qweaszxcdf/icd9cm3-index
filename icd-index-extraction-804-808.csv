@@ -1,0 +1,180 @@
+page,level,chinese,english,code
+804,3,"手","hand",82.55
+804,3,"眼外","extraocular",15.22
+804,4,"多(两条或多条肌)","multiple (two or more muscles)",15.4
+804,3,"腱","tendon",83.85
+804,4,"手","hand",82.55
+804,2,"韧带-另见关节成形术","ligament-see also Arthroplasty",
+804,3,"圆","round",69.22
+804,3,"子宫骶骨的","uterosacral",69.22
+804,2,"手指(巨指畸形修补术)","finger (macrodactyly repair)",82.83
+804,2,"输尿管(伴再植入)","ureter (with reimplantation)",56.41
+804,2,"眼肌NEC","eye muscle NEC",15.22
+804,3,"多(两条或多条肌)(伴延长)","multiple (two or more muscles) (with lengthening)",15.4
+804,2,"眼睑缘","eyelid margin",08.71
+804,2,"眼外肌NEC","extraocular muscle NEC",15.22
+804,3,"多(两条或多条肌)","multiple (two or more muscles)",15.4
+804,1,"缩短,静脉","Cutdown, venous",38.94
+804,1,"缩小,睑裂","Narrowing, palpebral fissure",08.51
+804,1,"缩小,睫状体","Diminution, ciliary body",12.74
+804,1,"Taarnhoj 手术(三叉神经根减压)","Taarnhoj operation (trigeminal nerve root decompression)",04.41
+804,1,"Tack 手术(前庭小囊切开术)","Tack operation (sacculotomy)",20.79
+804,1,"Talma-Morison 手术(网膜固定术)","Talma-Morison operation (omentopexy)",54.74
+804,1,"Tanner 手术(胃血供应阻断)","Tanner operation (devascularization of stomach)",44.99
+804,1,"Tap 穿刺放液术","Tap",
+804,2,"腹","abdomen",54.91
+804,2,"关节","joint",81.91
+804,2,"脊髓的(诊断性)","spinal (diagnostic)",03.31
+804,2,"颅的","cranial",01.09
+804,2,"脑池的","cisternal",01.01
+804,2,"外淋巴","perilymphatic",20.79
+804,2,"胸","chest, thorax",34.91
+804,2,"腰的(诊断性)(去除染色)","lumbar (diagnostic) (removal of dye)",03.31
+804,2,"硬膜下的(经囟门)","subdural (through fontanel)",01.09
+804,1,"TAVI(经导管主动脉瓣膜植入)","TAVI (transcatheter aortic valve implantation)",35.05
+804,1,"TAVR(经导管主动脉瓣膜置换)","TAVR (transcatheter aortic valve replacement)",35.05
+805,1,"TEVAP(经尿道前列腺电汽化术)","TEVAP (transurethral electrovaporization of prostate)",60.29
+805,1,"Thal 手术(食管狭窄修补术)","Thal operation (repair of esophageal stricture)",42.85
+805,1,"Thiersch 手术","Thiersch operation",
+805,2,"肛门","anus",49.79
+805,2,"皮肤移植","skin graft",86.69
+805,3,"手","hand",86.62
+805,1,"Thompson 手术","Thompson operation",
+805,2,"唇裂修补术","cleft lip repair",27.54
+805,2,"股四头肌成形术","quadricepsplasty",83.86
+805,2,"淋巴水肿矫正术","correction of lymphedema",40.9
+805,2,"拇指对合伴骨移植","thumb apposition with bone graft",82.69
+805,1,"Thoratec®可植入型心室辅助装置(IVAD®)","Thoratec® implantable ventricular assist device (IVAD®)",37.66
+805,1,"Thoratec®心室辅助装置系统(VAD)","Thoratec® ventricular assist device (VAD) system",37.66
+805,1,"Tomkins 手术(子宫成形术)","Tomkins operation (metroplasty)",69.49
+805,1,"Tor 钉手术(直肠子宫陷凹切除术)","Torpin operation (cul-de-sac resection)",70.92
+805,1,"Torek(-Bevan)手术(睾丸固定术)(一期)(二期)","Torek (-Bevan) operation (orchidopexy) (first stage) (second stage)",62.5
+805,1,"Torkildsen 手术(脑室小脑延髓池分流)","Torkildsen operation (ventriculocisternal shunt)",02.22
+805,1,"Toti 手术(泪囊鼻腔造口术)","Toti operation (dacryocystorhinostomy)",09.81
+805,1,"Touchas 手术","Touchas operation",86.83
+805,1,"Touroff 手术(锁骨下动脉结扎)","Touroff operation (ligation of subclavian artery)",38.85
+805,1,"TPN(全肠营养)","TPN (total parenteral nutrition)",99.15
+805,1,"TRAM(横向腹直肌肌皮肤的)乳房皮瓣","TRAM (transverse rectus abdominis musculocutaneous) flap of breast",
+805,2,"皮瓣的","pedicled",85.72
+805,2,"游离","free",85.73
+805,1,"Trauner 手术(舌沟颊唇沟或舌沟牵伸术)","Trauner operation (lingual sulcus extension)",24.91
+805,1,"Tsuge 手术(巨指畸形修补术)","Tsuge operation (macrodactyly repair)",82.83
+805,1,"Tudor“兔耳”手术(前尿道固定术)","Tudor ""rabbit ear"" operation (anterior urethropexy)",59.79
+805,1,"Tuffier 手术","Tuffier operation",
+805,2,"肺尖松解术","apicolysis of lung",33.39
+806,2,"阴道子宫切除术","vaginal hysterectomy",68.59
+806,3,"腹腔镜辅助(LAVH)","laparoscopically assisted (LAVH)",68.51
+806,1,"TULIP(经尿道超声引导激光前列腺切除术)","TULIP (transurethral ultrasound guided laser induced prostectomy)",60.21
+806,1,"TUMT前列腺术(经尿道微波热疗法)","TUMT (transurethral microwave thermotherapy) of prostate",60.96
+806,1,"TUNA前列腺术(经尿道针吸消融,切除)","TUNA (transurethral needle ablation) of prostate",60.97
+806,1,"Turco 手术(畸形足的关节囊松解术)","Turco operation (release of joint capsules in clubfoot)",80.48
+806,1,"TURP(经尿道前列腺切除术)","TURP (transurethral resection of prostate)",60.29
+806,1,"塔恩霍耶手术-见 Taarnhoj 手术","塔恩霍耶手术-see Taarnhoj operation",
+806,1,"塔尔马-莫里森手术-见 Talma-Morison 手术","塔尔马-莫里森手术-see Talma-Morison operation",
+806,1,"塔克手术-见 Tack 手术","塔克手术-see Tack operation",
+806,1,"胎儿镜检查","Fetoscopy",75.31
+806,1,"胎儿X线照相术","Fetography",87.81
+806,1,"胎块造影术","Molegraphy",87.81
+806,1,"胎盘超声造影","Echoplacentogram",88.78
+806,1,"胎盘造影,胎盘造影术","Placentogram, placentography",88.46
+806,2,"伴放射性核素(RISA)","with radioisotope (RISA)",92.17
+806,1,"胎头旋转","Rotation of fetal head",
+806,2,"产钳(器械)(基耶兰德)(斯坎佐尼)(钥匙锁旋转)","forceps (instrumental) (Kielland) (Scanzoni) (key-in-lock)",72.4
+806,2,"手法的","manual",73.51
+806,1,"坦纳手术-见 Tanner 手术","坦纳手术-see Tanner operation",
+806,1,"探查术-另见切开术","Exploration-see also Incision",
+806,2,"鼻","nose",21.1
+806,2,"表浅窝","superficial fossa",86.09
+806,2,"藏毛窦","pilonidal sinus",86.03
+806,2,"肠(经切开)NEC","intestine (by incision) NEC",45.00
+806,3,"大的","large",45.03
+806,3,"小的","small",45.02
+806,2,"耻骨后","retropubic",59.19
+806,2,"垂体(腺)","pituitary (gland)",07.72
+806,3,"窝","fossa",07.71
+806,2,"胆管","bile duct(s)",51.59
+806,3,"胆总管","common duct",51.51
+806,4,"腹腔镜的","laparoscopic",51.11
+806,4,"内镜的","endoscopic",51.11
+806,4,"用于","for",
+807,5,"解除梗阻","relief of obstruction",51.42
+807,6,"内镜的","endoscopic",51.84
+807,5,"去除结石","removal of calculus",51.41
+807,6,"内镜的","endoscopic",51.88
+807,4,"用于解除梗阻","for relief of obstruction",51.49
+807,5,"内镜的","endoscopic",51.84
+807,3,"胆囊","gallbladder",51.04
+807,3,"胆总管","common bile duct",51.51
+807,4,"内镜的","endoscopic",51.11
+807,4,"用于","for",
+807,5,"解除梗阻","relief of obstruction",51.42
+807,6,"内镜","endoscopic",51.84
+807,5,"去除结石","removal of calculus",51.41
+807,6,"内镜的","endoscopic",51.88
+807,2,"蝶窦","sphenoidal sinus",22.52
+807,2,"动脉","artery",38.00
+807,3,"腹的","abdominal",38.06
+807,3,"颅内的NEC","intracranial NEC",38.01
+807,3,"上肢","upper limb",38.03
+807,3,"头和颈NEC","head and neck NEC",38.02
+807,3,"下肢","lower limb",38.08
+807,3,"胸的NEC","thoracic NEC",38.05
+807,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+807,2,"窦","sinus",
+807,3,"蝶的","sphenoid",22.52
+807,3,"额的","frontal",22.41
+807,3,"管道,皮肤和皮下组织","tract, skin and subcutaneous tissue",86.09
+807,3,"筛的","ethmoid",22.51
+807,3,"上颌的(考德威尔-卢克入路)","maxillary (Caldwell-Luc approach)",22.39
+807,2,"额鼻管","frontonasal duct",96.21
+807,2,"额窦","frontal sinus",22.41
+807,2,"肺(经切开)","lung (by incision)",33.1
+807,2,"分流","shunt",
+807,3,"脑室腹膜在","ventriculoperitoneal at",
+807,4,"腹膜处","peritoneal site",54.95
+807,4,"脑室处","ventricular site",02.41
+807,2,"附睾","epididymis",63.92
+807,2,"跗骨隧道","tarsal tunnel",04.44
+807,2,"腹","abdomen",54.11
+807,2,"腹壁","abdominal wall",54.0
+808,2,"腹股沟(区)(腹壁)(腹股沟的)","groin (region) (abdominal wall) (inguinal)",54.0
+808,3,"皮肤和皮下组织","skin and subcutaneous tissue",86.09
+808,2,"腹股沟管(腹股沟)","inguinal canal (groin)",54.0
+808,2,"腹膜后","retroperitoneum",54.0
+808,2,"肝","liver",50.0
+808,2,"肝管","hepatic duct",51.59
+808,2,"睾丸","testes",62.0
+808,2,"睾丸鞘膜","tunica vaginalis",61.0
+808,2,"巩膜(经切开)","sclera (by incision)",12.89
+808,2,"骨-另见切开术,骨","bone-see also Incision, bone",77.10
+808,2,"鼓膜","tympanum",20.09
+808,3,"经鼓室入路","transtympanic route",20.23
+808,2,"关节结构-另见关节切开术","joint structures-see also Arthrotomy",80.10
+808,2,"冠状动脉","coronary artery",36.99
+808,2,"腘窝","popliteal space",86.09
+808,2,"横膈下间隙","subdiaphragmatic space",54.11
+808,2,"喉(经切开)","larynx (by incision)",31.3
+808,3,"内镜的","endoscopic",31.42
+808,2,"回肠","ileum",45.02
+808,2,"会阴(女性)","perineum (female)",71.09
+808,3,"男性","male",86.09
+808,2,"肌","muscle",83.02
+808,3,"手","hand",82.02
+808,2,"脊髓的(管)(神经根)","spinal (canal) (nerve root)",03.09
+808,2,"甲状腺(区)(腺)(经切开)","thyroid (field) (gland) (by incision)",06.09
+808,2,"手术后","postoperative",06.02
+808,2,"腱(鞘)","tendon (sheath)",83.01
+808,3,"手","hand",82.01
+808,2,"结肠","colon",45.03
+808,2,"睫状体","ciliary body",12.44
+808,2,"筋膜","fascia",83.09
+808,3,"手","hand",82.09
+808,2,"精索","spermatic cord",63.93
+808,2,"颈-另见探查术,甲状腺","neck-see also Exploration, thyroid",06.09
+808,2,"颈动脉体","carotid body",39.89
+808,2,"静脉","vein",38.00
+808,3,"腹的","abdominal",38.07
+808,3,"颅内NEC","intracranial NEC",38.01
+808,3,"上肢","upper limb",38.03
+808,3,"头和颈NEC","head and neck NEC",38.02
+808,3,"下肢","lower limb",38.09

@@ -1,0 +1,185 @@
+page,level,chinese,english,code
+944,3,"Rh免疫球蛋白","Rh immune globulin",99.11
+944,3,"γ球蛋白","gamma globulin",99.14
+944,3,"半规管,用于破坏","semicircular canals, for destruction",20.72
+944,3,"玻璃体代用品(硅)","vitreous substitute (silicone)",14.75
+944,4,"用于视网膜再附着","for reattachment of retina",14.59
+944,3,"插入材料-见植入,插入材料","inert material-see Implant, inert material",
+944,3,"电解液","electrolytes",99.18
+944,3,"耳,用酒精","ear, with alcohol",20.72
+944,3,"耳咽管(惰性材料)","eustachian tube (inert material)",20.8
+944,3,"放射菌素D,用于癌瘤化学疗法","actinomycin D, for cancer chemotherapy",99.25
+944,3,"放射免疫疗法","radioimmunotherapy",92.28
+944,3,"放射免疫偶联物","radioimmunoconjugate",92.28
+944,3,"放射性核素(腔内)(静脉内)","radioisotopes (intracavitary) (intravenous)",92.28
+944,3,"肺,用于外科手术的萎陷","lung, for surgical collapse",33.32
+944,3,"腹腔","peritoneal cavity",
+944,4,"局部作用的治疗性物质","locally-acting therapeutic substance",54.97
+944,4,"空气","air",54.96
+944,3,"肝","liver",50.94
+944,3,"睾丸","testis",62.92
+944,3,"睾丸鞘膜(伴抽吸)","tunica vaginalis (with aspiration)",61.91
+944,3,"鼓膜","tympanum",20.94
+944,3,"骨髓","bone marrow",41.92
+944,3,"移植物-见移植物,骨,骨髓","transplant-see Transplant, bone, marrow",
+944,3,"关节(治疗性物质)","joint (therapeutic agent)",81.92
+944,4,"颞下颌的","temporomandibular",76.96
+944,3,"硅-见植入,惰性材料","silicone-see Implant, inert material",
+944,3,"喉","larynx",31.0
+944,3,"激素NEC","hormone NEC",99.24
+944,3,"脊髓的(管)NEC","spinal (canal) NEC",03.92
+944,4,"苯酚","phenol",03.8
+944,4,"对比材料(用于脊髓造影)","contrast material (for myelogram)",87.21
+944,4,"分解蛋白酶(木瓜蛋白酶)(糜木瓜酶)","proteolytic enzyme (chymodiactin) (chymopapain)",80.52
+944,5,"酒精","alcohol",03.8
+944,5,"类固醇NEC","steroid NEC",03.92
+944,5,"麻醉剂,用于麻醉","anesthetic agent for analgesia",03.91
+944,6,"用于手术麻醉-省略编码","for operative anesthesia-omit code",
+944,5,"破坏剂NEC","destructive agent NEC",03.8
+945,5,"神经破坏剂NEC","neurolytic agent NEC",03.8
+945,5,"盐水(低体温的)","saline (hypothermic)",03.92
+945,5,"脊髓神经根(鞘内的)-见注射,脊髓的","spinal nerve root (intrathecal)-see Injection, spinal",
+945,3,"甲氨蝶呤,用于癌瘤化学疗法","Methotrexate, for cancer chemotherapy",99.25
+945,3,"腱","tendon",83.97
+945,4,"手","hand",82.95
+945,3,"结膜的","subconjunctival",10.91
+945,3,"解毒剂NEC","antidote NEC",99.16
+945,3,"筋膜","fascia",83.98
+945,4,"手","hand",82.96
+945,3,"静脉曲张(硬化性物质)","varicose vein (sclerosing agent)",39.92
+945,4,"食管(内镜)","esophagus (endoscopic)",42.33
+945,3,"静脉曲张,食管(内镜)(硬化性物质)","varices, esophagus (endoscopic) (sclerosing agent)",42.33
+945,3,"酒精","alcohol",
+945,4,"脊髓的","spinal",03.8
+945,4,"神经-见注射,神经","nerve-see Injection, nerve",
+945,3,"卡介苗","BCG",
+945,4,"疫苗","vaccine",99.33
+945,4,"用于化学疗法","for chemotherapy",99.25
+945,3,"抗D(恒河猴)球蛋白","anti-D (Rhesus) globulin",99.11
+945,3,"抗感染的NEC","anti-infective NEC",99.22
+945,3,"抗凝血剂","anticoagulant",99.19
+945,3,"抗蛇毒素","antivenin",99.16
+945,3,"抗生素","antibiotic",99.21
+945,3,"抗肿瘤的物质(化疗性)NEC","antineoplastic agent (chemotherapeutic) NEC",99.25
+945,4,"cintredekin besudotox(抗肿瘤药)","cintredekin besudotox",99.28
+945,4,"大剂量白细胞介素-2","high-dose interleukin-2",00.15
+945,4,"生物反应修饰剂[BRM]","biological response modifier [BRM]",99.28
+945,4,"小剂量白细胞介素-2","low-dose interleukin-2",99.28
+945,3,"可的松","cortisone",99.23
+945,3,"眶","orbit",16.91
+945,3,"肋软骨连接处","costochondral junction",81.92
+945,3,"类固醇NEC","steroid NEC",99.23
+945,3,"罗加姆","RhoGAM",99.11
+945,3,"酶,溶解血栓的(链激酶)(组织血浆酶原催化剂)(TPA)(尿激酶)","enzymes, thrombolytic (streptokinase) (tissue plasminogen activator) (TPA) (urokinase)",
+946,4,"静脉内","intravenous",99.10
+946,4,"直接冠状动脉","direct coronary artery",36.04
+946,3,"免疫球蛋白(IgG)(IVIG)(IVIg)","immunoglobulin (IgG) (IVIG) (IVIg)",99.14
+946,3,"免疫血清","immune sera",99.14
+946,3,"奈西力肽(治疗心力衰竭用)","nesiritide",00.13
+946,3,"内耳,用于破坏","inner ear, for destruction",20.72
+946,3,"尼莫地平","nimodipine",99.75
+946,3,"黏液囊(治疗性物质)","bursa (therapeutic agent)",83.96
+946,4,"手","hand",82.94
+946,3,"尿道(惰性材料)","urethra (inert material)",
+946,4,"聚四氟乙烯植入","polytef implant",59.72
+946,4,"用于尿道口失禁修补术","for repair of urinary stress incontinence",
+946,5,"胶原质植入","collagen implant",59.72
+946,5,"内镜植入物质注入","endoscopic injection of implant",59.72
+946,5,"脂肪植入","fat implant",59.72
+946,3,"凝胶体,粘连屏障-见注射,粘连屏障物","gel, adhesion barrier-see Injection, adhesion barrier substance",
+946,3,"盘,椎间的(疝出的)","disc, intervertebral (herniated)",80.52
+946,3,"皮肤(硬化性物质)(填充材料)","skin (sclerosing agent) (filling material)",86.02
+946,3,"屏障物,粘连","barrier substance, adhesion",99.77
+946,3,"气管","trachea",31.94
+946,3,"前房,眼(空气)(液体)(药物)","anterior chamber, eye (air) (liquid) (medication)",12.92
+946,3,"前列腺","prostate",60.92
+946,3,"前庭,用于破坏","vestibule, for destruction",20.72
+946,3,"鞘内的-见注射,脊髓的","intrathecal-see Injection, spinal",
+946,3,"球蛋白","globulin",
+946,4,"抗-D(恒河猴)","anti-D (Rhesus)",99.11
+946,4,"Rh免疫","Rh immune",99.11
+946,4,"γ","gamma",99.14
+946,3,"人B-型利尿钠肽(hBNP)","human B-type natriuretic peptide (hBNP)",00.13
+946,3,"韧带(关节)(治疗性物质)","ligament (joint) (therapeutic substance)",81.92
+946,3,"溶解血栓的物质(酶)(链激酶)","thrombolytic agent (enzyme)(streptokinase)",99.10
+946,4,"伴经皮经管腔血管成形术","with percutaneous transluminal angioplasty",
+946,5,"非冠状血管","non coronary vessels",39.50
+947,5,"冠状","coronary",00.66
+947,5,"特指部位NEC","specified site NEC",39.50
+947,4,"直接冠状动脉内","direct intracoronary artery",36.04
+947,3,"乳房(治疗性物质)","breast (therapeutic agent)",85.92
+947,4,"惰性材料(硅)(双侧)","inert material (silicone) (bilateral)",85.52
+947,5,"单侧","unilateral",85.51
+947,3,"软组织","soft tissue",83.98
+947,4,"手","hand",82.96
+947,3,"神经(颅的)(周围的)","nerve (cranial) (peripheral)",04.80
+947,4,"喉的(外部)(复发性)(上)","laryngeal (external) (recurrent) (superior)",31.91
+947,4,"剂NEC","agent NEC",04.89
+947,5,"苯酚","phenol",04.2
+947,5,"酒精","alcohol",04.2
+947,5,"麻醉,用于麻醉","anesthetic for analgesia",04.81
+947,6,"用于手术麻醉-省略编码","for operative anesthesia-omit code",
+947,5,"破坏神经的","neurolytic",04.2
+947,4,"交感神经","sympathetic",05.39
+947,5,"苯酚","phenol",05.32
+947,5,"酒精","alcohol",05.32
+947,5,"麻醉,用于麻醉","anesthetic for analgesia",05.31
+947,5,"神经破坏剂","neurolytic agent",05.32
+947,4,"视的","optic",16.91
+947,3,"神经保护剂","neuroprotective agent",99.75
+947,3,"神经节,交感神经","ganglion, sympathetic",05.39
+947,4,"脊柱旁星状","paravertebral stellate",05.39
+947,4,"睫的","ciliary",12.79
+947,3,"肾(囊肿)(治疗性物质)NEC","kidney (cyst) (therapeutic substance) NEC",55.96
+947,3,"肾盂(囊肿)","renal pelvis (cyst)",55.96
+947,3,"声带","vocal cords",31.0
+947,3,"生物反应修饰剂[BRM],抗肿瘤物质","biological response modifier [BRM], antineoplastic agent",99.28
+947,4,"cintredekin besudotox(抗肿瘤药)","cintredekin besudotox",99.28
+947,4,"大剂量白细胞介素-2","high-dose interleukin-2",00.15
+947,4,"小剂量白细胞介素-2","low-dose interleukin-2",99.28
+947,3,"食管静脉曲张或血管(内镜)(硬化性物质)","esophageal varices or blood vessel (endoscopic) (sclerosing agent)",42.33
+947,3,"尾的-见注射,脊髓的","caudal-see Injection, spinal",
+947,3,"心包","pericardium",37.93
+947,3,"心脏","heart",37.92
+947,3,"胸腔","thoracic cavity",34.92
+948,3,"血小板抑制剂","platelet inhibitor",
+948,4,"静脉内的","intravenous",99.20
+948,4,"直接冠状动脉","direct coronary artery",36.04
+948,3,"眼(眶)(眼球后)","eye (orbit) (retrobulbar)",16.91
+948,4,"结膜的","subconjunctival",10.91
+948,4,"前房","anterior chamber",12.92
+948,3,"眼球后(治疗性物质)","retrobulbar (therapeutic substance)",16.91
+948,4,"用于麻醉-省略编码","for anesthesia-omit code",
+948,3,"羊膜腔内的","intra-amniotic",
+948,4,"用于诱发","for induction of",
+948,5,"分娩","labor",73.1
+948,5,"流产","abortion",75.0
+948,3,"胰岛素","insulin",99.17
+948,3,"疫苗","vaccine",
+948,4,"瘤","tumor",99.28
+948,3,"硬化性物质NEC","sclerosing agent NEC",99.29
+948,4,"恶性肿瘤治疗(细胞毒素剂)","treatment of malignancy (cytotoxic agent)",34.92[99.25]
+948,5,"用四环素","with tetracycline",34.92[99.21]
+948,4,"静脉NEC","vein NEC",39.92
+948,4,"静脉曲张","varicose vein",39.92
+948,4,"食管静脉曲张(内镜)","esophageal varices (endoscopic)",42.33
+948,4,"胸膜","pleura",34.92
+948,4,"痔疮","hemorrhoids",49.42
+948,3,"硬膜外的,脊髓的-见注射,脊髓的","epidural, spinal-see Injection, spinal",
+948,3,"预防性物质NEC","prophylactic substance NEC",99.29
+948,3,"粘连屏障物","adhesion barrier substance",99.77
+948,3,"镇静剂","tranquilizer",99.26
+948,3,"痔疮(硬化性物质)","hemorrhoids (sclerosing agent)",49.42
+948,3,"治疗性物质NEC","therapeutic agent NEC",99.29
+948,3,"重金属拮抗剂","heavy metal antagonist",99.16
+948,3,"蛛网膜下,脊髓的-见注射,脊髓的","subarachnoid, spinal-see Injection, spinal",
+948,3,"椎间盘间隙,用于疝出椎间盘","intervertebral space for herniated disc",80.52
+948,1,"转换","Conversion,Switch, switching",
+948,2,"产位-见转位","obstetrical position-see Version",
+948,2,"大动脉,全部","great arteries, total",35.84
+948,2,"房性节律(窦性心律)","atrial rhythm (to sinus rhythm)",99.61
+948,2,"冠状动脉","coronary arteries",35.84
+948,2,"胃造口术与空肠造口术(内镜)","gastrostomy to jejunostomy (endoscopic)",
+948,3,"为饲管置换","for feeding tube placement",46.32
+948,2,"吻合术-见修复术,吻合术","anastomosis-see Revision, anastomosis",
+948,2,"心律NEC","cardiac rhythm NEC",99.69

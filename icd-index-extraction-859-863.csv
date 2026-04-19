@@ -1,0 +1,170 @@
+page,level,chinese,english,code
+859,6,"坐骨直肠的","ischiorectal",53.9
+859,6,"坐骨直肠窝的","ischiatic",53.9
+859,6,"伤口(皮肤)(不作移植)","wound (skin) (without graft)",86.59
+859,6,"白内障术后裂开(角膜)","postcataract dehiscence (corneal)",11.52
+859,6,"腹壁","abdominal wall",54.63
+859,7,"裂开","dehiscence",54.61
+859,5,"舌 NEC","tongue NEC",25.59
+859,5,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.79
+859,6,"陈旧性损伤","old injury",04.76
+859,6,"交感神经","sympathetic",05.81
+859,6,"修复术","revision",04.75
+859,5,"肾 NEC","kidney NEC",55.89
+859,5,"肾上腺","adrenal gland",07.44
+859,5,"食管,食管 NEC","esophagus, esophageal NEC",42.89
+859,6,"瘘 NEC","fistula NEC",42.84
+859,6,"狭窄","stricture",42.85
+859,5,"室间隔","ventricular septal defect",35.72
+859,6,"合并瓣膜修补术和心房间隔缺损-见修补术,心内膜垫缺损","combined with repair of valvular and atrial septal defects-see Repair, endocardial cushion defect",
+859,6,"全部修补术","in total repair of",
+859,7,"动脉干","truncus arteriosus",35.83
+859,7,"法洛四联症","tetralogy of Fallot",35.81
+859,6,"用","with",
+859,7,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.53
+859,7,"闭合性心脏技术","closed heart technique",35.55
+859,7,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+859,7,"组织移植","tissue graft",35.62
+859,5,"视网膜,视网膜的","retina, retinal",
+859,6,"撕裂或缺损","tear or defect",14.39
+859,7,"通过","by",
+859,8,"光凝术","photocoagulation",14.35
+859,9,"激光","laser",14.34
+859,9,"氙弧光","xenon arc",14.33
+859,8,"冷冻疗法","cryotherapy",14.32
+859,8,"透热疗法","diathermy",14.31
+859,6,"脱离","detachment",14.59
+859,7,"通过","by",
+859,8,"巩膜环扎术-另见环扎术,巩膜的","scleral buckling-see also Buckling, scleral",14.49
+860,8,"光凝术","photocoagulation",14.55
+860,9,"激光","laser",14.54
+860,9,"氙弧光","xenon arc",14.53
+860,8,"冷冻疗法","cryotherapy",14.52
+860,8,"透热疗法","diathermy",14.51
+860,5,"手","hand",82.89
+860,6,"伴移植或植入","with graft or implant",82.79
+860,7,"肌肉","muscle",82.72
+860,7,"腱","tendon",82.79
+860,7,"筋膜","fascia",82.72
+860,5,"输精管","vas deferens",63.89
+860,6,"撕裂(经缝合)","laceration (by suture)",63.81
+860,7,"通过","by",
+860,8,"吻合术","anastomosis",63.82
+860,9,"至附睾","to epididymis",63.83
+860,8,"重建术","reconstruction",63.82
+860,5,"输卵管(伴假体)","fallopian tube (with prosthesis)",66.79
+860,6,"通过","by",
+860,7,"缝合","suture",66.71
+860,7,"再吻合术","reanastomosis",66.79
+860,7,"再植入于","reimplantation into",
+860,8,"卵巢","ovary",66.72
+860,8,"子宫","uterus",66.74
+860,5,"输尿管 NEC","ureter NEC",56.89
+860,6,"撕裂(经缝合)","laceration (by suture)",56.82
+860,5,"输尿管疝","ureterocele",56.89
+860,5,"撕裂-见缝合,按部位","laceration-see Suture, by site",
+860,5,"缩窄主动脉-见切除术,主动脉缩窄","coarctation of aorta-see Excision, coarctation of aorta",
+860,5,"外阴 NEC","vulva NEC",71.79
+860,6,"撕裂(经缝合)","laceration (by suture)",71.71
+860,7,"产科的(近期)","obstetric (current)",75.69
+860,8,"陈旧性","old",71.79
+860,5,"外阴切开术","episiotomy",
+860,6,"常规分娩后-见外阴切开术","routine following delivery-see Episiotomy",
+860,6,"II期","secondary",75.69
+860,5,"网膜","omentum",54.74
+860,5,"维尔松管","Wirsung's duct",52.99
+860,5,"胃 NEC","stomach NEC",44.69
+860,6,"腹腔镜的","laparoscopic",44.68
+860,6,"撕裂(经缝合)","laceration (by suture)",44.61
+860,5,"膝(关节) NEC","knee (joint) NEC",81.47
+861,6,"副韧带","collateral ligaments",81.46
+861,6,"交叉韧带","cruciate ligaments",81.45
+861,6,"三合一","triad",81.43
+861,6,"五合一","five-in-one",81.42
+861,5,"下垂,眼睑-见修补术,睑下垂","ptosis, eyelid-see Repair, blepharoptosis",
+861,5,"下颌嵴","mandibular ridge",76.64
+861,5,"涎腺或管 NEC","salivary gland or duct NEC",26.49
+861,5,"纤维环","anulus fibrosus",80.54
+861,6,"伴移植物或假体","with graft or prosthesis",80.53
+861,5,"小趾囊肿(伴骨切开术)","bunionette (with osteotomy)",77.54
+861,5,"心包","pericardium",37.49
+861,5,"心内膜垫缺损","endocardial cushion defect",35.73
+861,6,"伴","with",
+861,7,"假体(移植至间隔)","prosthesis (grafted to septa)",35.54
+861,7,"组织移植","tissue graft",35.63
+861,5,"心脏","heart",37.49
+861,6,"瓣膜(尖)(开放性心脏技术)","valve (cusps) (open heart technique)",35.10
+861,7,"二尖瓣的(不伴置换)","mitral (without replacement)",35.12
+861,8,"伴","with",
+861,9,"MitraClip®","MitraClip®",35.97
+861,9,"小叶钳植入","leaflet clip implant",35.97
+861,9,"经皮伴有小叶钳植入","percutaneous with leaflet clip implant",35.97
+861,9,"球囊,经皮","balloon, percutaneous",35.96
+861,9,"血管内修补伴植入","endovascular repair with implant",35.97
+861,7,"肺动脉(不伴置换)","pulmonary (without replacement)",35.13
+861,8,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+861,7,"合并心房和心室间隔缺损修补术-见修补术,心内膜垫缺损","combined with repair of atrial and ventricular septal defects-see Repair, endocardial cushion defect",
+861,7,"三尖瓣(不伴置换)","tricuspid (without replacement)",35.14
+861,7,"主动脉(不伴置换)","aortic (without replacement)",35.11
+861,6,"辅助系统","assist system",37.63
+861,6,"隔","septum",35.70
+861,7,"伴","with",
+861,8,"假体","prosthesis",35.50
+861,8,"组织移植","tissue graft",35.60
+862,7,"合并瓣膜缺损修补术-见修补术,心内膜垫缺损","combined with repair of valvular defect-see Repair, endocardial cushion defect",
+862,7,"心房","atrial",35.71
+862,8,"伴","with",
+862,9,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.51
+862,10,"闭合性心脏技术","closed heart technique",35.52
+862,10,"组织移植","tissue graft",35.61
+862,7,"合并瓣膜修补术和心室间隔缺损-见修补术,心内膜垫缺损","combined with repair of valvular and ventricular septal defects-see Repair, endocardial cushion defect",
+862,8,"全部修补术","in total repair of",
+862,9,"动脉干","truncus arteriosus",35.83
+862,9,"法洛四联症","tetralogy of Fallot",35.81
+862,9,"全部异常肺动静脉连接","total anomalous pulmonary venous connection",35.82
+862,7,"心室","ventricular",35.72
+862,8,"伴","with",
+862,9,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.53
+862,10,"闭合性心脏技术","closed heart technique",35.55
+862,10,"组织移植","tissue graft",35.62
+862,8,"合并瓣膜和心房修补术间隔缺损-见修补术,心内膜垫缺损","combined with repair of valvular and atrial septal defects-see Repair, endocardial cushion defect",
+862,9,"全部修补术","in total repair of",
+862,10,"动脉干","truncus arteriosus",35.83
+862,10,"法洛四联症","tetralogy of Fallot",35.81
+862,10,"全部异常肺动静脉连接","total anomalous pulmonary venous connection",35.82
+862,6,"全内置双心室置换系统","total internal biventricular replacement system",37.52
+862,6,"经皮的能量转移[TET]装置","transcutaneous energy transfer [TET] device",37.54
+862,7,"可植入电池","implantable battery",37.54
+862,7,"可植入控制器","implantable controller",37.54
+862,7,"胸腔","thoracic unit",37.53
+862,5,"心脏起搏器 NEC","cardiac pacemaker NEC",37.89
+862,6,"电极(导联) NEC","electrode(s) (lead) NEC",37.75
+862,5,"胸壁(网状物)(硅橡胶)NEC","chest wall (mesh) (silastic) NEC",34.79
+862,5,"胸骨缺损","sternal defect",78.41
+862,5,"胸管 NEC","thoracic duct NEC",40.69
+863,5,"胸廓畸形(胸)(鸡胸)(漏斗胸)","pectus deformity (chest) (carinatum) (excavatum)",34.74
+863,5,"胸廓造口术","thoracostomy",34.72
+863,5,"胸膜 NEC","pleura NEC",34.93
+863,5,"胸腺(腺)","thymus (gland)",07.93
+863,5,"悬雍垂","uvula",27.73
+863,6,"同时伴腭裂修补术","with synchronous cleft palate repair",27.62
+863,5,"旋转环带(移植物)(缝合)","rotator cuff (graft) (suture)",83.63
+863,5,"血管 NEC","blood vessel NEC",39.59
+863,6,"伴","with",
+863,7,"补片移植","patch graft",39.58
+863,8,"伴切除术或切除术-见血管切除术,伴移植物置换","with excision or resection-see Angiectomy, with graft replacement",
+863,8,"人造的(涤纶)(聚四氟乙烯)","synthetic (Dacron) (Teflon)",39.57
+863,8,"组织(静脉)(自体的)(自体移植)","tissue (vein) (autogenous) (homograft)",39.56
+863,7,"缝合","suture",39.30
+863,7,"切除术-见血管切除术","resection-see Angiectomy",
+863,6,"冠状动脉 NEC","coronary artery NEC",36.99
+863,7,"经动脉粥样硬化切除术-见血管成形术,冠状","by atherectomy-see Angioplasty, coronary",
+863,8,"经皮经管腔","percutaneous transluminal",17.55
+863,7,"经血管成形术-见血管成形术,冠状","by angioplasty-see Angioplasty, coronary",
+863,6,"周围血管 NEC","peripheral vessel NEC",39.59
+863,7,"经动脉粥样硬化切除术","by atherectomy",17.56
+863,7,"经血管成形术","by angioplasty",39.50
+863,7,"经血管内入路","by endovascular approach",39.79
+863,5,"牙 NEC","tooth NEC",23.2
+863,6,"通过","by",
+863,7,"冠(人工的)","crown (artificial)",23.41

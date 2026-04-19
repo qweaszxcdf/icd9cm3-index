@@ -1,0 +1,162 @@
+page,level,chinese,english,code
+459,3,"心脏泵","heart pump",37.62
+459,2,"抗菌外膜","antimicrobial envelope",17.81
+459,2,"克拉奇菲尔德钳（颅骨）（同时伴骨骼牵引）","Crutchfield tongs (skull) (with synchronous skeletal traction)",02.94
+459,2,"克罗斯比-库尼钮","Crosby-Cooney button",54.98
+459,2,"髋假体（部分）","hip prosthesis (partial)",81.52
+459,3,"全部的","total",81.51
+459,4,"修复术","revision",
+459,5,"髋臼和股骨成分（全部的）","acetabular and femoral components (total)",00.70
+459,5,"全部的（髋臼和股骨成分）","total (acetabular and femoral components)",00.70
+459,3,"修复术 NOS","revision NOS",81.53
+459,4,"部分的","partial",
+459,5,"仅股骨成分","femoral component only",00.72
+459,5,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
+459,5,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
+459,4,"髋臼成分","acetabular component only",00.71
+459,4,"仅股骨成分","femoral component only",00.72
+459,4,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
+459,4,"髋臼成分","acetabular component only",00.71
+459,4,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
+459,4,"髋臼和股骨成分（全部的）","acetabular and femoral components (total)",00.70
+459,4,"全部的（髋臼和股骨成分）","total (acetabular and femoral components)",00.70
+459,2,"框架（立体定向）","frame (stereotactic)",
+459,3,"用于放射外科学","for radiosurgery",93.59
+459,2,"眶植入物（支架）（肌锥外）","orbital implant (stent) (outside muscle cone)",16.69
+459,3,"伴眶切开术","with orbitotomy",16.02
+459,2,"昆布，子宫颈","laminaria, cervix",69.93
+459,2,"肋间导管（伴水密封），为了引流","intercostal catheter (with water seal) for drainage",34.04
+459,3,"修复术（伴有粘连松解）","revision (with lysis of adhesions)",34.04
+459,4,"胸腔镜的","thoracoscopic",34.06
+459,2,"镭","radium",92.27
+459,2,"里克汉囊","Rickham reservoir",02.22
+460,2,"流出道假体（三角片型）（心脏）","outflow tract prosthesis (gusset type) (heart)",
+460,3,"于","in",
+460,4,"肺动脉瓣膜成形术","pulmonary valvuloplasty",35.26
+460,4,"全部法洛四联症修补术","total repair of tetralogy of Fallot",35.81
+460,2,"颅骨","skull",
+460,3,"金属板","plate",02.05
+460,3,"立体定位框架","stereotactic frame",93.59
+460,3,"钳（巴尔通）（卡钳）（加德威尔斯）（文凯）（同时伴骨骼牵引）","tongs (Barton) (caliper) (Gardner Wells) (Vinke) (with synchronous skeletal traction)",02.94
+460,2,"路透线轴装置（伴插管法）","Reuter bobbin (with intubation)",20.01
+460,2,"罗森假体（用于泌尿系失禁）","Rosen prosthesis (for urinary incontinence)",59.79
+460,2,"滤网，腔静脉","sieve, vena cava",38.7
+460,2,"泌尿系括约肌，人工（AUS）（可膨胀的）","urinary sphincter, artificial (AUS) (inflatable)",58.93
+460,2,"面骨植入（异质造形的）（人造的）","facial bone implant (alloplastic) (synthetic)",76.92
+460,2,"摩尔（杯）","Moore (cup)",81.52
+460,2,"默彼兹-乌丁伞，腔静脉","Mobitz-Uddin umbrella, vena cava",38.7
+460,2,"脑电图接收器—见植入，脑电图接收器，按部位","electroencephalographic receiver-see Implant, electroencephalographic receiver, by site",
+460,2,"内移植物，血管内移植物","endograft(s), endovascular graft(s)",
+460,3,"血管内，其他血管（用于动脉瘤）","endovascular, other vessels (for aneurysm)",39.79
+460,3,"血管内的，腹主动脉","endovascular, abdominal aorta",39.71
+460,4,"开窗（分支）移植","fenestrated (branching)",39.78
+460,3,"血管内的，头和颈血管","endovascular, head and neck vessels",39.72
+460,3,"血管内的，胸主动脉","endovascular, thoracic aorta",39.73
+460,2,"内置假体（管）","endoprosthesis",
+460,3,"胆管","bile duct",51.87
+460,3,"股骨头（双极）","femoral head (bipolar)",81.52
+460,3,"胰腺管","pancreatic duct",52.93
+460,3,"欧麻亚储液器","Ommaya reservoir",02.22
+460,2,"起搏导管—见插入，起搏器，心的","pacing catheter-see Insertion, pacemaker, cardiac",
+460,2,"起搏器","pacemaker",
+460,3,"脊柱—见植入，神经刺激器，脊柱","spine-see Implant, neurostimulator, spine",
+460,3,"颈动脉","carotid",39.89
+460,3,"颅内—见植入，神经刺激器，颅内的","intracranial-see Implant, neurostimulator, intracranial",
+461,3,"脑—见植入，神经刺激器，脑","brain-see Implant, neurostimulator, brain",
+461,3,"神经的—见植入，神经刺激器，按部位","neural-see Implant, neurostimulator, by site",
+461,3,"胃的","gastric",04.92
+461,3,"心的（装置）（初始的）（永久性）（置换）","cardiac (device) (initial) (permanent) (replacement)",37.80
+461,4,"单室装置（初始的）","single-chamber device (initial)",37.81
+461,5,"节律反应","rate responsive",37.82
+461,5,"置换","replacement",37.85
+461,6,"节律反应","rate responsive",37.86
+461,4,"双室装置（初始的）","dual-chamber device (initial)",37.83
+461,5,"置换","replacement",37.87
+461,4,"心脏手术中和心脏手术即时后","during and immediately following cardiac surgery",39.64
+461,5,"再同步化（心室起搏器）（BiV 起搏器）（CRT-P）（装置）","resynchronization (biventricular pacemaker) (BiV pacemaker) (CRT-P) (device)",
+461,6,"仅装置（初始的）（置换）","device only (initial) (replacement)",00.53
+461,6,"经静脉导联进入左心室冠状静脉系统","transvenous lead into left ventricular coronary venous system",00.52
+461,7,"全系统（装置和一个或多个导联）","total system (device and one or more leads)",00.50
+461,6,"暂时性经静脉起搏器系统","temporary transvenous pacemaker system",37.78
+461,6,"心脏手术中和心脏手术即时后","during and immediately following cardiac surgery",39.64
+461,4,"心脏—见插入，起搏器，心的","heart-see Insertion, pacemaker, cardiac",
+461,4,"周围神经—见植入，神经刺激器，周围神经","peripheral nerve-see Implant, neurostimulator, peripheral nerve",
+461,2,"气道","airway",
+461,3,"鼻咽的","sopharynx",96.01
+461,3,"口咽","oropharynx",96.02
+461,3,"食管填塞物","esophageal obturator",96.03
+461,2,"钳，颅骨（同时伴骨骼牵引）","tongs, skull (with synchronous skeletal traction)",02.94
+461,2,"前列腺素栓剂（用于流产）","prostaglandin suppository (for abortion)",96.49
+461,2,"腔静脉滤网或伞状","vena cava sieve or umbrella",38.7
+461,2,"桥（牙的）（固定的）","bridge (dental) (fixed)",23.42
+461,3,"可移动的","removable",23.43
+461,2,"球囊","balloon",
+462,3,"肠（用于减压）（用于扩张）","intestine (for decompression) (for dilation)",46.85
+462,4,"伴有结肠支架的置入","with insertion of colonic stent",
+462,5,"内镜的","endoscopic",46.86
+462,5,"其他","other",46.87
+462,3,"胃的","gastric",44.93
+462,3,"心脏（搏动型）（康特洛维兹）","heart (pulsation-type) (Kantrowitz)",37.61
+462,2,"全部植入装置，用于骨生长（侵入）—见亚目","totally implanted device for bone growth (invasive)-see subcategory",78.9
+462,2,"人工角膜","keratoprosthesis",11.73
+462,2,"人工晶状体—另见插入，晶状体","pseudophakos-see also Insertion, lens",13.70
+462,2,"乳房植入（用于增大）（双侧）","breast implant (for augmentation) (bilateral)",85.54
+462,3,"单侧","unilateral",85.53
+462,2,"塞子","pack",
+462,3,"蝶鞍","sella turcica",07.79
+462,3,"外耳道","auditory canal, external",96.11
+462,3,"阴道（非产科的）","vagina (nonobstetrical)",96.14
+462,4,"流产后","after delivery or abortion",75.8
+462,3,"直肠","rectum",96.19
+462,3,"子宫颈（非产科的）","cervix (nonobstetrical)",67.0
+462,4,"分娩或流产后","after delivery or abortion",75.8
+462,4,"辅助分娩或引产","to assist delivery or induce labor",73.1
+462,2,"伞状装置","umbrella device",
+462,3,"腔静脉（默彼兹-乌丁）","vena cava (Mobitz-Uddin)",38.7
+462,3,"心房间隔（金米尔斯）","atrial septum (King-Mills)",35.52
+462,2,"森斯塔肯-布莱克莫尔管","Sengstaken-Blakemore tube",96.06
+462,2,"神经刺激器—见植入，神经刺激器，按部位","neurostimulator-see Implant, neurostimulator, by site",
+462,2,"神经起搏器—见植入，神经刺激器，按部位","neuropacemaker-see Implant, neurostimulator, by site",
+462,2,"输尿管支架（经尿道）","ureteral stent (transurethral)",59.8
+462,3,"伴输尿管切开术","with ureterotomy",59.8[56.2]
+462,2,"输注泵","infusion pump",86.06
+462,2,"栓剂","suppository",
+462,3,"前列腺素（用于流产）","prostaglandin (for abortion)",96.49
+462,3,"阴道","vagina",96.49
+462,2,"双极内置假体（股骨头）","bipolar endoprosthesis (femoral head)",81.52
+462,2,"司克利卜纳分流","Scribner shunt",39.93
+462,2,"斯皮兹-霍尔特尔瓣膜","Spitz-Holter valve",02.22
+463,2,"斯坦曼钉","Steinmann pin",93.44
+463,3,"伴骨折或脱位的复位—见复位，骨折和复位，脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+463,2,"斯旺-甘兹导管（肺动脉）","Swan-Ganz catheter (pulmonary)",89.64
+463,2,"塑模，阴道","mold, vagina",96.15
+463,2,"探针，子宫颈，非产科的","bougie, cervix, nonobstetrical",67.0
+463,3,"助产或引产","to assist delivery or induce labor",73.1
+463,2,"套管","cannula",
+463,3,"艾伦-布朗","Allen-Brown",39.93
+463,3,"鼻窦（经穿刺）","nasal sinus (by puncture)",22.01
+463,4,"经自然腔隙口","through natural ostium",22.02
+463,3,"血管至血管","vessel to vessel",39.93
+463,3,"胰腺管","pancreatic duct",52.92
+463,4,"内镜的","endoscopic",52.93
+463,3,"用于体外膜氧化（ECMO）—省略编码","for extracorporeal membrane oxygenation (ECMO)-omit code",
+463,2,"填充材料，皮肤（缺损填充）","filling material, skin (filling of defect)",86.02
+463,2,"填充物（水泥）（关节）","spacer (cement) (joint) (methylmethacrylate)",84.56
+463,3,"脊柱","spine",84.51
+463,2,"填塞器（齿矫形）","obturator (orthodontic)",24.7
+463,2,"外部固定装置（骨）—见亚目","external fixation device (bone)-see subcategory",78.1
+463,2,"外膜，抗菌的","envelope, antimicrobial",17.81
+463,2,"望远镜（IMT）（小型）","telescope (IMT) (miniature)",13.91
+463,2,"微型固定装置（骨）—见亚目","minifixator device (bone)-see subcategory",78.1
+463,2,"胃泡（球囊）","bubble (balloon), stomach",44.93
+463,2,"文凯钳（颅骨）（同时伴骨骼牵引）","Vinke tongs (skull) (with synchronous skeletal traction)",02.94
+463,2,"膝假体（部分的）（全部的）","knee prosthesis (partial) (total)",81.54
+463,3,"修复术 NOS","revision NOS",81.55
+463,4,"髌骨成分","patellar component",00.83
+463,5,"部分的","partial",
+463,6,"髌骨成分","patellar component",00.83
+463,6,"股骨成分","femoral component",00.82
+463,6,"胫骨插入","tibial insert",00.84
+463,6,"胫骨成分","tibial component",00.81
+463,6,"股骨成分","femoral component",00.82
+463,6,"胫骨插入","tibial insert",00.84

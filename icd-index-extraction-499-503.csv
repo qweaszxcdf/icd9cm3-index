@@ -1,0 +1,174 @@
+page,level,chinese,english,code
+499,2,"前列腺床","prostatic bed",60.94
+499,2,"视网膜(为了)","retina (for)",
+499,3,"病损破坏","destruction of lesion",14.21
+499,3,"撕裂修补术","repair of tear",14.31
+499,3,"再附着","reattachment",14.51
+499,2,"输卵管(病损)","fallopian tube (lesion)",66.61
+499,3,"用于管结扎-见结扎,输卵管","for tubal ligation-see Ligation, fallopian tube",
+499,2,"外阴","vulva",71.3
+499,2,"阴道","vagina",70.33
+499,2,"圆韧带","round ligament",69.19
+499,2,"直肠(息肉)","rectum (polyp)",48.32
+499,3,"根治","radical",48.31
+499,2,"子宫","uterus",68.29
+499,2,"子宫骶骨韧带","uterosacral ligament",69.19
+499,2,"子宫颈","cervix",67.32
+499,2,"子宫韧带","uterine ligament",69.19
+499,1,"电切除术-另见破坏,病损,按部位","Electroresection-see also Destruction, lesion, by site",
+499,2,"膀胱颈(经尿道)","bladder neck (transurethral)",57.49
+499,2,"前列腺(经尿道)","prostate (transurethral)",60.29
+499,2,"食管","esophagus",42.39
+499,3,"内镜","endoscopic",42.33
+499,2,"胃","stomach",43.49
+499,3,"内镜的","endoscopic",43.41
+499,1,"电休克疗法(EST)","Electroshock therapy (EST)",94.27
+499,2,"亚抽搐的","subconvulsive",94.26
+499,1,"电锥形切除术,子宫颈","Electroconization, cervix",67.32
+499,1,"电灼疗法-另见电凝术和破坏,病损,按部位","Fulguration-see also Electrocoagulation and Destruction, lesion, by site",
+499,2,"扁桃体窝","tonsillar fossa",28.7
+499,2,"大肠","large intestine",45.49
+499,3,"内镜的","endoscopic",45.43
+499,4,"息肉切除术","polypectomy",45.42
+499,2,"肛门","anus",49.39
+499,3,"内镜的","endoscopic",49.31
+499,2,"会阴,女性","perineum, female",71.3
+499,2,"脉络膜","choroid",14.21
+499,2,"尿道","urethra",58.39
+499,3,"内镜的","endoscopic",58.31
+499,2,"膀胱(经尿道)","bladder (transurethral)",57.49
+499,3,"耻骨上","suprapubic",57.59
+500,2,"皮肤","skin",86.3
+500,2,"皮下组织","subcutaneous tissue",86.3
+500,2,"前列腺,经尿道","prostate, transurethral",60.29
+500,2,"十二指肠","duodenum",45.32
+500,3,"内镜的","endoscopic",45.30
+500,2,"食管的","esophagus",42.39
+500,3,"内镜的","endoscopic",42.33
+500,2,"视网膜","retina",14.21
+500,2,"斯基恩腺(女性尿道旁腺)","Skene's gland",71.3
+500,2,"外阴","vulva",71.3
+500,2,"胃","stomach",43.49
+500,3,"内镜的","endoscopic",43.41
+500,2,"腺样增殖体窝","adenoid fossa",28.7
+500,2,"小肠NEC","small intestine NEC",45.34
+500,3,"十二指肠","duodenum",45.32
+500,4,"内镜的","endoscopic",45.30
+500,2,"阴茎","penis",64.2
+500,2,"阴囊","scrotum",61.3
+500,2,"直肠","rectum",48.32
+500,3,"根治性","radical",48.31
+500,1,"电子绷腿","Electronic gaiter",93.59
+500,1,"雕刻,心脏瓣膜-见瓣膜成形术,心脏","Sculpturing, heart valve-see Valvuloplasty, heart",
+500,1,"蝶窦切除术","Sphenoidectomy",22.64
+500,1,"蝶窦切开术","Sphenoidotomy",22.52
+500,1,"碟形手术","Saucerization",
+500,2,"骨-另见切除术,病损,骨","bone-see also Excision, lesion, bone",77.60
+500,2,"直肠","rectum",48.99
+500,1,"钉合术","Stapling",
+500,2,"动脉","artery",39.31
+500,2,"肺大疱(气肿性的)","blebs, lung (emphysematous)",32.21
+500,2,"骨干-另见钉合术,骨骺金属板","diaphysis-see also Stapling, epiphyseal plate",78.20
+500,2,"骨骺金属板","epiphyseal plate",78.20
+500,3,"尺骨","ulna",78.23
+500,3,"腓骨","fibula",78.27
+500,3,"肱骨","humerus",78.22
+500,3,"股骨","femur",78.25
+500,3,"胫骨","tibia",78.27
+500,3,"桡骨","radius",78.23
+500,3,"特指的部位NEC","specified site NEC",78.29
+500,2,"静脉","vein",39.32
+501,4,"主动脉(弓)(升)(降胸)","aorta (arch) (ascending) (descending thoracic)",
+501,5,"腹","abdominal",38.44
+501,5,"胸","thoracic",38.45
+501,5,"胸腹","thoracoabdominal",38.45[38.44]
+501,2,"腹","abdominal",
+501,3,"动脉","artery",38.66
+501,3,"静脉","vein",38.67
+501,2,"颅内NEC","intracranial NEC",38.61
+501,2,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.63
+501,2,"头和颈NEC","head and neck NEC",38.62
+501,2,"瓦尔萨尔瓦窦(主动脉窦)","sinus of Valsalva",35.39
+501,2,"下肢","lower limb",
+501,3,"动脉","artery",38.68
+501,3,"静脉","vein",38.69
+501,2,"心房,心耳","atrial, auricular",37.32
+501,2,"心室(心肌)","ventricle (myocardium)",37.32
+501,2,"心脏","heart",37.32
+501,2,"胸NEC","thoracic NEC",38.65
+501,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.64
+501,1,"动脉瘤切开术-见动脉瘤切除术","Aneurysmotomy-see Aneurysmectomy",
+501,1,"动脉内膜切除术(气体)(伴补片移植)","Endarterectomy (gas) (with patch graft)",38.10
+501,2,"腹","abdominal",38.16
+501,2,"冠状动脉-见亚目","coronary artery-see subcategory",36.0
+501,3,"开放性胸入路","open chest approach",36.03
+501,2,"颅内的(开放性)NEC","intracranial (open) NEC",38.11
+501,3,"经皮入路,颅内血管","percutaneous approach, intracranial vessel(s)",00.62
+501,2,"上肢","upper limb",38.13
+501,2,"头和颈(开放)NEC","head and neck (open) NEC",38.12
+502,2,"经皮入路,颅外血管","percutaneous approach, extracranial vessel(s)",00.61
+502,2,"经皮入路,入脑前的(颅外)血管","percutaneous approach, intracranial vessel(s)",00.62
+502,2,"下肢","lower limb",38.18
+502,2,"胸的NEC","thoracic NEC",38.15
+502,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.14
+502,1,"动脉切除术","Arteriectomy",38.60
+502,2,"伴","with",
+502,3,"吻合术","anastomosis",38.30
+502,4,"腹","abdominal",38.36
+502,4,"颅内的NEC","intracranial NEC",38.31
+502,4,"上肢","upper limb",38.33
+502,4,"头和颈NEC","head and neck NEC",38.32
+502,4,"下肢","lower limb",38.38
+502,4,"胸的NEC","thoracic NEC",38.35
+502,4,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.34
+502,3,"移植物置换(插补)","graft replacement (interposition)",38.40
+502,4,"腹的","abdominal",
+502,5,"主动脉","aorta",38.44
+502,4,"颅内的NEC","intracranial NEC",38.41
+502,4,"上肢","upper limb",38.43
+502,4,"头和颈NEC","head and neck NEC",38.42
+502,4,"下肢","lower limb",38.48
+502,4,"胸的NEC","thoracic NEC",38.45
+502,4,"主动脉(弓)(升)(降胸)","aorta (arch) (ascending) (descending thoracic)",
+502,5,"腹的","abdominal",38.44
+502,5,"胸的","thoracic",38.45
+502,5,"胸腹的","thoracoabdominal",38.45[38.44]
+502,2,"腹的","abdominal",38.66
+502,2,"颅内的NEC","intracranial NEC",38.61
+502,2,"上肢","upper limb",38.63
+502,2,"头和颈NEC","head and neck NEC",38.62
+503,2,"下肢","lower-limb",38.68
+503,2,"胸的NEC","thoracic NEC",38.65
+503,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.64
+503,1,"动脉切开术","Arteriotomy",38.00
+503,2,"腹的","abdominal",38.06
+503,2,"颅内的NEC","intracranial NEC",38.01
+503,2,"上肢","upper limb",38.03
+503,2,"头和颈NEC","head and neck NEC",38.02
+503,2,"下肢","lower limb",38.08
+503,2,"胸的NEC","thoracic NEC",38.05
+503,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+503,1,"动脉圆锥切除术","Infundibulectomy",
+503,2,"垂体-另见垂体切除术,部分","hypophyseal-see also Hypophysectomy, partial",07.63
+503,2,"心室(心脏)(右)","ventricle (heart) (right)",35.34
+503,3,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+503,1,"动脉造影术(对比)(荧光镜的)(逆行的)","Arteriography (contrast) (fluoroscopic) (retrograde)",88.40
+503,2,"SPY(术间造影系统),冠状动脉","SPY, coronary",88.59
+503,2,"臂的","brachial",88.49
+503,2,"肠系膜上动脉","superior mesenteric artery",88.47
+503,2,"超声-见超声波检查,按部位","ultrasound-see Ultrasonography, by site",
+503,2,"多普勒(超声)-见超声波检查,按部位","Doppler (ultrasonic)-see Ultrasonography, by site",
+503,2,"放射性核素-见扫描,放射性核素","radioisotope-see Scan, radioisotope",
+503,2,"肺动脉","pulmonary",88.43
+503,2,"腹内的NEC","intra-abdominal NEC",88.47
+503,2,"股动脉","femoral",88.48
+503,2,"冠状(直接)(选择性)NEC","coronary (direct) (selective) NEC",88.57
+503,3,"单导管技术(Sones)","single catheter technique (Sones)",88.55
+503,3,"手术中荧光血管的","intra-operative fluorescence vascular",88.59
+503,3,"双导管技术(贾金斯)(里基茨和艾布拉姆斯)","double catheter technique (Judkins) (Ricketts and Abrams)",88.56
+503,2,"基底","basilar",88.41
+503,2,"颈动脉(内的)","carotid (internal)",88.41
+503,2,"经股动脉","transfemoral",88.48
+503,2,"脑的(后循环)","cerebral (posterior circulation)",88.41
+503,2,"上肢","upper extremity",88.49
+503,2,"肾","renal",88.45

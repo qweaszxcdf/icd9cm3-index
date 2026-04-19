@@ -1,0 +1,200 @@
+page,level,chinese,english,code
+519,2,"升主动脉与肺动脉(沃特斯顿)","ascending aorta to pulmonary artery (Waterston)",39.0
+519,2,"输卵管硬脊膜的(伴有瓣)","salpingothecal (with valve)",03.79
+519,2,"锁骨下肺动脉","subclavian-pulmonary",39.0
+519,2,"体-肺动脉","systemic-pulmonary artery",39.0
+519,2,"胸膜腹膜的","pleuroperitoneal",34.05
+519,2,"胸腔脊膜的(伴有瓣)","pleurothecal (with valve)",03.79
+519,2,"腰的-蛛网膜下(伴有瓣)NEC","lumbar-subarachnoid (with valve) NEC",03.79
+519,2,"腋的-股的","axillary-femoral",39.29
+519,2,"硬膜下的-腹膜的(伴有瓣)","subdural-peritoneal (with valve)",02.34
+519,2,"右心房和肺动脉","right atrium and pulmonary artery",35.94
+519,2,"右心室和肺动脉(末端)","right ventricle and pulmonary artery (distal)",35.92
+519,3,"于修补术的","in repair of",
+519,4,"大血管转位","transposition of great vessels",35.92
+519,4,"动脉干","truncus arteriosus",35.83
+519,4,"肺动脉闭锁","pulmonary artery atresia",35.92
+519,2,"主动脉-冠状窦","aorta-coronary sinus",36.39
+519,2,"主动脉-心肌(移植)","aorto-myocardial (graft)",36.2
+519,2,"主动脉(降)-肺动脉(动脉)","aorta (descending)-pulmonary (artery)",39.0
+519,2,"主动脉肠系膜动脉","aortomesenteric",39.26
+519,2,"主动脉腹腔动脉","aortoceliac",39.26
+519,2,"主动脉根部","apicoaortic",35.93
+519,2,"主动脉股动脉","aortofemoral",39.25
+519,2,"主动脉颈动脉","aortocarotid",39.22
+519,2,"主动脉髂动脉","aortoiliac",39.25
+519,2,"主动脉髂动脉股骨","aortoiliofemoral",39.25
+519,2,"主动脉肾的","aortorenal",39.24
+519,2,"主动脉锁骨下","aortosubclavian",39.22
+519,2,"蛛网膜下-腹膜的(伴有瓣)","subarachnoid-peritoneal (with valve)",03.71
+519,2,"蛛网膜下-输尿管的(伴有瓣)","subarachnoid-ureteral (with valve)",03.72
+519,2,"左锁骨下动脉与降主动脉(布莱洛克-帕克)","left subclavian to descending aorta (Blalock-Park)",39.0
+519,2,"左心室(心脏)(尖)和主动脉","left ventricle (heart) (apex) and aorta",35.93
+519,2,"左右(体动脉-肺动脉)","left-to-right (systemic-pulmonary artery)",39.0
+519,1,"分娩(伴)","Delivery (with)",
+519,2,"产钳","forceps",72.9
+519,3,"巴尔通","Barton's",72.4
+520,4,"出口(低)","outlet (low)",72.0
+520,5,"伴外阴切开术","with episiotomy",72.1
+520,4,"低位(出口)","low (outlet)",72.0
+520,5,"伴外阴切开术","with episiotomy",72.1
+520,4,"高的","high",72.39
+520,5,"伴外阴切开术","with episiotomy",72.31
+520,4,"器械NEC","instrumental NEC",72.9
+520,5,"特指的NEC","specified NEC",72.8
+520,4,"失败","failed",73.3
+520,4,"试用","trial",73.3
+520,4,"胎头旋转","rotation of fetal head",72.4
+520,4,"应用于头后出(派珀尔)","application to aftercoming head (Piper)",72.6
+520,4,"伴臀抽取术","with breech extraction",
+520,5,"部分的","partial",72.51
+520,5,"全部的","total",72.53
+520,4,"中位","mid",72.29
+520,5,"伴外阴切开术","with episiotomy",72.21
+520,2,"德李手法操作","De Lee maneuver",72.4
+520,2,"辅助自然","assisted spontaneous",73.59
+520,2,"基耶兰德旋转","Kielland rotation",72.4
+520,2,"克勒德手法操作","Credé maneuver",73.59
+520,2,"马尔斯特姆抽吸术","Malstrom's extraction",72.79
+520,3,"伴外阴切开术","with episiotomy",72.71
+520,2,"剖宫产术-见剖宫产","cesarean section-see Cesarean section",
+520,2,"手法帮助(自然)","manually assisted (spontaneous)",73.59
+520,2,"臀抽吸术(帮助)","breech extraction (assisted)",72.52
+520,3,"部分","partial",72.52
+520,4,"头后出伴产钳","with forceps to aftercoming head",72.51
+520,3,"全部","total",72.54
+520,4,"头后出伴产钳","with forceps to aftercoming head",72.53
+520,3,"未帮助(自然分娩)-省略编码","unassisted (spontaneous delivery)-omit code",
+520,2,"钥匙锁旋转","key-in-lock rotation",72.4
+520,2,"真空抽吸术","vacuum extraction",72.79
+520,3,"伴会阴侧切术","with episiotomy",72.71
+520,2,"自然的(未辅助)","spontaneous (unassisted)",73.59
+520,3,"辅助的","assisted",73.59
+520,1,"分析","Analysis",
+520,2,"商讨","transactional",
+520,3,"个人","individual",94.39
+520,3,"团组","group",94.44
+521,2,"胃","gastric",89.39
+521,2,"心理学的","psychologic",94.31
+521,2,"心律装置(CRTD)(CRTP)(AICD)(起搏器)-见感应","cardiac rhythm device (AICD) (CRT-D) (CRT-P) (pacemaker)-see Interrogation",
+521,2,"性格","character",94.03
+521,1,"缝合","Oversewing",
+521,2,"溃疡坑面(消化性)","ulcer crater (peptic)",44.40
+521,3,"十二指肠","duodenum",44.42
+521,3,"胃","stomach",44.41
+521,2,"胸膜肺大疱","pleural bleb",32.21
+521,2,"左心耳(LAA)","left atrial appendage (LAA)",37.36
+521,1,"缝合-结扎-另见结扎","Suture-ligation-see also Ligation",
+521,2,"血管-见结扎,血管","blood vessel-see Ligation, blood vessel",
+521,1,"缝合(撕裂,裂伤)","Suture (laceration)",
+521,2,"II期","secondary",
+521,3,"腹壁","abdominal wall",54.61
+521,3,"腹膜","peritoneum",54.64
+521,3,"外阴切开术","episiotomy",75.69
+521,2,"鼻(外的)(内的)","nose (external) (internal)",21.81
+521,3,"用于鼻出血","for epistaxis",21.09
+521,2,"扁桃腺窝","tonsillar fossa",28.7
+521,2,"产科裂伤NEC","obstetric laceration NEC",75.69
+521,3,"肛门括约肌","sphincter ani",75.62
+521,3,"骨盆底","pelvic floor",75.69
+521,3,"会阴","perineum",75.69
+521,3,"尿道","urethra",75.61
+521,3,"尿道周的","periurethral",75.69
+521,3,"膀胱","bladder",75.61
+521,3,"外阴","vulva",75.69
+521,3,"阴道","vagina",75.69
+521,3,"直肠","rectum",75.62
+521,3,"子宫","uterus",75.50
+521,3,"子宫颈","cervix",75.51
+521,3,"子宫体","corpus uteri",75.52
+521,2,"肠","intestine",46.79
+521,3,"大的","large",46.75
+521,3,"小的","small",46.73
+521,2,"肠膨出","enterocele",70.92
+521,3,"伴移植物或假体","with graft or prosthesis",70.93
+521,2,"肠系膜","mesentery",54.75
+521,2,"处女膜","hymen",70.76
+521,2,"唇","lip",27.51
+522,2,"大血管的","great vessel",39.30
+522,3,"动脉","artery",39.31
+522,3,"静脉","vein",39.32
+522,2,"胆管","bile duct",51.79
+522,2,"胆囊","gallbladder",51.91
+522,2,"胆总管","common duct",51.71
+522,2,"骶骨子宫韧带","sacrouterine ligament",69.29
+522,2,"动静脉瘘","arteriovenous fistula",39.53
+522,2,"动脉","artery",39.31
+522,3,"经皮穿刺闭合-省略编码","a percutaneous puncture closure-omit code",
+522,2,"动脉瘤(脑的)(周围的)","aneurysm (cerebral) (peripheral)",39.52
+522,2,"腭","palate",27.61
+522,3,"裂","cleft",27.62
+522,2,"腭裂","cleft palate",27.62
+522,2,"耳,外部","ear, external",18.4
+522,2,"肺","lung",33.43
+522,2,"腹壁","abdominal wall",54.63
+522,3,"II期","secondary",54.61
+522,2,"附睾(和)","epididymis (and)",
+522,3,"精索","spermatic cord",63.51
+522,3,"输精管","vas deferens",63.81
+522,2,"腹膜","peritoneum",54.64
+522,2,"肝","liver",50.61
+522,2,"肝管","hepatic duct",51.79
+522,2,"肛门","anus",49.71
+522,3,"产科撕裂伤(近期)","obstetric laceration (current)",75.62
+522,4,"陈旧性","old",49.79
+522,3,"肛门括约肌","sphincter ani",49.71
+522,3,"产科撕裂伤(近期)","obstetric laceration (current)",75.62
+522,4,"陈旧性","old",49.79
+522,2,"睾丸","testis",62.61
+522,2,"睾丸鞘膜","tunica vaginalis",61.41
+522,2,"巩膜(伴结膜修补术)","sclera (with repair of conjunctiva)",12.81
+522,2,"骨膜","periosteum",78.20
+522,3,"尺骨","ulna",78.23
+522,3,"腓骨","fibula",78.27
+522,3,"跖骨的,跗骨的","tarsal, metatarsal",78.28
+522,3,"肱骨","humerus",78.22
+522,3,"股骨","femur",78.25
+522,3,"骨盆","pelvic",78.29
+522,3,"胫骨","tibia",78.27
+522,3,"桡骨","radius",78.23
+523,3,"特指部位NEC","specified site NEC",78.29
+523,3,"腕骨的,掌骨的","carpal, metacarpal",78.24
+523,3,"趾骨(足)(手)","phalanges (foot) (hand)",78.29
+523,3,"椎骨","vertebrae",78.29
+523,2,"关节囊","joint capsule",81.96
+523,3,"伴关节成形术-见关节成形术","with arthroplasty-see Arthroplasty",
+523,4,"踝","ankle",81.94
+523,4,"上肢","upper extremity",81.93
+523,4,"下肢NEC","lower extremity NEC",81.95
+523,4,"足","foot",81.94
+523,2,"横膈","diaphragm",34.82
+523,2,"喉","larynx",31.61
+523,2,"回肠","ileum",46.73
+523,2,"会阴(女性)","perineum (female)",71.71
+523,3,"分娩后","after delivery",75.69
+523,4,"外阴切开术修补术-见外阴切开术","episiotomy repair-see Episiotomy",
+523,3,"男性","male",86.59
+523,2,"肌肉","muscle",83.65
+523,3,"手","hand",82.46
+523,3,"眼(斜)(直肌)","ocular (oblique) (rectus)",15.7
+523,2,"脊膜","spinal meninges",03.59
+523,2,"甲状腺","thyroid gland",06.93
+523,2,"睑裂","palpebral fissure",08.59
+523,2,"睑内翻","entropion",08.42
+523,2,"腱(直接)(立即)(初期)","tendon (direct) (immediate) (primary)",83.64
+523,3,"冈上肌(旋转环带修补术)","supraspinatus (rotator cuff repair)",83.63
+523,3,"鞘","sheath",83.61
+523,4,"手","hand",82.41
+523,4,"手NEC","hand NEC",82.45
+523,5,"屈肌","flexors",82.44
+523,6,"延迟的(II期)","delayed (secondary)",82.42
+523,6,"延迟的(II期)","delayed (secondary)",82.43
+523,4,"旋转环带","rotator cuff",83.63
+523,5,"延迟的(II期)","delayed (secondary)",83.62
+523,4,"手NEC","hand NEC",82.43
+523,5,"屈肌","flexors",82.42
+523,3,"眼的","ocular",15.7
+523,3,"与骨骼附着处","to skeletal attachment",83.88
+523,4,"手","hand",82.85
+523,2,"腱膜-另见缝合,腱","aponeurosis-see also Suture, tendon",83.64
+523,2,"角膜","cornea",11.51

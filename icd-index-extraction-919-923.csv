@@ -1,0 +1,164 @@
+page,level,chinese,english,code
+919,4,"CRT-P（心律再同步化起搏器）（双心室起搏器）（BiV 起搏器）（心脏再同步起搏器）（装置和一个或多个导联）","CRT-P (biventricular pacemaker) (BiV pacemaker) (cardiac resynchronization pacemaker) (device and one or more leads)",00.50
+919,5,"仅脉搏发生器","pulse generator only",00.53
+919,5,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
+919,4,"Dynesys®（腰椎椎弓根螺钉软系统固定装置）","Dynesys®",84.82
+919,4,"Kirschner 固定法（牵引）","Kirschner wire",93.44
+919,5,"伴骨折或脱位的复位—见复位，骨折和复位，脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+919,4,"Lap-Band™（可调节性胃细带系统）","Lap-Band™",44.95
+919,4,"M-Brace™（一种脊椎固定装置）","M-Brace™",84.82
+919,4,"Tandem™ 心脏","Tandem™ heart",37.68
+919,4,"X Stop™（治疗腰椎管狭窄的一种动力性稳定装置）","X Stop™",84.80
+919,4,"艾伦-布朗套管","Allen-Brown cannula",39.93
+919,4,"奥斯汀-穆尔假体","Austin-Moore prosthesis",81.52
+919,4,"巴尔通钳（颅骨）（同时伴骨骼牵引）","Barton’s tongs (skull) (with synchronous skeletal traction)",02.94
+919,4,"瓣膜","valve(s)",
+919,5,"哈纳格—见置换，心脏瓣膜","Hufnagel-see Replacement, heart valve",
+919,5,"霍尔特尔","Holter",02.22
+919,5,"输精管","vas deferens",63.95
+919,5,"斯皮兹-霍尔特尔","Spitz-Holter",02.22
+919,5,"咽的（人工的）","pharyngeal (artificial)",31.75
+919,5,"支气管","bronchus",
+919,6,"单叶","single lobe",33.71
+919,6,"多叶","multiple lobes",33.73
+919,4,"贝克（管）（用于支架）","Baker’s (tube) (for stenting)",46.85
+919,4,"泵，输注","pump, infusion",86.06
+919,4,"鼻肠管","naso-intestinal tube",96.08
+919,4,"鼻胆引流管（内镜）","nasobiliary drainage tube (endoscopic)",51.86
+919,4,"鼻泪管或支架","nasolacrimal tube or stent",09.44
+919,4,"鼻胃管","nasogastric tube",
+919,5,"为了","for",
+919,6,"减压，肠","decompression, intestinal",96.07
+919,6,"喂养","feeding",96.6
+919,4,"鼻胰引流管（内镜）","nasopancreatic drainage tube (endoscopic)",52.97
+920,4,"避孕装置（宫内）","contraceptive device (intrauterine)",69.7
+920,4,"布莱克莫尔森斯塔肯背管","Blakemore-Sengstaken tube",96.06
+920,4,"齿矫形器（填塞器）（栓结术）","orthodontic appliance (obturator) (wiring)",24.7
+920,4,"传感器","sensor (lead)",
+920,5,"动脉内的，用于连续性血气监测","intra-aneurysm sac pressure monitoring device",00.58
+920,5,"心内或大血管血流动力学监测","intracardiac or great vessel hemodynamic monitoring",
+920,6,"伴有导线","with lead",00.56
+920,6,"无导线","without lead",38.26
+920,5,"心内血流动力学监测","intra-arterial, for continuous blood gas monitoring",89.60
+920,4,"刺激接收器—见植入，神经刺激器，按部位","stimceiver-see Implant, neurostimulator, by site",
+920,4,"刺激器用于骨生长—见亚目","stimulator for bone growth-see subcategory",78.9
+920,4,"带（可调节性）","band (adjustable)",
+920,5,"Lap-Band™（可调节性胃细带系统）","Lap-Band™",44.95
+920,5,"胃的，腹腔镜的","gastric, laparoscopic",44.95
+920,4,"袋，子宫颈（非产科的）","bag, cervix (nonobstetrical)",67.0
+920,5,"帮助分娩或引产","to assist delivery or induce labor",73.1
+920,5,"分娩或流产后","after delivery or abortion",75.8
+920,4,"戴维逊钮","Davidson button",54.98
+920,4,"胆总管肝内胆管（用于减压）","choledochohepatic tube (for decompression)",51.43
+920,5,"内镜","endoscopic",51.87
+920,4,"导管","catheter",
+920,5,"NeuroFlo™（部分腹主动脉闭合）","NeuroFlo™ (partial abdominal aorta occlusion)",39.77
+920,6,"胆管","bile duct(s)",51.59
+920,7,"内镜","endoscopic",51.87
+920,7,"总","common",51.51
+920,8,"内镜","endoscopic",51.87
+920,6,"动脉","artery",38.91
+920,6,"静脉 NEC","vein NEC",38.93
+920,7,"用于肾透析","for renal dialysis",38.95
+920,6,"经气管用于氧化","transtracheal for oxygenation",31.99
+920,6,"肋间（伴水密封），为了引流","intercostal (with water seal), for drainage",34.04
+920,7,"胸腔镜的","thoracoscopic",34.06
+920,7,"修复术（伴粘连松解术）","revision (with lysis of adhesions)",34.04
+921,7,"胸腔镜的","thoracoscopic",34.06
+921,5,"颅内的","intracerebral",01.26
+921,6,"经伯尔孔放置","placement via burr hole(s)",01.28
+921,5,"颅腔","cranial cavity",01.26
+921,6,"经伯尔孔放置","placement via burr hole(s)",01.28
+921,5,"膀胱，留置的","bladder, indwelling",57.94
+921,6,"耻骨上","suprapubic",57.18
+921,7,"经皮（闭合的）","percutaneous (closed)",57.17
+921,5,"前房（眼），用于永久性引流（青光眼）","anterior chamber (eye), for permanent drainage-(glaucoma)",12.79
+921,5,"食管（非手术的）","esophagus (nonoperative)",96.06
+921,6,"永久性管","permanent tube",42.81
+921,5,"斯旺-甘兹（肺动脉）","Swan-Ganz (pulmonary)",89.64
+921,5,"胎儿腹部，用于宫内输注","abdomen of fetus, for intrauterine transfusion",75.2
+921,5,"胸","chest",34.04
+921,6,"胸腔镜的","thoracoscopic",34.06
+921,6,"修复术（伴粘连松解术）","revision (with lysis of adhesions)",34.04
+921,6,"胸腔镜的","thoracoscopic",34.06
+921,5,"暂时性闭全，腹主动脉","temporary occlusion, abdominal aorta",39.77
+921,5,"支气管","bronchus",96.05
+921,6,"伴灌洗","with lavage",96.56
+921,5,"中心静脉 NEC","central venous NEC",38.93
+921,6,"伴有诱导","with guidance",38.97
+921,6,"经周围静脉插入中心静脉导管（PICC）","peripherally inserted central catheter (PICC)",38.93
+921,7,"用于","for",
+921,8,"血液透析","hemodialysis",38.95
+921,8,"压力监测","pressure monitoring",89.62
+921,5,"椎管腔（硬膜外的）（蛛网膜下）（硬膜下的），用于治疗性或姑息治疗性物质输注","spinal canal space (epidural) (subarachnoid) (subdural) for infusion of therapeutic or palliative substances",03.90
+921,4,"导联—见插入，电极","leads-see Insertion, electrode(s)",
+921,4,"电刺激器—见植入，电刺激器，按部位","electronic stimulator-see Implant, electronic stimulator, by site",
+921,4,"电极","electrode(s)",
+921,5,"骶神经","sacral nerve",04.92
+921,5,"蝶的","sphenoidal",02.96
+921,4,"骨生长刺激器（侵入）（经皮）（半侵入）见亚目","bone growth stimulator (invasive) (percutaneous) (semi-invasive)-see subcategory",78.9
+922,4,"骨原性（用于骨生长刺激）—见亚目","osteogenic (for bone growth stimulation)-see subcategory",78.9
+922,4,"脊柱","spine",03.93
+922,4,"颅内","intracranial",02.93
+922,4,"卵圆孔","foramen ovale",02.93
+922,4,"脑","brain",02.93
+922,5,"蝶的","sphenoidal",02.96
+922,5,"卵圆孔","foramen ovale",02.93
+922,5,"深部","depth",02.93
+922,4,"深部","depth",02.93
+922,4,"胃的","gastric",04.92
+922,4,"心脏（初始的）（经静脉）","heart (initial) (transvenous)",37.70
+922,5,"心房（初始的）","atrium (initial)",37.73
+922,6,"置换","replacement",37.76
+922,5,"心房和心室（初始的）","atrium and ventricle (initial)",37.72
+922,6,"置换","replacement",37.76
+922,5,"心室（初始的）","ventricle (initial)",37.71
+922,6,"置换","replacement",37.76
+922,5,"心外膜（胸骨切开或胸廓切开术入路）","epicardium (sternotomy or thoracotomy approach)",37.74
+922,6,"暂时性经静脉起搏器系统","temporary transvenous pacemaker system",37.78
+922,6,"心脏手术中和心脏手术即时后","during and immediately following cardiac surgery",39.64
+922,5,"左心室冠状静脉系统","left ventricular coronary venous system",00.52
+922,4,"周围神经","peripheral nerve",04.92
+922,4,"蝶骨电极","sphenoidal electrodes",02.96
+922,4,"氡管","radon seeds",92.27
+922,4,"动脉内血气监测系统","intra-arterial blood gas monitoring system",89.60
+922,4,"端口，血管通路","port, vascular access",86.07
+922,4,"腭植入","palatal implant",27.64
+922,4,"耳蜗假体装置—见植入，耳蜗假体装置","cochlear prosthetic device-see Implant, cochlear prosthetic device",
+922,4,"房水引流装置（分流）（支架）","aqueous drainage device (shunt) (stent)",12.67
+922,4,"放射性核素","radioactive isotope",92.27
+922,4,"非冠状血管","non-coronary vessel",
+922,5,"支架（支架植入）","stent(s) (stent graft)",
+923,6,"伴有","with",
+923,7,"动脉粥样硬化切除术","atherectomy",17.56
+923,7,"旁路—省略编码","bypass-omit code",
+923,7,"血管成形术","angioplasty",39.50
+923,6,"基底","basilar",00.64
+923,6,"脊椎的","vertebral",00.64
+923,6,"颈动脉","carotid",00.63
+923,6,"颅内","intracranial",00.65
+923,6,"颅外","extracranial",00.64
+923,6,"周围的","peripheral",39.90
+923,7,"裸，药物涂层","bare, drug-coated",39.90
+923,7,"药物洗脱","drug-eluting",00.55
+923,4,"非侵入性（经皮）（表浅）刺激器","non-invasive (transcutaneous) (surface) stimulator",99.86
+923,4,"分流—见分流","shunt-see Shunt",
+923,4,"腹透管","cordis cannula",54.98
+923,4,"睾丸假体（双侧）（单侧）","testicular prosthesis (bilateral) (unilateral)",62.7
+923,4,"格林费尔德过滤器","Greenfield filter",38.7
+923,4,"弓形杆（正牙的）","arch bars (orthodontic)",24.7
+923,5,"用于固定（骨折）","for immobilization (fracture)",93.55
+923,4,"骨骼肌刺激器","skeletal muscle stimulator",83.92
+923,4,"骨生长刺激器（侵入）（经皮）（半侵入）见亚目","bone growth stimulator (invasive) (percutaneous) (semi-invasive)-see subcategory",78.9
+923,4,"骨填充物","bone void filler",84.55
+923,5,"同时伴脊柱后凸成形术","that with percutaneous vertebral augmentation",81.66
+923,5,"同时伴椎骨成形术","that with percutaneous vertebroplasty",81.65
+923,4,"骨形态形成蛋白（重组）（重组人骨形态发生蛋白）","bone morphogenetic protein (recombinant) (rhBMP)",84.52
+923,4,"鼓膜切开术装置（钮）（管）","myringotomy device (button) (tube)",20.01
+923,5,"伴插管法","with intubation",20.01
+923,4,"固定器，小型装置（骨）—见亚目","fixator, mini device (bone)-see subcategory",78.1
+923,4,"管—另见导管插入术和插管法","tube-see also Catheterization and Intubation",
+923,5,"鼻肠的","naso-intestinal",96.08
+923,5,"鼻胆的（引流）","nasobiliary (drainage)",51.86
+923,5,"鼻胃的（用于肠减压）NEC","nasogastric (for intestinal decompression) NEC",96.07
+923,4,"鼻胰引流（内镜的）","nasopancreatic drainage (endoscopic)",52.97

@@ -1,0 +1,192 @@
+page,level,chinese,english,code
+644,3,"腹内(动脉的) NEC","intra-abdominal (arterial) NEC",39.26
+644,3,"静脉 NEC","venous NEC",39.1
+644,3,"肝总-髂总-肾","common hepatic-common iliac-renal",39.26
+644,3,"股动脉-股动脉","femoral-femoral",39.29
+644,3,"股腓动脉","femoroperoneal",39.29
+644,3,"股腘动脉(逆转的隐静脉)(隐静脉)","femoropopliteal (reversed saphenous vein) (saphenous)",39.29
+644,3,"股胫的(前的)(后的)","femorotibial (anterior) (posterior)",39.29
+644,3,"冠状—另见旁路,主动脉冠状动脉","coronary-see also Bypass, aortocoronary",36.10
+644,3,"腘动脉-胫动脉","popliteal-tibial",39.29
+644,3,"颈动脉-脊椎的","carotid-vertebral",39.28
+644,3,"颈动脉-脑的","carotid-cerebral",39.28
+644,3,"颈动脉与锁骨下动脉","carotid to subclavian artery",39.22
+644,3,"颅外-颅内[EC-IC]","extracranial-intracranial [EC-IC]",39.28
+644,3,"脾肾的(静脉)","splenorenal (venous)",39.1
+644,3,"髂股的","iliofemoral",39.25
+644,3,"髂髂的","ilioiliac",39.26
+644,3,"乳内-冠状","internal mammary-coronary",
+644,4,"动脉(单根)","artery (single)",36.15
+644,4,"双血管","double vessel",36.16
+644,3,"肾动脉","renal artery",39.24
+644,3,"肾动脉 Y 型移植","Y graft to renal arteries",39.24
+644,3,"锁骨下-颈动脉","subclavian-carotid",39.22
+644,3,"锁骨下-锁骨下","subclavian-subclavian",39.22
+644,3,"锁骨下-腋的","subclavian-axillary",39.29
+644,3,"胸内的 NEC","intrathoracic NEC",39.23
+644,3,"腋动脉-肱动脉","axillary-brachial",39.29
+644,3,"腋动脉-股动脉(表浅的)","axillary-femoral (superficial)",39.29
+644,3,"腋股动脉(表浅的)","axillofemoral (superficial)",39.29
+644,3,"周围动脉 NEC","peripheral artery NEC",39.29
+644,3,"主动脉-肠系膜动脉","aortomesenteric",39.26
+644,3,"主动脉-肠系膜上动脉","aortic-superior mesenteric",39.26
+644,3,"主动脉-股动脉-腘动脉","aortofemoral-popliteal",39.25
+644,3,"主动脉-颈动脉-肱动脉","aorta-carotid-brachial",39.22
+644,3,"主动脉-髂动脉-股动脉","aorta-iliac-femoral",39.25
+644,3,"主动脉-肾的","aorta-renal",39.24
+644,3,"主动脉-锁骨下动脉-颈动脉","aorta-subclavian-carotid",39.22
+644,3,"主动脉腹腔动脉","aortoceliac",39.26
+644,3,"主动脉股动脉","aortofemoral",39.25
+645,3,"主动脉冠状动脉—另见旁路,主动脉冠状动脉","aortocoronary-see also Bypass, aortocoronary",36.10
+645,3,"主动脉腘动脉","aortopopliteal",39.25
+645,3,"主动脉颈动脉","aortocarotid",39.22
+645,3,"主动脉髂动脉","aortoiliac",39.25
+645,4,"和腘动脉","to popliteal",39.25
+645,3,"主动脉髂动脉股动脉","aortoiliofemoral",39.25
+645,3,"主动脉肾动脉","aortorenal",39.24
+645,3,"主动脉锁骨下","aortosubclavian",39.22
+645,2,"移植,加压治疗","graft, pressurized treatment",00.16
+645,2,"主动脉冠状动脉(导管支架)(伴假体)(伴隐静脉移植)","aortocoronary (catheter stent) (with prosthesis) (with saphenous vein graft) (with vein graft)",36.10
+645,3,"一根冠状血管","one coronary vessel",36.11
+645,3,"二根冠状血管","two coronary vessels",36.12
+645,3,"三根冠状血管","three coronary vessels",36.13
+645,3,"四根冠状血管","four coronary vessels",36.14
+645,1,"培养(和敏感性)—见检查,显微镜的","Culture (and sensitivity)-see Examination, microscopic",
+645,1,"佩里拉手术—见 Pereyra 手术","佩里拉手术— see Pereyra operation",
+645,1,"配眼镜处方","Prescription for glasses",95.31
+645,1,"配制(伴安装)","Dispensing (with fitting)",
+645,2,"接触镜片","contact lens",95.32
+645,2,"视力低下辅助设备 NEC","low vision aids NEC",95.33
+645,2,"眼镜","spectacles",95.31
+645,2,"经灌注的血脑屏障[BBBD]","blood brain barrier via infusion [BBBD]",00.19
+645,1,"蓬塞手术—见 Poncet 手术","蓬塞手术— see Poncet operation",
+645,1,"膨胀,膀胱(治疗性)(间歇性)","Distention, bladder (therapeutic) (intermittent)",96.25
+645,1,"膨胀过度,膀胱(治疗性)","Overdistension, bladder (therapeutic)",96.25
+645,1,"脾成形术","Splenoplasty",41.95
+645,1,"脾缝合术","Splenorrhaphy",41.95
+645,1,"脾固定术","Splenopexy",41.95
+645,1,"脾门静脉造影(经脾动脉造影术)","Splenoportogram (by splenic arteriography)",88.64
+645,1,"脾切除术(完全的)(全部的)","Splenectomy (complete) (total)",41.5
+645,2,"部分的","partial",41.43
+645,1,"脾切开术","Splenotomy",41.2
+645,1,"脾松解术","Splenolysis",54.59
+645,2,"腹腔镜的","laparoscopic",54.51
+646,1,"脾 X 线照相","Splenogram",88.64
+646,2,"放射性同位素","radioisotope",92.05
+646,1,"皮肤瘢痕磨削术(激光)","Dermabrasion (laser)",86.25
+646,2,"用于伤口清创术","for wound debridement",86.28
+646,1,"皮罗戈夫手术—见 Pirogoff 手术","皮罗戈夫手术— see Pirogoff operation",
+646,1,"皮特手术—见 Peet 手术","皮特手术— see Peet operation",
+646,1,"皮脂切除术","Cutaneolipectomy",86.83
+646,1,"偏侧骨盆切除术","Hemipelvectomy",84.19
+646,1,"偏侧喉切除术(前的)(侧的)(垂直的)","Hemilaryngectomy (anterior) (lateral) (vertical)",30.1
+646,1,"偏侧甲状腺切除术(伴峡部切除)(伴残留叶部分切除)","Hemithyroidectomy (with removal of isthmus) (with removal of portion of remaining lobe)",06.2
+646,1,"偏侧椎板切除术(减压)(探查术)","Hemilaminectomy (decompression) (exploration)",03.09
+646,1,"评估","Assessment",
+646,2,"精神状态","mental status",94.11
+646,2,"人格","personality",94.03
+646,2,"性情","temperament",94.02
+646,2,"营养状态","nutritional status",89.39
+646,2,"职业","vocational",93.85
+646,2,"作证适当性","fitness to testify",94.11
+646,1,"评估(……的)","Evaluation (of)",
+646,2,"犯罪责任,精神病学的","criminal responsibility, psychiatric",94.11
+646,2,"功能性(物理治疗)","functional (physical therapy)",93.01
+646,2,"假体(用于人工肢体安装)","prosthetic (for artificial limb fitting)",93.03
+646,2,"矫形的(用于支架安装)","orthotic (for brace fitting)",93.02
+646,2,"精神病学的 NEC","psychiatric NEC",94.19
+646,3,"托管","commitment",94.13
+646,2,"听觉的 NEC","hearing NEC",95.49
+646,2,"听力的","audiological",95.43
+646,2,"心理学的 NEC","psychologic NEC",94.08
+646,2,"心律装置(CRT-D)(CRT-P)(AICD)(起搏器)—见感应","cardiac rhythm device (CRT-D) (CRT-P) (AICD) (pacemaker)-see Interrogation",
+646,2,"作证能力,精神病学的","testimentary capacity, psychiatric",94.11
+646,1,"平衡(咬合面)","Equilibration (occlusal)",24.8
+646,1,"平面视野计","Campimetry",95.05
+646,1,"平斯克尔手术—见 Pinsker 手术","平斯克尔手术— see Pinsker operation",
+646,1,"破坏","Destruction, Disruption",
+646,2,"LAA(左心耳)","LAA",37.36
+646,2,"半规管,经注射","semicircular canals, by injection",20.72
+646,2,"病损(局部的)","lesion (local)",
+647,3,"奥狄括约肌","sphincter of Oddi",51.69
+647,4,"内镜","endoscopic",51.64
+647,3,"巴多林腺","Bartholin's gland",71.24
+647,4,"经","by",
+647,5,"抽吸","aspiration",71.21
+647,5,"袋形缝合术","marsupialization",71.23
+647,5,"切除术","excision",71.24
+647,5,"切开","incision",71.22
+647,3,"鼻","nose",21.30
+647,4,"鼻内的","intranasal",21.31
+647,4,"特指的 NEC","specified NEC",21.32
+647,3,"鼻内的","intranasal",21.31
+647,3,"肠—见破坏,病损,肠","bowel-see Destruction, lesion, intestine",
+647,3,"肠(大)","intestine (large)",45.49
+647,4,"经切除","by excision",45.41
+647,5,"内镜","endoscopic",45.43
+647,4,"息肉切除术","polypectomy",45.42
+647,5,"内镜","endoscopic",45.43
+647,4,"息肉切除术","polypectomy",45.42
+647,3,"小","small",45.34
+647,4,"经切除术","by excision",45.33
+647,3,"垂体腺","pituitary gland",
+647,4,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
+647,5,"单源光子","single source photon",92.31
+647,5,"多源","multi-source",92.32
+647,5,"放射外科学 NEC","radiosurgery NEC",92.39
+647,5,"钴-60","cobalt-60",92.32
+647,5,"粒子","particulate",92.33
+647,5,"粒子束流","particle beam",92.33
+647,5,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+647,3,"胆管","biliary ducts",51.69
+647,4,"内镜","endoscopic",51.64
+647,3,"腭(骨性)(局部的)","palate (bony) (local)",27.31
+647,4,"广泛","wide",27.32
+647,3,"肺","lung",32.29
+647,4,"内镜","endoscopic",32.28
+647,5,"胸腔镜的","thoracoscopic",32.20
+647,3,"肝","liver",50.29
+647,3,"肛门","anus",49.39
+647,4,"内镜","endoscopic",49.31
+647,3,"睾丸","testis",62.2
+647,3,"巩膜","sclera",12.84
+648,3,"骨—见切除术,病损,骨","bone-see Excision, lesion, bone",
+648,3,"虹膜(非切除的) NEC","iris (nonexcisional) NEC",12.41
+648,4,"经切除术","by excision",12.42
+648,3,"喉","larynx",30.09
+648,3,"脊索(脑膜)","spinal cord (meninges)",03.4
+648,3,"角膜 NEC","cornea NEC",11.49
+648,4,"经","by",
+648,5,"电烧灼术","electrocauterization",11.42
+648,5,"冷冻疗法","cryotherapy",11.43
+648,5,"热灼术","thermocauterization",11.42
+648,3,"结膜","conjunctiva",10.32
+648,4,"经切除术","by excision",10.31
+648,3,"睫状体(非切除的)","ciliary body (nonexcisional)",12.43
+648,4,"经切除术","by excision",12.44
+648,3,"泪囊","lacrimal sac",09.6
+648,3,"卵巢","ovary",
+648,4,"经","by",
+648,5,"抽吸","aspiration",65.91
+648,5,"切除术","excision",65.29
+648,6,"腹腔镜","laparoscopic",65.25
+648,4,"囊肿经破裂(手压)","cyst by rupture (manual)",65.93
+648,3,"脉络膜","choroid",14.29
+648,4,"经","by",
+648,5,"放射疗法","radiation therapy",14.26
+648,6,"放射源植入","implantation of radiation source",14.27
+648,5,"光凝术","photocoagulation",14.25
+648,6,"激光","laser",14.24
+648,6,"氙弧光","xenon arc",14.23
+648,5,"冷冻疗法","cryotherapy",14.22
+648,5,"透热疗法","diathermy",14.21
+648,3,"眉","eyebrow",08.25
+648,3,"脑(经颞入路) NEC","brain (transtemporal approach) NEC",01.59
+648,4,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
+648,5,"单源光子","single source photon",92.31
+648,5,"多源","multi-source",92.32
+648,5,"放射外科学 NEC","radiosurgery NEC",92.39
+648,5,"钴-60","cobalt 60",92.32
+648,5,"粒子","particulate",92.33
+648,5,"粒子束流","particle beam",92.33
+648,5,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31

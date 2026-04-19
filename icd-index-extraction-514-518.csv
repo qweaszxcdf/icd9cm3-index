@@ -1,0 +1,200 @@
+page,level,chinese,english,code
+514,4,"不透明染色","opaque dye",87.83
+514,4,"气体","gas",87.82
+514,3,"纵隔","mediastinum",87.33
+514,2,"额的区,面","frontal area, facial",87.16
+514,2,"肺","lung",87.49
+514,2,"腹,腹(平片)NEC","abdomen, abdominal (flat plate) NEC",88.19
+514,3,"壁(软组织)NEC","wall (soft tissue) NEC",88.09
+514,2,"腹膜后NEC","retroperitoneum NEC",88.16
+514,2,"附睾NEC","epididymis NEC",87.95
+514,2,"根管","root canal",87.12
+514,2,"骨骼NEC","skeletal NEC",88.33
+514,3,"系列(全部或完全)","series (whole or complete)",88.31
+514,2,"骨检查","bone survey",88.31
+514,2,"骨盆(骨骼)","pelvis (skeletal)",88.26
+514,3,"骨盆测量","pelvimetry",88.25
+514,3,"软组织","soft tissue",88.19
+514,2,"横膈","diaphragm",87.49
+514,2,"喉","larynx",87.09
+514,2,"踝(骨骼)","ankle (skeletal)",88.28
+514,3,"软组织","soft tissue",88.37
+514,2,"脊柱NEC","spine NEC",87.29
+514,3,"骶尾的","sacrococcygeal",87.24
+514,3,"颈的","cervical",87.22
+514,3,"胸","thoracic",87.23
+514,3,"腰骶的","lumbosacral",87.24
+514,2,"计算机辅助手术(CAS)伴荧光镜透视检查法","computer assisted surgery (CAS) with fluoroscopy",00.33
+514,2,"甲状腺区","thyroid region",87.09
+514,2,"肩(骨骼)","shoulder (skeletal)",88.21
+514,3,"软组织","soft tissue",88.35
+514,2,"精囊NEC","seminal vesicles NEC",87.92
+514,2,"颈NEC","neck NEC",87.09
+514,2,"髋(骨骼)","hip (skeletal)",88.26
+514,3,"软组织","soft tissue",88.37
+514,2,"眶","orbit",87.16
+514,2,"眶上区","supraorbital area",87.16
+514,2,"肋骨","ribs",87.43
+514,2,"泌尿系NEC","urinary system NEC",87.79
+514,2,"面,头和颈","face, head, and neck",87.09
+514,2,"面骨","facial bones",87.16
+514,2,"气管","trachea",87.49
+515,2,"前臂(骨骼)","forearm (skeletal)",88.22
+515,3,"软组织","soft tissue",88.35
+515,2,"前列腺NEC","prostate NEC",87.92
+515,2,"颧上颌复合体","zygomaticomaxillary complex",87.16
+515,2,"上臂(骨骼)","upper arm (skeletal)",88.21
+515,3,"软组织","soft tissue",88.35
+515,2,"上颌骨","maxilla",87.16
+515,2,"上肢(骨骼)NEC","upper limb (skeletal) NEC",88.24
+515,3,"软组织NEC","soft tissue NEC",88.35
+515,2,"肾输尿管膀胱(KUB)","kidney-ureter-bladder (KUB)",87.79
+515,2,"生殖器官","genital organs",
+515,3,"男性NEC","male NEC",87.99
+515,3,"女性NEC","female NEC",87.89
+515,2,"食管","esophagus",87.69
+515,3,"吞钡","barium-swallow",87.61
+515,2,"手(骨骼)","hand (skeletal)",88.23
+515,3,"软组织","soft tissue",88.35
+515,2,"输精管NEC","vas deferens NEC",87.95
+515,2,"输卵管","fallopian tubes",87.85
+515,2,"锁骨","clavicle",87.43
+515,2,"头NEC","head NEC",87.09
+515,2,"头颅(侧的,矢状或正切投射)NEC","skull (lateral, sagittal or tangential projection) NEC",87.17
+515,2,"腕","wrist",88.23
+515,2,"膝(骨骼)","knee (skeletal)",88.27
+515,3,"软组织","soft tissue",88.37
+515,2,"下颌骨","mandible",87.16
+515,2,"下颌联合","symphysis menti",87.16
+515,2,"下肢(骨骼)NEC","lower limb (skeletal) NEC",88.29
+515,3,"软组织NEC","soft tissue NEC",88.37
+515,2,"涎腺","salivary gland",87.09
+515,2,"腺样增殖体","adenoid",87.09
+515,2,"消化道NEC","digestive tract NEC",87.69
+515,3,"上消化道摄片","upper GI series",87.62
+515,3,"吞钡","barium swallow",87.61
+515,3,"下消化道钡剂摄影","lower GI series",87.64
+515,3,"小肠摄片","small bowel series",87.63
+515,2,"小腿(骨骼)","lower leg (skeletal)",88.27
+515,3,"软组织","soft tissue",88.37
+515,2,"心脏","heart",87.49
+515,2,"胸(常规)","chest (routine)",87.44
+515,3,"壁NEC","wall NEC",87.39
+516,2,"胸骨","sternum",87.43
+516,2,"悬雍垂","uvula",87.09
+516,2,"牙齿NEC","teeth,dental NEC",87.12
+516,3,"全口","full-mouth",87.11
+516,2,"眼","eye",95.14
+516,2,"支气管","bronchus",87.49
+516,2,"肘(骨骼)","elbow (skeletal)",88.22
+516,3,"软组织","soft tissue",88.35
+516,2,"子宫NEC","uterus NEC",87.85
+516,3,"妊娠","gravid",87.81
+516,2,"纵隔","mediastinum",87.49
+516,2,"足","foot",88.28
+516,1,"菲克手术-见Fick手术","菲克手术- see Fick operation",
+516,1,"肺穿刺术","Pneumocentesis",33.93
+516,1,"肺活量测量法(激发的)(呼吸的)","Spirometry (incentive) (respiratory)",89.37
+516,1,"肺空腔镜检查","Cavernoscopy",34.21
+516,1,"肺切除术(完全)(扩大)(根治)(标准)(全部)(伴纵隔清扫)","Pneumonectomy (extended) (radical) (standard) (total) (with mediastinal dissection)",32.59
+516,2,"部分的","partial",
+516,3,"部分切除术(楔形),一叶","resection (wedge), one lobe",32.39
+516,3,"完全切除术,一叶","complete excision, one lobe",32.49
+516,3,"胸腔镜的","thoracoscopic",32.50
+516,1,"肺切开术(伴探查术)","Pneumonotomy (with exploration)",33.1
+516,1,"肺松解术(用于肺萎陷)","Pneumonolysis (for collapse of lung)",33.39
+516,1,"肺小舌切除术,肺","Lingulectomy, lung",32.39
+516,1,"芬尼手术-见Finney手术","芬尼手术- see Finney operation",
+516,1,"分杈,骨-另见骨切开术","Bifurcation, bone-see also Osteotomy",77.30
+516,1,"分光光度测定法NEC","Spectrophotometry NEC",89.39
+516,2,"尿","urine",89.29
+516,2,"胎盘","placenta",89.29
+516,2,"血","blood",89.39
+516,1,"分开-见切断","Divison",
+516,1,"分离","Separation",
+516,2,"不对称的(不等的)","asymmetrical (unequal)",84.93
+516,2,"对称的(对等的)","symmetrical (equal)",84.92
+516,2,"双胎(附着的)(联体的)(联胎)","twins (attached) (conjoined) (Siamese)",84.93
+516,1,"分离,子宫骶骨韧带","Detachment, uterosacral ligaments",69.3
+516,1,"分离术","Isolation",
+516,2,"肠段或带蒂皮瓣","intestinal segment or pedicle flap",
+517,3,"大的","large",45.52
+517,3,"小的","small",45.51
+517,2,"回肠襻","ileal loop",45.51
+517,2,"接触传染病后","after contact with infectious disease",99.84
+517,1,"分裂-另见切断","Splitting-see also Division",
+517,2,"脊索束","spinal cord tracts",03.29
+517,3,"经皮的","percutaneous",03.21
+517,2,"腱鞘","tendon sheath",83.01
+517,3,"手","hand",82.01
+517,2,"泪乳头","lacrimal papilla",09.51
+517,2,"泪小管","canaliculus",09.52
+517,1,"分流-另见吻合术和旁路,血管的","Shunt-see also Anastomosis and Bypass, vascular",
+517,2,"半规管蛛网膜下","semicircular subarachnoid",20.71
+517,2,"肠的","intestinal",
+517,3,"大大","large-to-large",45.94
+517,3,"小大","small-to-large",45.93
+517,3,"小小","small-to-small",45.91
+517,2,"肠系膜腔静脉","mesocaval",39.1
+517,2,"肠系膜上动脉腔静脉","superior mesenteric-caval",39.1
+517,2,"动静脉NEC","arteriovenous NEC",39.29
+517,3,"用于肾透析(经)","for renal dialysis (by)",
+517,4,"外部套管","external cannula",39.93
+517,4,"吻合","anastomosis",39.27
+517,2,"房水引流","aqueous drainage",12.67
+517,2,"肺动脉-无名静脉的","pulmonary-innominate",39.0
+517,2,"肺静脉与心房","pulmonary vein to atrium",35.82
+517,2,"腹静脉","abdominovenous",54.94
+517,2,"腹膜的-颈静脉的","peritoneal-jugular",54.94
+517,2,"腹腔-血管的","peritoneo-vascular",54.94
+517,2,"腹腔静脉的","peritoneovenous",54.94
+517,2,"股腓动脉的","femoroperoneal",39.29
+517,2,"股腘的","femoropopliteal",39.29
+517,2,"海绵体-尿道海绵体","corpora cavernosa-corpus spongiosum",64.98
+517,2,"海绵体隐静脉的","corpora-saphenous",64.98
+517,2,"脊髓的(带)(伴有瓣)NEC","spinal (thecal) (with valve) NEC",03.79
+517,3,"蛛网膜下腹膜的","subarachnoid-peritoneal",03.71
+517,3,"蛛网膜下输尿管的","subarachnoid-ureteral",03.72
+517,2,"降主动脉与肺动脉(波茨-史密斯)","descending aorta to pulmonary artery (Potts-Smith)",39.0
+517,2,"颈动脉-颈动脉的","carotid-carotid",39.22
+517,2,"颈动脉-锁骨下的","carotid-subclavian",39.22
+518,2,"经颈静脉肝内门静脉体(TIPS)","transjugular intrahepatic portosystemic [TIPS]",39.1
+518,2,"颅外-颅内的(ECIC)","extracranial-intracranial (EC-IC)",39.28
+518,2,"门静脉-体静脉的","portal-systemic",39.1
+518,2,"门静脉与腔静脉的","portal vein to vena cava",39.1
+518,2,"门腔静脉的(双)","portacaval (double)",39.1
+518,2,"脑室(脑的)(伴有瓣)","ventricular (cerebral) (with valve)",02.22
+518,3,"至","to",
+518,4,"鼻咽的","nasopharynx",02.31
+518,4,"大脑内的部位NEC","intracerebral site NEC",02.22
+518,4,"胆囊","gallbladder",02.34
+518,4,"腹膜的","peritoneal",02.34
+518,4,"腹腔或器官","abdominal cavity or organ",02.34
+518,4,"骨髓","bone marrow",02.39
+518,4,"颈蛛网膜下间隙","cervical subarachnoid space",02.22
+518,4,"静脉系统","venous system",02.32
+518,4,"颅外部位NEC","extracranial site NEC",02.39
+518,4,"泌尿系","urinary system",02.35
+518,4,"乳突","mastoid",02.31
+518,4,"输尿管","ureter",02.35
+518,4,"头或颈结构","head or neck structure",02.31
+518,4,"小脑延髓池","cisterna magna",02.22
+518,4,"胸腔","thoracic cavity",02.33
+518,4,"循环系统","circulatory system",02.32
+518,4,"腰部","lumbar site",02.39
+518,2,"脑室鼻咽的","ventriculonasopharyngeal",02.31
+518,2,"脑室脑池的(伴有瓣)","ventriculocisternal (with valve)",02.22
+518,2,"脑室腔静脉的(伴有瓣)","ventriculocaval (with valve)",02.32
+518,2,"脑室乳突的(伴有瓣)","ventriculomastoid (with valve)",02.31
+518,2,"脑室胸膜的(伴有瓣)","ventriculopleural (with valve)",02.33
+518,2,"脑室心房的(伴有瓣)","ventriculoatrial (with valve)",02.32
+518,2,"脑室腰的(伴有瓣)","ventriculolumbar (with valve)",02.39
+518,2,"内淋巴-外淋巴","endolymph-perilymph",20.71
+518,2,"内淋巴的(蛛网膜下)","endolymphatic (-subarachnoid)",20.71
+518,2,"脾肾的(静脉)","splenorenal, lienorenal (venous)",39.1
+518,3,"动脉","arterial",39.26
+518,2,"髂股的","iliofemoral",39.25
+518,2,"髂髂的","ilioiliac",39.25
+518,2,"腔静脉-肠系膜的","caval-mesenteric",39.1
+518,2,"腔静脉与肺动脉(Green)","vena cava to pulmonary artery (Green)",39.21
+518,2,"肾静脉门静脉的","renoportal",39.1

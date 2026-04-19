@@ -1,0 +1,201 @@
+page,level,chinese,english,code
+659,3,"特指部位 NEC","specified site NEC",21.32
+659,4,"息肉","polyp",21.31
+659,3,"鼻窦","nasal sinus",22.60
+659,4,"蝶的","sphenoid",22.64
+659,4,"窦","antrum",22.62
+659,5,"伴考德威尔卢克入路","with Caldwell-Luc approach",22.61
+659,5,"特指入路 NEC","specified approach NEC",22.62
+659,4,"额的","frontal",22.42
+659,4,"筛的","ethmoid",22.63
+659,4,"上颌","maxillary",22.62
+659,5,"伴考德威尔卢克入路","with Caldwell-Luc approach",22.61
+659,5,"特指入路 NEC","specified approach NEC",22.62
+659,3,"鼻内的","intranasal",21.31
+659,3,"鼻咽","nasopharynx",29.3
+659,3,"扁桃腺","tonsil",28.92
+659,3,"肠","intestine",
+659,4,"大的","large",45.41
+659,5,"内镜的 NEC","endoscopic NEC",45.43
+659,5,"息肉切除术","polypectomy",45.42
+659,4,"小的 NEC","small NEC",45.33
+659,3,"肠系膜","mesentery",54.4
+659,3,"垂体(腺)—另见垂体切除术,部分","pituitary (gland)-see also Hypophysectomy, partial",07.63
+659,4,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
+659,5,"单源光子","single source photon",92.31
+659,5,"多源","multi-source",92.32
+659,5,"放射外科学 NEC","radiosurgery NEC",92.39
+659,5,"钴-60","cobalt 60",92.32
+659,5,"粒子","particulate",92.33
+659,5,"粒子束流","particle beam",92.33
+659,5,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+659,3,"胆管","biliary ducts",51.69
+659,4,"内镜的","endoscopic",51.64
+659,3,"道格拉斯凹","pouch of Douglas",70.32
+659,3,"骶前的","presacral",54.4
+659,3,"顶泌腺","apocrine gland",86.3
+659,3,"动脉","artery",38.60
+659,4,"腹的","abdominal",38.66
+659,4,"颅内的 NEC","intracranial NEC",38.61
+659,4,"上肢","upper limb",38.63
+659,4,"头和颈 NEC","head and neck NEC",38.62
+659,4,"下肢","lower limb",38.68
+660,4,"胸的 NEC","thoracic NEC",38.65
+660,4,"主动脉(弓)(升)(降,胸部的)","aorta (arch) (ascending) (descending thoracic)",38.64
+660,4,"伴插补,移植物置换","with graft interposition graft replacement",38.45
+660,5,"腹的","abdominal",38.44
+660,5,"胸的","thoracic",38.45
+660,5,"胸腹的","thoracoabdominal",38.45
+660,4,"伴端端吻合术","with end-to-end anastomosis",38.45
+660,5,"腹的","abdominal",38.44
+660,5,"胸的","thoracic",38.45
+660,5,"胸腹的","thoracoabdominal",38.45
+660,3,"窦(鼻的)—见切除术,病损,鼻窦","sinus (nasal)-see Excision, lesion, nasal sinus",
+660,3,"腭(骨性)","palate (bony)",27.31
+660,4,"经广泛切除术","by wide excision",27.32
+660,3,"软","soft",27.49
+660,3,"耳,外部","ear, external",18.29
+660,4,"根治性","radical",18.31
+660,3,"耳郭","pinna",18.29
+660,4,"根治","radical",18.31
+660,3,"耳前(耳)","preauricular (ear)",18.21
+660,3,"法特壶腹","ampulla of Vater",51.62
+660,3,"非牙源性的","nonodontogenic",24.31
+660,3,"肺 NEC","lung NEC",32.29
+660,4,"经肺容量减少术","by lung volume reduction surgery",32.22
+660,4,"经广泛切除术","by wide excision",32.39
+660,5,"胸腔镜的","thoracoscopic",32.30
+660,4,"内镜的","endoscopic",32.28
+660,5,"胸腔镜的","thoracoscopic",32.20
+660,3,"肺动脉(纤维化)","pulmonary (fibrosis)",32.29
+660,4,"内镜","endoscopic",32.28
+660,5,"胸腔镜的","thoracoscopic",32.20
+660,3,"腹壁","abdominal wall",54.3
+660,3,"副窦—见切除术,病损,鼻窦","accessory sinus-see Excision, lesion, nasal sinus",
+660,3,"附睾","epididymis",63.3
+660,3,"腹股沟管","inguinal canal",54.3
+660,3,"腹股沟区(腹壁)(腹股沟的)","groin region (abdominal wall) (inguinal)",54.3
+660,4,"皮肤","skin",86.3
+661,4,"皮下组织","subcutaneous tissue",86.3
+661,4,"腹膜","peritoneum",54.4
+661,4,"腹膜后","retroperitoneum",54.4
+661,4,"肝","liver",50.29
+661,4,"肝管","hepatic duct",51.69
+661,4,"肛门 NEC","anus",49.39
+661,5,"内镜的","endoscopic",49.31
+661,4,"睾丸","testis",62.2
+661,4,"睾丸鞘膜","tunica vaginalis",61.92
+661,4,"巩膜","sclera",12.84
+661,4,"骨","bone",77.60
+661,5,"髌骨","patella",77.66
+661,5,"尺骨","ulna",77.63
+661,5,"腓骨","fibula",77.67
+661,5,"跗骨,跖骨的","tarsal, metatarsal",77.68
+661,5,"肱骨","humerus",77.62
+661,5,"股骨","femur",77.65
+661,5,"骨盆的","pelvic",77.69
+661,5,"颌骨","jaw",76.2
+661,5,"牙的","dental",24.4
+661,5,"肩胛骨","scapula",77.61
+661,5,"胫骨","tibia",77.67
+661,5,"颅骨","skull",01.6
+661,5,"面的","facial",76.2
+661,5,"桡骨","radius",77.63
+661,5,"锁骨","clavicle",77.61
+661,5,"特指部位 NEC","specified site NEC",77.69
+661,5,"腕骨,掌骨","carpal, metacarpal",77.64
+661,5,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",77.61
+661,5,"趾骨(足)(手)","phalanges (foot) (hand)",77.69
+661,5,"椎骨","vertebrae",77.69
+661,4,"关节","joint",80.80
+661,5,"踝","ankle",80.87
+661,5,"脊柱","spine",80.89
+661,5,"肩","shoulder",80.81
+661,5,"髋","hip",80.85
+661,5,"手和手指","hand and finger",80.84
+661,5,"特指部位 NEC","specified site NEC",80.89
+661,5,"腕关节","wrist",80.83
+661,5,"膝","knee",80.86
+661,5,"肘","elbow",80.82
+661,5,"足和趾","foot and toe",80.88
+662,4,"汗腺","sweat gland",86.3
+662,4,"颌骨","jaw",76.2
+662,4,"牙的","dental",24.4
+662,4,"横膈","diaphragm",34.81
+662,4,"虹膜","iris",12.42
+662,4,"喉","larynx",30.09
+662,4,"会厌","epiglottis",30.09
+662,4,"会阴(女性)","perineum (female)",71.3
+662,5,"男性","male",86.3
+662,4,"肌肉","muscle",83.32
+662,5,"手","hand",82.22
+662,5,"眼","ocular",15.13
+662,4,"脊髓(脊膜)","spinal cord (meninges)",03.4
+662,4,"甲状旁腺","parathyroid",06.89
+662,4,"甲状腺","thyroid",06.31
+662,5,"胸骨下或经胸骨入路","substernal or transsternal route",06.51
+662,4,"腱","tendon",83.39
+662,5,"鞘","sheath",83.31
+662,6,"手","hand",82.21
+662,5,"手","hand",82.29
+662,5,"眼","ocular",15.13
+662,4,"角膜","cornea",11.49
+662,4,"结肠","colon",45.41
+662,5,"内镜的 NEC","endoscopic NEC",45.43
+662,6,"息肉切除术","polypectomy",45.42
+662,4,"结膜","conjunctiva",10.31
+662,4,"睫状体","ciliary body",12.44
+662,4,"筋膜","fascia",83.39
+662,5,"手","hand",82.29
+662,4,"精索的","spermatic cord",63.3
+662,4,"静脉","vein",38.60
+662,5,"腹的","abdominal",38.67
+662,5,"颅内的 NEC","intracranial NEC",38.61
+662,5,"上肢","upper limb",38.63
+662,5,"头和颈 NEC","head and neck NEC",38.62
+662,5,"下肢","lower limb",38.69
+662,5,"胸的 NEC","thoracic NEC",38.65
+662,4,"口 NEC","mouth NEC",27.49
+662,4,"眶","orbit",16.92
+662,4,"阔韧带","broad ligament",69.19
+662,4,"泪的","lacrimal",
+662,5,"囊","sac",09.6
+663,5,"通道","passage",09.6
+663,5,"腺(额的人路)","gland (frontal approach)",09.21
+663,4,"淋巴结构(道)(管) NEC","lymph structure(s) (channel) (vessel) NEC",40.29
+663,5,"结—见切除术,淋巴,结","node-see Excision, lymph, node",
+663,4,"颅骨","skull,cranium",01.6
+663,4,"颅内的 NEC","intracranial NEC",01.59
+663,4,"卵巢","ovary",65.29
+663,5,"经腹腔镜","that by laparoscope",65.25
+663,5,"经楔形切除术","by wedge resection",65.22
+663,6,"腹腔镜的","laparoscopic",65.24
+663,4,"脉络膜丛","choroid plexus",02.14
+663,4,"眉(皮肤)","eyebrow (skin)",08.20
+663,4,"脑(经颞入路) NEC","brain (transtemporal approach) NEC",01.59
+663,5,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
+663,6,"单源光子","single source photon",92.31
+663,6,"多源","multi-source",92.32
+663,6,"放射外科学 NEC","radiosurgery NEC",92.39
+663,6,"钴-60","cobalt 60",92.32
+663,6,"粒子","particulate",92.33
+663,6,"粒子束流","particle beam",92.33
+663,6,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+663,4,"脑的(皮质) NEC","cerebral (cortex) NEC",01.59
+663,4,"脑膜","meninges",01.51
+663,4,"脑膜(脑的)","meninges (cerebral)",01.51
+663,4,"脊髓的","spinal",03.4
+663,4,"尿道","urethra",58.39
+663,5,"内镜的","endoscopic",58.31
+663,4,"膀胱(经尿道)","bladder (transurethral)",57.49
+663,5,"耻骨上","suprapubic",57.59
+663,5,"开放","open",57.59
+663,4,"膀胱周组织","perivesical tissue",59.91
+663,4,"盆腔壁","pelvic wall",54.3
+663,4,"盆腔直肠组织","pelvirectal tissue",48.82
+663,4,"脾(囊肿)","spleen (cyst)",41.42
+663,4,"皮肤","skin",86.3
+663,5,"鼻","nose",21.32
+663,5,"根治性(广泛)(累及皮下或邻近结构)(伴皮瓣闭合)","radical (wide) (involving underlying or adjacent structure) (with flap closure)",86.4
+663,6,"乳房","breast",85.21
+663,6,"阴囊","scrotum",61.3

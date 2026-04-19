@@ -1,0 +1,191 @@
+page,level,chinese,english,code
+634,1,"内翻","Inversion",
+634,2,"睾丸鞘膜","tunica vaginalis",61.49
+634,2,"阑尾","appendix",47.99
+634,2,"憩室","diverticulum",
+634,3,"肠","intestine",
+634,4,"大的","large",45.49
+634,5,"内镜的","endoscopic",45.43
+634,4,"小的","small",45.34
+634,3,"胃","stomach",44.69
+634,4,"腹腔镜的","laparoscopic",44.68
+634,3,"胃的","gastric",44.69
+634,4,"腹腔镜","laparoscopic",44.68
+634,1,"内镜检查","Endoscopy",
+634,2,"伴活组织检查—见活组织检查,按部位,闭合的","with biopsy-see Biopsy, by site, closed",
+634,2,"鼻","nose",21.21
+634,2,"鼻窦","nasal sinus",22.19
+634,2,"肠 NEC","intestine NEC",45.24
+634,3,"大的","large",45.24
+634,4,"经腹的(手术中)","transabdominal (intraoperative)",45.21
+634,4,"经造口(人工的)","through stoma (artificial)",45.22
+634,4,"纤维光学的(可曲的)","fiberoptic (flexible)",45.23
+634,3,"小的","small",45.13
+634,4,"经腹(手术的)","transabdominal (operative)",45.11
+634,4,"经造口(人工的)","through stoma (artificial)",45.12
+634,4,"食管胃十二指肠镜检查(EGD)","esophagogastroduodenoscopy (EGD)",45.13
+634,5,"伴闭合性活组织检查","with closed biopsy",45.16
+634,2,"胆道(手术的)","biliary tract (operative)",51.11
+634,3,"经逆行性胆管造影术(ERC)","by retrograde cholangiography (ERC)",51.11
+634,3,"经逆行性胰胆管造影术(ERCP)","by retrograde cholangiopancreatography (ERCP)",51.10
+634,3,"经皮的(经现有的 T 管或其他管道)","percutaneous (via T-tube or other tract)",51.98
+634,4,"伴胆总管结石去除","with removal of common duct stones",51.96
+634,3,"术中的","intraoperative",51.11
+634,2,"耳","ear",18.11
+634,2,"肺—见支气管镜检查","lung-see Bronchoscopy",
+634,2,"腹膜","peritoneum",54.21
+634,2,"肛门","anus",49.21
+634,2,"骨盆","pelvis",55.22
+635,2,"喉","larynx",31.42
+635,3,"经造口(人工的)","through stoma (artificial)",31.41
+635,2,"回肠","ileum",45.13
+635,3,"经腹(手术的)","transabdominal (operative)",45.11
+635,3,"经造口(人工的)","through stoma (artificial)",45.12
+635,2,"结肠","colon",45.23
+635,3,"经腹(手术的)","transabdominal (operative)",45.21
+635,3,"经造口(人工的)","through stoma (artificial)",45.22
+635,2,"经胸膜的","transpleural",
+635,3,"胸","thorax",34.21
+635,3,"纵隔","mediastinum",34.22
+635,2,"空肠","jejunum",45.13
+635,3,"经腹的(手术的)","transabdominal (operative)",45.11
+635,3,"经造口(人工的)","through stoma (artificial)",45.12
+635,2,"尿道","urethra",58.22
+635,2,"膀胱","bladder",57.32
+635,3,"经造口(人工的)","through stoma (artificial)",57.31
+635,2,"气管 NEC","trachea NEC",31.42
+635,3,"经造口(人工的)","through stoma (artificial)",31.41
+635,2,"肾","kidney",55.21
+635,2,"食管 NEC","esophagus NEC",42.23
+635,3,"经腹的(手术的)","transabdominal (operative)",42.21
+635,3,"经造口(人工的)","through stoma (artificial)",42.22
+635,2,"输尿管","ureter",56.31
+635,2,"胃 NEC","stomach NEC",44.13
+635,3,"经腹(手术的)","transabdominal (operative)",44.11
+635,3,"经造口(人工的)","through stoma (artificial)",44.12
+635,2,"胸(经胸膜)","thorax (transpleural)",34.21
+635,2,"咽","pharynx",29.11
+635,2,"胰腺管","pancreatic duct",52.13
+635,2,"阴道","vagina",70.21
+635,2,"支气管 NEC","bronchus NEC",33.23
+635,3,"伴活组织检查","with biopsy",33.24
+635,3,"经造口(人工的)","through stoma (artificial)",33.21
+635,3,"纤维光学的","fiberoptic",33.22
+635,2,"直肠","rectum",48.23
+635,3,"经腹的(手术的)","transabdominal (operative)",48.21
+635,3,"经造口(人工的)","through stoma (artificial)",48.22
+635,2,"直肠子宫陷凹","cul-de-sac",70.22
+635,2,"子宫","uterus",68.12
+635,2,"纵隔(经胸膜)","mediastinum (transpleural)",34.22
+636,1,"内淋巴(-蛛网膜下)分流","Endolymphatic (-subarachnoid) shunt",20.71
+636,1,"内膜切除术(血管)","Intimectomy",38.10
+636,2,"腹","abdominal",38.16
+636,2,"颅内的 NEC","intracranial NEC",38.11
+636,2,"上肢","upper limb",38.13
+636,2,"头和颈 NEC","head and neck NEC",38.12
+636,2,"下肢","lower limb",38.18
+636,2,"胸的 NEC","thoracic NEC",38.15
+636,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.14
+636,1,"内田手术—见 Uchida 手术","内田手术— see Uchida operation",
+636,1,"内向破裂(心理脱敏疗法)","Implosion (psychologic desensitization)",94.33
+636,1,"内脏取出术","Evisceration",
+636,2,"骨盆(前的)(后的)(部分)(全部)(女性)","pelvic (anterior) (posterior) (partial) (total) (female)",68.8
+636,3,"男性","male",57.71
+636,2,"眶—另见内容物剜出,眶","orbit-see also Exenteration, orbit",16.59
+636,2,"眼内容物","ocular contents",16.39
+636,3,"伴植入(至巩膜壳)","with implant (into scleral shell)",16.31
+636,2,"眼球","eyeball",16.39
+636,3,"伴植入(至巩膜壳)","with implant (into scleral shell)",16.31
+636,1,"内脏神经切除术","Splanchnicectomy",05.29
+636,1,"内脏神经切断术","Splanchnicotomy",05.0
+636,1,"内折术,关节囊—另见关节成形术","Reefing, joint capsule-see also Arthroplasty",81.96
+636,1,"内置管引流术","Endoprosthesis",
+636,2,"胆管","bile duct",51.87
+636,2,"股骨头(双极)","femoral head (bipolar)",81.52
+636,1,"尼古拉手术—见 Nicola 手术","尼古拉手术— see Nicola operation",
+636,1,"尼莫地平,输注","Nimodipine, infusion",99.75
+636,1,"尼森手术—见 Nissen 手术","尼森手术— see Nissen operation",
+636,1,"黏膜下切除术","Submucous resection",
+636,2,"鼻中隔","nasal septum",21.5
+636,2,"喉","larynx",30.29
+636,1,"黏液囊穿刺术","Bursocentesis",83.94
+636,2,"手","hand",82.92
+636,1,"黏液囊切除术","Bursectomy",83.5
+636,2,"手","hand",82.31
+636,1,"黏液囊切开术","Bursotomy",83.03
+636,2,"手","hand",82.03
+637,1,"尿道成形术","Urethroplasty",58.49
+637,2,"胶原质植入","collagen implant",59.72
+637,2,"聚四氟乙烯植入","polytef implant",59.72
+637,2,"增大(聚四氟乙烯注射)","augmentation",59.79
+637,2,"脂肪植入","fat implant",59.72
+637,2,"植入性注射(内镜)至尿道","injection (endoscopic) of implant into urethra",59.72
+637,1,"尿道导管插入术,留置的","Urethral catheterization, indwelling",57.94
+637,1,"尿道缝合术","Urethrorrhaphy",58.41
+637,1,"尿道固定术","Urethropexy",58.49
+637,2,"前的","anterior",59.79
+637,1,"尿道镜检查","Urethroscopy",58.22
+637,2,"会阴的","perineal",58.21
+637,2,"用于控制前列腺出血","for control of hemorrhage of prostate",60.94
+637,1,"尿道膀胱固定术(经)","Urethrocystopexy (by)",59.79
+637,2,"耻骨后悬吊术","retropubic suspension",59.5
+637,2,"耻骨上悬吊术","suprapubic suspension",59.4
+637,2,"提肌悬吊","levator muscle sling",59.71
+637,1,"尿道膀胱造影术(逆行的)(排空的)","Urethrocystography (retrograde) (voiding)",87.76
+637,1,"尿道切除术(完全)(部分)(根治)","Urethrectomy (complete) (partial) (radical)",58.39
+637,2,"伴","with",
+637,3,"根治性膀胱切除术","radical cystectomy",57.71
+637,3,"盆腔内容物剜出","pelvic exenteration",68.8
+637,3,"完全膀胱切除术","complete cystectomy",57.79
+637,1,"尿道切开取石术","Urethrolithotomy",58.0
+637,1,"尿道切开术(外部的)","Urethrotomy (external)",58.0
+637,2,"内的(内镜的)","internal (endoscopic)",58.5
+637,1,"尿道松解术","Urethrolysis",58.5
+637,1,"尿道外口切开术","Meatotomy",
+637,2,"尿道","urethra",58.1
+637,3,"内的","internal",58.5
+637,2,"输尿管","ureter",56.1
+637,1,"尿道压力分布图(UPP)","Urethral pressure profile (UPP)",89.25
+637,1,"尿道造口术(会阴的)","Urethrostomy (perineal)",58.0
+637,1,"尿流量测定(UFR)","Uroflowmetry (UFR)",89.24
+637,1,"尿路造影术(顺行的)(排泄的)(静脉内)","Urography (antegrade) (excretory) (intravenous)",87.73
+637,2,"逆行的","retrograde",87.74
+637,1,"凝固,电凝术—另见破坏,病损,按部位","Coagulation, electrocoagulation-see also Destruction, lesion, by site",
+638,2,"半规管","semicircular canals",20.79
+638,2,"半月神经节","gasserian ganglion",04.05
+638,2,"鼻,用于鼻出血(伴填塞)","nose, for epistaxis (with packing)",21.03
+638,2,"动静脉瘘","arteriovenous fistula",39.53
+638,2,"动脉瘤(脑的)(周围血管)","aneurysm (cerebral) (peripheral vessel)",39.52
+638,2,"耳","ear",
+638,3,"内","inner",20.79
+638,3,"外","external",18.29
+638,3,"中","middle",20.51
+638,2,"脊索(病损)","spinal cord (lesion)",03.4
+638,2,"阔韧带","broad ligament",69.19
+638,2,"卵巢","ovary",65.29
+638,3,"腹腔镜","laparoscopic",65.25
+638,2,"脑组织(增量的)(射频)","brain tissue (incremental) (radiofrequency)",01.59
+638,2,"尿道膀胱连接处,经尿道","urethrovesical junction, transurethral",57.49
+638,2,"前列腺床","prostatic bed",60.94
+638,2,"视网膜(为了)","retina (for)",
+638,3,"病损破坏","destruction of lesion",14.21
+638,3,"撕裂修补术","repair for tear",14.31
+638,3,"再附着","reattachment",14.51
+638,2,"输卵管","fallopian tube",66.61
+638,2,"外阴","vulva",71.3
+638,2,"咽(经透热疗法)","pharynx (by diathermy)",29.39
+638,2,"阴道","vagina",70.33
+638,2,"圆韧带","round ligament",69.19
+638,2,"直肠(息肉)","rectum (polyp)",48.32
+638,3,"根治的","radical",48.31
+638,2,"子宫","uterus",68.29
+638,2,"子宫骶骨韧带","uterosacral ligament",69.19
+638,2,"子宫颈","cervix",67.32
+638,1,"女性生殖器宫充气造影术","Pneumogynecography",87.82
+638,1,"女阴切除术(双侧)(单纯)","Vulvectomy (bilateral) (simple)",71.62
+638,2,"部分(单侧)","partial (unilateral)",71.61
+638,2,"单侧","unilateral",71.61
+638,2,"根治(完全)","radical (complete)",71.5
+638,1,"诺布尔手术—见 Noble 手术","诺布尔手术— see Noble operation",
+638,1,"诺顿手术—见 Norton 手术","诺顿手术— see Norton operation",
+638,1,"诺曼米勒手术—见 NormanMiller 手术","诺曼米勒手术— see Norman Miller operation",

@@ -1,0 +1,199 @@
+page,level,chinese,english,code
+704,4,"丘脑刺激器脉搏发生器囊袋,新部位","thalamic stimulator pulse generator pocket, new site",86.09
+704,4,"伴首次电池包植入—省略编码","with initial insertion of battery package-omit code",
+704,3,"乳房","breast",85.0
+704,3,"心脏起搏器囊袋,新部位","cardiac pacemaker pocket, new site",37.79
+704,2,"皮下组织","subcutaneous tissue",86.09
+704,3,"伴引流","with drainage",86.04
+704,3,"管道","tunnel",
+704,4,"脉搏发生器导联","pulse generator lead wire",86.99
+704,5,"伴首次操作—省略编码","with initial procedure-omit code",
+704,4,"食管","esophageal",42.86
+704,5,"伴吻合—见吻合术,食管,胸骨前","with anastomosis-see Anastomosis, esophagus, antesternal",
+704,2,"脾周的","perisplenic",54.19
+704,2,"蹼,食管的","web, esophageal",42.01
+704,2,"脐","umbilicus",54.0
+704,2,"脐尿管囊肿","urachal cyst",54.0
+704,2,"气管 NEC","trachea NEC",31.3
+704,2,"髂窝","iliac fossa",54.0
+704,2,"前列腺(会阴的人路)(经尿道人路)","prostate (perineal approach) (transurethral approach)",60.0
+704,2,"前列腺周围的组织","periprostatic tissue",60.81
+704,2,"颧骨后间隙","postzygomatic space",27.0
+704,2,"乳房(皮肤)","breast (skin)",85.0
+704,3,"伴组织扩张器去除","with removal of tissue expander",85.96
+704,2,"乳突","mastoid",20.21
+704,2,"软组织 NEC","soft tissue NEC",83.09
+704,3,"伴切断","with division",83.19
+704,4,"手","hand",82.19
+704,3,"手","hand",82.09
+704,4,"伴切断","division",82.19
+704,2,"腮腺","parotid",
+704,3,"间隙","space",27.0
+704,3,"腺或管","gland or duct",26.0
+704,2,"上腹部","epigastric region",54.0
+704,3,"腹内","intra-abdominal",54.19
+704,2,"舌 NEC","tongue NEC",25.94
+704,3,"用于舌系带","for tongue tie",25.91
+704,2,"舌下腔间隙","sublingual space",27.0
+704,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.04
+704,3,"根(脊髓的)","root (spinal)",03.1
+705,2,"肾","kidney",55.01
+705,3,"骨盆","pelvis",55.11
+705,2,"肾上腺","adrenal gland",07.41
+705,2,"肾盂","renal pelvis",55.11
+705,2,"肾周围组织","perirenal tissue",59.09
+705,2,"十二指肠","duodenum",45.01
+705,2,"食管,食管 NEC","esophagus, esophageal NEC",42.09
+705,3,"蹼","web",42.01
+705,2,"手掌间隙(中)","palmar space (middle)",82.04
+705,2,"输精管","vas deferens",63.6
+705,2,"输卵管","fallopian tube",66.01
+705,2,"输尿管","ureter",56.2
+705,2,"输尿管周围组织","periureteral tissue",59.09
+705,2,"水囊瘤—另见切开,按部位","hygroma-see also Incision, by site",
+705,3,"囊肿的","cystic",40.0
+705,2,"斯基恩管或腺","Skene's duct or gland",71.09
+705,2,"松果腺","pineal gland",07.52
+705,2,"锁骨上窝","supraclavicular fossa",86.09
+705,3,"伴引流","with drainage",86.04
+705,2,"探查术—见探查术","exploratory-see Exploration",
+705,2,"臀肌的","gluteal",86.09
+705,2,"外耳","auricle",18.09
+705,2,"外阴","vulva",71.09
+705,3,"产科的","obstetrical",75.92
+705,2,"网膜","omentum",54.19
+705,2,"胃","stomach",43.0
+705,2,"胃周的","perigastric",54.19
+705,2,"下颌下间隙","submandibular space",27.0
+705,2,"涎腺或管","salivary gland or duct",26.0
+705,2,"睑粒肿","meibomian gland",08.09
+705,2,"胁腹","flank",54.0
+705,2,"心房(心脏)","atrium (heart)",37.11
+705,2,"心肌","myocardium",37.11
+705,2,"心内膜","endocardium",37.11
+705,2,"心脏","heart",37.10
+705,3,"瓣膜—见瓣膜切开术","valve-see Valvulotomy",
+705,2,"胸壁(用于胸膜外引流)(为了异物去除)","chest wall (for extrapleural drainage) (for removal of foreign body)",34.01
+705,3,"作为手术入路—省略编码","as operative approach-omit code",
+705,2,"胸膜 NEC","pleura NEC",34.09
+705,2,"胸膜外","extrapleural",34.01
+705,2,"胸腺(开放)(其他)","thymus (open) (other)",07.92
+706,3,"胸腔镜的","thoracoscopic",07.95
+706,2,"悬雍垂","uvula",27.71
+706,2,"血管—另见血管切开术","blood vessel-see also Angiotomy",38.00
+706,2,"血肿—另见切开,按部位","hematoma-see also Incision, by site",
+706,3,"耳","ear",18.09
+706,3,"腹股沟区(腹壁)(腹股沟的)","groin region (abdominal wall) (inguinal)",54.0
+706,4,"皮肤","skin",86.04
+706,4,"皮下组织","subcutaneous tissue",86.04
+706,3,"腘动脉间隙","popliteal space",86.04
+706,3,"会阴(女性)","perineum (female)",71.09
+706,4,"男性","male",86.04
+706,3,"阔韧带","broad ligament",69.98
+706,3,"雷济厄斯间隙","space of Retzius",59.19
+706,3,"皮肤","skin",86.04
+706,3,"皮下组织","subcutaneous tissue",86.04
+706,3,"剖腹手术部位","laparotomy site",54.12
+706,3,"外阴切开术部位","episiotomy site",75.91
+706,3,"窝(表浅的) NEC","fossa (superficial) NEC",86.04
+706,3,"腋窝","axilla",86.04
+706,3,"阴道(穹隆断端)","vagina (cuff)",70.14
+706,4,"产科的 NEC","obstetrical NEC",75.92
+706,3,"外阴切开术部位","episiotomy site",75.91
+706,3,"阴囊","scrotum",61.0
+706,3,"纵隔","mediastinum",34.1
+706,2,"牙髓管","pulp canal (tooth)",24.0
+706,2,"牙龈,牙槽骨","alveolus, alveolar bone",24.0
+706,2,"岩部(气房)(尖)(乳突)","petrous pyramid (air cells) (apex) (mastoid)",20.22
+706,2,"眼睑","eyelid",08.09
+706,3,"缘(倒睫)","margin (trichiasis)",08.01
+706,2,"咽,咽(囊)","pharynx, pharyngeal (bursa)",29.0
+706,3,"间隙,侧的","space, lateral",27.0
+706,2,"咽后的(口的)(经颈的)","retropharyngeal (oral) (transcervical)",28.0
+706,2,"咽旁的(口的)(经颈的)","parapharyngeal (oral) (transcervical)",28.0
+706,2,"腋窝","axilla",86.09
+706,2,"胰","pancreas",52.09
+706,2,"胰腺括约肌","pancreatic sphincter",51.82
+706,3,"内镜","endoscopic",51.85
+706,2,"翼腭窝","pterygopalatine fossa",27.0
+706,2,"阴唇","labia",71.09
+706,2,"阴道(穹隆断端)(隔)(狭窄)","vagina (cuff) (septum) (stenosis)",70.14
+707,3,"用于","for",
+707,4,"产科血肿 NEC","obstetrical hematoma NEC",75.92
+707,4,"盆腔脓肿","pelvic abscess",70.12
+707,4,"切口血肿(外阴切开术)","incisional hematoma (episiotomy)",75.91
+707,2,"阴茎","penis",64.92
+707,2,"阴囊","scrotum",61.0
+707,2,"硬膜外间隙(脑的)","extradural space (cerebral)",01.24
+707,2,"硬膜外腔,脑的","epidural space, cerebral",01.24
+707,2,"硬膜下腔,脑的","subdural space, cerebral",01.31
+707,2,"掌筋膜间隙","thenar space",82.04
+707,2,"掌中间隙","midpalmar space",82.04
+707,2,"脂肪囊肿","sebaceous cyst",86.04
+707,2,"支气管","bronchus",33.0
+707,2,"直肠","rectum",48.0
+707,3,"狭窄","stricture",48.91
+707,2,"直肠阴道隔","rectovaginal septum",48.81
+707,2,"直肠周组织","perirectal tissue",48.81
+707,2,"直肠子宫陷凹","cul-de-sac",70.12
+707,2,"指(趾)甲床或甲褶","nailbed or nailfold",86.09
+707,2,"周围血管","peripheral vessels",
+707,3,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+707,3,"下肢","lower limb",
+707,4,"动脉","artery",38.08
+707,4,"静脉","vein",38.09
+707,2,"肘窝","antecubital fossa",86.09
+707,2,"蛛网膜下间隙,脑的","subarachnoid space, cerebral",01.31
+707,2,"子宫(体)","uterus (corpus)",68.0
+707,3,"间隔(先天性的)","septum (congenital)",68.22
+707,3,"用于终止妊娠","for termination of pregnancy",74.91
+707,3,"子宫颈","cervix",69.96
+707,2,"子宫颈","cervix",69.95
+707,2,"为了","to",
+707,3,"辅助分娩","assist delivery",73.93
+707,3,"内翻子宫复位","replace inverted uterus",75.93
+707,2,"纵隔","mediastinum",34.1
+707,2,"左房后和冠状窦间共同壁层(伴造成缺损的遮蔽和补片移植)","common wall between posterior left atrium and coronary sinus (with roofing of resultant defect with patch graft)",35.82
+707,2,"坐骨直肠组织","ischiorectal tissue",49.02
+707,3,"脓肿","abscess",49.01
+707,1,"切开,切断—另见切断和切开","Section-see also Division and Incision",
+708,2,"垂体茎—另见垂体切除术,部分","hypophyseal stalk-see also Hypophysectomy, partial",07.63
+708,2,"黄韧带(脊柱)—省略编码","ligamentum flavum (spine)-omit code",
+708,2,"脊柱韧带","spinal ligament",80.49
+708,3,"弓形—省略编码","arcuate-omit code",
+708,3,"黄的—省略编码","flavum-omit code",
+708,2,"剖宫产术—见剖宫产术","cesarean-see Cesarean section",
+708,2,"塞米施(角膜)","Saemisch (corneal)",11.1
+708,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.03
+708,3,"脊髓根(后的)","spinal root (posterior)",03.1
+708,3,"交感","sympathetic",05.0
+708,3,"三叉","trigeminal tract",04.02
+708,3,"听的","acoustic",04.01
+708,2,"神经节,交感神经","ganglion, sympathetic",05.0
+708,2,"牙(嵌顿)","tooth (impacted)",23.19
+708,1,"切开取石术","Lithotomy",
+708,2,"胆道","bile passage",51.49
+708,2,"胆囊","gallbladder",51.04
+708,2,"胆总管","common duct",51.41
+708,3,"经皮的","percutaneous",51.96
+708,2,"肝管","hepatic duct",51.49
+708,2,"膀胱(泌尿系)","bladder (urinary)",57.19
+708,2,"肾","kidney",55.01
+708,3,"经皮的","percutaneous",55.03
+708,2,"输尿管","ureter",56.2
+708,1,"清除","Clearance",
+708,2,"骨盆","pelvic",
+708,3,"男性","male",57.71
+708,3,"女性","female",68.8
+708,2,"膀胱(经尿道)","bladder (transurethral)",57.0
+708,2,"肾盂(经尿道)","renal pelvis (transurethral)",56.0
+708,2,"输尿管(经尿道)","ureter (transurethral)",56.0
+708,2,"斜角肌前脂垫","prescalene fat pad",40.21
+708,1,"清创术 NOS","Debridement, NOS",86.28
+708,2,"非切除的,NOS","nonexcisional, NOS",86.28
+708,3,"VersaJet™","VersaJet™",86.28
+708,3,"超声的,超声","ultrasonic, ultrasound",86.28
+708,3,"感染(皮肤)","infection (skin)",86.28
+708,3,"皮肤或皮下组织(烧伤)(感染)(伤口)","skin or subcutaneous tissue (burn) (infection) (wound)",86.28
+708,3,"伤口(皮肤)","wound (skin)",86.28
+708,3,"烧伤(皮肤)","burn (skin)",86.28

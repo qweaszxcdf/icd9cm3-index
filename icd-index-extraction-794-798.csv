@@ -1,0 +1,191 @@
+page,level,chinese,english,code
+794,3,"伴骨折复位-见复位,骨折","with fracture-reduction-see Reduction, fracture",
+794,3,"牙矫形","orthodontic",24.7
+794,1,"栓塞(经导管)","Embolization (transcatheter)",
+794,2,"AVM,颅内,血管内入路","AVM, intracranial, endovascular approach",39.72
+794,2,"动静脉瘘","arteriovenous fistula",39.53
+794,3,"血管内的","endovascular",39.72
+794,2,"动脉(选择性)","artery (selective)",38.80
+794,3,"腹的NEC","abdominal NEC",38.86
+794,3,"肾(经导管)","renal (transcatheter)",38.86
+794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+794,3,"胃的(经导管)","gastric (transcatheter)",44.44
+794,2,"经","by",
+794,3,"经皮经导管输注","percutaneous transcatheter infusion",99.29
+794,3,"血管内入路","endovascular approach",39.79
+794,4,"部分闭合(球囊)(暂时性)","partial occlusion (balloon) (temporary)",39.77
+794,4,"头和颈血管","head and neck vessels",39.72
+794,4,"裸弹簧圈","bare coils",39.75
+794,4,"生物活性弹簧圈","bioactive coils",39.76
+794,3,"颅内的NEC","intracranial NEC",38.81
+794,3,"上肢","upper limb",38.83
+794,3,"肾(经导管)","renal (transcatheter)",38.86
+794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+794,3,"头和颈NEC","head and neck NEC",38.82
+794,3,"胃的(经导管)","gastric (transcatheter)",44.44
+794,3,"下肢","lower limb",38.88
+794,3,"胸NEC","thoracic NEC",38.85
+794,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.84
+794,3,"暂时性治疗血管内的(球囊)(部分闭合)","temporary therapeutic endovascular (balloon) (partial occlusion)",39.77
+794,2,"子宫(明胶海绵)(明胶海绵)(微球体)(PVA)(球形栓子)(无弹簧圈)","uterine (gelatin sponge) (gelfoam) (microspheres) (PVA) (spherical embolics) (without coil(s))",68.25
+794,2,"化学物质栓塞术","chemoembolization",99.25
+794,2,"颈动静脉瘘","carotid cavernous fistula",39.53
+794,2,"静脉(选择性)","vein (selective)",38.80
+794,3,"腹的NEC","abdominal NEC",38.87
+794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+795,3,"胃的(经导管)","gastric (transcatheter)",44.44
+795,2,"经","by",
+795,3,"血管内入路","endovascular approach",39.79
+795,4,"部分闭合(球囊)(暂时性)","partial occlusion (balloon) (temporary)",39.77
+795,4,"头和颈","head and neck",39.72
+795,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+795,3,"胃的(经导管)","gastric (transcatheter)",44.44
+795,2,"弹簧圈,血管内","coil, endovascular",39.79
+795,3,"头和颈","head and neck",39.75
+795,3,"裸弹簧圈","bare coils",39.75
+795,3,"生物活性弹簧圈","bioactive coils",39.76
+795,2,"子宫动脉","uterine artery",68.24
+795,2,"粘连(粘合)","adhesive (glue)",39.79
+795,3,"头和颈","head and neck",39.72
+795,1,"栓子切除术","Embolectomy",38.00
+795,2,"伴动脉内膜切除术-见动脉内膜切除术","with endarterectomy-see Endarterectomy",
+795,2,"动静脉分流或套管","arteriovenous shunt or cannula",39.49
+795,2,"肺的(动脉)(静脉)","pulmonary:(artery):(vein)",38.05
+795,2,"腹的","abdominal",38.05
+795,3,"动脉","artery",38.06
+795,3,"静脉","vein",38.07
+795,2,"机械性","mechanical",
+795,3,"血管内的","endovascular",
+795,4,"头和颈","head and neck",39.74
+795,3,"颅内的NEC","intracranial NEC",38.01
+795,3,"牛移植物","bovine graft",39.49
+795,3,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+795,3,"头和颈NEC","head and neck NEC",38.02
+795,3,"下肢","lower limb",
+795,4,"动脉","artery",38.08
+795,4,"静脉","vein",38.09
+795,3,"胸NEC","thoracic NEC",38.05
+795,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+795,1,"双频指数监测[BIS]","BIS (bispectral index) monitoring",00.94[89.14]
+795,1,"双水平正气压[BiPAP]","BiPAP",93.90
+795,2,"由","delivered by",
+795,3,"气管内管-见亚目","endotracheal tube-see subcategory",96.7
+795,3,"气管造口-见亚目","tracheostomy-see subcategory",96.7
+795,1,"水疗法","Hydrotherapy",93.33
+796,2,"漩涡","whirlpool",93.32
+796,2,"游泳池中的辅助锻炼","assisted exercise in pool",93.31
+796,1,"水囊肿切除术","Hydrocelectomy",
+796,2,"睾丸鞘膜","tunica vaginalis",61.2
+796,2,"精索","spermatic cord",63.1
+796,2,"努克管(女性)","canal of Nuck (female)",69.19
+796,3,"男性","male",63.1
+796,2,"圆韧带","round ligament",69.19
+796,1,"斯波尔丁-理查森手术-见 Spaulding-Richardson 手术","斯波尔丁-理查森手术-see Spaulding-Richardson operation",
+796,1,"斯科特手术-见 Scott 手术","斯科特手术-see Scott operation",
+796,1,"斯路德手术-见 Sluder 手术","斯路德手术-see Sluder operation",
+796,1,"斯洛克姆手术-见 Slocum 手术","斯洛克姆手术-see Slocum operation",
+796,1,"斯皮内利手术-见 Spinelli 手术","斯皮内利手术-see Spinelli operation",
+796,1,"斯皮瓦克手术-见 Spivack 手术","斯皮瓦克手术-see Spivack operation",
+796,1,"斯塔克手术-见 Stacke 手术","斯塔克手术-see Stacke operation",
+796,1,"斯坦伯格手术-见 Steinberg 手术","斯坦伯格手术-see Steinberg operation",
+796,1,"斯坦德勒手术-见 Steindler 手术","斯坦德勒手术-see Steindler operation",
+796,1,"斯特拉斯曼手术-见 Strassman 手术","斯特拉斯曼手术-see Strassman operation",
+796,1,"斯特赖克框架-见 Stryker 框架","斯特赖克框架-see Stryker frame",
+796,1,"斯特赖克手术-见 Strayer 手术","斯特赖克手术-see Strayer operation",
+796,1,"斯特朗手术-见 Strong 手术","斯特朗手术-see Strong operation",
+796,1,"斯特姆多尔夫手术-见 Sturmdorf 手术","斯特姆多尔夫手术-see Sturmdorf operation",
+796,1,"斯通手术-见 Stone 手术","斯通手术-see Stone operation",
+796,1,"斯图尔特手术-见 Stewart 手术","斯图尔特手术-see Stewart operation",
+796,1,"斯托拉德手术-见 Stallard 手术","斯托拉德手术-see Stallard operation",
+796,1,"斯温森手术-见 Swenson 手术","斯温森手术-see Swenson operation",
+796,1,"斯文尼手术-见 Swinney 手术","斯文尼手术-see Swinney operation",
+796,1,"撕脱","Evulsion",
+796,2,"皮肤","skin",86.3
+796,3,"皮下组织","subcutaneous tissue",86.3
+796,1,"死骨切除术","Sequestrectomy",
+796,2,"鼻","nose",21.32
+796,2,"骨","bone",77.00
+796,3,"髌骨","patella",77.06
+796,3,"尺骨","ulna",77.03
+796,3,"腓骨","fibula",77.07
+796,3,"跗骨,跖骨","tarsals, metatarsals",77.08
+796,3,"肱骨","humerus",77.02
+796,3,"股骨","femur",77.05
+796,3,"骨盆","pelvic",77.09
+797,3,"肩胛骨","scapula",77.01
+797,3,"胫骨","tibia",77.07
+797,3,"颅骨","skull",01.25
+797,3,"面","facial",76.01
+797,3,"桡骨","radius",77.03
+797,3,"锁骨","clavicle",77.01
+797,3,"特指部位NEC","specified site NEC",77.09
+797,3,"腕骨,掌骨","carpals, metacarpals",77.04
+797,3,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",77.01
+797,3,"趾骨(足)(手)","phalanges (foot) (hand)",77.09
+797,3,"椎骨","vertebrae",77.09
+797,2,"颅骨","skull",01.25
+797,1,"松弛-另见放松训练","Relaxation-see also Release training",94.33
+797,1,"松动术","Mobilization",
+797,2,"镫骨(经硬骨脚的)","stapes (transcrural)",19.0
+797,2,"关节NEC","joint NEC",93.16
+797,2,"脊柱","spine",93.15
+797,2,"下颌","mandible",76.95
+797,2,"阴囊中的睾丸","testis in scrotum",62.5
+797,2,"再扣合(二尖瓣)","neostrophingic (mitral valve)",35.12
+797,1,"松果体切除术(完全的)(全部的)","Pinealectomy (complete) (total)",07.54
+797,2,"部分的","partial",07.53
+797,1,"松果体切开术(伴引流)","Pinealotomy (with drainage)",07.52
+797,1,"松解术","Release",
+797,2,"瘢痕组织","scar tissue",
+797,3,"口-见修复术,口","stoma-see Revision, stoma",
+797,2,"皮肤","skin",86.84
+797,2,"扳机状指或拇指","trigger finger or thumb",82.01
+797,2,"德奎尔万腱鞘炎","de Quervain's tenosynovitis",82.01
+797,2,"杜普伊特伦挛缩(经手掌筋膜切除术)","Dupuytren's contracture (by palmar fasciectomy)",82.35
+797,3,"经筋膜切开术(皮下的)","by fasciotomy (subcutaneous)",82.12
+797,3,"伴切除术","with excision",82.35
+797,2,"福尔克曼挛缩","Volkmann's contracture",
+797,3,"瘢痕切除术,肌肉","excision of scar, muscle",83.32
+797,3,"肌移植","muscle transplantation",83.77
+797,3,"筋膜切开术","fasciotomy",83.14
+797,2,"福勒(槌状手指修补术)","Fowler (mallet finger repair)",82.84
+797,2,"跗管","tarsal tunnel",04.44
+797,2,"腹腔动脉","celiac artery axis",39.91
+797,2,"关节(囊)(粘连)(狭窄)-另见切断,关节囊","joint (capsule) (adherent) (constrictive)-see also Division, joint capsule",80.40
+798,2,"喉的","laryngeal",31.92
+798,2,"肌肉(切断)","muscle (division)",83.19
+798,3,"手","hand",82.19
+798,2,"畸形足NEC","clubfoot NEC",83.84
+798,2,"腱","tendon",83.13
+798,3,"鞘","sheath",83.01
+798,4,"手","hand",82.01
+798,3,"手","hand",82.11
+798,4,"手指肌腱中央条(槌状手指修补术)","extensor, central slip (repair mallet finger)",82.84
+798,2,"腱鞘炎","tenosynovitis",83.01
+798,3,"德奎尔万","de Quervain's",82.01
+798,3,"拇指短肌","abductor pollicis longus",82.01
+798,3,"手","hand",82.01
+798,3,"外短屈肌","external pollicis brevis",82.01
+798,2,"尿道狭窄","urethral stricture",58.5
+798,2,"扭转","torsion",
+798,3,"肠","intestine",46.80
+798,4,"大","large",46.82
+798,5,"内镜的(球囊)","endoscopic (balloon)",46.85
+798,4,"小的","small",46.81
+798,3,"睾丸","testes",63.52
+798,3,"卵巢","ovary",65.95
+798,3,"肾蒂","kidney pedicle",55.84
+798,2,"蹼状挛缩(皮肤)","web contracture (skin)",86.84
+798,2,"韧带-另见切断,韧带","ligament-see also Division, ligament",80.40
+798,3,"正中弓形","median arcuate",39.91
+798,2,"神经(周围的)NEC","nerve (peripheral) NEC",04.49
+798,3,"颅的NEC","cranial NEC",04.42
+798,3,"三叉的","trigeminal",04.41
+798,2,"手指肌腱中央条(槌状手指修补术)","central slip, extensor tendon hand (mallet finger repair)",82.84
+798,2,"腕管(为了神经减压)","carpal tunnel (for nerve decompression)",04.43
+798,2,"腕横韧带(为了神经减压)","transverse carpal ligament (for nerve decompression)",04.43
+798,2,"眼内压","pressure, intraocular",12.79
+798,2,"阴茎痛性勃起","chordee",64.42
+798,2,"正中弓形韧带","median arcuate ligament",39.91
+798,1,"松解术","Lysis",
+798,2,"虹膜前房角粘连(伴空气或液体注射)","goniosynechiae (with injection of air or liquid)",12.31

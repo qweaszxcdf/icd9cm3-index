@@ -1,0 +1,159 @@
+page,level,chinese,english,code
+489,4,"伴首次电池包植入-省略编码","with initial insertion of battery package-omit code",
+489,4,"新部位(皮肤)(皮下)","new site (skin) (subcutaneous)",86.09
+489,3,"心脏起搏器","cardiac device (defibrillator) (pacemaker)",
+489,4,"伴首次起搏器植入-省略编码","with initial insertion of cardiac device-omit code",
+489,4,"新部位(皮肤)(皮下)","new site (skin) (subcutaneous)",37.79
+489,3,"循环记录器","loop recorder",37.79
+489,2,"皮下隧道用于食管吻合术","subcutaneous tunnel for esophageal anastomosis",42.86
+489,3,"伴吻合-见吻合术,食管,胸骨前","with anastomosis-see Anastomosis, esophagus, antesternal",
+489,2,"气管食管的瘘","tracheoesophageal fistula",31.95
+489,2,"丘脑刺激器脉搏发生器囊袋","thalamic stimulator pulse generator",
+489,3,"伴首次电池包植入-省略编码","with initial insertion of battery package-omit code",
+489,3,"新部位(皮肤)(皮下)","new site (skin) (subcutaneous)",86.09
+489,2,"食管胃括约肌功能NEC","esophagogastric sphincteric competence NEC",44.66
+489,3,"腹腔镜","laparoscopic",44.67
+489,2,"心包窗","pericardial window",37.12
+489,2,"心房间隔瘘","interatrial fistula",35.42
+489,2,"心脏装置(除颤器)(起搏器)囊袋","cardiac device (defibrillator) (pacemaker) pocket",
+489,3,"伴首次植入心脏装置-省略编码","with initial insertion of cardiac device-omit code",
+489,3,"新部位(皮肤)(皮下)","new site (skin) (subcutaneous)",37.79
+489,2,"胸膜窗,为了引流","pleural window, for drainage",34.09
+489,2,"直肠内回肠凹(J形凹)(H形凹)(S形凹)(伴与肛门吻合)","endorectal ileal pouch (J-pouch) (H-pouch) (S-pouch) (with anastomosis to anus)",45.95
+489,1,"吹入法","Insufflation",
+489,2,"输卵管(空气)(染色)(气体)(盐水)","fallopian tube (air) (dye) (gas) (saline)",66.8
+489,3,"用于放射照相术-见子宫输卵管放射照相术","for radiography-see Hysterosalpingography",
+489,3,"治疗性物质","therapeutic substance",66.95
+489,2,"咽鼓管","Eustachian tube",20.8
+489,2,"腰腹膜后的,双侧","lumbar retroperitoneal, bilateral",88.15
+489,1,"垂体冷凝破坏术(完全)(全部)-另见垂体切除术","Cryohypophysectomy (complete) (total)-see also Hypophysectomy",07.69
+489,1,"垂体切除术(完全)(全部)","Hypophysectomy (complete) (total)",07.69
+489,2,"部分或大部","partial or subtotal",07.63
+489,3,"经蝶窦入路","transsphenoidal approach",07.62
+490,3,"经前额入路","transfrontal approach",07.61
+490,2,"经蝶窦入路(完全)(全部)","transsphenoidal approach (complete) (total)",07.65
+490,3,"部分的","partial",07.62
+490,2,"经前额入路(完全)(全部)","transfrontal approach (complete) (total)",07.64
+490,3,"一部分的","partial",07.61
+490,2,"特指入路NEC","specified approach NEC",07.68
+490,1,"垂体切除术(完全的)(全部的)-另见垂体切除术","Pituitectomy (complete) (total)-see also Hypophysectomy",07.69
+490,1,"唇成形术","Cheiloplasty",27.59
+490,1,"唇读训练","Lip reading training",95.49
+490,1,"唇缝合术","Cheilorrhaphy",27.51
+490,1,"唇口成形术","Cheilostomatoplasty",27.59
+490,1,"唇切开术","Cheilotomy",27.0
+490,1,"唇削薄","Lip shave",27.43
+490,1,"戳孔,肋间的","Stab, intercostal",34.09
+490,1,"磁共振影像(核子的)-见影像,磁共振","Magnetic resonance imaging (nuclear)-see Imaging, magnetic resonance",
+490,1,"磁吸术","Magnet extraction",
+490,2,"异物","foreign body",
+490,3,"玻璃体","vitreous",14.01
+490,3,"巩膜","sclera",12.01
+490,3,"虹膜","iris",12.01
+490,3,"角膜","cornea",11.0
+490,3,"结膜","conjunctiva",98.22
+490,3,"睫状体","ciliary body",12.01
+490,3,"晶状体","lens",13.01
+490,3,"眶","orbit",98.21
+490,3,"脉络膜","choroid",14.01
+490,3,"前房,眼","anterior chamber, eye",12.01
+490,3,"视网膜","retina",14.01
+490,3,"眼,眼球NEC","eye, eyeball NEC",98.21
+490,4,"后节","posterior segment",14.01
+490,4,"前节","anterior segment",12.01
+490,4,"眼内的(前节)","intraocular (anterior segment)",12.01
+490,1,"刺激(电的)-另见植入,电刺激器","Stimulation (electronic)-see also Implant, electronic stimulator",
+490,2,"CaverMap","CaverMap",89.58
+490,2,"除颤器","defibrillator",
+490,3,"导管侵入性电生理测定","catheter based invasive electrophysiologic testing",37.26
+491,3,"非侵入性程序化电刺激(NIPS)","noninvasive programmed electrical stimulation (NIPS)",37.20
+491,3,"仅装置感知而不诱发心律失常(床旁检查)","device interrogation only without arrhythmia induction (bedside check)",89.45-89.49
+491,3,"作为手术中的测定-省略编码","as part of intraoperative testing-omit code",
+491,2,"电生理,心的","electrophysiologic, cardiac",
+491,3,"导管侵入性电生理测定","catheter based invasive electrophysiologic testing",37.26
+491,3,"非侵入性程序化电刺激(NIPS)","noninvasive programmed electrical stimulation (NIPS)",37.20
+491,3,"仅装置感知而不诱发心律失常(床旁检查)","device interrogation only without arrhythmia induction (bedside check)",89.45-89.49
+491,3,"作为手术中的测定-省略编码","as part of intraoperative testing-omit code",
+491,2,"骨生长(经皮)-见亚目","bone growth (percutaneous)-see subcategory",78.9
+491,3,"经皮(表浅)","transcutaneous (surface)",99.86
+491,2,"颈动脉窦","carotid sinus",99.64
+491,2,"神经","nerve",
+491,3,"CaverMap","CaverMap",89.58
+491,3,"阴茎","penile",89.58
+491,3,"周围的或脊髓,经皮下的","peripheral or spinal cord, transcutaneous",93.39
+491,2,"心的(外部)","cardiac (external)",99.62
+491,3,"内的","internal",37.91
+491,1,"剖开术,挑开术","Discission",
+491,2,"玻璃体丝条(后入路)","vitreous strands (posterior approach)",14.74
+491,3,"前的人路","anterior approach",14.73
+491,2,"虹膜","iris",12.12
+491,2,"继发膜(白内障后)","secondary membrane (after cataract)",13.64
+491,2,"晶体(囊)(惠勒刀)(济格勒刀)(伴囊切开术)","lens (capsule) (Wheeler knife) (Ziegler knife) (with capsulotomy)",13.2
+491,2,"眶上颌,根治","orbitomaxillary, radical",16.51
+491,2,"囊膜","capsular membrane",13.64
+491,2,"内障(惠勒刀)(济格勒刀)","cataract (Wheeler knife) (Ziegler knife)",13.2
+491,3,"继发膜","secondary membrane",13.64
+491,3,"先天性","congenital",13.69
+491,2,"瞳孔的","pupillary",13.2
+491,1,"丛切除术","Plexectomy",
+491,2,"脉络膜","choroid",02.14
+491,2,"下腹部的","hypogastric",05.24
+492,1,"促进,眼内循环NEC","Facilitation, intraocular circulation NEC",12.59
+492,1,"催眠(精神疗法)","Hypnotherapy",94.32
+492,1,"催眠(心理治疗的)","Hypnosis (psychotherapeutic)",94.32
+492,2,"用于麻醉-省略编码","for anesthesia-omit code",
+492,1,"催眠疗法,精神病学的","Hypnodrama, psychiatric",94.32
+492,0,"D","D",
+492,1,"da Vinci(SHD)手术系统-见亚目","da Vinci (SHD) Surgical System-see subcategory",17.4
+492,1,"Dahlman手术(食管憩室切除术)","Dahlman operation (excision of esophageal diverticulum)",42.31
+492,1,"Dana手术(后神经根切断术)","Dana operation (posterior rhizotomy)",03.1
+492,1,"Danforth手术(胎儿)","Danforth operation (fetal)",73.8
+492,1,"Darrach手术(尺骨切除术)","Darrach operation (ulnar resection)",77.83
+492,1,"Davis手术(插管输尿管切开术)","Davis operation (intubated ureterotomy)",56.2
+492,1,"Decoy,E2F","Decoy, E2F",00.16
+492,1,"de Grandmont手术(睑板切除术)","de Grandmont operation (tarsectomy)",08.35
+492,1,"Delorme手术","Delorme operation",
+492,2,"心包切除术","pericardiectomy",37.31
+492,2,"胸廓成形术","thoracoplasty",33.34
+492,2,"直肠固定术","proctopexy",48.76
+492,2,"直肠脱垂修补术","repair of prolapsed rectum",48.76
+492,1,"Denker手术(根治上颌窦切开术)","Denker operation (radical maxillary antrotomy)",22.31
+492,1,"Dennis-Barco手术-见修补术,疝,股的","Dennis-Barco operation-see Repair, hernia, femoral",
+492,1,"Denonvillier手术(限定性鼻成形术)","Denonvillier operation (limited rhinoplasty)",21.86
+492,1,"Derlacki手术(鼓室成形术)","Derlacki operation (tympanoplasty)",19.4
+492,1,"Dermabond","Dermabond",86.59
+492,1,"Dickson手术(筋膜移植物)","Dickson operation (fascial transplant)",83.82
+492,1,"Dickson-Diveley手术(腱移植术和关节固定术,为矫正爪形趾)","Dickson-Diveley operation (tendon transfer and arthrodesis to correct claw toe)",77.57
+492,1,"Dieffenbach手术(髋关节离断)","Dieffenbach operation (hip disarticulation)",84.18
+493,1,"Doleris手术(圆韧带缩短)","Doleris operation (shortening of round ligaments)",69.22
+493,1,"D'Ombrain手术(翼状胬肉切除术伴角膜移植)","D'Ombrain operation (excision of pterygium with corneal graft)",11.32
+493,1,"Dorrance手术(后推手术,用于裂腭)","Dorrance operation (push-back operation for cleft palate)",27.62
+493,1,"Dotter手术(经管腔血管成形术)","Dotter operation (transluminal angioplasty)",39.59
+493,1,"Douglas手术(舌与唇缝合,用于小颏)","Douglas operation (suture of tongue to lip for micrognathia)",25.59
+493,1,"Doyle手术(宫颈周围的子宫去神经术)","Doyle operation (paracervical uterine denervation)",69.3
+493,1,"Duhamel手术(腹会阴的拖出)","Duhamel operation (abdominoperineal pull-through)",48.65
+493,1,"Duhrssen","Duhrssen's",
+493,2,"切开(子宫颈,帮助分娩)","incisions (cervix, to assist delivery)",73.93
+493,2,"手术(阴道子宫固定术)","operation (vaginofixation of uterus)",69.22
+493,1,"Dunn手术(三关节固定术)","Dunn operation (triple arthrodesis)",81.12
+493,1,"Dupuytren手术","Dupuytren operation",
+493,2,"肩关节离断","shoulder disarticulation",84.08
+493,2,"筋膜切除术","fasciectomy",82.35
+493,2,"筋膜切开术","fasciotomy",82.12
+493,3,"伴切除术","with excision",82.35
+493,1,"Durabond","Durabond",86.59
+493,1,"Durham(Caldwell)手术(股二头肌腱移植术)","Durham (-Caldwell) operation (transfer of biceps femoris tendon)",83.75
+493,1,"DuToit和Roux手术(钉合肩关节囊缝合术)","DuToit and Roux operation (staple capsulorrhaphy of shoulder)",81.82
+493,1,"DuVries手术(腱成形术)","DuVries operation (tenoplasty)",83.88
+493,1,"Dwyer手术","Dwyer operation",
+493,2,"筋膜切开术","fasciotomy",83.14
+493,2,"软组织松解NEC","soft tissue release NEC",83.84
+493,2,"楔形骨切开术,跟骨","wedge osteotomy, calcaneus",77.28
+493,1,"达尔曼手术-见Dahlman手术","达尔曼手术-see Dahlman operation",
+493,1,"达拉科手术-见Darrach手术","达拉科手术-see Darrach operation",
+493,1,"达拉姆(-考德威尔)手术-见Durham(-Caldwell)","达拉姆(-考德威尔)手术-see Durham (-Caldwell)",
+493,1,"达纳手术-见Dana手术","达纳手术-see Dana operation",
+493,1,"打磨(皮肤)","Sandpapering (skin)",86.25
+493,1,"大脑半球切除术(脑的)","Hemispherectomy (cerebral)",01.52
+493,1,"大小缩减术","Size reduction",
+493,2,"臂(脂肪)(蝙蝠翼状的)","arms (adipose) (batwing)",86.83

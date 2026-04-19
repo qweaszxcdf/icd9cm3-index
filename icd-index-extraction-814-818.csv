@@ -1,0 +1,170 @@
+page,level,chinese,english,code
+814,2,"直肠的","rectal",96.19
+814,1,"调节","Adjustment",
+814,2,"耳蜗假体装置(外部构件)","cochlear prosthetic device (external components)",95.49
+814,2,"骨科装置(非侵入性)","orthopedic device (noninvasive)",
+814,3,"外固定器-省略编码","external fixator-omit code",
+814,2,"胃限制性装置(腹腔镜)","gastric restrictive device (laparoscopic)",44.98
+814,2,"心脏起搏器程序(再编程)-省略编码","cardiac pacemaker program (reprogramming)-omit code",
+814,2,"牙齿","dental",99.97
+814,2,"眼镜","spectacles",95.31
+814,2,"咬合面","occlusal",24.8
+814,1,"调节,月经","Regulation, menstrual",69.6
+814,1,"铁肺","Iron lung",93.99
+814,1,"听力测定(贝克西5-音调)(阻抗)(镫骨反射性反应)(主观的)","Audiometry (Bekesy 5-tone) (impedance) (stapedial reflex response) (subjective)",95.41
+814,1,"听力测验","Hearing test",95.47
+814,1,"听小骨切除术NEC","Ossiculectomy NEC",19.3
+814,2,"伴","with",
+814,3,"镫骨切除术-另见镫骨切除术","stapedectomy-see also Stapedectomy",19.19
+814,3,"镫骨松动术","stapes mobilization",19.0
+814,3,"鼓室成形术","tympanoplasty",19.53
+814,3,"修复术","revision",19.6
+814,1,"听小骨切开术NEC","Ossiculotomy NEC",19.3
+814,1,"停止","Arrest",
+814,2,"出血-见控制,出血","hemorrhage-see Control, hemorrhage",
+814,2,"骨生长(骨骺)","bone growth (epiphyseal)",78.20
+814,3,"尺骨","ulna",78.23
+814,3,"腓骨","fibula",78.27
+814,3,"肱骨","humerus",78.22
+814,3,"股骨","femur",78.25
+814,3,"胫骨","tibia",78.27
+814,3,"桡骨","radius",78.23
+814,3,"用于钉合术-见钉合术,骨骺板","by stapling-see Stapling, epiphyseal plate",
+814,2,"心的,诱发的(缺氧性)(循环的)","cardiac, induced (anoxic) (circulatory)",39.63
+814,2,"循环的,诱发的(缺氧性)","circulatory, induced (anoxic)",39.63
+814,1,"瞳孔成形术,造瞳术","Coreoplasty",12.35
+814,1,"瞳孔切开术","Pupillotomy",12.35
+815,1,"瞳孔松解术","Corelysis",12.35
+815,1,"通道-见插入和插管法","Passage-see Insertion and Intubation",
+815,1,"通道口成形术","Meatoplasty",
+815,2,"耳","ear",18.6
+815,2,"尿道","urethra",58.47
+815,1,"通气","Ventilation",
+815,2,"持续气道正压[CPAP]","continuous positive airway pressure [CPAP]",93.90
+815,3,"由","delivered by",
+815,4,"气管内管-见亚目","endotracheal tube-see subcategory",96.7
+815,4,"气管造口-见亚目","tracheostomy-see subcategory",96.7
+815,2,"非侵入性正压(NIPPV)","non-invasive positive pressure (NIPPV)",93.90
+815,2,"负压(持续性)[CNP]","negative pressure (continuous) [CNP]",93.99
+815,2,"呼气末正压呼吸[PEEP]","positive end expiratory pressure [PEEP]",
+815,3,"非侵入性","non-invasive",93.90
+815,3,"侵入性-见亚目","invasive-see subcategory",96.7
+815,3,"机械性,NOS","mechanical, NOS",93.90
+815,3,"非侵入性[NIPPV]","non-invasive [NIPPV]",93.90
+815,3,"其他连续性(未特指时限)","other continuous invasive (unspecified duration)",96.70
+815,4,"用于连续96小时或多于","for 96 consecutive hours or more",96.72
+815,4,"用于连续少于96小时","for less than 96 consecutive hours",96.71
+815,3,"气管内管-见亚目","by endotracheal tube-see subcategory",96.7
+815,3,"气管内呼吸辅助-见亚目","endotracheal respiratory assistance-see subcategory",96.7
+815,3,"气管造口-见亚目","by tracheostomy-see subcategory",96.7
+815,3,"侵入性-见亚目","invasive-see subcategory",96.7
+815,2,"间歇性正压呼吸[IPPB]","intermittent positive pressure breathing [IPPB]",93.91
+815,2,"气管内呼吸辅助-见亚目","endotracheal respiratory assistance-see subcategory",96.7
+815,2,"双水平气道正压[BiPAP]","bi-level positive airway pressure [BiPAP]",93.90
+815,3,"由","delivered by",
+815,4,"气管内管-见亚目","endotracheal tube-see subcategory",96.7
+815,4,"气管造口-见亚目","tracheostomy-see subcategory",96.7
+815,1,"通气[PSV]","Ventilation [PSV]",96.7
+815,1,"头部测量,头部测量学","Cephalometry, cephalometrics",87.17
+816,2,"超声(声纳)","ultrasound (sonar)",88.78
+816,2,"回声","echo",88.78
+816,2,"矫形牙科的","orthodontic",87.12
+816,2,"X线","x-ray",87.81
+816,1,"头部X线照相","Cephalogram",87.17
+816,2,"矫形牙科的","orthodontic",87.12
+816,2,"牙齿","dental",87.12
+816,1,"透热疗法","Diathermy",93.34
+816,2,"鼻甲","nasal turbinates",21.61
+816,2,"脉络膜-见透热疗法,视网膜","choroid-see Diathermy, retina",
+816,2,"视网膜","retina",
+816,2,"用于","for",
+816,3,"病损破坏","destruction of lesion",14.21
+816,3,"撕裂修补术","repair of tear",14.31
+816,3,"再附着","reattachment",14.51
+816,2,"外科手术的-见破坏,病损,按部位","surgical-see Destruction, lesion, by site",
+816,1,"透视法","Transillumination",
+816,2,"鼻窦","nasal sinuses",89.35
+816,2,"颅骨(新生儿)","skull (newborn)",89.16
+816,1,"透析","Dialysis",
+816,2,"腹膜的","peritoneal",54.98
+816,2,"肝","liver",50.92
+816,2,"肾(体外)","kidney, renal (extracorporeal)",39.95
+816,2,"血液透析滤过,血液稀释(体外的)","hemodiafiltration, hemofiltration (extracorporeal)",39.95
+816,1,"透照镜检查","Diaphanoscopy",
+816,2,"鼻窦","nasal sinuses",89.35
+816,2,"颅骨(新生儿)","skull (newborn)",89.16
+816,1,"图查斯手术-见 Touchas 手术","图查斯手术-see Touchas operation",
+816,1,"图德“兔耳”手术-见 Tudor“rabbit ear”手术","图德“兔耳”手术-见 Tudor ""rabbit ear"" operation",
+816,1,"图罗夫手术-见 Touroff 手术","图罗夫手术-see Touroff operation",
+816,1,"兔唇手术","Harelip operation",27.54
+816,1,"退缩术","Recession",
+816,2,"提上睑肌","levator palpebrae (superioris) muscle",08.38
+816,2,"腓肠腱(斯特赖克手术)","gastrocnemius tendon (Strayer operation)",83.72
+816,2,"腱","tendon",83.72
+816,3,"手","hand",82.52
+816,2,"凸颌","prognatic jaw",76.64
+816,2,"眼外肌","extraocular muscle",15.11
+817,2,"多数的(两条或多条肌)(伴前徙术或切除术)","multiple (two or more muscles) (with advancement or resection)",15.3
+817,1,"吞钡","Barium swallow",87.61
+817,1,"臀助吸术-见抽吸术,臀","Breech extraction-see Extraction, breech",
+817,1,"托蒂手术-见 Toti 手术","托蒂手术-see Toti operation",
+817,1,"托基尔德森手术-见 Torkildsen 手术","托基尔德森手术-see Torkildsen operation",
+817,1,"托雷克(-贝文)手术-见 Torek(-Bevan)手术","托雷克(-贝文)手术-see Torek (-Bevan) operation",
+817,1,"托平手术-见 Torpin 手术","托平手术-see Torpin operation",
+817,1,"脱落,皮肤,经化学","Exfoliation, skin, by chemical",86.24
+817,1,"脱毛法","Epilation",
+817,2,"眉(镊子)","eyebrow (forceps)",08.93
+817,2,"电外科","electrosurgical",08.91
+817,2,"冷冻外科","cryosurgical",08.92
+817,2,"皮肤","skin",86.92
+817,2,"眼睑(产钳)NEC","eyelid (forceps) NEC",08.93
+817,3,"电外科","electrosurgical",08.91
+817,3,"冷冻外科","cryosurgical",08.92
+817,1,"脱毛法,皮肤","Depilation, skin",86.92
+817,1,"脱敏","Desensitization",
+817,2,"变态反应","allergy",99.12
+817,2,"心理学的","psychologic",94.33
+817,1,"脱瘾疗法","Detoxification therapy",94.25
+817,2,"酒精","alcohol",94.62
+817,3,"伴酒精和药物","combined alcohol and drug",94.68
+817,4,"伴康复","with rehabilitation",94.69
+817,3,"伴康复","with rehabilitation",94.63
+817,2,"药物","drug",94.65
+817,3,"伴酒精和药物","combined alcohol and drug",94.68
+817,4,"伴康复","with rehabilitation",94.69
+817,3,"伴康复","with rehabilitation",94.66
+817,0,"U","U",
+817,1,"UAE(子宫动脉栓塞)NOS","UAE (uterine artery embolization) NOS",68.25
+817,1,"Uchida 手术(输卵管结扎伴或不伴输卵管全部切除术)","Uchida operation (tubal ligation with or without fimbriectomy)",66.32
+817,1,"UFR(尿流量测定)","UFR (uroflowmetry)",89.24
+817,1,"UPP(尿道压分布图)","UPP (urethral pressure profile)",89.25
+817,1,"UPPP(悬雍垂腭咽成形术)","UPPP (uvulopalatopharyngoplasty)",27.69[29.4]
+818,1,"Urban(胸膜内法)手术(乳房切除术)(单侧)","Urban operation (mastectomy) (unilateral)",85.47
+818,2,"双侧的","bilateral",85.48
+818,1,"UVP(悬雍垂腭咽成形术)","UVP (uvulopalatopharyngoplasty)",27.69[29.4]
+818,0,"V","V",
+818,1,"V-Y 手术(修补术)","V-Y operation (repair)",
+818,2,"唇","lip",27.59
+818,2,"睑外翻","ectropion",08.44
+818,2,"膀胱","bladder",57.89
+818,3,"颈","neck",57.85
+818,2,"皮肤(不伴移植)","skin (without graft)",86.89
+818,2,"皮下组织(不伴皮肤移植)","subcutaneous tissue (without skin graft)",86.89
+818,2,"舌","tongue",25.59
+818,1,"VAD(血管通路装置)","VAD",
+818,2,"心室辅助装置-见植入,心脏辅助系统","ventricular assist device-see Implant, heart assist system",
+818,2,"血管通路装置见血管通路装置,全部可植入的","vascular access device-see Vascular access device, totally implantable",
+818,1,"VEP(视觉诱发电位)","VEP (visual evoked potential)",95.23
+818,1,"VH™IVUS-见超声,侵入性,按部位","VH™-IVUS-see Ultrasound, intravascular, by site",
+818,1,"Vicq D'azyr 手术(喉)","Vicq D'azyr operation (larynx)",31.1
+818,1,"Vidal 手术(精索静脉曲张结扎术)","Vidal operation (varicocele ligation)",63.1
+818,1,"von Kraske 手术(直肠切除术)","von Kraske operation (proctectomy)",48.64
+818,1,"Voss 手术(髋悬吊手术)","Voss operation (hanging hip operation)",83.19
+818,1,"Vulpius(-Compere) 手术(腓肠肌延长术)","Vulpius (-Compere) operation (lengthening of gastrocnemius muscle)",83.85
+818,0,"W","W",
+818,1,"Wada 测验(半球功能)","Wada test (hemispheric function)",89.10
+818,1,"Ward-Mayo 手术(阴道子宫切除术)","Ward-Mayo operation (vaginal hysterectomy)",68.59
+818,2,"腹腔镜辅助(LAVH)","laparoscopically assisted (LAVH)",68.51
+818,1,"Waterston 手术(主动脉右肺动脉吻合术)","Waterston operation (aorta-right pulmonary artery anastomosis)",39.0
+818,1,"Watkins(-Wertheim) 手术(子宫间置术)","Watkins (-Wertheim) operation (uterus interposition)",69.21
+818,1,"Watson-Jones 手术","Watson-Jones operation",

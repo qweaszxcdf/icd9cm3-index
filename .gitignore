@@ -1,0 +1,11 @@
+# Ignore extracted PDF and page image assets
+target.pdf
+target_pages/
+*.png
+*.jpg
+*.jpeg
+
+# Ignore editor and Python cache directories
+.vscode/
+__pycache__/
+.DS_Store

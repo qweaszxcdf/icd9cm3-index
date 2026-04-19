@@ -1,0 +1,183 @@
+page,level,chinese,english,code
+884,5,"腭","palate",27.62
+884,6,"Ⅱ期或随后的","secondary or subsequent",27.63
+884,5,"跟腱","heel cord",83.85
+884,5,"骨(伴骨移植)","bone (with bone graft)",78.30
+884,6,"尺骨","ulna",78.33
+884,6,"股骨","femur",78.35
+884,6,"胫骨","tibia",78.37
+884,6,"特指的部位 NEC-另见亚目","specified site NEC-see also subcategory",78.3
+884,6,"用于拇指重建术","for reconstruction of thumb",82.69
+884,5,"腘绳肌 NEC","hamstring NEC",83.85
+884,5,"肌肉","muscle",83.85
+884,6,"手","hand",82.55
+884,6,"眼外","extraocular",15.21
+884,7,"多(两条或多条肌)","multiple (two or more muscles)",15.4
+884,5,"腱","tendon",83.85
+884,6,"手","hand",82.55
+884,6,"用于爪形趾修补术","for claw toe repair",77.57
+884,5,"筋膜","fascia",83.89
+884,6,"手","hand",82.89
+884,5,"提上睑肌","levator palpebrae muscle",08.38
+884,5,"腿","leg",
+884,6,"股骨","femur",78.35
+884,6,"胫骨","tibia",78.37
+884,5,"眼外肌 NEC","extraocular muscle NEC",15.21
+884,6,"多(两条或多条肌)","multiple (two or more muscles)",15.4
+884,4,"研究","Study",
+884,5,"暗适应,眼","dark adaptation, eye",95.07
+884,5,"超声-见超声波检查","ultrasonic-see Ultrasonography",
+884,5,"传导,神经(正中)","conduction, nerve (median)",89.15
+884,5,"电生理刺激或记录,心脏的","electrophysiologic stimulation and recording, cardiac",
+884,6,"导管侵入性电生理测定","catheter based invasive electrophysiologic testing",37.26
+884,6,"非侵入性程序化电刺激(NIPS)","noninvasive programmed electrical stimulation (NIPS)",37.20
+884,6,"仅装置感知而不诱发心律失常(床旁检查)","device interrogation only without arrhythmia induction (bedside check)",89.45-89.49
+884,6,"作为手术中的测定-省略编码","as part of intraoperative testing-omit code",
+884,5,"放射性碘化三油脂","radio-iodinated triolein",92.04
+884,5,"放射照相的-见放射照相术","radiographic-see Radiography",
+884,5,"肺的","pulmonary",
+885,6,"功能-见亚目","function-see categories",89.37
+885,6,"气道流量测量,内镜的","airway flow measurement, endoscopic",33.72
+885,5,"肺活量计","spirometer",89.37
+885,5,"功能-另见功能,研究","function-see also Function, study",
+885,6,"放射性核素-见扫描,放射性核素","radioisotope-see Scan, radioisotope",
+885,5,"骨矿物质密度","bone mineral density",88.98
+885,5,"泪流动(放射照相)","lacrimal flow (radiographic)",87.05
+885,5,"描图器-另见扫描,放射性核素,眼(P32)","tracer-see also Scan, radioisotope, eye (P32)",95.16
+885,5,"色视觉","color vision",95.06
+885,5,"肾廓清","renal clearance",92.03
+885,5,"视区","visual field",95.05
+885,5,"希氏束","bundle of His",37.29
+885,5,"氙流动 NEC","xenon flow NEC",92.19
+885,6,"肺动脉","pulmonary",92.15
+885,6,"心血管的","cardiovascular",92.05
+885,5,"眼运动","ocular motility",95.15
+885,4,"眼电图(EOG)","Electro-oculogram (EOG)",95.22
+885,4,"眼肌折叠,眼肌折叠术","Cinch, cinching",
+885,5,"眼肌(斜肌)(直肌)","ocular muscle (oblique) (rectus)",15.22
+885,6,"多条(两条或多条肌)","multiple (two or more muscles)",15.4
+885,5,"用于巩膜环扎术-另见环扎术,巩膜的","for scleral buckling-see also Buckling, scleral",14.49
+885,4,"眼球拴缩,用于巩膜环扎术-另见环扎术,巩膜的","Constriction of globe, for scleral buckling-see also Buckling, scleral",14.49
+885,4,"眼球摘除术","Ophthalmetomy",16.49
+885,5,"伴植入物(进入特农囊)","with implant (into Tenon's capsule)",16.42
+885,6,"伴肌附着","with attachment of muscles",16.41
+885,4,"眼压测量法","Tonometry",89.11
+885,4,"眼震电图(ENG)","Electronystagmogram (ENG)",95.24
+885,4,"眼周缘的抽吸","Perilimbal suction",89.11
+885,4,"咽成形术(伴硅橡胶植入)","Pharyngoplasty (with silastic implant)",29.4
+885,5,"用于腭裂","for cleft palate",27.62
+885,6,"Ⅱ期或随后","secondary or subsequent",27.63
+885,4,"咽缝合术","Pharyngorrhaphy",29.51
+885,5,"用于腭裂","for cleft palate",27.62
+885,4,"咽喉切除术","Pharyngolaryngectomy",30.3
+885,4,"咽镜检查","Pharyngoscopy",29.11
+885,4,"咽皮瓣手术(腭裂修补术)","Pharyngeal flap operation (cleft palate repair)",27.62
+886,5,"Ⅱ期或随后的","secondary or subsequent",27.63
+886,4,"咽切除术(部分)","Pharyngectomy (partial)",29.33
+886,5,"伴喉切除术","with laryngectomy",30.3
+886,4,"咽开术","Pharyngotomy",29.0
+886,4,"咽X线照相","Pharyngogram",87.09
+886,5,"对比","contrast",87.06
+886,4,"验尸","Necropsy",89.8
+886,4,"阳电子脑癌定位(描记)图","Positrocephalogram",92.11
+886,4,"羊膜穿刺(经子宫)(诊断性)","Amniocentesis (transuterine) (diagnostic)",75.1
+886,5,"伴羊膜腔内盐水注射","with intra-amniotic injection of saline",75.0
+886,4,"羊膜镜检查,内的","Amnioscopy, internal",75.31
+886,4,"羊膜切开术","Amniotomy",73.09
+886,5,"引产","to induce labor",73.01
+886,4,"羊膜输注","Amnioinfusion",75.37
+886,4,"羊水造影","Amniography",87.81
+886,4,"杨氏手术-见 Young 手术","杨氏手术- see Young operation",
+886,4,"杨特手术-见 Yount 手术","杨特手术- see Yount operation",
+886,4,"氧饱和度测定","Oximetry",
+886,5,"胎儿脉搏","fetal pulse",75.38
+886,4,"氧合泵,用于体外循环","Pump-oxygenator, for extracorporeal circulation",39.61
+886,5,"经皮的","percutaneous",39.66
+886,4,"氧化","Oxygenation",93.96
+886,5,"灌注治疗,过度的","infusion therapy, Super",00.49
+886,5,"加压给氧的","hyperbaric",93.95
+886,6,"伤口","wound",93.59
+886,5,"体外膜(ECMO)","extracorporeal membrane (ECMO)",39.65
+886,4,"氧疗法(催化)(泵)","Oxygen therapy (catalytic) (pump)",93.96
+886,5,"过饱和","SuperSaturated",00.49
+886,5,"加压给氧的","hyperbaric",93.95
+886,4,"遥测术(心的)","Telemetry (cardiac)",89.54
+886,4,"咬合模型(牙的)","Occlusal molds (dental)",89.31
+886,4,"叶切除术","Lobectomy",
+886,5,"肺(完全)","lung (complete)",32.49
+886,6,"部分的","partial",32.39
+886,7,"胸腔镜的","thoracoscopic",32.30
+886,6,"节段的(伴邻近叶切除术)","segmental (with resection of adjacent lobes)",32.49
+886,7,"胸腔镜的","thoracoscopic",32.41
+886,6,"胸腔镜的","thoracoscopic",32.41
+887,5,"肝(伴邻近叶部分切除术)","liver (with partial excision of adjacent lobes)",50.3
+887,5,"甲状腺(全部)(单侧)(伴峡去除)(伴残留叶部分切除)","thyroid (total) (unilateral) (with removal of isthmus) (with removal of portion of remaining lobe)",06.2
+887,6,"部分-另见甲状腺切除术,部分的","partial-see also Thyroidectomy, partial",06.39
+887,6,"大部-另见甲状腺切除术,部分的","subtotal-see also Thyroidectomy, partial",06.39
+887,6,"胸骨下","substernal",06.51
+887,6,"脑","brain",01.53
+887,7,"部分的","partial",01.59
+887,4,"叶切开术,脑","Lobotomy, brain",01.32
+887,4,"液体平衡疗法","Aquapheresis",99.78
+887,4,"伊登-海宾内特-见 Eden-Hybinette 手术","伊登-海宾内特- see Eden-Hybinette operation",
+887,4,"伊格尔顿手术-见 Eagleton 手术","伊格尔顿手术- see Eagleton operation",
+887,4,"胰管十二指肠吻合术","Pancreaticoduodenostomy",52.96
+887,4,"胰管小肠吻合术","Pancreaticoenterostomy",52.96
+887,4,"胰回肠吻合术","Pancreaticoileostomy",52.96
+887,4,"胰空肠吻合术","Pancreaticojejunostomy",52.96
+887,4,"胰十二指肠切除术(全部的)","Pancreatoduodenectomy (total)",52.6
+887,5,"部分的 NEC","partial NEC",52.59
+887,5,"根治性(一期)(二期)","radical (one-stage) (two-stage)",52.7
+887,6,"大部的","subtotal",52.53
+887,4,"胰胃吻合术","Pancreaticogastrostomy",52.96
+887,4,"胰腺囊肿空肠吻合术","Pancreaticocystojejunostomy",52.4
+887,4,"胰腺囊肿十二指肠吻合术","Pancreaticocystoduodenostomy",52.4
+887,4,"胰腺囊肿胃吻合术","Pancreaticocystogastrostomy",52.4
+887,4,"胰腺囊肿小肠吻合术","Pancreaticocystoenterostomy",52.4
+887,4,"胰腺切除术(全部的)(同时伴十二指肠切除术)","Pancreatectomy (total) (with synchronous duodenectomy)",52.6
+887,5,"部分的 NEC","partial NEC",52.59
+887,6,"次全的","subtotal",52.53
+887,6,"根治性","radical",52.53
+887,6,"近端(头)(伴部分胰体)(同时伴十二指肠切除术)","proximal (head) (with part of body) (with synchronous duodenectomy)",52.51
+887,6,"远端(尾部)(伴部分胰体)","distal (tail) (with part of body)",52.52
+887,5,"根治性(一期)(二期)","radical",52.7
+887,6,"次全的","subtotal",52.53
+887,4,"胰腺切开取石术","Pancreatolithotomy, Pancreolithotomy",52.09
+888,5,"内镜的","endoscopic",52.94
+888,4,"胰腺切开术","Pancreatotomy",52.09
+888,4,"胰腺十二指肠切除术(全部)","Pancreaticoduodenectomy (total)",52.6
+888,5,"部分的 NEC","partial NEC",52.59
+888,6,"根治性次全的","radical subtotal",52.53
+888,6,"近端的","proximal",52.51
+888,5,"根治性(一期)(二期)","radical (one-stage) (two-stage)",52.7
+888,6,"大部的","subtotal",52.53
+888,4,"胰腺造影","Pancreatogram",87.66
+888,5,"内镜逆行的(ERP)","endoscopic retrograde (ERP)",52.13
+888,4,"移动心脏监测(ACM)","Ambulatory cardiac monitoring (ACM)",89.50
+888,4,"移植,移植术-见去除","Explant, explantation-see Removal",
+888,4,"移植物,移植","Transplant, transplantation",
+888,5,"玻璃体","vitreous",14.72
+888,6,"前入路","anterior approach",14.71
+888,5,"肠","intestine",46.97
+888,5,"动脉","artery",39.59
+888,6,"肾,迷行","renal, aberrant",39.55
+888,5,"鹅足(腱)(膝修补术)","pes anserinus (tendon) (repair of knee)",81.47
+888,5,"肺","lung",33.50
+888,6,"单侧的,单的","unilateral,single",33.51
+888,6,"合并心脏","combined with heart",33.6
+888,6,"双的,双侧","double,bilateral",33.52
+888,5,"肝","liver",50.59
+888,6,"辅助的(永久性)(暂时性)(受者的肝仍在原位)","auxiliary (permanent) (temporary) (recipient's liver in situ)",50.51
+888,6,"细胞至脾,经皮的导管插入术","cells into spleen via percutaneous catheterization",38.91
+888,5,"干细胞","stem cells",
+888,6,"脐血","cord blood",41.06
+888,6,"同种异基因(造血的)","allogeneic (hematopoietic)",41.05
+888,7,"伴净化","with purging",41.08
+888,6,"自体的(造血的)","autologous (hematopoietic)",41.04
+888,7,"伴净化","with purging",41.07
+888,5,"睾丸与阴囊","testis to scrotum",62.5
+888,5,"骨-另见移植物,骨","bone-see also Graft, bone",78.00
+888,6,"干细胞","stem cell",
+888,7,"脐血","cord blood",41.06
+888,7,"异体的(造血的)","allogeneic (hematopoietic)",41.05
+888,8,"伴净化","with purging",41.08

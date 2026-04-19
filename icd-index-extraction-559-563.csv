@@ -1,0 +1,179 @@
+page,level,chinese,english,code
+559,1,"虹膜固定术","Iridodesis, Iridesis",12.63
+559,1,"虹膜结膜成形术","Corneoconjunctivoplasty",11.53
+559,1,"虹膜睫状体切除术","Iridocyclectomy",12.44
+559,1,"虹膜晶状体囊切除术","Capsulo-iridectomy, Irido-capsulectomy",13.65
+559,1,"虹膜囊切除术","Iridocystectomy",12.42
+559,1,"虹膜嵌顿术","Iridencleisis",12.63
+559,1,"虹膜切除术(基底性)(纽孔性)(光学的)(周围的)(全部)","Iridectomy (basal) (buttonhole) (optical) (peripheral) (total)",12.14
+559,2,"伴","with",
+559,3,"白内障抽吸术-见抽吸术,白内障","cataract extraction-see Extraction, cataract",
+559,3,"巩膜的","scleral",
+559,4,"环钻术","trephination",12.61
+559,4,"热烙术","thermocauterization",12.62
+559,4,"造口术","fistulization",12.65
+559,3,"过滤手术(用于青光眼)NEC","filtering operation (for glaucoma) NEC",12.65
+559,3,"囊切除术","capsulectomy",13.65
+559,1,"虹膜切除术","Corectomy",12.12
+559,1,"虹膜切开术","Iridotomy",12.12
+559,2,"伴贯通","with transfixion",12.11
+559,2,"经光凝术","by photocoagulation",12.12
+559,2,"特指类型 NEC","specified type NEC",12.12
+559,2,"用于虹膜膨起","for iris bombe",12.11
+559,1,"虹膜展开术","Iridotasis",12.63
+559,1,"骺骨干固定术-另见停止,骨生长-见亚目","Epiphysiodesis-see also Arrest, bone growth-see subcategory",78.2
+559,1,"骺脱离-另见停止,骨生长-见亚目","Epiphysiolysis-see also Arrest, bone growth-see subcategory",78.2
+559,1,"喉成形术","Laryngoplasty",31.69
+559,1,"喉穿刺术","Laryngocentesis",31.3
+559,1,"喉放射照相片","Laryngogram",87.09
+559,2,"对比","contrast",87.07
+559,1,"喉缝合术","Laryngorrhaphy",31.61
+559,1,"喉镜检查(悬吊)(经人工造口)","Laryngoscopy (suspension) (through artificial stoma)",31.42
+559,1,"喉气管镜检查","Laryngotracheoscopy",31.42
+559,1,"喉气管切开术(暂时性)","Laryngotracheotomy (temporary)",31.1
+559,2,"永久性","permanent",31.29
+559,1,"喉气管造口术(永久性)","Laryngotracheostomy (permanent)",31.29
+559,2,"暂时性(紧急的)","temporary (emergency)",31.1
+559,1,"喉气管支气管镜检查","Laryngotracheobronchoscopy",33.23
+560,2,"伴活组织检查","with biopsy",33.24
+560,1,"喉切除术","Laryngectomy",
+560,2,"伴根治颈清扫术(同时伴甲状腺切除术)(同时伴气管造口)","with radical neck dissection (with synchronous thyroidectomy) (with synchronous tracheostomy)",30.4
+560,2,"部分的(额侧的)(声门声门上)(外侧的)(黏膜下)(声门上)(垂直的)","partial (frontolateral) (glottosupraglottic) (lateral) (submucous) (supraglottic) (vertical)",30.29
+560,3,"侧的部分","lateral partial",30.29
+560,3,"垂直部分的","vertical partial",30.29
+560,3,"额侧部分的(扩大)","frontolateral partial (extended)",30.29
+560,2,"根治性(同时伴甲状腺切除术)(同时伴气管造口)","radical (with synchronous thyroidectomy) (with synchronous tracheostomy)",30.4
+560,2,"广泛区域","wide field",30.3
+560,2,"全部(伴部分咽切除术)(同时伴气管造口)","total (with partial pharyngectomy) (with synchronous tracheostomy)",30.3
+560,3,"伴根治性颈清扫术(同时伴甲状腺切除术)(同时伴气管造口)","with radical neck dissection (with synchronous thyroidectomy) (with synchronous tracheostomy)",30.4
+560,2,"声门-声门上部分","glottosupraglottic partial",30.29
+560,2,"声门上部分","supraglottic partial",30.29
+560,2,"完全(伴部分喉切除术)(同时伴气管造口)","complete (with partial laryngectomy) (with synchronous tracheostomy)",30.3
+560,2,"黏膜下(部分的)","submucous (partial)",30.29
+560,1,"喉切开术","Laryngotomy",31.3
+560,1,"喉食管切除术","Laryngoesophagectomy",30.4
+560,1,"喉室声带切除术","Ventriculocordectomy",30.29
+560,1,"喉下切开术(用于辅助呼吸)","Intercricothyroidotomy (for assistance in breathing)",31.1
+560,1,"喉咽切除术(同时伴气管造口)","Laryngopharyngectomy (with synchronous tracheostomy)",30.3
+560,2,"根治性(同时伴甲状腺切除术)","radical (with synchronous thyroidectomy)",30.4
+560,1,"喉咽食管切除术(同时伴气管造口)","Laryngopharyngoesophagectomy (with synchronous tracheostomy)",30.3
+560,2,"伴根治性颈清扫术(同时伴甲状腺切除术)","with radical neck dissection (with synchronous thyroidectomy)",30.4
+560,1,"喉造口术(永久性)","Laryngostomy (permanent)",31.29
+560,2,"修复术","revision",31.63
+560,2,"暂时性(紧急的)","temporary (emergency)",31.1
+560,1,"喉正中切开术","Laryngofissure",30.29
+560,1,"后穹窿成形术","Culdoplasty",70.92
+561,2,"伴移植物或假体","with graft or prosthesis",70.93
+561,1,"后穹窿穿刺术","Culdocentesis",70.0
+561,1,"后缩,耳","Setback, ear",18.5
+561,1,"后推手术(腭裂修补术)","Push-back operation (cleft palate repair)",27.62
+561,1,"呼吸流率","Expiratory flow rate",89.38
+561,1,"呼吸器,控制容积的(贝内特)(伯德)-见通气,机械性","Respirator, volume-controlled (Bennett) (Byrd)-see Ventilation",
+561,1,"呼吸商数","Quotient, respiratory",89.38
+561,1,"弧光灯-见光凝术","Arc lamp-see Photocoagulation",
+561,1,"护胸甲","Cuirass",93.99
+561,1,"划痕","Scarification",
+561,2,"鼻静脉(伴填塞)","nasal veins (with packing)",21.03
+561,2,"结膜","conjunctiva",10.33
+561,2,"心包","pericardium",36.39
+561,2,"胸膜","pleura",34.6
+561,3,"化学的","chemical",34.92
+561,4,"四环素","tetracycline",34.92[99.21]
+561,1,"滑膜切除术(关节)(完全)(部分)","Synovectomy, Villusectomy (joint) (complete) (partial)",80.70
+561,2,"踝","ankle",80.77
+561,2,"脊柱","spine",80.79
+561,2,"肩","shoulder",80.71
+561,2,"腱鞘","tendon sheath",83.42
+561,2,"手","hand",82.33
+561,2,"髋","hip",80.75
+561,2,"手和手指","hand and finger",80.74
+561,2,"特指部位 NEC","specified site NEC",80.79
+561,2,"腕","wrist",80.73
+561,2,"膝","knee",80.76
+561,2,"肘","elbow",80.72
+561,2,"足和趾","foot and toe",80.78
+561,1,"画画测验","Drawing test",94.08
+561,1,"化学剥除,皮肤","Chemical peel, skin",86.24
+561,1,"化学感受组织破坏术","Chemodectomy",39.89
+561,1,"化学疗法-另见免疫疗法","Chemotherapy-see also Immunotherapy",
+561,2,"腭(骨性)","palate (bony)",27.31
+561,2,"戒酒硫(用于治疗慢性醇中毒)","Antabuse",94.25
+561,2,"锂","lithium",94.22
+561,2,"美沙酮","methadone",94.25
+562,2,"用于癌痛 NEC","for cancer NEC",99.25
+562,3,"CLO","CLO",17.70
+562,3,"CLOLAR®(氯法拉滨)","CLOLAR®",17.70
+562,3,"化疗物质植入","implantation of chemotherapeutic agent",00.10
+562,4,"晶片化学疗法","wafer chemotherapy",00.10
+562,4,"空隙植入","interstitial implantation",00.10
+562,3,"氯法拉滨","clofarabine",17.70
+562,3,"脑晶片植入","brain wafer implantation",00.10
+562,3,"腔内植入","intracavitary implantation",00.10
+562,1,"化学溶解","Chemolysis",
+562,2,"神经(周围的)","nerve (peripheral)",04.2
+562,2,"椎管结构","spinal canal structure",03.8
+562,1,"化学烧灼-另见破坏,病损,按部位","Chemocauterization-see also Destruction, lesion, by site",
+562,2,"腭","palate",27.31
+562,2,"角膜上皮","corneal epithelium",11.41
+562,1,"化学外科","Chemosurgery",
+562,2,"莫斯","Mohs'",86.24
+562,2,"皮肤(表浅的)","skin (superficial)",86.24
+562,2,"食管","esophagus",42.39
+562,3,"内镜","endoscopic",42.33
+562,2,"胃","stomach",43.49
+562,3,"内镜","endoscopic",43.41
+562,1,"化学物质栓塞术","Chemoembolization",99.25
+562,1,"怀特黑德手术-见 Whitehead 手术","怀特黑德手术-see Whitehead operation",
+562,1,"怀特手术-见 White 手术","怀特手术-see White operation",
+562,1,"环包操作-另见巩扎术,巩膜,用于环扎术","Encircling procedure-see also Cerclage",
+562,2,"巩膜,用于环扎术","sclera, for buckling",14.49
+562,3,"伴植入","with implant",14.41
+562,1,"环甲膜切开术(用于辅助呼吸)","Cricothyrotomy (for assistance in breathing)",31.1
+562,1,"环甲膜造口术","Cricothyrostomy",31.1
+562,1,"环甲软骨切除术","Thyrocricoidectomy",30.29
+562,1,"环甲软骨切开术(用于辅助呼吸)","Cricothyreotomy, Thyrocicotomy (for assistance in breathing)",31.1
+562,1,"环甲状腺切除术","Cricothyroidectomy",30.29
+562,1,"环扎术","Cerclage",
+562,2,"肛门","anus",49.72
+562,2,"巩膜-另见环扎术,巩膜的","sclera-see also Buckling, scleral",14.49
+562,2,"视网膜再附着-另见环扎术,巩膜的","retinal reattachment-see also Buckling, scleral",14.49
+563,2,"子宫颈","cervix",67.51
+563,3,"经腹的","transabdominal",67.51
+563,3,"经阴道的","transvaginal",67.59
+563,2,"子宫峡部(子宫颈)","isthmus uteri (cervix)",67.59
+563,1,"环扎术,巩膜的","Buckling, scleral",14.49
+563,2,"伴","with",
+563,3,"玻璃体切除术","vitrectomy",14.49
+563,3,"玻璃体植入(硅)","vitreous implant (silicone)",14.41
+563,3,"巩膜切除术","resection of sclera",14.49
+563,3,"气填塞法","air tamponade",14.49
+563,3,"植入物(硅)(玻璃体)","implant (silicone) (vitreous)",14.41
+563,1,"环状软骨气管切开术(用于辅助呼吸)","Cricotracheotomy (for assistance in breathing)",31.1
+563,1,"环状软骨切除术","Cricoidectomy",30.29
+563,1,"环状软骨切开术(用于辅助呼吸)","Cricotomy (for assistance in breathing)",31.1
+563,1,"环钻术,环钻","Trephination, trephining",
+563,2,"鼻窦-见窦切开术","nasal sinus-see Sinusotomy",
+563,2,"副窦-见窦切开术","accessory sinus-see Sinusotomy",
+563,2,"巩膜(伴虹膜切除术)","sclera (with iridectomy)",12.61
+563,2,"角膜巩膜的","corneoscleral",12.89
+563,2,"颅骨","cranium",01.24
+563,1,"换血输血","Exsanguination transfusion",99.01
+563,1,"回波描记术-见超声波检查","Echography-see Ultrasonography",
+563,1,"回肠","Ileal",
+563,2,"膀胱","bladder",
+563,3,"闭合性","closed",57.87[45.51]
+563,3,"开放(回肠输尿管吻合术)","open (ileoureterostomy)",56.51
+563,2,"通道(回肠输尿管吻合术)","conduit (ileoureterostomy)",56.51
+563,1,"回肠肠营养","Ileoentectropy",46.99
+563,1,"回肠缝合术","Ileorrhaphy",46.73
+563,1,"回肠固定术","Ileopexy",46.61
+563,1,"回肠横结肠吻合术","Ileotransversostomy",45.93
+563,1,"回肠回肠吻合术","Ileoileostomy",45.91
+563,2,"近端与远端段","proximal to distal segment",45.62
+563,1,"回肠结肠切除术","Ileocolectomy",
+563,2,"腹腔镜的","laparoscopic",17.33
+563,2,"开放和其他","open and other",45.73
+563,1,"回肠结肠切开术","Ileocolotomy",45.00
+563,1,"回肠结肠吻合术","Ileocolostomy",45.93
+563,1,"回肠镜检查","Ileoscopy",45.13
+563,2,"经腹(手术的)","transabdominal (operative)",45.11

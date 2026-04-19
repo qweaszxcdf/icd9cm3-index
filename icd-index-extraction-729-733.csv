@@ -1,0 +1,202 @@
+page,level,chinese,english,code
+729,3,"甲状腺(区)(腺)(经切开)","thyroid (field) (gland) (by incision)",06.09
+729,3,"腱(鞘)","tendon (sheath)",83.01
+729,4,"手","hand",82.01
+729,3,"角膜","cornea",98.21
+729,4,"经","by",
+729,5,"磁铁","magnet",11.0
+729,5,"切开","incision",11.1
+729,3,"结膜(经磁铁)","conjunctiva (by magnet)",98.22
+729,4,"经切开","by incision",10.0
+729,3,"结膜的(经磁铁)","subconjunctival (by magnet)",98.22
+729,4,"经切开","by incision",10.0
+729,3,"睫状体(经切开)","ciliary body (by incision)",12.00
+729,4,"伴使用磁铁","with use of magnet",12.01
+729,4,"不伴使用磁铁","without use of magnet",12.02
+729,3,"筋膜","fascia",83.09
+729,4,"手","hand",82.09
+729,3,"精索","spermatic cord",63.93
+729,3,"晶体","lens",13.00
+729,4,"经切开","by incision",13.02
+729,5,"伴使用磁铁","with use of magnet",13.01
+729,3,"口(腔内)","mouth (intraluminal)",98.01
+729,4,"经切开","by incision",27.92
+729,3,"眶(经磁铁)","orbit (by magnet)",98.21
+729,4,"经切开","by incision",16.1
+729,3,"泪的","lacrimal",
+729,4,"点","punctum",09.41
+729,5,"经切开","by incision",09.51
+729,4,"泪小管","canaliculi",09.42
+729,5,"经切开","by incision",09.52
+729,4,"囊","sac",09.49
+729,5,"经切开","by incision",09.53
+729,4,"通道","passage",09.49
+729,5,"经切开","by incision",09.59
+729,4,"腺","gland",09.3
+729,5,"经切开","by incision",09.0
+729,3,"颅骨","skull",01.24
+729,4,"伴切开进入脑","with incision into brain",01.39
+729,3,"脉络膜(经切开)","choroid (by incision)",14.00
+729,4,"伴使用磁铁","with use of magnet",14.01
+729,4,"不伴使用磁铁","without use of magnet",14.02
+729,3,"脑","brain",01.39
+730,4,"不伴切开入脑","without incision into brain",01.24
+730,3,"脑膜(脑的)","meninges (cerebral)",01.31
+730,4,"脊髓的","spinal",03.01
+730,4,"脑膜","cerebral meninges",01.31
+730,3,"内固定装置一见去除,固定,内的","internal fixation device-see Removal, fixation device, internal",
+730,3,"黏液囊","bursa",83.03
+730,4,"手","hand",82.03
+730,3,"尿道(腔内)","urethra (intraluminal)",98.19
+730,4,"经切开","by incision",58.0
+730,3,"膀胱(不伴切开)","bladder (without incision)",57.0
+730,4,"经切开","by incision",57.19
+730,3,"膀胱周围组织","perivesical tissue",59.19
+730,3,"皮肤 NEC","skin NEC",98.20
+730,4,"经切开","by incision",86.05
+730,3,"皮下组织 NEC","subcutaneous tissue NEC",98.20
+730,4,"经切开","by incision",86.05
+730,3,"气管(腔内)","trachea (intraluminal)",98.15
+730,4,"经切开","by incision",31.3
+730,3,"前房","anterior chamber",12.00
+730,4,"经切开","by incision",12.02
+730,5,"伴使用磁铁","with use of magnet",12.01
+730,3,"躯干 NEC","trunk NEC",98.25
+730,3,"人造口(腔内)","artificial stoma (intraluminal)",98.18
+730,3,"乳房","breast",85.0
+730,3,"软组织 NEC","soft tissue NEC",83.09
+730,4,"手","hand",82.09
+730,3,"上肢,除外手","upper limb, except hand",98.27
+730,4,"手","hand",98.26
+730,3,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.04
+730,4,"根","root",03.01
+730,3,"肾(经尿道)(经内镜检查)","kidney (transurethral) (by endoscopy)",56.0
+730,4,"骨盆(经尿道)","pelvis (transurethral)",56.0
+730,5,"经切开","by incision",55.11
+730,5,"经切开","by incision",55.01
+730,4,"肾盂(经尿道)","renal pelvis (transurethral)",56.0
+730,5,"经切开","by incision",56.1
+730,4,"肾周围组织","perirenal tissue",59.09
+730,3,"十二指肠","duodenum",98.03
+730,4,"经切开","by incision",45.01
+730,3,"食管(腔内)","esophagus (intraluminal)",98.02
+731,4,"经切开","by incision",42.09
+731,3,"视网膜(经切开)","retina (by incision)",14.00
+731,4,"伴使用磁铁","with use of magnet",14.01
+731,4,"不伴使用磁铁","without use of magnet",14.02
+731,3,"手","hand",98.26
+731,3,"输精管","vas deferens",63.6
+731,3,"输卵管","fallopian tube",
+731,4,"经输卵管切开术","by salpingotomy",66.01
+731,4,"经输卵管造口术","by salpingostomy",66.02
+731,3,"输尿管(经尿道)","ureter (transurethral)",56.0
+731,4,"经切开","by incision",56.2
+731,3,"锁骨上窝","supraclavicular fossa",98.27
+731,4,"经切开","by incision",86.05
+731,3,"头和颈 NEC","head and neck NEC",98.22
+731,3,"外阴","vulva",98.23
+731,4,"经切开","by incision",71.09
+731,3,"胃(腔内)","stomach (intraluminal)",98.03
+731,4,"经切开","by incision",43.0
+731,3,"泡(球囊)","bubble (balloon)",44.94
+731,3,"下肢,除外足","lower limb, except foot",98.29
+731,4,"足","foot",98.28
+731,3,"腺样增殖体","adenoid",98.13
+731,4,"经切开","by incision",28.91
+731,3,"小肠(腔内)","small intestine (intraluminal)",98.03
+731,4,"经切开","by incision",45.02
+731,3,"心包","pericardium",37.12
+731,3,"心脏","heart",37.11
+731,3,"胸(经切开)","thorax (by incision)",34.09
+731,3,"胸膜(经切开)","pleura (by incision)",34.09
+731,3,"胸膜外(经切开)","extrapleural (by incision)",34.01
+731,3,"牙跖,牙槽骨","alveolus, alveolar bone",98.22
+731,4,"经切开","by incision",24.0
+731,3,"眼,眼球(经磁铁)","eye, eyeball (by magnet)",98.21
+731,4,"表浅的","superficial",98.21
+731,4,"后段(经切开)","posterior segment (by incision)",14.00
+731,5,"伴使用磁铁","with use of magnet",14.01
+731,5,"不伴使用磁铁","without use of magnet",14.02
+731,4,"前节(经切开)","anterior segment (by incision)",12.00
+731,5,"伴使用磁铁","with use of magnet",12.01
+731,5,"不伴使用磁铁","without use of magnet",12.02
+731,3,"眼睑","eyelid",98.22
+731,4,"经切开","by incision",08.09
+732,3,"眼内的(经切开)","intraocular (by incision)",12.00
+732,4,"伴使用磁铁","with use of magnet",12.01
+732,4,"不伴使用磁铁","without use of magnet",12.02
+732,3,"咽(腔内)","pharynx (intraluminal)",98.13
+732,4,"经咽切开术","by pharyngotomy",29.0
+732,3,"腋窝","axilla",98.27
+732,4,"经切开","by incision",86.05
+732,3,"胰","pancreas",52.09
+732,3,"阴唇","labia",98.23
+732,4,"经切开","by incision",71.09
+732,3,"阴道(腔内)","vagina (intraluminal)",98.17
+732,4,"经切开","by incision",70.14
+732,3,"阴茎","penis",98.24
+732,4,"经切开","by incision",64.92
+732,3,"阴囊","scrotum",98.24
+732,4,"经切开","by incision",61.0
+732,3,"支气管(腔内)","bronchus (intraluminal)",98.15
+732,4,"经切开","by incision",33.0
+732,3,"直肠(腔内)","rectum (intraluminal)",98.05
+732,4,"经切开","by incision",48.0
+732,3,"肘窝","antecubital fossa",98.27
+732,4,"经切开","by incision",86.05
+732,3,"眦","canthus",98.22
+732,4,"经切开","by incision",08.51
+732,3,"子宫(腔内)","uterus (intraluminal)",98.16
+732,3,"子宫颈(腔内) NEC","cervix (intraluminal) NEC",98.16
+732,4,"穿透性的","penetrating",69.97
+732,3,"纵隔","mediastinum",34.1
+732,3,"足","foot",98.28
+732,3,"翼状胬肉","pterygium",11.39
+732,4,"伴角膜移植","with corneal graft",11.32
+732,3,"阴道膈","diaphragm, vagina",97.73
+732,2,"引流装置一见去除,管","drainage device-see Removal, tube",
+732,2,"硬膜下的","subdural",
+732,3,"条带状","strips",01.22
+732,3,"网状","grids",01.22
+732,2,"游离体","loose body",
+732,3,"骨一见死骨切除术,骨","bone-see Sequestrectomy, bone",
+732,3,"关节","joint",80.10
+732,3,"网状物(外科手术的)一见去除,异物,按部位","mesh (surgical)-see Removal, foreign body, by site",
+733,1,"暂时性经静脉起搏器系统一省略编码","temporary transvenous pacemaker system-omit code",
+733,1,"支持物","brace",97.88
+733,1,"支架","stent",
+733,2,"胆管","bile duct",97.55
+733,2,"喉","larynx",31.98
+733,2,"尿道","urethral",97.65
+733,2,"输尿管的","ureteral",97.62
+733,1,"支气管装置或物质","bronchial device or substance",
+733,1,"内镜的","endoscopic",33.78
+733,1,"肢体延长装置,内的一见亚目","limb lengthening device, internal-see subcategory",78.6
+733,1,"植入","implant",
+733,2,"耳蜗假体装置","cochlear prosthetic device",20.99
+733,2,"鼓膜","tympanum",20.1
+733,2,"角膜","cornea",11.92
+733,2,"晶体(假体)","lens (prosthetic)",13.8
+733,2,"眶","orbit",16.72
+733,2,"乳房","breast",85.94
+733,2,"视网膜","retina",14.6
+733,2,"眼","ocular",16.71
+733,3,"后的段","posterior segment",14.6
+733,2,"中耳 NEC","middle ear NEC",20.99
+733,1,"趾,多余","toes, supernumerary",86.26
+733,1,"指甲(床)(褶)","nail (bed) (fold)",86.23
+733,1,"内固定装置一见去除,固定装置,内的","internal fixation device-see Removal, fixation device, internal",
+733,1,"滞留胎盘(经)","retained placenta (by)",
+733,2,"抽吸刮宫","aspiration curettage",69.52
+733,2,"手法的","manual",75.4
+733,2,"子宫颈扩宫和刮宫","D and C",69.02
+733,1,"主动脉内球囊泵(IABP)","intra-aortic balloon pump (IABP)",97.44
+733,1,"贮池,脑室(欧麻亚)(里克汉)","reservoir, ventricular (Ommaya) (Rickham)",02.43
+733,2,"同时伴置换","with synchronous replacement",02.42
+733,1,"装置(治疗性) NEC","device (therapeutic) NEC",97.89
+733,2,"腹 NEC","abdomen NEC",97.86
+733,2,"脊柱","spine",80.09
+733,2,"泌尿系 NEC","urinary system NEC",97.69
+733,2,"躯干 NEC","trunk NEC",97.87
+733,2,"生殖器道 NEC","genital tract NEC",97.79
+733,2,"头和颈 NEC","head and neck NEC",97.39

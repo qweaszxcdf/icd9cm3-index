@@ -1,0 +1,166 @@
+page,level,chinese,english,code
+509,1,"Eggers手术","Eggers operation",
+509,2,"腱松解(髌支持带)","tendon release (patellar retinacula)",83.13
+509,2,"腱移植术(股二头肌腱)(腘绳肌腱)","tendon transfer (biceps femoris tendon) (hamstring tendon)",83.75
+509,1,"EKG-另见心电图","EKG-see also Electrocardiogram",89.52
+509,1,"Elliot手术(巩膜环钻伴虹膜切除术)","Elliot operation (scleral trephination with iridectomy)",12.61
+509,1,"Ellis Jones手术(腓腱修补术)","Ellis Jones operation (repair of peroneal tendon)",83.88
+509,1,"Ellison手术(副韧带加固)","Ellison operation (reinforcement of collateral ligament)",81.44
+509,1,"Elmslie-Cholmoley手术(跗骨楔形骨切开术)","Elmslie-Cholmoley operation (tarsal wedge osteotomy)",77.28
+509,1,"Eloesser手术(胸廓成形术)","Eloesser operation",
+509,2,"胸成形术","thoracoplasty",33.34
+509,2,"胸廓造口术","thoracostomy",34.09
+509,1,"EMG-见肌电图","EMG-see Electromyogram",
+509,1,"Emmet手术(子宫颈)","Emmet operation (cervix)",67.61
+509,1,"ENG(眼震电流描记图)","ENG (electronystagmogram)",95.24
+509,1,"EOG(眼动图)","EOG (electro-oculogram)",95.22
+509,1,"EPS(电生理测定)","EPS (electrophysiologic stimulation)",
+509,2,"导管侵入性电生理测定","catheter based invasive electrophysiologic testing",37.26
+509,2,"非侵入性程序化电刺激(NIPS)","noninvasive programmed electrical stimulation (NIPS)",37.20
+509,2,"仅有装置感应而无心律失常诱发(床旁检查)","device interrogation only without arrhythmia induction (bedside check)",89.45
+509,2,"作为手术中的测定-省略编码","as part of intraoperative testing-omit code",
+509,1,"Eptifibatide,输注(血小板糖蛋白GP II b/III a受体拮抗剂)","Eptifibatide, infusion",99.20
+509,1,"ERC(内镜逆行胆管造影术)","ERC (endoscopic retrograde cholangiography)",51.11
+509,1,"ERCP(内镜逆行胆管胰造影术)","ERCP (endoscopic retrograde cholangiopancreatography)",51.10
+509,2,"胰腺管套管插入术","cannulation of pancreatic duct",52.93
+509,1,"ERG(视网膜电流图)","ERG (electroretinogram)",95.21
+509,1,"ERP(内镜逆行胰造影术)","ERP (endoscopic retrograde pancreatography)",52.13
+509,1,"Estes手术(卵巢)","Estes operation (ovary)",65.72
+509,2,"腹腔镜的","laparoscopic",65.75
+509,1,"Estlander手术(胸成形术)","Estlander operation (thoracoplasty)",33.34
+510,1,"ESWL(体外休克波碎石术)NEC","ESWL (extracorporeal shockwave lithotripsy) NEC",98.59
+510,2,"Kock凹(泌尿系转流术)","Kock pouch (urinary diversion)",98.51
+510,2,"胆管","bile duct",98.52
+510,2,"胆囊","gallbladder",98.52
+510,2,"膀胱","bladder",98.51
+510,2,"肾","kidney",98.51
+510,2,"肾盂","renal pelvis",98.51
+510,2,"输尿管","ureter",98.51
+510,2,"特指的部位NEC","specified site NEC",98.59
+510,1,"Evans手术(畸形足松解术)","Evans operation (release of clubfoot)",83.84
+510,1,"额叶皮质局部切除术","Topectomy",01.32
+510,1,"厄本手术-见Urban手术","厄本手术- see Urban operation",
+510,1,"腭成形术(用于腭裂修补术)","Uranoplasty (for cleft palate repair)",27.62
+510,1,"腭成形术","Palatoplasty",27.69
+510,2,"用于腭裂","for cleft palate",27.62
+510,3,"II期或随后的","secondary or subsequent",27.63
+510,1,"腭缝合术(用于腭裂修补术)","Uranorrhaphy (for cleft palate repair)",27.62
+510,1,"腭裂伤缝合术","Palatorrhaphy",27.61
+510,2,"用于腭裂","for cleft palate",27.62
+510,1,"耳成形术(外部)","Otoplasty (external)",18.79
+510,2,"耳道或口","auditory canal or meatus",18.6
+510,2,"前突或突出","prominent or protruding",18.5
+510,2,"软骨","cartilage",18.79
+510,3,"重建术","reconstruction",18.71
+510,2,"外耳","auricle",18.79
+510,1,"耳坏死组织切除术(内耳)","Otonecrotomy (inner ear)",20.79
+510,1,"耳镜检查","Otoscopy",18.11
+510,1,"耳前庭切开术","Vestibulotomy",20.79
+510,1,"耳切除术","Auriculectomy",18.39
+510,1,"耳蜗电流描记术","Electrocochleography",20.31
+510,1,"二尖瓣固定术(二尖瓣)","Atriocommissuropexy (mitral valve)",35.12
+510,1,"Farabeuf手术(坐骨耻骨切开术)","Farabeuf operation (ischiopubiotomy)",77.39
+510,1,"Fasanella-Servatt手术(睑下垂修补术)","Fasanella-Servatt operation (blepharoptosis repair)",08.35
+510,1,"Ferguson手术(疝修补术)","Ferguson operation (hernia repair)",53.00
+511,1,"Fick手术(足板穿孔术)","Fick operation (perforation of foot plate)",19.0
+511,1,"Finney手术(幽门成形术)","Finney operation (pyloroplasty)",44.29
+511,1,"Foley手术(肾盂成形术)","Foley operation (pyeloplasty)",55.87
+511,1,"Fontan手术(创建右心房和肺动脉间通道的)","Fontan operation (creation of conduit between right atrium and pulmonary artery)",35.94
+511,1,"Fothergill(-Donald)手术(子宫悬吊术)","Fothergill (-Donald) operation (uterine suspension)",69.22
+511,1,"Fowler手术","Fowler operation",
+511,2,"腱固定术(手)","tenodesis (hand)",82.85
+511,2,"松解术(锤状指修补术)","release (mallet finger repair)",82.84
+511,2,"胸成形术","thoracoplasty",33.34
+511,2,"掌指关节关节成形术","arthroplasty of metacarpophalangeal joint",81.72
+511,1,"Fox手术(睑内翻修补术伴楔形切除术)","Fox operation (entropion repair with wedge resection)",08.43
+511,1,"Franco手术(耻骨上膀胱造口术)","Franco operation (suprapubic cystotomy)",57.18
+511,1,"Frank手术(永久性胃造口术)","Frank operation (permanent gastrostomy)",43.19
+511,1,"Frazier(-Spiller)手术(颞下三叉神经经根切断术)","Frazier (-Spiller) operation (subtemporal trigeminal rhizotomy)",04.02
+511,1,"Fredet-Ramstedt手术(幽门肌切开术)(伴楔形切除术)","Fredet-Ramstedt operation (pyloromyotomy) (with wedge resection)",43.3
+511,1,"Frenckner手术(颞骨岩部内引流)","Frenckner operation (intrapetrosal drainage)",20.22
+511,1,"Frickman手术(腹直肠固定术)","Frickman operation (abdominal proctopexy)",48.75
+511,1,"Frommel手术(子宫骶骨韧带缩短)","Frommel operation (shortening of uterosacral ligaments)",69.22
+511,1,"法腊布夫手术-见Farabeuf手术","法腊布夫手术- see Farabeuf operation",
+511,1,"法桑尼拉-舍瓦特手术-见FasanellaServatt手术","法桑尼拉-舍瓦特手术- see Fasanella-Servatt operation",
+511,1,"法沙吉尔(-唐纳德)手术-见Fothergill(Donald)手术","法沙吉尔(-唐纳德)手术- see Fothergill (-Donald) operation",
+511,1,"发音训练(喉切除术后)","Voice training (postlaryngectomy)",93.73
+511,1,"反旋-见复位,扭转","Derotation-see Reduction, torsion",
+511,1,"方坦手术-见Fontan手术","方坦手术- see Fontan operation",
+511,1,"房间隔成形术-另见修补术,房间隔缺损","Atrioseptoplasty-see also Repair, atrial septal defect",35.71
+512,1,"房间隔修补术-另见修补术,房间隔缺损","Atrioseptopexy-see also Repair, atrial septal defect",35.71
+512,1,"房间隔造口术(心房)(球囊)","Septostomy, Atrioseptostomy (atrial) (balloon)",35.41
+512,1,"放射","Irradiation",
+512,2,"γ,立体定位","gamma, stereotactic",92.32
+512,1,"放射疗法-另见疗法,放射","Radiation therapy-see also Therapy, radiation",
+512,2,"远距离放射疗法-见放射疗法","teleradiotherapy-see Teleradiotherapy",
+512,1,"放射疗法","Actinotherapy",99.82
+512,1,"放射免疫疗法","Radioimmunotherapy",92.28
+512,1,"放射外科学,立体定位","Radiosurgery, stereotactic",92.30
+512,2,"单源光子","single source photon",92.31
+512,2,"多源","multi-source",92.32
+512,2,"放射外科学NEC","radiosurgery NEC",92.39
+512,2,"钴-60","cobalt-60",92.32
+512,2,"粒子","particulate",92.33
+512,2,"粒子束流","particle beam",92.33
+512,2,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+512,1,"放射线学","Radiology",
+512,2,"诊断性-见放射照相术","diagnostic-see Radiography",
+512,2,"治疗性-见疗法,放射","therapeutic-see Therapy, radiation",
+512,1,"放射性核素","Radioisotope",
+512,2,"扫描-见扫描,放射性核素","scanning-see Scan, radioisotope",
+512,2,"治疗性-见疗法,放射性核素","therapy-see Therapy, radioisotope",
+512,1,"放射照相术(诊断性)NEC","Radiography (diagnostic) NEC",88.39
+512,2,"KUB(肾-输尿管-膀胱)","KUB (kidney-ureter-bladder)",87.79
+512,2,"鼻","nose",87.16
+512,2,"鼻窦","nasal sinuses",87.16
+512,2,"鼻泪管","nasolacrimal duct",87.09
+512,2,"鼻咽","nasopharynx",87.09
+512,2,"扁桃体和腺样增殖体","tonsils and adenoids",87.09
+512,2,"肠NEC","intestine NEC",87.65
+512,2,"超声-见超声波检查","ultrasonic-see Ultrasonography",
+512,2,"大腿(骨骼)","thigh (skeletal)",88.27
+512,3,"软组织","soft tissue",88.37
+512,2,"对比(空气)(气体)(放射性不透明物质)NEC","contrast (air) (gas) (radio-opaque substance) NEC",
+512,3,"鼻窦","nasal sinuses",87.15
+512,3,"鼻泪管","nasolacrimal ducts",87.05
+512,3,"鼻咽","nasopharynx",87.06
+512,3,"胆管NEC","bile ducts NEC",87.54
+513,3,"胆囊NEC","gallbladder NEC",87.59
+513,3,"动脉(经荧光镜透视检查法)-见动脉造影术","arteries (by fluoroscopy)-see Arteriography",
+513,3,"窦管道-另见放射照相术,对比,按部位","sinus tract-see also Radiography, contrast, by site",
+513,4,"鼻","nose",87.15
+513,4,"腹壁","abdominal wall",88.03
+513,4,"胸壁","chest wall",87.38
+513,3,"腹壁","abdominal wall",88.03
+513,3,"附睾","epididymis",87.93
+513,3,"腹膜NEC","peritoneum NEC",88.13
+513,3,"腹膜后NEC","retroperitoneum NEC",88.15
+513,3,"骨盆","pelvis",
+513,4,"不透明染色","opaque dye",88.11
+513,4,"气体","gas",88.12
+513,3,"关节","joints",88.32
+513,3,"喉","larynx",87.07
+513,3,"精囊","seminal vesicles",87.91
+513,3,"静脉(经荧光镜透视检查法)-见静脉造影术","veins (by fluoroscopy)-see Phlebography",
+513,3,"眶","orbit",87.14
+513,3,"淋巴-见淋巴管造影","lymph-see Lymphangiogram",
+513,3,"瘘(窦管道)-另见放射照相术,对比,按部位","fistula (sinus tract)-see also Radiography, contrast, by site",
+513,4,"腹壁","abdominal wall",88.03
+513,4,"胸壁","chest wall",87.38
+513,3,"颅骨","skull",87.02
+513,3,"脑","brain",87.02
+513,3,"膀胱NEC","bladder NEC",87.77
+513,3,"气管","trachea",87.32
+513,3,"腔静脉(下)(上)","vena cava (inferior) (superior)",88.51
+513,3,"乳房","breast",87.35
+513,3,"乳房导管","mammary ducts",87.35
+513,3,"食管","esophagus",87.61
+513,3,"输精管","vas deferens",87.94
+513,3,"输卵管","fallopian tubes",
+513,4,"不透明染色","opaque dye",87.83
+513,4,"气体","gas",87.82
+513,3,"胰","pancreas",87.66
+513,3,"支气管NEC(经环状软骨)","bronchus NEC (transcricoid)",87.32
+513,4,"气管内","endotracheal",87.31
+513,3,"椎间盘","intervertebral disc(s), spinal disc(s)",87.21
+513,3,"子宫","uterus",

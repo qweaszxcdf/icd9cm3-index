@@ -1,0 +1,192 @@
+page,level,chinese,english,code
+799,2,"虹膜粘连(后)","synechiae (posterior)",12.33
+799,3,"前的(伴空气或液体注射)","anterior (with injection of air or liquid)",12.32
+799,2,"粘连","adhesions",
+799,3,"鼻,鼻","nose, nasal",21.91
+799,3,"鼻后孔(鼻咽的)","choanae (nasopharynx)",29.54
+799,3,"鼻咽的","nasopharynx",29.54
+799,3,"玻璃体(后入路)","vitreous (posterior approach)",14.74
+799,4,"前入路","anterior approach",14.73
+799,3,"肠","intestines",54.59
+799,4,"腹腔镜的","laparoscopic",54.51
+799,3,"胆道","biliary tract",54.59
+799,4,"腹腔镜的","laparoscopic",54.51
+799,3,"胆囊","gallbladder",54.59
+799,4,"腹腔镜的","laparoscopic",54.51
+799,3,"动脉静脉神经束","artery-vein-nerve bundle",39.91
+799,3,"肺(用于肺萎陷)","lung (for collapse of lung)",33.39
+799,3,"腹的","abdominal",54.59
+799,4,"腹腔镜的","laparoscopic",54.51
+799,3,"腹膜(骨盆)","peritoneum (pelvic)",54.59
+799,4,"腹腔镜的","laparoscopic",54.51
+799,3,"肝","liver",54.59
+799,4,"腹腔镜的","laparoscopic",54.51
+799,3,"骨-见亚目","bone-see subcategory",78.4
+799,3,"骨盆","pelvic",54.59
+799,4,"腹腔镜的","laparoscopic",54.51
+799,3,"关节(囊)(结构)-另见切断,关节囊","joint (capsule) (structure)-see also Division, joint capsule",80.40
+799,3,"关节软骨","cartilage of joint",93.26
+799,3,"虹膜(后的)","iris (posterior)",12.33
+799,4,"前的","anterior",12.32
+799,3,"喉","larynx",31.92
+799,3,"会阴的(女性)","perineal (female)",71.01
+799,3,"肌肉","muscle",83.91
+799,4,"经伸长或处理","by stretching or manipulation",93.27
+799,4,"手","hand",82.91
+799,5,"经伸长或处理","by stretching or manipulation",93.26
+800,3,"眼外","extraocular",15.7
+800,3,"脊髓的(索)(脑膜)(神经根)","spinal (cord) (meninges) (nerve roots)",03.6
+800,3,"腱","tendon",83.91
+800,4,"经伸长或处理","by stretching or manipulation",93.27
+800,4,"手","hand",82.91
+800,5,"经伸长或处理","by stretching or manipulation",93.26
+800,3,"角膜玻璃体","corneovitreal",12.34
+800,3,"结膜","conjunctiva",10.5
+800,3,"筋膜","fascia",83.91
+800,4,"手","hand",82.91
+800,5,"经伸长或处理","by stretching or manipulation",93.26
+800,3,"精索","spermatic cord",63.94
+800,3,"阑尾的","appendiceal",54.59
+800,4,"腹腔镜的","laparoscopic",54.51
+800,3,"卵巢","ovary",65.89
+800,4,"腹腔镜的","laparoscopic",65.81
+800,3,"脑膜(脊髓的)","meninges (spinal)",03.6
+800,4,"皮质的","cortical",02.91
+800,3,"黏液囊","bursa",83.91
+800,4,"经伸长或处理","by stretching or manipulation",93.28
+800,4,"手","hand",82.91
+800,3,"尿道(腔内)","urethra (intraluminal)",58.5
+800,3,"膀胱(颈)(腔内)","bladder (neck) (intraluminal)",57.12
+800,4,"经尿道的","transurethral",57.41
+800,5,"外部的","external",59.11
+800,5,"腹腔镜的","laparoscopic",59.12
+800,3,"膀胱周围的","perivesical",59.11
+800,4,"腹腔镜的","laparoscopic",59.12
+800,3,"脾","spleen",54.59
+800,4,"腹腔镜的","laparoscopic",54.51
+800,3,"皮质的(脑)","cortical (brain)",02.91
+800,3,"气管","trachea",31.92
+800,3,"舌","tongue",25.93
+800,3,"神经(周围的)NEC","nerve (peripheral) NEC",04.49
+800,4,"根,脊髓的","roots, spinal",03.6
+800,4,"颅的NEC","cranial NEC",04.42
+800,4,"三叉的","trigeminal",04.41
+800,3,"神经节(周围的)NEC","ganglion (peripheral) NEC",04.49
+800,4,"颅的NEC","cranial NEC",04.42
+800,3,"肾","kidney",59.02
+800,4,"腹腔镜的","laparoscopic",59.03
+801,3,"肾周围的","perirenal",59.02
+801,4,"腹腔镜的","laparoscopic",59.03
+801,3,"手","hand",82.91
+801,4,"经伸长或处理","by stretching or manipulation",93.26
+801,3,"输卵管","fallopian tube",65.89
+801,4,"腹腔镜的","laparoscopic",65.81
+801,3,"输卵管卵巢","tubo-ovarian",65.89
+801,4,"腹腔镜的","laparoscopic",65.81
+801,3,"输尿管","ureter",59.02
+801,4,"一伴输尿管松解或复位","with freeing or repositioning of ureter",59.02
+801,5,"腹腔镜的","laparoscopic",59.03
+801,5,"腔内的","intraluminal",56.81
+801,4,"输尿管周围的","periureteral",59.02
+801,5,"腹腔镜的","laparoscopic",59.03
+801,3,"外阴","vulva",71.01
+801,3,"心包","pericardium",37.12
+801,3,"心脏","heart",37.10
+801,3,"胸","thorax",34.99
+801,3,"胸壁","chest wall",33.99
+801,3,"胸膜(用于肺萎陷)","pleura (for collapse of lung)",33.39
+801,3,"血管","blood vessels",39.91
+801,3,"眼肌","eye muscle, ocular muscle",15.7
+801,3,"眼睑","eyelid",08.09
+801,4,"和结膜","and conjunctiva",10.5
+801,3,"眼外肌","extraocular muscle",15.7
+801,3,"咽","pharynx",29.54
+801,3,"咽鼓管","Eustachian tube",20.8
+801,3,"阴唇(外阴)","labia (vulva)",71.01
+801,3,"阴道(腔内)","vagina (intraluminal)",70.13
+801,3,"阴茎","penile",64.93
+801,3,"直肠周围的","perirectal",48.81
+801,3,"中耳","middle ear",20.23
+801,3,"周围血管","peripheral vessels",39.91
+801,3,"子宫","uterus",54.59
+801,4,"腹膜的","peritoneal",54.59
+801,5,"腹腔镜的","laparoscopic",54.51
+801,4,"腹腔镜的","laparoscopic",54.51
+801,4,"腔内的","intraluminal",68.21
+801,3,"子宫外","extrauterine",54.59
+801,4,"腹腔镜","laparoscopic",54.51
+801,3,"纵隔","mediastinum",34.99
+802,1,"松开","Unbridling",
+802,2,"腹腔动脉","celiac artery axis",39.91
+802,2,"血管,周围的","blood vessel, peripheral",39.91
+802,1,"苏特手术-见 Soutter 手术","苏特手术-see Soutter operation",
+802,1,"酸剥除,皮肤","Acid peel, skin",86.24
+802,1,"髓核化学溶解术(髓核)","Chemonucleolysis (nucleus pulposus)",80.52
+802,1,"隧道,皮下(胸前)","Tunnel, subcutaneous (antethoracic)",42.86
+802,2,"脉搏发生器导联","pulse generator lead wire",86.99
+802,2,"一次首次操作-省略编码","with initial procedure-omit code",
+802,2,"食管","esophageal",42.68
+802,3,"伴吻合-见吻合术,食管,胸骨前","with anastomosis-see Anastomosis; esophagus, antesternal",42.68
+802,1,"碎裂,破碎","Fragmentation",
+802,2,"超声的","ultrasonic",
+802,3,"白内障(伴抽吸)","cataract (with aspiration)",13.41
+802,3,"结石,泌尿系(Kock凹)","stones, urinary (Kock pouch)",59.95
+802,3,"泌尿系结石","urinary stones",59.95
+802,4,"经皮肾造口术","percutaneous nephrostomy",55.04
+802,2,"机械性","mechanical",
+802,3,"白内障(伴抽吸)","cataract (with aspiration)",13.43
+802,4,"后发性膜","secondary membrane",13.66
+802,4,"后入路","posterior route",13.42
+802,4,"后发性膜(后发障)","secondary membrane (after cataract)",13.66
+802,1,"碎石器-见碎石术","lithotriptor-see Lithotripsy",
+802,1,"碎颅术,胎儿","Cranioclasis, fetal",73.8
+802,1,"碎石术","Lithotripsy",
+802,2,"胆管NEC","bile duct NEC",51.49
+802,3,"体外休克波(ESWL)","extracorporeal shockwave (ESWL)",98.52
+802,2,"胆囊NEC","gallbladder NEC",51.04
+802,3,"内镜的","endoscopic",51.88
+802,3,"体外休克波(ESWL)","extracorporeal shockwave (ESWL)",98.52
+802,2,"膀胱","bladder",57.0
+802,3,"伴超声碎裂,破碎","with ultrasonic fragmentation",57.0[59.95]
+802,3,"体外休克波(ESWL)","extracorporeal shockwave (ESWL)",98.51
+802,2,"肾","kidney",56.0
+802,3,"经皮肾造口术伴碎裂,破碎(激光)(超声)","percutaneous nephrostomy with fragmentation (laser) (ultrasound)",55.04
+802,3,"体外休克波(ESWL)","extracorporeal shockwave (ESWL)",98.51
+802,2,"肾盂","renal pelvis",56.0
+803,3,"经皮肾造口术伴碎裂,破碎(激光)(超声)","percutaneous nephrostomy with fragmentation (laser) (ultrasound)",55.04
+803,3,"体外休克波(ESWL)","extracorporeal shockwave (ESWL)",98.51
+803,2,"输尿管","ureter",56.0
+803,3,"体外休克波(ESWL)","extracorporeal shockwave (ESWL)",98.51
+803,2,"体外休克波(ESWL)NEC","extracorporeal shockwave (ESWL) NEC",98.59
+803,3,"Kock凹","Kock pouch",98.51
+803,3,"胆管","bile duct",98.52
+803,3,"胆囊","gallbladder",98.52
+803,3,"膀胱(泌尿系)","bladder (urinary)",98.51
+803,3,"肾","kidney",98.51
+803,3,"肾盂","renal pelvis",98.51
+803,3,"输尿管","ureter",98.51
+803,3,"特指部位NEC","specified site NEC",98.59
+803,1,"碎石洗出术,膀胱","Litholapaxy, bladder",57.0
+803,2,"经切开","by incision",57.19
+803,1,"碎胎术","Embryotomy",73.8
+803,1,"索恩伯格手术-见 Sonneberg 手术","索恩伯格手术-see Sonneberg operation",
+803,1,"索尔-培根手术-见 Sauer-Bacon 手术","索尔-培根手术-see Sauer-Bacon operation",
+803,1,"索尔特手术-见 Salter 手术","索尔特手术-see Salter operation",
+803,1,"索夫手术-见 Soave 手术","索夫手术-see Soave operation",
+803,1,"索朗多-弗雷手术-见 Sorondo-Ferré 手术","索朗多-弗雷手术-see Sorondo-Ferré operation",
+803,1,"锁骨切除术(部分)","Claviculectomy (partial)",77.81
+803,2,"全部","total",77.91
+803,1,"锁骨切断术","Clavicotomy",77.31
+803,2,"胎儿","fetal",73.8
+803,1,"缩短","Shortening",
+803,2,"提上睑肌","levator palpebrae muscle",08.33
+803,2,"跟腱","heel cord",83.85
+803,2,"巩膜(用于视网膜脱离的修补)","sclera (for repair of retinal detachment)",14.59
+803,3,"经巩膜环扎术-另见环扎术,巩膜的","by scleral buckling-see also Buckling, scleral",14.49
+803,2,"骨(融合术)","bone (fusion)",78.20
+803,3,"尺骨","ulna",78.23
+803,3,"股骨","femur",78.25
+803,3,"胫骨","tibia",78.27
+803,3,"特指的部位NEC-见亚目","specified site NEC-see subcategory",78.2
+803,2,"骨盆内筋膜","endopelvic fascia",69.22
+803,2,"肌肉","muscle",83.85

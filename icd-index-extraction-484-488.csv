@@ -1,0 +1,193 @@
+page,level,chinese,english,code
+484,2,"颅咽管瘤","craniopharyngioma",07.72
+484,2,"卵巢","ovary",65.91
+484,2,"囊肿-见抽吸,按部位","cyst-see Aspiration, by site",
+484,2,"脑池的","cisternal",01.01
+484,2,"脑垂体","hypophysis",07.72
+484,2,"黏液囊(经皮)","bursa (percutaneous)",83.94
+484,3,"手","hand",82.92
+484,2,"脓肿-见抽吸,按部位","abscess-see Aspiration, by site",
+484,2,"膀胱(导管)","bladder (catheter)",57.0
+484,3,"经皮的(针吸)","percutaneous (needle)",57.11
+484,2,"脾(囊肿)","spleen (cyst)",41.1
+484,2,"皮肤","skin",86.01
+484,2,"皮下组织","subcutaneous tissue",86.01
+484,2,"气管","trachea",96.04
+484,3,"伴灌洗","with lavage",96.56
+484,3,"经皮的","percutaneous",31.99
+484,2,"气管内","endotracheal",96.04
+484,3,"伴灌洗","with lavage",96.56
+484,2,"憩室,咽","diverticulum, pharynx",29.0
+484,2,"前房,眼(治疗性)","anterior chamber, eye (therapeutic)",12.91
+484,3,"诊断性","diagnostic",12.21
+484,2,"前列腺(经皮)","prostate (percutaneous)",60.91
+484,2,"乳房","breast",85.91
+484,2,"软组织NEC","soft tissue NEC",83.95
+484,3,"手","hand",82.93
+484,2,"鳃裂囊肿","branchial cleft cyst",29.0
+484,2,"肾(囊肿)(骨盆)(经皮)(治疗性)","kidney (cyst) (pelvis) (percutaneous) (therapeutic)",55.92
+484,3,"诊断性","diagnostic",55.23
+484,2,"输卵管","fallopian tube",66.91
+484,2,"水(眼)(液体)(治疗性)","aqueous (eye) (humor) (therapeutic)",12.91
+484,3,"诊断性","diagnostic",12.21
+484,2,"水囊瘤-见抽吸,按部位","hygroma-see Aspiration, by site",
+484,2,"水囊肿-见抽吸,按部位","seroma-see Aspiration, by site",
+484,2,"心包(伤口)","pericardium (wound)",37.0
+484,2,"胸","chest",34.91
+484,2,"胸膜腔","pleural cavity",34.91
+484,2,"胸腺","thymus",07.92
+484,3,"胸腔镜的","thoracoscopic",07.95
+484,2,"血肿-另见抽吸,按部位","hematoma-see also Aspiration, by site",
+484,3,"产科的","obstetrical",75.92
+484,4,"切开的","incisional",75.91
+485,2,"眼(前房)(治疗性)","eye (anterior chamber) (therapeutic)",12.91
+485,3,"诊断性","diagnostic",12.21
+485,2,"眼前房积血","hyphema",12.91
+485,2,"硬膜外","extradural",01.09
+485,2,"硬膜下腔(脑的)","subdural space (cerebral)",01.09
+485,2,"支气管","bronchus",96.05
+485,3,"伴灌洗","with lavage",96.56
+485,2,"直肠子宫陷凹(脓肿)","cul-de-sac (abscess)",70.0
+485,2,"指甲","nail",86.01
+485,2,"中耳","middle ear",20.09
+485,3,"伴插管","with intubation",20.01
+485,2,"蛛网膜下间隙(脑的)","subarachnoid space (cerebral)",01.09
+485,1,"出血控制-见控制,出血","Hemorrhage control-see Control, hemorrhage",
+485,1,"处理(管理)-另见注射","Administration (of)-see also Injection",
+485,2,"DrotAA(是一种重组人活化蛋白C)","DrotAA",00.11
+485,2,"阿地介仑素(小剂量)","Proleukin (low-dose)",99.28
+485,3,"大剂量","high-dose",00.15
+485,2,"阿尼普酶(tPA,generic)","Anistreplase (tPA, generic)",99.10
+485,2,"阿尼普酶","Eminase",99.10
+485,2,"阿替普酶(tPA,generic)","Alteplase (tPA, generic)",99.10
+485,2,"阿替普酶注射剂","Activase",99.10
+485,2,"本德尔视觉运动完形试验","Bender Visual-Motor Gestalt test",94.02
+485,2,"本顿视觉保持试验","Benton Visual Retention test",94.02
+485,2,"抗毒素NEC","antitoxins NEC",99.58
+485,3,"白喉","diphtheria",99.58
+485,3,"波特淋菌中毒(香肠中毒)","botulism",99.57
+485,3,"破伤风","tetanus",99.56
+485,3,"气疽","gas gangrene",99.58
+485,3,"猩红热","scarlet fever",99.58
+485,2,"类毒素","toxoid",
+485,3,"白喉","diphtheria",99.36
+485,4,"伴破伤风和百日咳,联合的(DTP)","with tetanus and pertussis, combined (DTP)",99.39
+485,3,"破伤风","tetanus",99.38
+485,4,"伴白喉和百日咳,联合的(DTP)","with diphtheria and pertussis, combined (DTP)",99.39
+485,2,"链激酶(tPA,generic)","Streptokinase (tPA, generic) Streptase",99.10
+485,2,"瑞替普酶(tPA,generic) Retavase","Reteplase (tPA, generic)",99.10
+485,2,"神经保护剂","neuroprotective agent",99.75
+485,2,"斯坦福比奈智商测试","Stanford-Binet test",94.01
+486,2,"替奈普酶(tPA,generic)","Tenecteplase (tPA, generic)",99.10
+486,2,"替奈替普酶","TNKase",99.10
+486,2,"韦克斯勒","Wechsler",
+486,3,"Xigris[重组人活化蛋白C]","Xigris",00.11
+486,3,"记忆测量","Memory Scale",94.02
+486,3,"智力测量(成人)(儿童)","Intelligence Scale (adult) (children)",94.01
+486,2,"吸入一氧化氮","inhaled nitric oxide",00.12
+486,2,"心理测验","psychologic test",94.02
+486,2,"疫苗-另见接种疫苗","vaccine-see also Vaccination",
+486,3,"TAB[伤寒及副伤寒甲,乙三联疫苗]","TAB",99.32
+486,3,"脊髓灰质炎","poliomyelitis",99.41
+486,3,"卡介苗","BCG",99.33
+486,3,"麻疹腮腺炎风疹(MMR)","measles-mumps-rubella (MMR)",99.48
+486,2,"粘连屏障物","adhesion barrier substance",99.77
+486,2,"智力测验或测量(斯坦福比奈)(韦克斯勒)(成人)(儿童)","intelligence test or scale (Stanford-Binet) (Wechsler) (adult) (children)",94.01
+486,3,"MMPI(明尼苏达多相人格测验)","MMPI (Minnesota Multiphasic Personality Inventory)",94.02
+486,3,"明尼苏达多相人格测验(MMPI)","Minnesota Multiphasic Personality Inventory (MMPI)",94.02
+486,1,"处女膜成形术","Hymenoplasty",70.76
+486,1,"处女膜缝合术","Hymenorrhaphy",70.76
+486,1,"处女膜切除术","Hymenectomy",70.31
+486,1,"处女膜切开术","Hymenotomy",70.11
+486,1,"楚奇手术-见Tsuge手术","楚奇手术-see Tsuge operation",
+486,1,"触觉引导系统[TGS]-见亚目","Tactile Guidance System [TGS]-see subcategory",17.4
+486,1,"穿刺","Puncture",
+486,2,"鼻窦","nasal sinus",22.01
+486,2,"垂体腺","pituitary gland",07.72
+486,2,"动脉NEC","artery NEC",38.98
+486,3,"经皮血管关闭-省略编码","percutaneous vascular closure-omit code",
+486,4,"为了","for",
+486,5,"动脉造影术-另见动脉造影术","arteriography-see also Arteriography",88.40
+486,4,"用于","for",
+486,5,"冠状动脉造影术-另见动脉造影术,冠状","coronary arteriography-see also Arteriography, coronary",88.57
+486,2,"窦(鼻的)(双侧)(单侧)","antrum (nasal) (bilateral) (unilateral)",22.01
+487,2,"肺(用于抽吸)","lung (for aspiration)",33.93
+487,2,"关节","joint",81.91
+487,2,"虹膜","iris",12.12
+487,2,"喉","larynx",31.98
+487,2,"脊髓的","spinal",03.31
+487,2,"静脉NEC","vein NEC",38.99
+487,3,"为了","for",
+487,4,"静脉造影术-另见静脉造影术","phlebography-see also Phlebography",88.60
+487,3,"输注-见输注","transfusion-see Transfusion",
+487,2,"腊特克凹","Rathke's pouch",07.72
+487,2,"颅的","cranial",01.09
+487,3,"伴对比介质","with contrast media",87.02
+487,2,"颅颊囊","craniobuccal pouch",07.72
+487,2,"颅咽管瘤","craniopharyngioma",07.72
+487,2,"脑池的","cisternal",01.01
+487,3,"伴对比介质","with contrast media",87.02
+487,2,"脑垂体","hypophysis",07.72
+487,2,"脑室分流管","ventricular shunt tubing",01.02
+487,2,"黏液囊","bursa",83.94
+487,3,"手","hand",82.92
+487,2,"膀胱,耻骨上(为了引流)NEC","bladder, suprapubic (for drainage) NEC",57.18
+487,3,"经皮(耻骨上)","percutaneous (suprapubic)",57.17
+487,3,"针吸","needle",57.11
+487,2,"脾","spleen",41.1
+487,3,"用于活组织检查","for biopsy",41.32
+487,2,"肾(经皮)","kidney (percutaneous)",55.92
+487,2,"输卵管","fallopian tube",66.91
+487,2,"心包","pericardium",37.0
+487,2,"心脏","heart",37.0
+487,3,"用于心内注射","for intracardiac injection",37.92
+487,2,"囟门,前的","fontanel, anterior",01.09
+487,2,"胸骨的(用于骨髓活组织检查)","sternal (for bone marrow biopsy)",41.31
+487,3,"骨髓移植的供者","donor for bone marrow transplant",41.91
+487,2,"胸膜腔","pleural cavity",34.91
+487,2,"腰的(诊断性)(去除染色)","lumbar (diagnostic) (removal of dye)",03.31
+487,1,"穿刺放液术","Tap",
+487,2,"腹","abdomen",54.91
+487,2,"关节","joint",81.91
+487,2,"脊髓的(诊断性)","spinal (diagnostic)",03.31
+487,2,"颅的","cranial",01.09
+488,2,"脑池的","cisternal",01.01
+488,2,"外淋巴","perilymphatic",20.79
+488,2,"胸","chest, thorax",34.91
+488,2,"腰的(诊断性)(去除染色)","lumbar (diagnostic) (removal of dye)",03.31
+488,2,"硬膜下的(经囟门)","subdural (through fontanel)",01.09
+488,1,"穿刺放液术","Paracentesis",
+488,2,"腹的(经皮)","abdominal (percutaneous)",54.91
+488,2,"鼓膜","tympanum",20.09
+488,2,"角膜","cornea",12.91
+488,2,"膀胱","bladder",57.11
+488,2,"前房,眼","anterior chamber, eye",12.91
+488,2,"胸","thoracic",34.91
+488,2,"眼(前房)","eye (anterior chamber)",12.91
+488,1,"穿孔","Perforation",
+488,2,"镫骨底板","stapes footplate",19.0
+488,1,"穿孔耳,外部(耳垂)","Piercing ear, external (pinna)",18.01
+488,1,"穿颅术(颅切开术),胎儿","Cephalotomy, fetus",73.8
+488,1,"穿丝法(动脉瘤)(脑的)","Filipuncture (aneurysm) (cerebral)",39.52
+488,1,"传导研究,神经","Conduction study, nerve",89.15
+488,1,"创建-另见形成","Creation-see also Formation",
+488,2,"并趾(手指)(趾)","syndactyly (finger) (toe)",86.89
+488,2,"窗","window",
+488,3,"心包的","pericardial",37.12
+488,3,"胸膜,为了引流","pleura, for drainage",34.09
+488,2,"分流-另见分流","shunt-see also Shunt",
+488,3,"动静脉瘘,为了透析","arteriovenous fistula, for dialysis",39.93
+488,3,"左-右(体循环与肺动脉循环)","left-to-right (systemic to pulmonary circulation)",39.0
+488,2,"管道","conduit",
+488,3,"回肠(泌尿系)","ileal (urinary)",56.51
+488,3,"心尖主动脉(AAC)","apical-aortic (AAC)",35.93
+488,3,"右心房和肺动脉","right atrium and pulmonary artery",35.94
+488,3,"右心室和肺动脉(末端)动脉","right ventricle and pulmonary (distal) artery",35.92
+488,4,"修补术的","in repair of",
+488,5,"大血管转位","transposition of great vessels",35.92
+488,5,"动脉干","truncus arteriosus",35.83
+488,5,"肺动脉闭锁","pulmonary artery atresia",35.92
+488,3,"左心室和主动脉","left ventricle and aorta",35.93
+488,2,"哈特曼凹-见结肠切除术,按部位","Hartmann pouch-see Colectomy, by site",
+488,2,"囊袋","pocket",
+488,3,"丘脑刺激器脉搏发生器","thalamic stimulator pulse generator",

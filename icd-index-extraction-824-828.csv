@@ -1,0 +1,185 @@
+page,level,chinese,english,code
+824,1,"胃造口术(布朗希威格)(减压)(细口径管)(卡德尔)(永久性)(施塔姆)(施塔姆卡德尔)(暂时性)(管)(威策尔)","Gastrostomy (Brunschwigs) (decompression) (fine caliber tube) (Kader) (permanent) (Stamm) (Stamm-Kader) (temporary) (tube) (Witzel)",43.19
+824,2,"贝吉","Beck-Jianu",43.19
+824,2,"弗兰克","Franks",43.19
+824,2,"经皮(内镜的)(钉)","percutaneous (endoscopic) (PEG)",43.11
+824,2,"萨-弗","Ssabanejew-Frank",43.19
+824,2,"斯皮瓦克","Spivacks",43.19
+824,2,"詹韦","Janeway",43.19
+824,1,"胃折叠术","Gastroplication",44.69
+824,2,"腹腔镜","laparoscopic",44.68
+824,1,"温度梯度研究—另见热象图术","Temperature gradient study-see also Thermography",88.89
+824,1,"文身(角膜墨针术)","Tattooing",
+824,2,"角膜","cornea",11.91
+824,2,"皮肤","skin",86.02
+824,1,"稳定术,关节—另见关节固定术","Stabilization, joint-see also Arthrodesis",
+824,2,"髌骨(用于复发性脱位)","patella (for recurrent dislocation)",81.44
+824,1,"吻合术","Anastomosis",
+824,2,"鼻泪管的","nasolacrimal",09.81
+824,2,"肠—另见吻合术,肠","bowel-see also Anastomosis, intestine",45.90
+824,2,"肠","intestine",45.90
+824,3,"大肠与大肠","large-to-large",45.94
+824,3,"大肠与肛门","large-to-anus",45.95
+824,3,"大肠与小肠","large-to-small",45.93
+824,3,"大肠与直肠","large-to-rectum",45.94
+824,3,"小肠与大肠","small-to-large",45.93
+824,3,"小肠与肛门","small-to-anus",45.95
+824,3,"小肠与小肠","small-to-small",45.91
+824,3,"小肠与直肠残端","small-to-rectal stump",45.92
+824,2,"肠系膜腔静脉","mesenteric-caval,mesocaval",39.1
+824,2,"胆管","bile ducts",51.39
+824,2,"胆囊","gallbladder",51.35
+824,3,"与","to",
+824,4,"肠","intestine",51.32
+824,4,"肝管","hepatic ducts",51.31
+824,4,"胃","stomach",51.34
+824,4,"胰","pancreas",51.33
+824,2,"胆囊管","cystic bile duct",51.39
+824,2,"胆总管","common bile duct",51.39
+825,1,"动静脉 NEC","arteriovenous NEC",39.29
+825,2,"用于肾透析","for renal dialysis",39.27
+825,2,"动脉(远端与近端缝合)","artery (suture of distal to proximal end)",39.31
+825,3,"伴","with",
+825,4,"旁路移植","bypass graft",39.29
+825,5,"颅外颅内[ECIC]","extracranial-intracranial [EC-IC]",39.28
+825,3,"切除术或血管切除术—见动脉切除术,伴吻合,按部位","excision or resection of vessel-see Arteriectomy, with anastomosis, by site",
+825,3,"修复术","revision",39.49
+825,3,"肺动脉和上腔静脉","pulmonary artery and superior vena cava",39.21
+825,2,"肺动脉锁骨下动脉(布莱洛克-陶西格)","pulmonary-subclavian artery (Blalock-Taussig)",39.0
+825,2,"肺动脉无名动脉(布莱洛克)","pulmonary-innominate artery (Blalock)",39.0
+825,2,"肺动脉主动脉(波茨)","pulmonary-aortic (Potts)",39.0
+825,2,"肺静脉和奇静脉","pulmonary vein and azygos vein",39.23
+825,2,"肺总动脉干和左心房(后壁)","common pulmonary trunk and left atrium (posterior wall)",35.82
+825,2,"腹动脉与冠状动脉","abdominal artery to coronary artery",37.17
+825,2,"附睾与输精管","epididymis to vas deferens",63.83
+825,2,"副神经面神经","accessory-facial nerve",04.72
+825,2,"副神经舌下神经","accessory-hypoglossal nerve",04.73
+825,2,"肝管","hepatic duct",51.39
+825,2,"肝内","intrahepatic",51.79
+825,2,"肛门(伴直肠内回肠凹形成)","anus (with formation of endorectal ileal pouch)",45.95
+825,2,"回肠肛门","ileoanal",45.95
+825,2,"回肠襻与膀胱","ileal loop to bladder",57.87[45.51]
+825,2,"回肠直肠","ileorectal",45.93
+825,2,"结肠咽下的(胸内)","colohypopharyngeal (intrathoracic)",42.55
+825,2,"胸骨前或胸前","antesternal or antethoracic",42.65
+825,2,"颈动脉锁骨下动脉","carotid-subclavian artery",39.22
+825,2,"颈食管的","cervicoesophageal",42.59
+825,2,"静脉(近端与远端缝合)(伴旁路移植)","veins (suture of proximal to distal end) (with bypass graft)",39.29
+825,3,"伴切除术或血管切除术—见静脉切除术,伴吻合,按部位","with excision or resection of vessel-see Phlebectomy, with anastomosis, by site",
+825,3,"肠系膜与腔静脉","mesenteric to vena cava",39.1
+825,3,"门静脉与下腔静脉","portal to inferior vena cava",39.1
+826,2,"脾和肾","splenic and renal",39.1
+826,2,"修复术","revision",39.49
+826,2,"阑尾","appendix",47.99
+826,2,"泪囊与结膜","lacrimal sac to conjunctiva",09.82
+826,2,"淋巴的(管)(周围的)","lymphatic (channel) (peripheral)",40.9
+826,2,"门静脉腔静脉","portacaval",39.1
+826,2,"门静脉与下腔静脉","portal vein to inferior vena cava",39.1
+826,2,"面-副神经","facial-accessory nerve",04.72
+826,2,"面-舌下神经","facial-hypoglossal nerve",04.71
+826,2,"脑室,脑室的(大脑内的)(伴有瓣)—另见分流,脑室","ventricle, ventricular (intracerebral) (with valve)-see also Shunt, ventricular",02.22
+826,2,"脑室腔静脉的(伴有瓣)","ventriculocaval (with valve)",02.32
+826,2,"脑室腔乳突的(伴有瓣)","ventriculomastoid (with valve)",02.31
+826,2,"脑室腔胸膜的(伴有瓣)","ventriculopleural (with valve)",02.33
+826,2,"脑室心房的(伴有瓣)","ventriculoatrial (with valve)",02.32
+826,2,"尿道(端-端)","urethra (end-to-end)",58.44
+826,2,"膀胱—见吻合术,膀胱","vesicle-see Anastomosis, bladder",
+826,2,"膀胱 NEC","bladder NEC",57.88
+826,3,"伴","with",
+826,4,"分离的肠段","isolated segment of intestine",57.87[45.50]
+826,5,"回肠","ileum",57.87[45.51]
+826,5,"结肠(乙状)","colon (sigmoid)",57.87[45.52]
+826,5,"开放性回肠襻","open loop of ileum",57.87[45.51]
+826,4,"与肠","to intestine",57.88
+826,5,"回肠","ileum",57.87[45.51]
+826,3,"膀胱结肠","cystocolic",57.88
+826,2,"脾静脉与肾静脉","splenic to renal veins",39.1
+826,2,"脾肾(静脉)","splenorenal (venous)",39.1
+826,3,"动脉","arterial",39.26
+826,2,"腔静脉-肠系膜静脉","caval-mesenteric vein",39.1
+826,2,"腔静脉-肺动脉","caval-pulmonary artery",39.21
+826,2,"桡动脉","radial artery",36.19
+826,2,"乳内动脉(与)","internal mammary artery (to)",
+826,3,"冠状动脉(单根血管)","coronary artery (single vessel)",36.15
+826,3,"两根血管","double vessel",36.16
+826,3,"心肌","myocardium",36.2
+826,2,"上腔静脉与肺动脉","superior vena cava to pulmonary artery",39.21
+826,2,"舌下-副神经","hypoglossal-accessory nerve",04.73
+826,2,"舌下-面神经","hypoglossal-facial nerve",04.71
+826,2,"神经(颅的)(周围的): NEC","nerve (cranial) (peripheral) NEC",04.74
+827,2,"副-面","accessory-facial",04.72
+827,2,"副-舌下","accessory-hypoglossal",04.73
+827,2,"舌下-面","hypoglossal-facial",04.71
+827,2,"肾(盂)","renal (pelvis)",55.86
+827,2,"静脉和脾静脉","vein and splenic vein",39.1
+827,2,"肾静脉门静脉的","renoportal",39.1
+827,2,"肾盂回肠皮肤的","pyeloileocutaneous",56.51
+827,2,"肾盂输尿管膀胱的","pyeloureterovesical",55.86
+827,2,"食管(胸膜内)(胸内)(胸骨后) NEC","esophagus (intrapleural) (intrathoracic) (retrosternal) NEC",42.59
+827,3,"伴","with",
+827,4,"间置 NEC","interposition (of) NEC",42.58
+827,5,"结肠","colon",42.55
+827,5,"空肠","jejunum",42.53
+827,5,"小肠","small bowel",42.53
+827,4,"胃切除术(部分)","gastrectomy (partial)",43.5
+827,5,"完全或全部","complete or total",43.99
+827,3,"胸骨前或胸前 NEC","antesternal or antethoracic NEC",42.69
+827,4,"伴","with",
+827,5,"间置 NEC","interposition (of) NEC",42.68
+827,6,"结肠","colon",42.65
+827,6,"空肠襻","jejunal loop",42.63
+827,6,"小肠","small bowel",42.63
+827,6,"橡皮管","rubber tube",42.68
+827,5,"与肠段 NEC","to intestinal segment NEC",42.64
+827,6,"伴间置术","with interposition",42.68
+827,6,"结肠 NEC","colon NEC",42.66
+827,7,"伴间置术","with interposition",42.65
+827,6,"小肠 NEC","small bowel NEC",42.64
+827,7,"伴间置术","with interposition",42.63
+827,4,"与肠段(胸内) NEC","to intestinal segment (intrathoracic) NEC",42.54
+827,5,"伴间置术","with interposition",42.58
+827,6,"结肠(胸内的) NEC","colon (intrathoracic) NEC",42.56
+827,7,"伴间置术","with interposition",42.55
+827,6,"胸骨前或胸前的","antesternal or antethoracic",42.66
+827,7,"伴间置术","with interposition",42.65
+827,6,"小肠 NEC","small bowel NEC",42.54
+827,7,"伴间置术","with interposition",42.53
+827,6,"胸骨前或胸前的","antesternal or antethoracic",42.64
+827,7,"伴间置术","with interposition",42.63
+827,5,"胸骨前或胸前的 NEC","antesternal or antethoracic NEC",42.64
+828,4,"伴间置术","with interposition",42.68
+828,2,"食管结肠(胸内) NEC","esophagocolic (intrathoracic) NEC",42.56
+828,3,"伴间置术","with interposition",42.55
+828,3,"胸骨前或胸前 NEC","antesternal or antethoracic NEC",42.66
+828,4,"伴间置术","with interposition",42.65
+828,2,"食管结肠胃的(胸内)","esophagocologastric (intrathoracic)",42.55
+828,3,"胸骨前或胸前的","antesternal or antethoracic",42.65
+828,2,"食管十二指肠的(胸内) NEC","esophagoduodenal (intrathoracic) NEC",42.54
+828,3,"伴间置术","with interposition",42.53
+828,2,"食管食管的(胸内)","esophagoesophageal (intrathoracic)",42.51
+828,3,"胸骨前或胸前的","antesternal or antethoracic",42.61
+828,2,"食管胃的(胸内)","esophagogastric (intrathoracic)",42.52
+828,3,"胸骨前或胸前的","antesternal or antethoracic",42.62
+828,2,"食管小肠的(胸内) NEC—另见吻合术,食管,与肠段","esophagoenteric (intrathoracic) NEC-see also Anastomosis, esophagus, to intestinal segment",42.54
+828,2,"胸骨前或胸前的 NEC—另见吻合术,食管,胸骨前,与肠段","antesternal or antethoracic NEC-see also Anastomosis, esophagus, antesternal, to intestinal segment",42.64
+828,2,"输精管","vas deferens",63.82
+828,2,"输卵管","fallopian tube",66.73
+828,3,"经再吻合术","by reanastomosis",66.79
+828,2,"输卵管硬脊膜的(伴有瓣)","salpingothecal (with valve)",03.79
+828,2,"输尿管(与) NEC","ureter (to) NEC",56.79
+828,3,"肠","intestine",56.71
+828,4,"回肠","ileum",56.71
+828,4,"回肠凹(膀胱)","ileal pouch (bladder)",56.51
+828,4,"结肠","colon",56.71
+828,4,"膀胱","bladder",56.74
+828,4,"皮肤","skin",56.61
+828,3,"输尿管结肠","ureterocolic",56.71
+828,3,"输尿管膀胱","ureterovesical",56.74
+828,3,"输尿管肾盂","ureterocalyceal",55.86
+828,2,"锁骨下-主动脉","subclavian-aortic",39.22
+828,2,"体动脉-肺动脉","systemic-pulmonary artery",39.0
+828,2,"胃网膜动脉与冠状动脉","gastroepiploic artery to coronary artery",36.17
+828,2,"下腔静脉和门静脉","inferior vena cava and portal vein",39.1
+828,2,"胸动脉(至)","thoracic artery (to)",
+828,3,"冠状动脉(单)","coronary artery (single)",36.15
+828,3,"双","double",36.16

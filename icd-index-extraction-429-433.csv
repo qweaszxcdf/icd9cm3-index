@@ -1,0 +1,199 @@
+page,level,chinese,english,code
+429,3,"胃,胃的","stomach,gastric",44.41
+429,2,"阑尾造口术","appendicostomy",47.92
+429,2,"裂手","cleft hand",82.82
+429,2,"瘘","fistula",
+429,3,"鼻","nasal",21.82
+429,4,"窦","sinus",22.71
+429,3,"鼻唇的","nasolabial",21.82
+429,3,"鼻咽的","nasopharyngeal",21.82
+429,3,"肠","intestine",46.79
+429,4,"大的","large",46.76
+429,4,"小的 NEC","small NEC",46.74
+429,3,"肠结肠的","intestinocolonic",46.74
+429,3,"肠膀胱的","intestinovesical,enterovesical",57.83
+429,3,"肠皮肤的","enterocutaneous",46.74
+429,3,"肠输尿管的","intestinoureteral",56.84
+429,3,"肠阴道的","intestinovaginal,enterovaginal",70.74
+429,3,"肠子宫的","intestinouterine,enterouterine",69.42
+429,3,"胆道","biliary tract",51.79
+429,3,"胆囊","gallbladder",51.93
+429,3,"胆囊结肠的","cholecystoenteric",51.93
+429,3,"胆囊空肠的","cholecystocolic",51.93
+429,3,"胆囊十二指肠的","cholecystoduodenal",51.93
+429,3,"胆囊胃的","cholecystogastric",51.93
+429,3,"胆总管","common duct",51.72
+429,3,"耳鼓膜","ear drum",19.4
+429,3,"肺腹膜的","pulmonoperitoneal",34.83
+429,3,"腹胸的","abdominothoracic",34.83
+429,3,"肝肺的","hepatopulmonary",34.73
+429,3,"肝管","hepatic duct",51.79
+429,3,"肝胸膜的","hepatopleural",34.73
+429,3,"肛门","in ano,anus",49.73
+429,3,"肛门阴道的","anovaginal",70.73
+429,3,"肛门直肠的","anorectal",48.73
+429,3,"鼓膜—另见鼓室成形术","tympanic membrane-see also Tympanoplasty",19.4
+429,3,"横隔","diaphragm",34.83
+429,3,"喉","larynx",31.62
+429,3,"喉气管的","laryngotracheal",31.62
+429,3,"回肠","ileum",46.74
+429,3,"回肠膀胱的","ileovesical",57.83
+429,3,"回肠乙状结肠的","ileosigmoidal",46.74
+430,3,"回肠直肠的","ileorectal",46.74
+430,3,"会阴","perineum",71.72
+430,3,"会阴尿道阴囊的","perineourethroscrotal",58.43
+430,3,"会阴乙状结肠的","perineosigmoidal",46.76
+430,3,"会阴直肠的","perineorectal",48.73
+430,3,"角膜","cornea",11.49
+430,4,"伴板层移植(自体移植)","with lamellar graft (homograft)",11.62
+430,5,"自体移植","autograft",11.61
+430,3,"结肠","colon",46.76
+430,3,"结肠阴道的","colovaginal",70.72
+430,3,"颈耳的","cervicoaural",18.79
+430,3,"空肠","jejunum",46.74
+430,3,"口(外的)","mouth (external)",27.53
+430,3,"口腔的","oronasal",21.82
+430,3,"口腔鼻窦的","oroantral,antrobuccal",22.71
+430,3,"阑尾","appendix",47.92
+430,3,"泪的","lacrimal",09.99
+430,3,"淋巴管,左(胸)","lymphatic duct, left (thoracic)",40.63
+430,3,"卵圆窗的(耳)","oval window (ear)",20.93
+430,3,"盲肠乙状结肠的","cecosigmoidal",46.76
+430,3,"脑脊液","cerebrospinal fluid",02.12
+430,3,"尿道","urethra",58.43
+430,3,"尿道膀胱的","uteroenteric",69.42
+430,3,"尿道阴道的","urethrovaginal",58.43
+430,3,"尿道阴囊的","urethroscrotal",58.43
+430,3,"尿道直肠的","urethrorectal",58.43
+430,3,"排泄物的","fecal",46.79
+430,3,"膀胱 NEC","bladder NEC",57.84
+430,3,"膀胱肠的","vesicoenteric",57.83
+430,3,"膀胱会阴的","vesicoperineal",57.84
+430,3,"膀胱结肠的","vesicocolic",57.83
+430,3,"膀胱尿道的","vesicourethral",57.84
+430,3,"膀胱输尿管的","vesicoureteral",56.84
+430,3,"膀胱输尿管阴道的","vesicoureterovaginal",56.84
+430,3,"膀胱乙状结肠的","vesicosigmoidal",57.83
+430,3,"膀胱阴道的","vesicovaginal",57.84
+430,3,"膀胱直肠的","vesicorectal",57.83
+431,3,"膀胱子宫的","vesicouterine",57.84
+431,3,"膀胱子宫颈阴道的","vesicocervicovaginal",57.84
+431,3,"膀胱子宫直肠的","vesicometrectal",57.83
+431,3,"脾结肠的","splenocolic",41.95
+431,3,"脐尿管","umbilicourinary",57.51
+431,3,"气管 NEC","trachea NEC",31.73
+431,3,"气管食管的","tracheoesophageal",31.73
+431,3,"乳糜池(胸导管在腹部其起源处的膨大部分)","cisterna chyli",40.63
+431,3,"乳突(窦)","mastoid (antrum)",19.9
+431,3,"颚裂","branchial cleft",29.52
+431,3,"肾-肠的","reno-intestinal",55.83
+431,3,"肾,肾的","kidney,renal",55.83
+431,3,"十二指肠","duodenum",46.72
+431,3,"食管 NEC","esophagus NEC",42.84
+431,3,"食管皮肤的","esophagocutaneous",42.84
+431,3,"食管气管的","esophagotracheal",31.73
+431,3,"食管膈膜皮肤的","esophagopleurocutaneous",34.73
+431,3,"食管支气管的","esophagobronchial",33.42
+431,3,"输尿管","ureter",56.84
+431,3,"输尿管膀胱","ureterovesical",56.84
+431,3,"输尿管乙状结肠的","ureterosigmoidal",56.84
+431,3,"输尿管阴道的","ureterovaginal",56.84
+431,3,"输尿管直肠的","ureterorectal",56.84
+431,3,"输尿管子宫颈的","ureterocervical",56.84
+431,3,"外淋巴","perilymph",20.93
+431,3,"外阴","vulva",71.72
+431,3,"外阴直肠的","vulvovaginal",48.73
+431,3,"胃 NEC","stomach NEC",44.63
+431,3,"胃结肠的","gastrocolic",44.63
+431,3,"胃空肠的","gastrojejunal",44.63
+431,3,"胃空肠结肠的","gastrojejunocolic",44.63
+431,3,"胃食管的","gastroesophageal",42.84
+431,3,"胃腭的","gastroenterocolic",44.63
+431,3,"胃小肠结肠的","gastrojejunocolic",44.63
+431,3,"心脏瓣膜-另见修补术,心脏,瓣膜","heart valve-see Repair, heart, valve",34.73
+431,3,"胸 NEC","thorax NEC",34.73
+431,3,"胸腔的","thoracointestinal",34.83
+431,3,"胸导管","thoracic duct",40.63
+431,3,"胸膜","thoracoabdominal",34.83
+432,3,"胸膜,胸膜 NEC","pleura, pleural NEC",34.93
+432,3,"胸膜腔 NEC","pleuroperitoneal",34.83
+432,3,"胸膜皮肤的","pleurocutaneous",34.73
+432,3,"胸膜心包的","pleuropericardial",37.49
+432,3,"胸腔的","thoracogastric",34.83
+432,3,"咽 NEC","pharynx NEC",29.53
+432,3,"咽食管的","pharyngoesophageal",29.53
+432,3,"胰十二指肠的","pancreaticoduodenal",52.95
+432,3,"乙状结肠膨出的","sigmoidovesical",57.83
+432,3,"乙状结肠阴道的","sigmoidovaginal",70.74
+432,3,"阴道","vagina",70.75
+432,3,"阴道的","vaginocentric",70.74
+432,3,"阴道会阴的","vaginoperineal",70.75
+432,3,"阴道周围的","vaginocutaneous",70.75
+432,3,"阴道膨胀的","vaginovesical",57.84
+432,3,"阴道皮肤的","vaginocutaneous",70.75
+432,3,"阴囊","scrotum",61.42
+432,3,"圆窗","round window",20.93
+432,3,"支气管","bronchus",33.42
+432,3,"支气管内脏的","bronchovisceral",33.42
+432,3,"支气管皮肤的","bronchocutaneous",33.42
+432,3,"支气管食管的","bronchoesophageal",33.42
+432,3,"支气管膈膜的","bronchopleural",34.73
+432,3,"支气管胸膜皮肤的","bronchopleurocutaneous",34.73
+432,3,"支气管胸膜纵隔的","bronchopleuro mediastinal",34.73
+432,3,"支气管纵隔的","bronchomediastinal",34.73
+432,3,"直肠 NEC","rectum NEC",48.73
+432,3,"直肠尿道的","rectourethral",58.43
+432,3,"直肠膨肿的","rectovesical",57.83
+432,3,"直肠输尿管的","rectoureteral",56.84
+432,3,"直肠外阴的","rectovulvar",48.73
+432,3,"直肠阴茎的","rectolabial",48.73
+432,3,"直肠阴道的","rectovaginal",70.73
+432,3,"直肠周围的","perirectal",48.93
+432,3,"中耳","ear, middle",19.9
+432,3,"主动脉肺动脉开窗术(瘘)","aorticopulmonary (fenestration)",39.59
+432,3,"主动脉十二指肠的","aortoduodenal",39.59
+432,3,"子宫肠的","uterointestinal",69.42
+432,3,"子宫颈","cervix",67.62
+432,3,"子宫颈膨胀的","cervicovesical",57.84
+432,3,"子宫颈乙状结肠的","cervicosigmoidal",67.62
+432,3,"子宫膨胀的","uterovesical",57.84
+433,3,"子宫输尿管的","uteroureteric",56.84
+433,3,"子宫阴道的","uterovaginal",69.42
+433,3,"子宫直肠的","uterorectal",69.42
+433,3,"纵隔皮肤的","mediastinocutaneous",34.73
+433,3,"纵隔支气管的","mediastinobronchial",34.73
+433,2,"卵圆孔(未闭)","foramen ovale (patent)",35.71
+433,3,"伴","with",
+433,4,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.51
+433,5,"闭合性心脏技术","closed heart technique",35.52
+433,4,"组织移植","tissue graft",35.61
+433,2,"滤泡,角膜现膜的(青光眼后)","filtering bleb, corneoscleral (postglaucoma)",12.66
+433,2,"盲肠造口术","cecostomy",46.52
+433,2,"脑(脊)膜突出(脊髓的)","meningocele (spinal)",03.51
+433,3,"脑的","cerebral",02.12
+433,2,"脑膨出","encephalocele",02.12
+433,2,"尿道造口术","urethrostomy",58.42
+433,2,"膀胱造口术","cystostomy",57.82
+433,2,"皮肤(V-Y 型)","skin (V-Y type)",86.59
+433,2,"气管造口术","tracheostomy",31.72
+433,2,"人工造口","artificial opening",
+433,3,"肠","intestine",46.50
+433,4,"大的","large",46.52
+433,4,"小的","small",46.51
+433,3,"胆管","bile duct",51.79
+433,3,"胆囊","gallbladder",51.92
+433,3,"胆总管","common duct",51.72
+433,3,"肝管","hepatic duct",51.79
+433,3,"喉","larynx",31.62
+433,3,"尿道","urethra",58.42
+433,3,"膀胱","bladder",57.82
+433,3,"气管","trachea",31.72
+433,3,"肾","kidney",55.82
+433,3,"食管","esophagus",42.83
+433,3,"输尿管","ureter",56.83
+433,3,"胃","stomach",44.62
+433,3,"胸","thorax",34.72
+433,3,"支气管","bronchus",33.42
+433,3,"直肠","rectum",48.72
+433,2,"伤口-另见缝合,按部位","wound-see also Suture, by site",
+433,3,"伴移植-见移植物","with graft-see Graft",

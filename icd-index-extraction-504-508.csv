@@ -1,0 +1,175 @@
+page,level,chinese,english,code
+504,3,"经皮入路,颅内血管","percutaneous approach, extracranial vessel(s)",00.61
+504,3,"经皮入路,入脑前的(颅外)血管","percutaneous approach, intracranial vessel(s)",00.62
+504,2,"下肢","lower limb",38.18
+504,2,"胸的NEC","thoracic NEC",38.15
+504,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.14
+504,1,"动脉切除术","Arteriectomy",38.60
+504,2,"伴","with",
+504,3,"吻合术","anastomosis",38.30
+504,4,"腹","abdominal",38.36
+504,4,"颅内的NEC","intracranial NEC",38.31
+504,4,"上肢","upper limb",38.33
+504,4,"头和颈NEC","head and neck NEC",38.32
+504,4,"下肢","lower limb",38.38
+504,4,"胸的NEC","thoracic NEC",38.35
+504,4,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.34
+504,3,"移植物置换(插补)","graft replacement (interposition)",38.40
+504,4,"腹的","abdominal",
+504,5,"主动脉","aorta",38.44
+504,4,"颅内的NEC","intracranial NEC",38.41
+504,4,"上肢","upper limb",38.43
+504,4,"头和颈NEC","head and neck NEC",38.42
+504,4,"下肢","lower limb",38.48
+504,4,"胸的NEC","thoracic NEC",38.45
+504,4,"主动脉(弓)(升)(降胸)","aorta (arch) (ascending) (descending thoracic)",
+504,5,"腹的","abdominal",38.44
+504,5,"胸的","thoracic",38.45
+504,5,"胸腹的","thoracoabdominal",38.45[38.44]
+504,2,"腹的","abdominal",38.66
+504,2,"颅内的NEC","intracranial NEC",38.61
+504,2,"上肢","upper limb",38.63
+504,2,"头和颈NEC","head and neck NEC",38.62
+505,2,"下肢","lower-limb",38.68
+505,2,"胸的NEC","thoracic NEC",38.65
+505,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.64
+505,1,"动脉切开术","Arteriotomy",38.00
+505,2,"腹的","abdominal",38.06
+505,2,"颅内的NEC","intracranial NEC",38.01
+505,2,"上肢","upper limb",38.03
+505,2,"头和颈NEC","head and neck NEC",38.02
+505,2,"下肢","lower limb",38.08
+505,2,"胸的NEC","thoracic NEC",38.05
+505,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+505,1,"动脉圆锥切除术","Infundibulectomy",
+505,2,"垂体-另见垂体切除术,部分","hypophyseal-see also Hypophysectomy, partial",07.63
+505,2,"心室(心脏)(右)","ventricle (heart) (right)",35.34
+505,3,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+505,1,"动脉造影术(对比)(荧光镜的)(逆行的)","Arteriography (contrast) (fluoroscopic) (retrograde)",88.40
+505,2,"SPY(术间造影系统),冠状动脉","SPY, coronary",88.59
+505,2,"臂的","brachial",88.49
+505,2,"肠系膜上动脉","superior mesenteric artery",88.47
+505,2,"超声-见超声波检查,按部位","ultrasound-see Ultrasonography, by site",
+505,2,"多普勒(超声)-见超声波检查,按部位","Doppler (ultrasonic)-see Ultrasonography, by site",
+505,2,"放射性核素-见扫描,放射性核素","radioisotope-see Scan, radioisotope",
+505,2,"肺动脉","pulmonary",88.43
+505,2,"腹内的NEC","intra-abdominal NEC",88.47
+505,2,"股动脉","femoral",88.48
+505,2,"冠状(直接)(选择性)NEC","coronary (direct) (selective) NEC",88.57
+505,3,"单导管技术(Sones)","single catheter technique (Sones)",88.55
+505,3,"手术中荧光血管的","intra-operative fluorescence vascular",88.59
+505,3,"双导管技术(贾金斯)(里基茨和艾布拉姆斯)","double catheter technique (Judkins) (Ricketts and Abrams)",88.56
+505,2,"基底","basilar",88.41
+505,2,"颈动脉(内的)","carotid (internal)",88.41
+505,2,"经股动脉","transfemoral",88.48
+505,2,"脑的(后循环)","cerebral (posterior circulation)",88.41
+505,2,"上肢","upper extremity",88.49
+505,2,"肾","renal",88.45
+506,2,"胎盘","placenta",88.46
+506,2,"特指部位NEC","specified site NEC",88.49
+506,2,"头和颈","head and neck",88.41
+506,2,"下肢","lower extremity",88.48
+506,2,"胸内的NEC","intrathoracic NEC",88.44
+506,2,"用","by",
+506,3,"超声(多普勒)-见超声波检查,按部位","ultrasound (Doppler)-see Ultrasonography, by site",
+506,3,"放射性核素-见扫描,放射性核素","radioisotope-see Scan, radioisotope",
+506,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",88.42
+506,1,"动脉粥样硬化切除术","Atherectomy",
+506,2,"冠状动脉","coronary",
+506,3,"经皮经管腔","percutaneous transluminal",17.55
+506,2,"脑血管的","cerebrovascular",
+506,3,"经皮的","percutaneous",
+506,4,"颅内血管","intracranial vessel(s)",17.54
+506,4,"颅外血管","extracranial vessel(s)",17.53
+506,2,"周围的(非冠状动脉)","peripheral (noncoronary)",17.56
+506,1,"窦开窗手术—见窦切开术,上颌","Antrum window operation, Antrostomy-see Antrotomy, maxillary",
+506,1,"窦腔X线照相","Sinogram",
+506,2,"腹壁","abdominal wall",88.03
+506,2,"腹膜后","retroperitoneum",88.14
+506,2,"胸壁","chest wall",87.38
+506,1,"窦切除术","Antrectomy",
+506,2,"乳突","mastoid",20.49
+506,2,"上颌","maxillary",22.39
+506,3,"根治性","radical",22.31
+506,2,"幽门的","pyloric",43.6
+506,1,"窦切除术(鼻的)(完全)(部分)(伴鼻甲切除术)","Sinusectomy (nasal) (complete) (partial) (with turbinectomy)",22.60
+506,2,"蝶","sphenoid",22.64
+506,2,"窦","antrum",22.62
+506,3,"伴考德威尔-卢克入路","with Caldwell-Luc approach",22.61
+506,2,"额的","frontal",22.42
+506,2,"筛的","ethmoid",22.63
+506,2,"上颌","maxillary",22.62
+506,3,"伴考德威尔-卢克入路","with Caldwell-Luc approach",22.61
+506,1,"窦切开术(鼻的)","Sinusotomy (nasal)",22.50
+506,2,"鼻周的","perinasal",22.50
+506,2,"蝶的","sphenoid",22.52
+507,2,"窦(鼻内的)","antrum (intranasal)",22.2
+507,3,"伴外部入路(考德威尔-卢克)","with external approach (Caldwell-Luc)",22.39
+507,4,"根治(伴膜衬切除术)","radical (with removal of membrane lining)",22.31
+507,2,"多数的","multiple",22.53
+507,2,"额的","frontal",22.41
+507,2,"筛的","ethmoid",22.51
+507,2,"上颌(鼻内的)","maxillary (intranasal)",22.2
+507,3,"外部入路(考德威尔-卢克)","external approach (Caldwell-Luc)",22.39
+507,4,"根治(伴膜衬切除术)","radical (with removal of membrane lining)",22.31
+507,1,"窦切开术(探查术)(鼻窦)","Antrotomy (exploratory) (nasal sinus)",22.2
+507,2,"鼻内的","intranasal",22.2
+507,3,"伴外部入路(考德威尔-卢克)","with external approach (Caldwell-Luc)",22.39
+507,4,"根治","radical",22.31
+507,2,"考德威尔-卢克(上颌窦)","Caldwell-Luc (maxillary sinus)",22.39
+507,3,"伴膜衬切除术","with removal of membrane lining",22.31
+507,2,"上颌(单纯)","maxillary (simple)",22.2
+507,3,"伴考德威尔-卢克入路","with Caldwell-Luc approach",22.39
+507,4,"伴膜衬切除术","with removal of membrane lining",22.31
+507,4,"根治性(伴膜衬切除术)","radical (with removal of membrane lining)",22.31
+507,3,"外部的(考德威尔-卢克入路)","external (Caldwell-Luc approach)",22.39
+507,4,"伴膜衬切除术","with removal of membrane lining",22.31
+507,1,"杜菲埃手术—见 Tuffier 手术","Tuffier operation",
+507,1,"杜弗里斯手术—见 DuVries 手术","DuVries operation",
+507,1,"杜哈梅尔手术—见 Duhamel 手术","Duhamel operation",
+507,1,"杜拉邦德—see Durabond","Durabond",
+507,1,"杜普伊特伦手术—见 Dupuytren 手术","Dupuytren operation",
+507,1,"杜托伊特和鲁氏手术—见 DuToit 和 Roux 手术","DuToit and Roux operation",
+507,1,"毒物学—见检查,显微镜","Toxicology-see Examination, microscopic",
+507,1,"锻炼(物理疗法)NEC","Exercise (physical therapy) NEC",93.19
+507,2,"被动肌肉骨骼的NEC","passive musculoskeletal NEC",93.17
+507,2,"对抗阻力的","resistive",93.13
+507,2,"辅助的","assisting",93.11
+507,3,"游泳池中的","in pool",93.31
+507,2,"呼吸的","breathing",93.18
+507,2,"肌肉骨骼的","musculoskeletal",
+508,2,"被动的NEC","passive NEC",93.17
+508,2,"主动的NEC","active NEC",93.12
+508,2,"神经的","neurologic",89.13
+508,2,"主动肌肉骨骼NEC","active musculoskeletal NEC",93.12
+508,1,"对抗休克法,心的NEC","Countershock, cardiac NEC",99.62
+508,1,"对切—另见切除术","Bisection-see also Excision",
+508,2,"镫骨足板","stapes foot plate",19.79
+508,3,"伴砧骨置换","with incus replacement",19.11
+508,2,"卵巢","ovary",65.29
+508,3,"腹腔镜的","laparoscopic",65.25
+508,2,"子宫切除术","hysterectomy",68.39
+508,3,"腹腔镜的","laparoscopic",68.31
+508,1,"对向肌成形术(手)","Opponensplasty (hand)",82.56
+508,1,"多导睡眠(波动)描记","Polysomnogram",89.17
+508,1,"多兰斯手术—见 Dorrance 手术","Dorrance operation",
+508,1,"多累里手术—见 Doleris 手术","Doleris operation",
+508,1,"多普勒图,多普勒流图—见另见超声波检查","Dopplergram, Doppler flow mapping-see also Ultrasonography",
+508,2,"手术中经颅的","intraoperative transcranial",00.94
+508,2,"头和颈","head and neck",88.71
+508,2,"心脏","heart",88.72
+508,2,"胸部NEC","thorax NEC",88.73
+508,2,"主动脉弓","aortic arch",88.73
+508,1,"多睡眠潜在试验(MSLT)","Multiple sleep latency test (MSLT)",89.18
+508,1,"多特手术—见 Dotter 手术","Dotter operation",
+508,1,"多亚手术—见 Doyle 手术","Doyle operation",
+508,1,"E2F decoy(一种寡聚核苷酸,即短链DNA分子)","E2 F decoy",00.16
+508,1,"Eagleton手术(髂骨岩部外引流)","Eagleton operation (extrapetrosal drainage)",20.22
+508,1,"ECG—见心电图","ECG-see Electrocardiogram",
+508,1,"ECMO(体外膜氧化)","ECMO (extracorporeal membrane oxygenation)",39.65
+508,1,"EdenHybinette 手术(关节盂骨块)","Eden-Hybinette operation (glenoid bone block)",78.01
+508,1,"EEG(脑电图)","EEG (electroencephalogram)",89.14
+508,2,"监测(X线照相的)(视频的)","monitoring (radiographic) (video)",89.19
+508,1,"Effler手术(心脏)","Effler operation (heart)",36.2
+508,1,"EGD(食管胃十二指肠镜检查)","EGD (esophagogastroduodenoscopy)",45.13
+508,2,"伴闭合性活组织检查","with closed biopsy",45.16

@@ -1,0 +1,187 @@
+page,level,chinese,english,code
+914,5,"膀胱","bladder",57.87
+914,5,"乳房-见乳房成形术,增大","breast-see Mammoplasty, augmentation",
+914,5,"乳房成形术-见乳房成形术,增大","mammoplasty-see Mammoplasty, augmentation",
+914,5,"声带","vocal cord(s)",31.0
+914,5,"臀("“提臀”")","buttock ("“fanny-lift”")",86.89
+914,4,"增殖腺切除术(不伴扁桃体切除术)","Adenoidectomy (without tonsillectomy)",28.6
+914,5,"伴扁桃体切除术","with tonsillectomy",28.3
+914,4,"摘出术-见抽出","Extraction",
+914,4,"詹伟手术-见Janeway手术","詹伟手术- see Janeway operation",
+914,4,"粘连切开术","Synechiotomy",
+914,5,"虹膜(后的)","iris (posterior)",12.33
+914,6,"前的","anterior",12.32
+914,5,"子宫内膜","endometrium",68.21
+914,4,"粘连松解术-另见松解术,粘连","Adhesiolysis-see also Lysis, adhesions",
+914,5,"用于肺萎陷","for collapse of lung",33.39
+914,5,"中耳","middle ear",20.23
+914,4,"斩首,胎儿","Decapitation, fetal",73.8
+914,4,"张力描记法","Tonography",95.26
+914,4,"折叠,巩膜,用于环扎术-另见环扎术,巩膜的","Infolding, sclera, for buckling-see also Buckling, scleral",14.49
+914,4,"折叠,眼肌","Folding, eye muscle",15.22
+914,5,"多数(两条或多条肌)","multiple (two or more muscles)",15.4
+914,4,"折叠术","Plication",
+914,5,"瓣环,心脏瓣膜","annulus, heart valve",35.33
+914,5,"肠(空肠)(Noble)","intestine (jejunum) (Noble)",46.62
+914,5,"肠系膜","mesentery",54.75
+914,5,"动脉瘤","aneurysm",
+914,6,"心脏","heart",37.32
+914,5,"肺大疱(气肿性的),肺","bleb (emphysematous), lung",32.21
+914,5,"横膈(用于疝修补术)(胸入路)(胸腹入路)","diaphragm (for hernia repair) (thoracic approach) (thoracoabdominal approach)",53.81
+914,5,"腱","tendon",83.85
+914,6,"手","hand",82.55
+914,5,"筋膜","fascia",83.89
+914,6,"手","hand",82.89
+914,5,"静脉(周围的)","vein (peripheral)",39.59
+914,5,"凯利(-斯托克尔)(尿道膀胱连接处)","Kelly (-Stoeckel) (urethrovesical junction)",59.3
+914,5,"阔韧带","broad ligament",69.22
+914,5,"括约肌,膀胱","sphincter, urinary bladder",57.85
+915,5,"尿道","urethra",58.49
+915,5,"尿道膀胱连接处","urethrovesical junction",59.3
+915,5,"腔静脉(下)(上)","vena cava (inferior) (superior)",38.7
+915,5,"韧带-另见关节成形术","ligament-see also Arthroplasty",81.96
+915,6,"阔","broad",69.22
+915,6,"圆","round",69.22
+915,6,"子宫骶骨的","uterosacral",69.22
+915,5,"三尖瓣瓣膜(伴复位术)","tricuspid valve (with repositioning)",35.14
+915,5,"上腔静脉","superior vena cava",38.7
+915,5,"输尿管","ureter",56.89
+915,5,"提上睑肌,用于睑下垂","levator, for blepharoptosis",08.34
+915,5,"胃","stomach",44.69
+915,6,"腹腔镜的","laparoscopic",44.68
+915,5,"下腔静脉","inferior vena cava",38.7
+915,5,"心室(心脏)","ventricle (heart)",
+915,6,"动脉瘤","aneurysm",37.32
+915,5,"眼肌(斜肌)(直肌)","eye muscle (oblique) (rectus)",15.22
+915,6,"多数的(两条或多条肌)","multiple (two or more muscles)",15.4
+915,5,"圆韧带","round ligament",69.22
+915,4,"折骨术","Osteoclasis",78.70
+915,5,"髌骨","patella",78.76
+915,5,"尺骨","ulna",78.73
+915,5,"耳","ear",20.79
+915,5,"腓骨","fibula",78.77
+915,5,"跗骨的,跖骨的","tarsal, metatarsal",78.78
+915,5,"肱骨","humerus",78.72
+915,5,"股骨","femur",78.75
+915,5,"骨盆","pelvic",78.79
+915,5,"肩胛骨","scapula",78.71
+915,5,"胫骨","tibia",78.77
+915,5,"桡骨","radius",78.73
+915,5,"锁骨","clavicle",78.71
+915,5,"特指部位 NEC","specified site NEC",78.79
+915,5,"腕骨的,掌骨的","carpal, metacarpal",78.74
+915,5,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",78.71
+915,5,"趾骨(足)(手)","phalanges (foot) (hand)",78.79
+915,5,"椎骨","vertebrae",78.79
+915,4,"折流板,心房或心房间","Baffle, atrial or interatrial",35.91
+915,4,"折入术,憩室","Invagination, diverticulum",
+915,5,"胃的","gastric,stomach",44.69
+915,6,"腹腔镜的","laparoscopic",44.68
+915,5,"咽","pharynx",29.59
+916,6,"其他","other",48.59
+916,4,"直肠切开术(减压)(线形)","Proctotomy (decompression) (linear)",48.0
+916,4,"直肠松解术","Proctolysis",48.99
+916,4,"直肠乙状结肠固定术","Proctosigmoidopexy",48.76
+916,4,"直肠乙状结肠镜检查(硬式的)","Proctosigmoidoscopy (rigid)",48.23
+916,5,"伴活组织检查","with biopsy",48.24
+916,5,"经腹入路","transabdominal approach",48.21
+916,5,"经造口(人工的)","through stoma (artificial)",48.22
+916,5,"可曲的","flexible",45.24
+916,4,"直肠乙状结肠切除术-另见切除术,直肠","Rectosigmoidectomy, Proctosigmoidectomy-see also Resection, rectum",48.69
+916,5,"经骶的","transsacral",48.61
+916,4,"直肠乙状结肠造口术","Rectosigmoidostomy",45.94
+916,4,"直肠造口术","Rectostomy,Proctostomy",48.1
+916,5,"闭合性","closure",48.72
+916,4,"直肠直肠吻合术","Rectorectostomy",48.74
+916,4,"直肠周围瘘管切除术","Perirectofistulectomy",48.93
+916,4,"直肠子宫凹切开术","Culdotomy",70.12
+916,4,"踢骨切除术","Metatarsectomy",77.98
+916,4,"植入,植入","Implant, implantation",
+916,5,"CorCap™","CorCap™",37.41
+916,5,"CRT-D(双心室除颤器):(BiVICD)(BiV起搏除颤器)(BiV起搏除颤器)(心脏再同步除颤器)(装置与一个或多个导联)","CRT-D (biventricular defibrillator) (BiV ICD) (BiV pacemaker with defibrillator) (BiV pacing with defibrillator) (cardiac resynchronization defibrillator) (device and one or more leads)",00.51
+916,6,"仅脉搏发生器","pulse generator only",00.54
+916,6,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
+916,5,"CRT-P(双心室起搏器)(BiV起搏器)(心脏再同步起搏器)(装置和一个或多个导联)","CRT-P (biventricular pacemaker) (BiV pacemaker) (cardiac resynchronization pacemaker) (device and one or more leads)",00.50
+916,6,"仅脉搏发生器","pulse generator only",00.53
+916,6,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
+916,5,"Dynesys®(腰椎椎弓根螺钉软系统固定装置)","Dynesys®",84.82
+916,5,"Lap-Band®(可调节性胃细带系统绑扎带)","Lap-Band™",44.95
+916,5,"M-Brace™(一种脊椎固定装置)","M-Brace™",84.82
+916,5,"Rheos™颈动脉窦压力反射激活装置","Rheos™ carotid sinus baroreflex activation device",39.81
+917,4,"褶短","Pleating",
+917,5,"巩膜,用于环扎术-另见环扎术,巩膜的","sclera, for buckling-see also Buckling, scleral",14.49
+917,5,"眼肌","eye muscle",15.22
+917,6,"多数的(两条或多条肌)","multiple (two or more muscles)",15.4
+917,4,"针刺","Needling",
+917,5,"巴多林腺(囊肿)","Bartholin's gland (cyst)",71.21
+917,5,"白内障(Ⅱ期)","cataract (secondary)",13.64
+917,5,"晶体(囊)","lens (capsule)",13.2
+917,5,"脑积水","hydrocephalic head",73.8
+917,5,"输卵管","fallopian tube",66.91
+917,5,"瞳孔膜(虹膜)","pupillary membrane (iris)",12.35
+917,4,"针刺疗法","Acupuncture",99.92
+917,5,"伴艾灸","with smouldering moxa",93.35
+917,5,"用于麻醉","for anesthesia",99.91
+917,4,"针镜检查(胎儿)","Needlescopy (fetus)",75.31
+917,4,"砧锤骨固定术","Incudostapediopexy",19.19
+917,5,"伴砧骨置换","with incus replacement",19.11
+917,4,"砧骨固定术","Incudopexy",19.19
+917,4,"砧骨切除术 NEC","Incudectomy NEC",19.3
+917,5,"伴","with",
+917,6,"镫骨切除术-另见镫骨切除术","stapedectomy-see also Stapedectomy",19.19
+917,6,"鼓室成形术-见鼓室成形术","tympanoplasty-see Tympanoplasty",
+917,4,"真空抽吸术,胎儿头","Vacuum extraction, fetal head",72.79
+917,5,"伴外阴切开术","with episiotomy",72.71
+917,4,"整形修补术-见修补术,按部位","Plastic repair-see Repair, by site",
+917,4,"正子X线断层摄影术(PET)-见扫描,放射性核素","Positron emission tomography (PET)-see Scan, radioisotope",
+917,4,"支持带切断术 NEC-另见切断,韧带","Retinaculotomy NEC-see also Division, ligament",80.40
+917,5,"腕管(屈肌)","carpal tunnel (flexor)",04.43
+917,4,"支气管成形术","Bronchoplasty",33.48
+917,4,"支气管肺测量法","Bronchospirometry",89.38
+917,4,"支气管缝合术","Bronchorrhaphy",33.41
+917,4,"支气管镜检查 NEC","Bronchoscopy NEC",33.23
+917,5,"伴活组织检查","with biopsy",33.24
+917,6,"肺","lung",33.27
+917,6,"刷洗","brush",33.24
+917,5,"经气管造口","through tracheostomy",33.21
+917,6,"伴活组织检查","with biopsy",33.24
+917,7,"肺","lung",33.27
+918,7,"刷洗","brush",33.24
+918,5,"纤维光学的","fiberoptic",33.22
+918,5,"伴活组织检查","with biopsy",33.24
+918,6,"肺","lung",33.27
+918,6,"刷洗","brush",33.24
+918,4,"支气管切开术","Bronchotomy",33.0
+918,4,"支气管造口术","Bronchostomy",33.0
+918,5,"闭合","closure",33.42
+918,4,"支气管造影术,支气管造影术","Bronchogram, bronchography",87.32
+918,5,"经环状软骨","transcricoid",87.32
+918,5,"气管内的","endotracheal",87.31
+918,4,"脂肪抽吸术","Liposuction",86.83
+918,4,"脂肪切除术(皮下组织)(腹的)(颏下的)","Lipectomy, Adipectomy (subcutaneous tissue) (abdominal) (submental)",86.83
+918,4,"脂膜切除术","Panniculectomy",86.83
+918,4,"脂膜切开术","Panniculotomy",86.83
+918,4,"直肠成形术","Proctoplasty,Rectoplasty",48.79
+918,4,"直肠滴注法","Proctoclysis",96.37
+918,4,"直肠缝合术","Proctorrhaphy, Rectorrhaphy",48.71
+918,4,"直肠固定术(戴洛姆)","Proctopexy, Rectopexy (Delorme)",48.76
+918,5,"腹的(里普斯坦)","abdominal (Ripstein)",48.75
+918,4,"直肠镜检查","Proctoscopy",48.23
+918,5,"伴活组织检查","with biopsy",48.24
+918,5,"经腹入路","transabdominal approach",48.21
+918,5,"经造口(人工的)","through stoma (artificial)",48.22
+918,4,"直肠扩张","Proctectasis",96.22
+918,4,"直肠切除术-另见切除术,直肠","Rectectomy-see also Resection, rectum",48.69
+918,4,"直肠切除术(部分)-另见切除术,直肠","Proctectomy (partial)-see also Resection, rectum",48.69
+918,5,"腹会阴的,NOS","abdominoperineal, NOS",48.50
+918,6,"腹腔镜的","laparoscopic",48.51
+918,6,"开放性","open",48.52
+918,6,"其他","other",48.59
+918,5,"拖出","pull-through",
+918,6,"腹腔镜的","laparoscopic",48.42
+918,6,"开放性","open",48.43
+918,6,"其他","other",48.49
+918,6,"其他方面未特指的","not otherwise specified",48.40
+918,5,"完全(迈尔斯)(兰金),NOS","complete (Miles) (Rankin), NOS",48.50
+918,6,"腹腔镜的","laparoscopic",48.51
+918,6,"开放性","open",48.52

@@ -1,0 +1,192 @@
+page,level,chinese,english,code
+724,4,"血管内入路","endovascular approach",39.74
+724,3,"牛移植物","bovine graft",39.49
+724,3,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+724,3,"头和颈血管","head and neck vessel",
+724,4,"切开入路,颅内血管","open approach, intracranial vessels",38.01
+724,4,"切开入路,头和颈其他血管","open approach, other vessels of head and neck",38.02
+724,4,"血管内入路","endovascular approach",39.74
+724,3,"下肢","lower limb",
+724,4,"动脉","artery",38.08
+724,4,"静脉","vein",38.09
+724,3,"胸血管 NEC","thoracic vessel NEC",38.05
+724,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+724,2,"司克利卜分流","Scribner shunt",39.43
+724,2,"死骨-见死骨切除术","sequestrum-see Sequestrectomy",
+724,2,"胎儿,异位-见去除,异位胎儿","fetus, ectopic-see Removal, ectopic fetus",
+724,2,"胎盘(经)","placenta (by)",
+724,3,"抽吸刮宫","aspiration curettage",69.52
+724,3,"手法的","manual",75.4
+724,3,"子宫颈扩宫和刮宫","D and C",69.02
+724,2,"套管","cannula",
+724,3,"用于体外膜氧化(ECMO)-省略编码","for extracorporeal membrane oxygenation (ECMO)-omit code",
+724,2,"填充块(水泥)(关节)","spacer (cement) (joint) (methylmethacrylate)",84.57
+724,2,"蜕膜(经)","decidua (by)",
+724,3,"抽吸刮宫","aspiration curettage",69.52
+724,3,"刮除术(子宫颈扩宫和刮宫)","curettage (D and C)",69.02
+724,3,"手法的","manual",75.4
+724,2,"椭圆囊","utricle",20.79
+724,2,"瓦格纳布鲁克微型固定装置(骨)-见亚目","Wagner-Brooker minifixator device (bone)-see subcategory",78.6
+724,2,"外固定装置","external fixation device",97.88
+724,3,"微型固定(骨)-见亚目","minifixator (bone)-see subcategory",78.6
+724,3,"下颌骨的 NEC","mandibular NEC",97.36
+724,2,"微型固定装置(骨)-见亚目","minifixator device (bone)-see subcategory",78.6
+724,3,"外固定装置","external fixation device",97.88
+724,2,"胃带(可调节性),腹腔镜","gastric band (adjustable), laparoscopic",44.97
+725,2,"胃泡(球囊)","gastric bubble (balloon)",44.94
+725,2,"文凯钳(颅骨)","Vinke tongs (skull)",02.95
+725,3,"同时伴置换","with synchronous replacement",02.94
+725,2,"希罗德卡缝合,子宫颈","Shirodkar suture, cervix",69.96
+725,2,"息肉-另见切除术,病损,按部位","polyp-see also Excision, lesion, by site",
+725,3,"鼻的","nasal",21.31
+725,3,"肠","intestine",45.41
+725,4,"内镜的","endoscopic",45.42
+725,3,"食管的","esophageal",42.32
+725,4,"内镜的","endoscopic",42.33
+725,3,"胃的(内镜)","gastric (endoscopic)",43.41
+725,2,"腺样增殖体残余","adenoid tag(s)",28.6
+725,2,"谢泼德管(耳)","Shepard's tube (ear)",20.1
+725,2,"心脏辅助系统","heart assist system",
+725,3,"伴置换","with replacement",37.63
+725,3,"非手术的","nonoperative",97.44
+725,3,"经皮的外部装置","percutaneous external device",97.44
+725,3,"开放去除","open removal",37.64
+725,3,"主动脉内球囊泵(IABP)","intra-aortic balloon pump (IABP)",97.44
+725,2,"心脏起搏器(装置)(初始的)(永久性)心律再同步除颤器(CRT-P)","cardiac pacemaker (device) (initial) (permanent) (cardiac resynchronization device, CRT-P)",37.89
+725,3,"伴置换","with replacement (by)",
+725,4,"单室装置","single-chamber device",37.85
+725,5,"节律反应","rate responsive",37.86
+725,4,"双室装置","dual chamber device",37.87
+725,3,"心律再同步化起搏器(CRT-P)","cardiac resynchronization pacemaker (CRT-P)",
+725,4,"仅装置","device only",00.53
+725,4,"全系统","total system",00.50
+725,2,"心脏置换系统","heart replacement system",
+725,3,"内双心室的","internal biventricular",37.55
+725,2,"胸畸形的植入装置","pectus deformity implant device",34.01
+725,2,"血管移植或假体","vascular graft or prosthesis",39.49
+725,2,"血块-另见切开,按部位","blood clot-see also Incision, by site",
+725,3,"膀胱(经切开)","bladder (by incision)",57.19
+725,4,"不伴切开","without incision",57.0
+725,3,"肾(不伴切开)","kidney (without incision)",56.0
+725,4,"经切开","by incision",55.01
+725,3,"输尿管","ureter",
+725,4,"经切开","by incision",56.2
+725,2,"血栓","thrombus",38.00
+726,2,"伴动脉内膜切除术-见动脉内膜切除术","with endarterectomy-see Endarterectomy",
+726,2,"动静脉分流或套管","arteriovenous shunt or cannula",39.49
+726,2,"肺动脉(动脉)(静脉)","pulmonary (artery) (vein)",38.05
+726,3,"腹的","abdominal",
+726,4,"动脉","artery",38.06
+726,4,"静脉","vein",38.07
+726,3,"冠状动脉","coronary artery",36.09
+726,3,"颅内血管 NEC","intracranial vessel NEC",38.01
+726,3,"牛移植物","bovine graft",39.49
+726,3,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+726,3,"头和颈血管 NEC","head and neck vessel NEC",38.02
+726,3,"下肢","lower limb",
+726,4,"动脉","artery",38.08
+726,4,"静脉","vein",38.09
+726,3,"胸血管 NEC","thoracic vessel NEC",38.05
+726,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+726,2,"血肿-见引流,按部位","hematoma-see Drainage, by site",
+726,2,"循环记录器","loop recorder",86.05
+726,2,"牙(经钳)(多数的)(单) NEC","tooth (by forceps) (multiple) (single) NEC",23.09
+726,3,"乳齿","deciduous",23.01
+726,3,"外科手术的 NEC","surgical NEC",23.19
+726,4,"残留根","residual root",23.11
+726,4,"根尖","root apex",23.73
+726,5,"伴根管疗法","with root canal therapy",23.72
+726,3,"嵌顿","impacted",23.19
+726,2,"牙斑去除","plaque, dental",96.54
+726,2,"牙齿栓结术(固定装置)","dental wiring (immobilization device)",97.33
+726,3,"牙齿矫形的","orthodontic",24.8
+726,2,"牙瘤(牙)","odontoma (tooth)",24.4
+726,2,"眼球","eyeball",16.49
+726,3,"伴植入","with implant",16.42
+726,3,"伴肌附着","with attachment of muscles",16.41
+726,2,"咽(部分)","pharynx (partial)",29.33
+726,2,"异位胎儿(自)","ectopic fetus (from)",66.02
+726,2,"部位 NEC","site NEC",74.3
+726,3,"腹膜的(子宫或输卵管破裂后)","peritoneal (following uterine or tubal rupture)",74.3
+726,3,"腹膜外的(韧带内)","extraperitoneal (intraligamentous)",74.3
+726,3,"腹腔","abdominal cavity",74.3
+726,3,"管(经输卵管造口术)","tubal (by salpingostomy)",66.02
+727,4,"伴输卵管切除术","with salpingectomy",66.62
+727,4,"经输卵管切开术","by salpingotomy",66.01
+727,3,"卵巢","ovarian",74.3
+727,3,"韧带内","intraligamentous",74.3
+727,3,"输卵管(经输卵管造口术)","fallopian tube (by salpingostomy)",66.02
+727,4,"伴输卵管切除术","with salpingectomy",66.62
+727,4,"经输卵管切开术","by salpingotomy",66.01
+727,2,"异物 NEC-另见切开,按部位","foreign body NEC-see also Incision, by site",98.20
+727,3,"鼻(腔内)","nose (intraluminal)",98.12
+727,4,"经切开","by incision",21.1
+727,3,"鼻窦","nasal sinus",22.50
+727,4,"蝶","sphenoid",22.52
+727,4,"窦","antrum",22.2
+727,5,"伴考德威尔卢克入路","with Caldwell-Luc approach",22.39
+727,5,"额的","frontal",22.41
+727,5,"筛的","ethmoid",22.51
+727,5,"上颌","maxillary",22.2
+727,3,"扁桃体","tonsil",98.13
+727,4,"经切开","by incision",28.91
+727,3,"玻璃体(经切开)","vitreous (by incision)",14.00
+727,4,"伴使用磁铁","with use of magnet",14.01
+727,4,"不伴使用磁铁","without use of magnet",14.02
+727,3,"肠","intestine",
+727,4,"大的(腔内)","large (intraluminal)",98.04
+727,5,"经切开","by incision",45.03
+727,5,"经切开","by incision",45.00
+727,4,"小的(腔内)","small (intraluminal)",98.03
+727,5,"经切开","by incision",45.02
+727,3,"齿龈","gum",98.22
+727,4,"经切开","by incision",24.0
+727,3,"大肠(腔内)","large intestine (intraluminal)",98.04
+727,4,"经切开","by incision",45.03
+727,3,"胆囊","gall bladder",51.04
+727,3,"窦(鼻的)","sinus (nasal)",22.50
+727,4,"蝶","sphenoid",22.52
+727,4,"窦","antrum",22.2
+727,5,"伴考德威尔卢克入路","with Caldwell-Luc approach",22.39
+727,5,"额的","frontal",22.41
+727,5,"筛的","ethmoid",22.51
+727,5,"上颌","maxillary",22.2
+728,5,"伴考德威尔卢克入路","with Caldwell-Luc approach",22.39
+728,3,"腭(穿透性的)","palate (penetrating)",98.22
+728,4,"经切开","by incision",27.1
+728,3,"耳(腔内)","ear (intraluminal)",98.11
+728,4,"伴切开","with incision",18.09
+728,3,"耳道,外的","auditory canal, external",18.02
+728,3,"肺","lung",33.1
+728,3,"腹的(腔)","abdominal (cavity)",54.92
+728,4,"壁","wall",54.0
+728,3,"附睾","epididymis",63.92
+728,3,"腹股沟区(腹壁)(腹股沟的)","groin region (abdominal wall) (inguinal)",54.0
+728,3,"腹膜后","retroperitoneum",54.92
+728,3,"腹膜腔","peritoneal cavity",54.92
+728,3,"肝","liver",50.0
+728,3,"肛门(腔内)","anus (intraluminal)",98.05
+728,4,"经切开","by incision",49.93
+728,3,"睾丸","testis",62.0
+728,3,"睾丸鞘膜","tunica vaginalis",98.24
+728,3,"巩膜(经切开)","sclera (by incision)",12.00
+728,4,"伴使用磁铁","with use of magnet",12.01
+728,4,"不伴使用磁铁","without use of magnet",12.02
+728,2,"骨,除外固定装置-另见切开,骨","bone, except fixation device-see also Incision, bone",77.10
+728,3,"牙龈,牙槽的","alveolus, alveolar",98.22
+728,4,"经切开","by incision",24.0
+728,3,"关节结构-另见关节切开术","joint structures-see also Arthrotomy",80.10
+728,3,"腘动脉间隙","popliteal space",98.29
+728,4,"经切开","by incision",86.05
+728,3,"虹膜(经切开)","iris (by incision)",12.00
+728,4,"伴使用磁铁","with use of magnet",12.01
+728,4,"不伴使用磁铁","without use of magnet",12.02
+728,3,"喉(腔内)","larynx (intraluminal)",98.14
+728,4,"经切开","by incision",31.3
+728,3,"会阴(女性)","perineum (female)",98.23
+728,4,"经切开","by incision",71.09
+728,4,"男性","male",98.25
+728,5,"经切开","by incision",86.05
+728,3,"肌肉","muscle",83.02
+728,4,"手","hand",82.02
+728,3,"脊髓的(管)(索)(脑膜)","spinal (canal) (cord) (meninges)",03.01

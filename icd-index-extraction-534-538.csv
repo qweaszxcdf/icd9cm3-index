@@ -1,0 +1,167 @@
+page,level,chinese,english,code
+534,5,"经子宫托","by pessary",96.18
+534,5,"外科手术的","surgical",69.22
+534,3,"脱离,踝榫(闭合的)","diastasis, ankle mortise (closed)",79.77
+534,4,"开放性","open",79.87
+534,3,"脱位(关节)(处理)(伴石膏管型)(伴夹板)(伴牵引装置)(闭合的)","dislocation (of joint) (manipulation) (with cast) (with splint) (with traction device) (closed)",79.70
+534,4,"伴骨折—见复位,骨折,按部位","with fracture-see Reduction, fracture, by site",
+534,4,"踝(闭合的)","ankle (closed)",79.77
+534,5,"开放性","open",79.87
+534,4,"肩(闭合的)","shoulder (closed)",79.71
+534,5,"开放性","open",79.81
+534,4,"开放性(伴外固定)(伴内的固定)","open (with external fixation) (with internal fixation)",79.80
+534,4,"特指部位 NEC","specified site NEC",79.89
+534,4,"髋(闭合的)","hip (closed)",79.75
+534,5,"开放","open",79.85
+534,4,"颞下颌的(闭合的)","temporomandibular (closed)",76.93
+534,5,"开放性","open",76.94
+534,4,"手(闭合的)","hand (closed)",79.74
+534,5,"开放性","open",79.84
+534,4,"手指(闭合的)","finger (closed)",79.74
+534,5,"开放性","open",79.84
+534,4,"特指部位(闭合的) NEC","specified site (closed) NEC",79.79
+534,5,"开放","open",79.89
+534,4,"腕(闭合的)","wrist (closed)",79.73
+534,5,"开放性","open",79.83
+534,4,"膝(闭合的)","knee (closed)",79.76
+534,5,"开放性","open",79.86
+534,4,"趾(闭合的)","toe (closed)",79.78
+534,5,"开放性","open",79.88
+534,4,"肘(闭合的)","elbow (closed)",79.72
+534,5,"开放性","open",79.82
+534,4,"足(闭合的)","foot (closed)",79.78
+534,5,"开放性","open",79.88
+534,3,"旋转不良,肠(手法)(外科手术的)","malrotation, intestine (manual) (surgical)",46.80
+534,4,"大的","large",46.82
+534,5,"内镜的(球囊)","endoscopic (balloon)",46.85
+534,4,"小的","small",46.81
+534,3,"痔(手法的)","hemorrhoids (manual)",49.41
+535,0,"G","G",
+535,2,"Gant 手术(转子楔形骨切开术)","Gant operation (wedge osteotomy of trochanter)",77.25
+535,2,"Garceau 手术(胫骨腱移植)","Garceau operation (tibial tendon transfer)",83.75
+535,2,"Gardner 手术(脊髓的脑(脊)膜突出修补术)","Gardner operation (spinal meningocele repair)",03.51
+535,2,"Gelman 手术(畸形足松解术)","Gelman operation (release of clubfoot)",83.84
+535,2,"Ghormley 手术(髋融合术)","Ghormley operation (hip fusion)",81.21
+535,2,"Gifford 手术","Gifford operation",
+535,3,"角膜切开术(限界性)","keratotomy (delimiting)",11.1
+535,4,"放射状的(折射的)","radial (refractive)",11.75
+535,3,"泪囊破坏","destruction of lacrimal sac",09.6
+535,2,"Gilliam 手术(子宫悬吊术)","Gilliam operation (uterine suspension)",69.22
+535,2,"Gill-Stein 手术(腕桡关节固定术)","Gill-Stein operation (carporadial arthrodesis)",81.25
+535,2,"Gill 手术","Gill operation",
+535,3,"肩关节固定术","arthrodesis of shoulder",81.23
+535,3,"椎板切除术","laminectomy",03.09
+535,2,"Girdlestone 手术","Girdlestone operation",
+535,3,"股骨头和股骨颈切除术(无关节假体插入)","resection of femoral head and neck (without insertion of joint prosthesis)",77.85
+535,3,"伴置换假体—见植入,关节,髋","with replacement prosthesis-see Implant, joint, hip",
+535,3,"肌肉转移术用于爪形趾修补术","muscle transfer for claw toe repair",77.57
+535,3,"髋假体切除","resection of hip prosthesis",80.05
+535,4,"伴置换假体—见植入,关节,髋","with replacement prosthesis-see Implant, joint, hip",
+535,3,"椎板切除术伴脊椎融合术","laminectomy with spinal fusion",81.00
+535,2,"Girdlestone-Taylor 手术(肌肌移植术用于爪形趾修补术)","Girdlestone-Taylor operation (muscle transfer for claw toe repair)",77.57
+535,2,"Glenn 手术(上腔静脉与右肺动脉吻合术)","Glenn operation (anastomosis of superior vena cava to right pulmonary artery)",39.21
+535,2,"Goebel-Frangenheim-Stoeckel 手术(尿道膀胱悬吊术)","Goebel-Frangenheim-Stoeckel operation (urethrovesical suspension)",59.4
+535,2,"Goldner 手术(畸形足松解术)","Goldner operation (clubfoot release)",80.48
+535,2,"Goldthwaite 手术","Goldthwaite operation",
+535,3,"髌骨稳定术","patellar stabilization",81.44
+536,3,"踝稳定术","ankle stabilization",81.11
+536,3,"腱移植术用于髌骨稳定术","tendon transfer for stabilization of patella",81.44
+536,2,"Goodal-Power 手术(阴道)","Goodal-Power operation (vagina)",70.8
+536,2,"Gordon-Taylor 手术(后肢截断术)","Gordon-Taylor operation (hindquarter amputation)",84.19
+536,2,"GP IIB/IIIa 抑制剂,输注","GP II B/IIIa inhibitor, infusion",99.20
+536,2,"Graber-Duvernay 手术(股骨头钻孔)","Graber-Duvernay operation (drilling of femoral head)",77.15
+536,2,"Green 手术(肩胛固定术)","Green operation (scapulopexy)",78.41
+536,2,"Grice 手术(距下固定术)","Grice operation (subtalar arthrodesis)",81.13
+536,2,"Gritti-Stokes 手术(膝关节离断)","Gritti-Stokes operation (knee disarticulation)",84.16
+536,2,"Gross 手术(疝缝合术)","Gross operation (herniorrhaphy)",
+536,3,"腹腔镜的","laparoscopic",53.43
+536,4,"伴移植物或假体","with graft or prosthesis",53.42
+536,3,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
+536,3,"其他开放性","other open",53.49
+536,2,"Guttering,骨—另见切除术,病损,骨","Guttering, bone-see also Excision, lesion, bone",77.60
+536,2,"Guyon 手术(踝截断术)","Guyon operation (amputation of ankle)",84.13
+536,2,"伽玛放射,立体定位","Gamma irradiation, stereotactic",92.32
+536,2,"改变—另见置换","Change-see also Replacement",
+536,3,"长度","length",
+536,4,"骨—见 78.2 亚目缩短,骨或 78.3 亚目,延长,骨","bone-see either subcategory 78.2 Shortening, bone or subcategory 78.3 Lengthening, bone",
+536,4,"肌肉","muscle",83.85
+536,5,"手","hand",82.55
+536,4,"腱","tendon",83.85
+536,5,"手","hand",82.55
+536,3,"夹板","splint",97.14
+536,3,"尿道导管,留置的","urethral catheter, indwelling",57.95
+536,3,"膀胱造口导管或管","cystostomy catheter or tube",59.94
+536,3,"气管造口术管","tracheostomy tube",97.23
+536,3,"肾盂造口术导管或管","pyelostomy catheter or tube",55.94
+536,3,"肾造口术导管或管","nephrostomy catheter or tube",55.93
+536,3,"石膏管型 NEC","cast NEC",97.13
+536,4,"上肢","upper limb",97.11
+537,4,"下肢","lower limb",97.12
+537,3,"输尿管造口术导管或管","ureterostomy catheter or tube",59.93
+537,3,"胃造口管","gastrostomy tube",97.02
+537,2,"肝胆管切除术","Cholangiocholecystocholedochectomy",51.22
+537,2,"肝胆总管吻合术","Hepatocholedochostomy",51.43
+537,3,"内镜","endoscopic",51.87
+537,2,"肝缝合术","Hepatorrhaphy",50.61
+537,2,"肝固定术","Hepatopexy",50.69
+537,2,"肝管胆管胆囊十二指肠吻合术","Hepatocholangiocystoduodenostomy",51.37
+537,2,"肝管胆管空肠吻合术","Hepaticocholangiojejunostomy",51.37
+537,2,"肝管胆囊十二指肠吻合术","Hepaticocystoduodenostomy",51.37
+537,2,"肝管结石切除术","Hepaticolithectomy",51.49
+537,3,"内镜","endoscopic",51.88
+537,2,"肝管空肠吻合术","Hepaticojejunostomy",51.37
+537,2,"肝管切开取石术","Hepaticolithotomy",51.49
+537,3,"内镜","endoscopic",51.88
+537,2,"肝管切开术","Hepaticodochotomy, Hepaticotomy",51.59
+537,2,"肝管十二指肠吻合术","Hepaticoduodenostomy",51.37
+537,2,"肝管造口术","Hepaticostomy",51.59
+537,2,"肝空肠吻合术","Hepatojejunostomy",50.69
+537,2,"肝切除术(完全)(全部)","Hepatectomy (complete) (total)",50.4
+537,3,"部分或大部","partial or subtotal",50.22
+537,2,"肝切开取石术","Hepatolithotomy",
+537,3,"肝","liver",50.0
+537,3,"肝管","hepatic duct",51.49
+537,2,"肝切开术(伴填塞)","Hepatotomy (with packing)",50.0
+537,2,"肝十二指肠吻合术","Hepatoduodenostomy",50.69
+537,2,"肝胃吻合术","Hepatogastrostomy",50.69
+537,2,"肝造口术(外部)(内的)","Hepatostomy (external) (internal)",50.69
+537,2,"甘特手术—见 Gant 手术","甘特手术—see Gant operation",
+537,2,"感应","Interrogation",
+537,3,"CRT-D(心律再同步化除颤器)","CRT-D (cardiac resynchronization defibrillator)",
+537,4,"伴导管侵入性电生理测定","with catheter based invasive electrophysiologic testing",37.26
+537,4,"伴 NIPS(诱发心律失常)","with NIPS (arrhythmia induction)",37.20
+537,4,"仅感应(床旁装置检查)","interrogation only (bedside device check)",89.49
+537,3,"CRT-P(心律再同步化起搏器)","CRT-P (cardiac resynchronization pacemaker)",
+538,4,"伴导管侵入性电生理测定","with catheter based invasive electrophysiologic testing",37.26
+538,4,"伴 NIPS(诱发心律失常)","with NIPS (arrhythmia induction)",37.20
+538,4,"仅感应(床旁装置检查)","interrogation only (bedside device check)",89.45
+538,3,"复律器-除颤器,自动的(AICD)","cardioverter-defibrillator, automatic (AICD)",
+538,4,"伴导管侵入性电生理测定","with catheter based invasive electrophysiologic testing",37.26
+538,4,"伴 NIPS(诱发心律失常)","with NIPS (arrhythmia induction)",37.20
+538,4,"仅感应(床旁装置检查)","interrogation only (bedside device check)",89.49
+538,3,"起搏器","pacemaker",
+538,4,"伴导管侵入性电生理测定","with catheter based invasive electrophysiologic testing",37.26
+538,4,"伴 NIPS(诱发心律失常)","with NIPS (arrhythmia induction)",37.20
+538,4,"仅感应(床旁装置检查)","interrogation only (bedside device check)",89.45
+538,2,"干板乳房 X 线照相术","Xeromammography",87.36
+538,2,"干板 X 线照相术,乳房","Xerography, breast",87.36
+538,2,"肛镜检查","Anoscopy",49.21
+538,2,"肛裂切除术","Fissurectomy, anal",49.39
+538,3,"内镜","endoscopic",49.31
+538,3,"皮肤(皮下组织)","skin (subcutaneous tissue)",49.04
+538,2,"肛瘘切开术","Fistulotomy, anal",49.11
+538,2,"肛门成形术","Anoplasty",49.79
+538,3,"伴痔切除术","with hemorrhoidectomy",49.46
+538,2,"肛门梳切开术—另见括约肌切开,肛门的","PDT (percutaneous dilatational tracheostomy)-see TracheostomyPectenotomy - see also Sphincterotomy, anal",49.59
+538,2,"肛周下部切开","Undercutting",
+538,3,"肛周组织","perianal tissue",49.02
+538,3,"毛囊","hair follicle",86.09
+538,2,"睾丸成形术","Orchidoplasty, Orchioplasty",62.69
+538,2,"睾丸缝合术","Orchidorrhaphy",62.61
+538,2,"睾丸固定术","Orchidopexy, Orchiopexy",62.5
+538,2,"睾丸切除术(伴附睾切除术)(单侧的)","Orchidectomy (with epididymectomy) (unilateral)",62.3
+538,3,"残留或孤立睾丸","remaining or solitary testis",62.42
+538,3,"双侧的(根治性)","bilateral (radical)",62.41
+538,2,"睾丸切开术","Orchidotomy",62.0
+538,2,"睾丸 X 线照相术—见放射照相术","Orthoroentgenography-see Radiography",
+538,2,"高位产钳分娩","High forceps delivery",72.39

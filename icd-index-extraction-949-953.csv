@@ -1,0 +1,181 @@
+page,level,chinese,english,code
+949,3,"至窦性心律","to sinus rhythm",99.62
+949,1,"转流术,尿路的","Diversion",
+949,2,"胆胰的(BPD)","biliopancreatic (BPD)",43.7[45.51][45.91]
+949,3,"伴十二指肠转换","with duodenal switch",43.89[45.51][45.91]
+949,2,"泌尿系","urinary",
+949,3,"回肠通道","ileal conduit",56.51
+949,3,"内部的NEC","internal NEC",56.71
+949,3,"皮肤的","cutaneous",56.61
+949,3,"输尿管回肠造口术","uretero-ileostomy",56.51
+949,3,"输尿管至","ureter to",
+949,4,"肠","intestine",56.71
+949,4,"皮肤","skin",56.61
+949,1,"转位,移位","Transposition",
+949,2,"关节囊-另见关节成形术","joint capsule-see also Arthroplasty",81.96
+949,2,"肌NEC","muscle NEC",83.79
+949,3,"手","hand",82.59
+949,3,"眼外","extraocular",15.5
+949,2,"腱NEC","tendon NEC",83.76
+949,3,"手","hand",82.57
+949,2,"睫毛皮瓣","eyelash flaps",08.63
+949,2,"空肠(Henley)","jejunal (Henley)",43.81
+949,2,"乳头","nipple",85.86
+949,2,"神经(颅的)(周围的)(桡前的)(尺骨)","nerve (cranial) (peripheral) (radial anterior) (ulnar)",04.6
+949,2,"声带","vocal cords",31.69
+949,2,"手指(替代缺损的拇指)(同一手)","finger (replacing absent thumb) (same hand)",82.61
+949,3,"至","to",
+949,4,"对侧手(伴截断术)","opposite hand (with amputation)",82.69[84.01]
+949,4,"手指,除拇指外","finger, except thumb",82.81
+949,2,"心房间静脉回流","interatrial venous return",35.91
+949,2,"眼肌(斜肌)(直肌)","eye muscle (oblique) (rectus)",15.5
+949,2,"眼外肌","extraocular muscles",15.5
+949,2,"翼状胬肉","pterygium",11.31
+949,1,"转位,产科的(双手的)(头的)(合并的)(内的)(足的)","Version, obstetrical (bimanual) (cephalic) (combined) (internal) (podalic)",73.21
+949,2,"伴抽吸术","with extraction",73.22
+949,2,"博特(足的)","Potter's (podalic)",73.21
+949,3,"伴抽吸术","with extraction",73.22
+950,2,"布拉克斯顿","Braxton Hicks",73.21
+950,3,"伴抽吸术","with extraction",73.22
+950,2,"赖特(头的)","Wright's (cephalic)",73.21
+950,3,"伴抽吸术","with extraction",73.22
+950,2,"外部(双极)","external (bipolar)",73.91
+950,2,"维甘德(外部)","Wigand's (external)",73.91
+950,1,"转移,转移术","Transfer, transference",
+950,2,"带蒂皮瓣移植","pedicle graft",86.74
+950,2,"鹅足(腱)(膝修补术)","pes anserinus (tendon) (repair of knee)",81.47
+950,2,"骨干,腓骨至胫骨","bone shaft, fibula into tibia",78.47
+950,2,"肌起点","muscle origin",83.77
+950,3,"手","hand",82.58
+950,2,"腱","tendon",83.75
+950,3,"鹅足(膝修补术)","pes anserinus (repair of knee)",81.47
+950,4,"趾拇指(游离)(带蒂)(伴截断术)","toe-to-thumb (free) (pedicle) (with amputation)",82.69[84.11]
+950,3,"手","hand",82.56
+950,2,"结膜睑板皮瓣,自对侧睑","tarsoconjunctival flap, from opposing lid",08.64
+950,2,"神经(颅的)(周围的)(桡前的)(尺骨)","nerve (cranial) (peripheral) (radial anterior) (ulnar)",04.6
+950,2,"手指(代替缺失的拇指)(同一手)","finger (to replace absent thumb) (same hand)",82.61
+950,3,"至","to",
+950,4,"对侧手(伴截断术)","opposite hand (with amputation)",82.69[84.01]
+950,4,"手指,除拇指外","finger, except thumb",82.81
+950,2,"脂肪垫NEC","fat pad NEC",86.89
+950,3,"伴皮肤移植-见移植物,皮肤,全层","with skin graft-see Graft, skin, full-thickness",
+950,2,"指(趾)(代替缺失的拇指)","digital (to replace absent thumb)",82.69
+950,3,"手指(至拇指)(同一手)","finger (to thumb) (same hand)",82.61
+950,4,"至","to",
+950,5,"对侧手(伴截断术)","opposite hand (with amputation)",82.69[84.01]
+950,5,"手指,除拇指外","finger, except thumb",82.81
+950,2,"趾(至拇指)(伴截断术)","toe (to thumb) (with amputation)",82.69[84.11]
+950,3,"至手指,除拇指外","to finger, except thumb",82.81[84.11]
+950,1,"转移注意力疗法","Diversional therapy",93.81
+950,1,"转子成形术","Trochanteroplasty",81.40
+951,1,"装置","Device",
+951,2,"CorCap™","CorCap™",37.41
+951,2,"外固定器-见固定器,外部的","external fixator-see Fixator; external",
+951,1,"椎板成形术,扩大的","Laminoplasty, expansile",03.09
+951,1,"椎板切除术(减压)(用于探查术)","Laminectomy (decompression) (for exploration)",03.09
+951,2,"伴","with",
+951,3,"椎管内病损(肿瘤)的其他切除术","excision of other intraspinal lesion (tumor)",03.4
+951,3,"椎间盘(髓核)疝出切除术","excision of herniated intervertebral disc (nucleus pulposus)",80.51
+951,2,"部位再切开","reopening of site",03.02
+951,2,"作为手术入路-省略编码","as operative approach-omit code",
+951,1,"椎板切开术(减压)(用于探查术)","Laminotomy (decompression) (for exploration)",03.09
+951,2,"部位再切开","reopening of site",03.02
+951,2,"作为手术入路-省略编码","as operative approach-omit code",
+951,1,"椎骨成形术(经皮)","Vertebroplasty, percutaneous",81.65
+951,1,"椎骨关节切除术","Facetectomy",77.89
+951,1,"椎管穿刺术","Rachicentesis",03.31
+951,1,"椎管切开术","Rachiotomy",03.09
+951,1,"椎间孔切开术","Foraminotomy",03.09
+951,1,"椎间盘切除术-见椎间盘切除术","Discectomy-see Diskectomy",
+951,1,"椎间盘切除术,(椎间盘切除术),椎间","Diskectomy (discectomy), intervertebral",80.51
+951,2,"伴椎体切除术","with corpectomy",80.99
+951,2,"经皮的","percutaneous",80.59
+951,2,"疝出的(髓核)","herniated (nucleus pulposus)",80.51
+951,1,"椎间盘松解术(经注射)","Discolysis (by injection)",80.52
+951,1,"椎间盘X线摄片","Discogram, diskogram",87.21
+951,1,"椎体切除术,(脊椎的)","Corpectomy, (vertebral)",80.99
+951,2,"伴椎间盘切除术","with diskectomy",80.99
+951,1,"锥形切除术","Conization",
+951,2,"子宫颈(刀)(尖的)(活组织检查)","cervix (knife) (sharp) (biopsy)",67.2
+951,3,"经","by",
+951,4,"电锥形切除术","electroconization",67.32
+951,4,"冷冻术","cryosurgery",67.33
+951,1,"着色,皮肤","Pigmenting, skin",86.02
+951,1,"咨询(为了)NEC","Counseling (for) NEC",94.49
+951,2,"顾主","employers",94.49
+951,2,"婚姻","marriage",94.49
+951,2,"家庭(医学的)(社会的)","family (medical) (social)",94.49
+952,2,"酒精中毒","alcoholism",94.46
+952,2,"牧师","pastoral",94.49
+952,2,"眼科学的(伴指导)","ophthalmologic (with instruction)",95.36
+952,2,"药物瘾","drug addiction",94.45
+952,1,"咨询","Consultation",89.09
+952,2,"特指类型NEC","specified type NEC",89.08
+952,2,"限定性(单个器官系统)","limited (single organ system)",89.06
+952,2,"综合性","comprehensive",89.07
+952,1,"籽骨切除术","Sesamoidectomy",77.98
+952,1,"眦成形术","Canthoplasty",08.59
+952,1,"眦缝合术","Canthorrhaphy",08.52
+952,2,"切断或割断","division or severing",08.02
+952,1,"眦泪囊造口术","Canthocystostomy",09.82
+952,1,"眦切开术","Canthotomy",08.51
+952,1,"子宫壁输卵管伞埋入术","Burying of fimbriae in uterine wall",66.97
+952,1,"子宫成形术","Hysteroplasty, Metroplasty",69.49
+952,1,"子宫底部切除术","Fundectomy, uterine",68.39
+952,1,"子宫动脉栓塞NOS","UAE (uterine artery embolization) NOS",68.25
+952,2,"伴","with",
+952,3,"弹簧圈","coils",68.24
+952,3,"特殊物质(明胶海绵)(明胶海绵)(微球体)(聚乙烯醇)(聚乙烯醇)(球形栓子)","particulate agent (gelatin sponge) (gelfoam) (microspheres) (polyvinyl alcohol) (PVA) (spherical embolics)",68.25
+952,1,"子宫放射照相片NEC","Hysterogram NEC",87.85
+952,2,"经皮的","percutaneous",87.84
+952,1,"子宫缝合术","Hysterorrhaphy",69.41
+952,1,"子宫固定术(腹入路)(阴道入路)","Uteropexy, Hysteropexy (abdominal approach) (vaginal approach)",69.22
+952,1,"子宫和子宫颈成形术","Hysterotracheloplasty",69.49
+952,1,"子宫和子宫颈缝合术(埃梅特)(缝合)","Trachelorrhaphy (Emmet) (suture)",67.61
+952,2,"产科的","obstetrical",75.51
+952,1,"子宫肌瘤切除术","Hysteromyomectomy",68.29
+952,1,"子宫颈成形术","Cervicoplasty, Tracheloplasty",67.69
+952,1,"子宫颈缝合术","Hysterotrachelorrhaphy",69.41
+952,1,"子宫颈固定术","Trachelopexy",69.22
+952,1,"子宫颈LEEP术(电热圈环切术)","LEEP (loop electrosurgical excision procedure) of cervix",67.32
+952,1,"子宫颈LLETZ(转化区大环形切除术)手术","LLETZ (large loop excision of the transformation zone) of cervix",67.32
+952,1,"子宫颈切除术(同时伴阴道缝合术)","Cervicectomy (with synchronous colporrhaphy)",67.4
+953,1,"子宫颈切除术","Hysterotrachelectomy, Trachelectomy",67.4
+953,1,"子宫颈切开剖宫产术","Laparotrachelotomy",74.1
+953,1,"子宫颈切开术","Trachelotomy, Hysterotrachelotomy",69.95
+953,2,"产科的","obstetrical",73.93
+953,1,"子宫镜检查","Hysteroscopy",68.12
+953,2,"伴","with",
+953,3,"活组织检查","biopsy",68.16
+953,3,"消融,切除","ablation",
+953,4,"子宫内膜","endometrial",68.23
+953,1,"子宫内膜切除术(子宫)(内的)","Endometrectomy (uterine) (internal)",68.29
+953,2,"膀胱","bladder",57.59
+953,2,"直肠子宫陷凹","cul-de-sac",70.32
+953,1,"子宫切除术,NOS","Hysterectomy, NOS",68.9
+953,2,"腹的","abdominal",
+953,3,"部分或大部的(子宫颈上的)(阴道上的)","partial or subtotal (supracervical) (supravaginal)",68.39
+953,3,"腹腔镜的(全部的)[TLH]","laparoscopic (total) (TLH)",68.41
+953,3,"根治性(改良)(沃特海姆)","radical (modified) (Wertheim's)",68.69
+953,4,"腹腔镜的(全部的)[TLRH]","laparoscopic (total) (TLRH)",68.61
+953,3,"其他(全部的)","other (total)",68.49
+953,2,"腹腔镜的","laparoscopic",
+953,3,"腹的","abdominal",
+953,4,"根治(全部的)(TLRH)","radical (total) (TLRH)",68.61
+953,4,"全部(TLH),","total (TLH),",68.41
+953,4,"全部(TLH)","total (TLH)",68.41
+953,3,"阴道,辅助的(LAVH)","vaginal, assisted (LAVH)",68.51
+953,4,"根治性(LRVH)","radical (LRVH)",68.71
+953,3,"子宫颈上的(LASH)(LSH)","supracervical (LASH) (LSH)",68.31
+953,2,"根治性","radical",
+953,3,"腹的","abdominal",
+953,4,"腹腔镜的","laparoscopic",68.61
+953,4,"其他(改良的)(沃特海姆的)","other (modified) (Wertheim's)",68.69
+953,3,"阴道的","vaginal",
+953,4,"腹腔镜的(LRVH)","laparoscopic (LRVH)",68.71
+953,4,"其他","other",68.79
+953,2,"阴道(完全)(部分)(大部)(全部)","vaginal (complete) (partial) (subtotal) (total)",68.59
+953,3,"腹腔镜辅助(LAVH)","laparoscopically assisted (LAVH)",68.51
+953,3,"根治性(绍塔)","radical (Schauta)",68.79
+953,4,"腹腔镜的[LRVH]","laparoscopic [LRVH]",68.71
+953,2,"子宫颈上的","supracervical",68.39

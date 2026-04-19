@@ -1,0 +1,177 @@
+page,level,chinese,english,code
+779,3,"皮瓣","flap",56.74
+779,2,"膀胱的 NEC","vesical (bladder) NEC",57.99
+779,2,"膀胱膨出 NEC","cystocele NEC",70.51
+779,2,"膀胱周围组织 NEC","perivesical tissue NEC",59.92
+779,2,"旁路-见旁路","bypass-see Bypass",
+779,2,"佩里拉(尿道旁悬吊术)","Pereyra (paraurethral suspension)",59.6
+779,2,"蓬塞","Poncet",
+779,3,"跟腱延长","lengthening of Achilles tendon",83.85
+779,3,"尿道造口术,会阴的","urethrostomy, perineal",58.0
+779,2,"脾 NEC","spleen NEC",41.99
+779,2,"皮肤 NEC","skin NEC",86.99
+779,2,"皮罗戈夫(经胫腓骨踝截断术)","Pirogoff (ankle amputation through malleoli of tibia and fibula)",84.14
+779,2,"皮特(内切除术)","Peet (splanchnic resection)",05.29
+779,2,"皮下组织 NEC","subcutaneous tissue NEC",86.99
+779,2,"平斯克尔(鼻中隔毛细血管扩张闭塞)","Pinsker (obliteration of nasoseptal telangiectasia)",21.07
+779,2,"瓶状(睾丸鞘膜积水修补术)","Bottle (repair of hydrocele of tunica vaginalis)",61.2
+779,2,"普林特和梅森(高位胃旁路)","Printen and Mason (high gastric bypass)",44.31
+779,2,"普斯托(胰空肠吻合术)","Puestow (pancreaticojejunostomy)",52.96
+779,2,"奇特尔亨利-见修补术,疝,股的","Cheatle-Henry-see Repair, hernia, femoral",
+779,2,"脐 NEC","umbilicus NEC",54.99
+779,2,"脐尿管 NEC","urachus NEC",57.51
+779,2,"气管 NEC","trachea NEC",31.99
+779,2,"钱德勒(髋融合术)","Chandler (hip fusion)",81.21
+779,2,"前房(眼) NEC","anterior chamber (eye) NEC",12.99
+779,2,"前列腺 NEC-另见前列腺切除术","prostate NEC-see also Prostatectomy",60.69
+779,3,"特指类型","specified type",60.99
+779,2,"腔静脉滤网","vena cava sieve",38.7
+779,2,"乔普林(外生骨疣切除术伴腱移植)","Joplin (exostectomy with tendon transfer)",77.53
+779,2,"青光眼 NEC","glaucoma NEC",12.79
+779,2,"琼斯","Jones",
+779,3,"锤状趾(指(趾)间关节融合术)","hammer toe (interphalangeal fusion)",77.56
+779,3,"腓腱修补术","repair of peroneal tendon",83.88
+779,3,"改良(伴关节固定术)","modified (with arthrodesis)",77.57
+779,3,"改良(腱移植术伴关节固定术)","modified (tendon transfer with arthrodesis)",77.57
+779,3,"泪囊鼻腔造口术","dacryocystorhinostomy",09.81
+780,4,"爪形趾(伸拇长肌肌腱移植术)","claw toe (transfer of extensor hallucis longus tendon)",77.57
+780,2,"丘脑","thalamus",01.41
+780,3,"经立体定位放射外科学","by stereotactic radiosurgery",92.32
+780,4,"单源光子","single source photon",92.31
+780,4,"多源","multi-source",92.32
+780,4,"放射外科学 NEC","radiosurgery NEC",92.39
+780,4,"钴-60","cobalt-60",92.32
+780,4,"粒子","particulate",92.33
+780,4,"粒子束流","particle beam",92.33
+780,4,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+780,2,"韧带 NEC","ligament NEC",81.99
+780,3,"阔 NEC","broad NEC",69.98
+780,3,"圆 NEC","round NEC",69.98
+780,3,"子宫 NEC","uterine NEC",69.98
+780,2,"乳房 NEC","breast NEC",85.99
+780,2,"乳糜池 NEC","cisterna chyli NEC",40.69
+780,2,"乳头 NEC","nipple NEC",85.99
+780,2,"乳头肌(心脏) NEC","papillary muscle (heart) NEC",35.31
+780,2,"软组织 NEC","soft tissue NEC",83.99
+780,3,"手","hand",82.99
+780,2,"撒尔(食管狭窄修修补术)","Thal (repair of esophageal stricture)",42.85
+780,2,"萨登-布鲁克斯(胸大肌肌腱移植术)","Seddon-Brooks (transfer of pectoralis major tendon)",83.75
+780,2,"萨弗(永久性胃造口术)","Ssabanajew-Frank (permanent gastrostomy)",43.19
+780,2,"萨默斯基尔(泪囊鼻腔造口术,经插管法)","Summerskill (dacryocystorhinostomy by intubation)",09.81
+780,2,"腮腺或管 NEC","parotid gland or duct NEC",26.99
+780,2,"赛弗(臂软组织切断)","Sever (division of soft tissue of arm)",83.19
+780,2,"塞米施(角膜切开术)","Saemisch (corneal section)",11.1
+780,2,"赛姆","Syme",
+780,3,"踝截断术,经胫腓骨踝","ankle amputation through malleoli of tibia and fibula",84.14
+780,3,"尿道切开术,外部","urethrotomy, external",58.0
+780,2,"塞姆(肺根尖松解术)","Semb (apicolysis of lung)",33.39
+780,2,"塞西尔(尿道再建造术)","Cecil (urethral reconstruction)",58.46
+780,2,"瑟梅(空肠造口术)","Surmay (jejunostomy)",46.39
+780,2,"森宁(大血管转位矫正术)","Senning (correction of transposition of great vessels)",35.91
+780,2,"沙拉尔德(髂腰肌肌转移)","Sharrard (iliopsoas muscle transfer)",83.77
+780,2,"沙伊","Scheie",
+781,3,"巩膜烧灼","cautery of sclera",12.62
+781,3,"巩膜造口术","sclerostomy",12.62
+781,2,"山茨(股骨骨切开术)","Schanz (femoral osteotomy)",77.35
+781,2,"疝-见修补术,疝","hernia-see Repair, hernia",
+781,2,"绍塔(-阿姆赖克)(根治阴道子宫切除术)","Schauta (-Amreich) (radical vaginal hysterectomy)",68.79
+781,3,"腹腔镜的","laparoscopic",68.71
+781,2,"舌 NEC","tongue NEC",25.99
+781,3,"皮瓣,腭","flap, palate",27.62
+781,3,"系带","tie",25.91
+781,2,"舌下腺或管 NEC","Sublingual gland or duct NEC",26.99
+781,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.99
+781,3,"交感神经 NEC","sympathetic NEC",05.89
+781,3,"肾上腺 NEC","adrenal NEC",07.49
+781,2,"神经节 NEC","ganglia NEC",04.99
+781,3,"交感神经","sympathetic",05.89
+781,2,"神经系统 NEC","nervous system NEC",05.9
+781,2,"肾 NEC","renal,kidney NEC",55.99
+781,2,"肾上腺(腺)(神经)(血管) NEC","adrenal (gland) (nerve) (vessel) NEC",07.49
+781,2,"肾周围组织 NEC","perirenal tissue NEC",59.92
+781,2,"声带 NEC","vocal cord NEC",31.98
+781,2,"生殖器官 NEC","genital organ NEC",
+781,3,"男性","male",64.99
+781,3,"女性","female",71.9
+781,2,"施拉特(胃切全部除术)","Schlatter (total gastrectomy)",43.99
+781,2,"施罗德(子宫颈内切除术)","Schroeder (endocervical excision)",67.39
+781,2,"施塔姆(-卡德尔)(暂时性胃造口术)","Stamm (-Kader) (temporary gastrostomy)",43.19
+781,2,"施特罗迈尔-利特尔(肝切开术)","Stromeyer-Little (hepatotomy)",50.0
+781,2,"施瓦茨(单纯乳突切除术)","Schwartze (simple mastoidectomy)",20.41
+781,2,"十二指肠 NEC","duodenum NEC",46.99
+781,2,"食管 NEC","esophagus NEC",42.99
+781,2,"史密斯(开放下颌骨骨切开术)","Smith (open osteotomy of mandible)",76.62
+781,2,"史密斯-彼得森(桡腕关节固定术)","Smith-Peterson (radiocarpal arthrodesis)",81.25
+781,2,"史密斯威克(交感神经切除术)","Smithwick (sympathectomy)",05.29
+781,2,"视网膜 NEC","retina NEC",14.9
+781,2,"输精管 NEC","vas deferens NEC",63.99
+781,3,"结扎 NEC","ligation NEC",63.71
+781,2,"输卵管 NEC","fallopian tube NEC",66.99
+781,2,"输尿管 NEC","ureter NEC",56.99
+782,2,"舒夏特(非产科外阴切开术)","Schuchardt (nonobstetrical episiotomy)",71.09
+782,2,"斯波尔丁-理查森(子宫悬吊术)","Spalding-Richardson (uterine suspension)",69.22
+782,2,"斯基恩腺(女性尿道旁腺) NEC","Skene's gland NEC",71.8
+782,2,"斯科特","Scott",
+782,3,"肠旁路用于肥胖(减肥)","intestinal bypass for obesity",45.93
+782,3,"空肠结肠吻合术(旁路)","jejunocolostomy (bypass)",45.93
+782,2,"斯路德(扁桃腺切除术)","Sluder (tonsillectomy)",28.2
+782,2,"斯洛克姆(鹅足移植术)","Slocum (pes anserinus transfer)",81.47
+782,2,"斯皮内利(内翻子宫矫正术)","Spinelli (correction of inverted uterus)",75.93
+782,2,"斯皮瓦克(永久性胃造口术)","Spivack (permanent gastrostomy)",43.19
+782,2,"斯塔克(单纯乳突切除术)","Stacke (simple mastoidectomy)",20.41
+782,2,"斯坦伯格","Steinberg",44.5
+782,2,"斯坦德勒","Steindler",
+782,3,"肌移植术","muscle transfer",83.77
+782,3,"筋膜剥脱术(用于弓形足畸形)","fascia stripping (for cavus deformity)",83.14
+782,3,"屈肌成形术(肘)","flexorplasty (elbow)",83.77
+782,2,"斯特拉斯曼(子宫成形术)","Strassman (metroplasty)",69.49
+782,3,"子宫","uterus",68.22
+782,3,"子宫成形术(琼斯改进型)","metroplasty (Jones modification)",69.49
+782,2,"斯特赖克(腓肠肌退缩术)","Strayer (gastrocnemius recession)",83.72
+782,2,"斯特朗(腹腔的动脉松解)","Strong (unbridling of celiac artery axis)",39.91
+782,2,"斯特姆多尔夫(子宫颈锥形切除术)","Sturmdorf (conization of cervix)",67.2
+782,2,"斯通(肛门成形术)","Stone (anoplasty)",49.79
+782,2,"斯图尔特(肾折叠术伴肾盂成形术)","Stewart (renal plication with pyeloplasty)",55.87
+782,2,"斯托拉德(结膜泪囊吻合术)","Stallard (conjunctivocystorhinostomy)",09.82
+782,3,"伴管或支架插入","with insertion of tube or stent.",09.83
+782,2,"斯文尼(尿道再建造术)","Swinney (urethral reconstruction)",58.46
+782,2,"斯文森","Swenson",
+782,3,"膀胱再建造术","bladder reconstruction",57.87
+782,3,"直肠切除术","proctectomy",48.49
+782,2,"松果腺 NEC","pineal gland NEC",07.59
+782,2,"苏特(髂嵴筋膜切开术)","Soutter (iliac crest fasciotomy)",83.14
+782,2,"索恩伯格(上下颌神经切除术)","Sonneberg (inferior maxillary neurectomy)",04.07
+783,2,"索尔-培根(腹会阴切除术),NOS","Sauer-Bacon (abdominoperineal resection), NOS",48.50
+783,3,"腹腔镜的","laparoscopic",48.51
+783,3,"开放性","open",48.52
+783,3,"其他","other",48.59
+783,2,"索尔特(无名骨切开术)","Salter (innominate osteotomy)",77.39
+783,2,"索夫(直肠内拖出)","Soave (endorectal pull-through)",48.41
+783,2,"索朗多-费雷(后肢截断术)","Sorondo-Ferre (hindquarter amputation)",84.19
+783,2,"塔恩霍耶(三叉神经根减压)","Taarnhoj (trigeminal nerve root decompression)",04.41
+783,2,"塔耳马莫里森(网膜固定术)","Talma-Morison (omentopexy)",54.74
+783,2,"塔克(前庭小囊切开术)","Tack (sacculotomy)",20.79
+783,2,"坦纳(胃血供应阻断)","Tanner (devascularization of stomach)",44.99
+783,2,"汤姆金斯(子宫成形术)","Tomkins (metroplasty)",69.49
+783,2,"汤普森","Thompson",
+783,3,"唇裂修补术","cleft lip repair",27.54
+783,3,"股四头肌成形术","quadricepsplasty",83.86
+783,3,"淋巴水肿矫正术","correction of lymphedema",40.9
+783,3,"拇指对合伴骨移植","thumb apposition with bone graft",82.69
+783,2,"特科(畸形足的关节囊松解术)","Turco (release of joint capsules in clubfoot)",80.48
+783,2,"特劳纳(舌沟颊唇沟或舌沟牵伸术)","Trauner (lingual sulcus extension)",24.91
+783,2,"提尔施","Thiersch",
+783,3,"肛门","anus",49.79
+783,3,"皮肤移植","skin graft",86.69
+783,3,"手","hand",86.62
+783,2,"提肌悬吊","levator muscle sling",
+783,3,"尿道口失禁","urinary stress incontinence",59.71
+783,3,"尿道膀胱悬吊术","urethrovesical suspension",59.71
+783,3,"眼睑下垂修补术","eyelid ptosis repair",08.33
+783,2,"图查斯","Touchas",86.83
+783,2,"图德“兔耳”(前尿道固定术)","Tudor “rabbit ear” (anterior urethropexy)",59.79
+783,2,"图罗夫(锁骨下动脉结扎)","Touroff (ligation of subclavian artery)",38.85
+783,2,"兔唇","harelip",27.54
+783,2,"“兔耳”(尿道前部固定术)(图德)","“rabbit ear” (anterior urethropexy) (Tudor)",59.79
+783,2,"拖出(直肠) NEC","pull-through NEC",48.49
+783,2,"托蒂(泪囊鼻腔造口术)","Toti (dacryocystorhinostomy)",09.81

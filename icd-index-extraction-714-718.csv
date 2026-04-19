@@ -1,0 +1,187 @@
+page,level,chinese,english,code
+714,4,"心房和(或)心室导联(电极)","atrial and/or ventricular lead(s) (electrode)",37.76
+714,4,"心外膜导联","epicardial lead",37.74
+714,3,"心脏起搏器(心房)(经静脉)(心室)","cardiac pacemaker (atrial) (transvenous) (ventricular)",37.77
+714,4,"伴置换","with replacement",37.76
+714,3,"硬膜外钉","epidural pegs",01.22
+714,4,"同时伴置换","with synchronous replacement",02.93
+714,3,"暂时性经静脉起搏器系统-省略编码","temporary transvenous pacemaker system-omit code",
+714,3,"周围神经","peripheral nerve",04.93
+714,4,"同时伴置换","with synchronous replacement",04.92
+714,2,"动静脉分流(装置)","arteriovenous shunt (device)",39.43
+714,3,"伴创建新分流","with creation of new shunt",39.42
+714,2,"动脉移植物或假体","arterial graft or prosthesis",39.49
+714,2,"多余的皮肤,眼睑","redundant skin, eyelid",08.86
+714,2,"多余指","supernumerary digit(s)",86.26
+714,2,"耳垢","cerumen, ear",96.52
+714,2,"放射活性材料-见去除,异物,按部位","radioactive material-see Removal, foreign body, by site",
+714,2,"粪便(嵌顿)(经冲洗)(手法的)","feces (impacted) (by flushing) (manual)",96.38
+714,2,"分流","shunt",
+714,3,"动静脉","arteriovenous",39.43
+714,4,"伴创建新分流","with creation of new shunt",39.42
+714,3,"脊髓的(鞘) NEC","spinal (thecal) NEC",03.98
+714,3,"输卵管脊膜","salpingothecal",03.98
+714,3,"胸腔脊膜","pleurothecal",03.98
+714,3,"腰的蛛网膜下 NEC","lumbar-subarachnoid NEC",03.98
+714,3,"蛛网膜下腹膜的","subarachnoid-peritoneal",03.98
+714,3,"蛛网膜下输尿管的","subarachnoid-ureteral",03.98
+714,2,"缝合 NEC","suture(s) NEC",97.89
+714,3,"腹壁","abdominal wall",97.83
+714,3,"经切开-见切开,按部位","by incision-see Incision, by site",
+714,3,"躯干 NEC","trunk NEC",97.84
+714,3,"生殖器的管道","genital tract",97.79
+714,3,"头和颈","head and neck",97.38
+714,3,"胸","thorax",97.43
+714,2,"复律器/除颤器脉搏发生器","cardioverter/defibrillator pulse generator",
+714,3,"不伴置换(心脏再同步除颤装置(CRT-D))","without replacement (cardiac resynchronization defibrillator device (CRT-D))",37.79
+714,2,"钙沉积","calcareous deposit",
+715,3,"腱,腱内","tendon, intratendinous",83.39
+715,4,"手","hand",82.29
+715,3,"黏液囊","bursa",83.03
+715,4,"手","hand",82.03
+715,2,"钙化,心脏瓣膜小叶-见瓣膜成形术,心脏","calcification, heart valve leaflets-see Valvuloplasty, heart",
+715,2,"肛门括约肌","anal sphincter",
+715,3,"伴修复术","with revision",49.75
+715,3,"不伴修复术","without revision",49.76
+715,2,"睾丸(单侧)","testis (unilateral),ovo-testis (unilateral)",62.3
+715,3,"残留或孤立","remaining or solitary",62.42
+715,3,"双侧","bilateral",62.41
+715,2,"根,残留(牙)(埋藏)(存留)","root, residual (tooth) (buried) (retained)",23.11
+715,2,"宫内避孕装置(IUD)","intrauterine contraceptive device (IUD)",97.71
+715,2,"弓形杆(齿矫形)","arch bars (orthodontic)",24.8
+715,2,"固定装置","immobilization device",97.33
+715,2,"巩膜扣压术或植入","scleral buckle or implant",14.6
+715,2,"鼓膜切开术装置或管","myringotomy device or tube",20.1
+715,2,"骨软骨游离体,关节结构-另见关节切开术","osteocartilagenous loose body, joint structures-see also Arthrotomy",80.10
+715,2,"鼓上隐窝外壁(中耳)","outer attic wall (middle ear)",20.59
+715,2,"骨生长刺激器-见亚目","bone growth stimulator-see subcategory",78.6
+715,2,"骨碎片-另见切开,骨","bone fragment (chip)-see also Incision, bone",77.10
+715,3,"关节-另见关节切开术","joint-see also Arthrotomy",80.10
+715,3,"坏死的-另见死骨切除术,骨","necrotic-see also Sequestrectomy, bone",77.00
+715,4,"关节-另见关节切开术","joint-see also Arthrotomy",80.10
+715,3,"颅骨","skull",01.25
+715,4,"伴复合性骨折清创术","with debridement compound fracture",02.02
+715,2,"骨性骨针,椎管","bony spicules, spinal canal",03.53
+715,2,"固定装置","fixation device",
+715,3,"内的","internal",78.60
+715,4,"髌骨","patella",78.66
+715,4,"尺骨","ulna",78.63
+715,4,"腓骨","fibula",78.67
+715,4,"跗骨的,跖骨的","tarsal, metatarsal",78.68
+715,4,"肱骨","humerus",78.62
+715,4,"股骨","femur",78.65
+715,4,"骨盆","pelvic",78.69
+715,4,"肩胛骨","scapula",78.61
+716,4,"胫骨","tibia",78.67
+716,4,"面的(骨)","facial (bone)",76.97
+716,4,"桡骨","radius",78.63
+716,4,"锁骨","clavicle",78.61
+716,4,"特指部位 NEC","specified site NEC",78.69
+716,4,"腕骨的,掌骨的","carpal, metacarpal",78.64
+716,4,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",78.61
+716,4,"趾骨(足)(手)","phalanges (foot) (hand)",78.69
+716,4,"椎骨","vertebrae",78.69
+716,3,"外的","external",97.88
+716,3,"微型固定(骨)-见亚目","minifixator (bone)-see subcategory",78.6
+716,3,"下颌骨的 NEC","mandibular NEC",97.36
+716,2,"挂线法,肛门","seton, anus",49.93
+716,2,"关节(结构) NOS","joint (structure) NOS",80.90
+716,3,"踝","ankle",80.97
+716,3,"脊柱","spine",80.99
+716,3,"肩","shoulder",80.91
+716,3,"髋","hip",80.95
+716,3,"其他特指部位","other specified sites",80.99
+716,3,"手和手指","hand and finger",80.94
+716,3,"腕","wrist",80.93
+716,3,"膝","knee",80.96
+716,3,"趾","toe",80.98
+716,3,"肘","elbow",80.92
+716,3,"足和趾","foot and toe",80.98
+716,2,"管","tube",
+716,3,"大肠","large intestine",97.53
+716,3,"胆管(T管) NEC","bile duct (T-tube) NEC",97.55
+716,3,"胆囊造口术","cholecystostomy",97.54
+716,3,"耳(钮)","ear (button)",20.1
+716,3,"腹膜","peritoneum",97.82
+716,3,"腹膜后","retroperitoneum",97.81
+716,3,"肝","liver",97.55
+716,3,"鼓膜","tympanum",20.1
+716,3,"鼓室造口术","tympanostomy",20.1
+716,3,"阑尾","appendix",97.53
+716,3,"颅腔","cranial cavity",01.27
+716,3,"膀胱造口术","cystostomy",97.63
+716,3,"气管造口术","tracheostomy",97.37
+716,3,"肾盂造口术","pyelostomy",97.61
+716,3,"肾造口术","nephrostomy",97.61
+717,3,"输尿管造口术","ureterostomy",97.62
+717,3,"胃造口术","gastrostomy",97.51
+717,3,"小肠","small intestine",97.52
+717,3,"胸廓切开术","thoracotomy",97.41
+717,3,"胸膜腔","pleural cavity",97.41
+717,3,"胰","pancreas",97.56
+717,3,"纵隔","mediastinum",97.42
+717,2,"冠状动脉梗阻(血栓)","coronary artery obstruction (thrombus)",36.09
+717,2,"经皮经管腔(球囊)","percutaneous transluminal (balloon)",
+717,3,"开放胸入路","open chest approach",36.03
+717,3,"直接冠状动脉内输注","direct intracoronary artery infusion",36.04
+717,2,"硅橡胶管","silastic tubes",
+717,3,"耳","ear",20.1
+717,3,"输卵管","fallopian tubes",66.94
+717,4,"同时伴置换","with synchronous replacement",66.93
+717,2,"坏疽","necrosis",
+717,3,"皮肤","skin",86.28
+717,4,"切除的","excisional",86.22
+717,2,"环锥牵引装置(颅骨)","halo traction device (skull)",02.95
+717,3,"同时伴置换","with synchronous replacement",02.94
+717,2,"环形管,眼(巩膜上)","encircling tube, eye (episcleral)",14.6
+717,2,"环扎术材料,子宫颈","cerclage material, cervix",69.96
+717,2,"黄韧带(脊柱)-省略编码","ligamentum flavum (spine)-omit code",
+717,2,"霍夫曼微型固定装置(骨)-见亚目","Hoffman minifixator device (bone)-see subcategory",78.6
+717,2,"肌肉刺激器(骨骼)","muscle stimulator (skeletal)",83.93
+717,3,"伴置换","with replacement",83.92
+717,2,"继发膜性白内障(伴虹膜切除术)","secondary membranous cataract (with iridectomy)",13.65
+717,2,"夹板","splint",97.88
+717,2,"加德纳维尔斯钳(颅骨)","Gardner Wells tongs (skull)",02.95
+717,3,"同时伴置换","with synchronous replacement",02.94
+717,2,"假体去除术","prosthesis",
+717,3,"Rheos 颈动脉窦压力反射激活装置","Rheos carotid sinus baroreflex activation device",86.05
+718,3,"胆管","bile duct",51.95
+718,4,"非手术性","nonoperative",97.55
+718,3,"耳蜗假体装置","cochlear prosthetic device",20.99
+718,3,"睾丸,经切开","testicular, by incision",62.0
+718,3,"关节结构","joint structures",
+718,4,"伴有置换-见修复,关节置换按部位","with replacement-see Revision, joint replacement by site",
+718,4,"不伴置换","without replacement",
+718,5,"踝","ankle",80.07
+718,5,"脊柱","spine",80.09
+718,5,"肩","shoulder",80.01
+718,5,"髋","hip",80.05
+718,5,"手和手指","hand and finger",80.04
+718,5,"特指部位 NEC","specified site NEC",80.09
+718,5,"腕","wrist",80.03
+718,5,"未特指部位","unspecified site",80.00
+718,5,"膝","knee",80.06
+718,5,"肘","elbow",80.02
+718,5,"足和趾","foot and toe",80.08
+718,3,"晶体","lens",13.8
+718,3,"罗森(尿道)","Rosen (urethra)",59.99
+718,3,"泌尿系括约肌,人工","urinary sphincter, artificial",58.99
+718,4,"伴置换","with replacement",58.93
+718,3,"面骨","facial bone",76.99
+718,3,"输卵管","fallopian tube",66.94
+718,4,"同时伴置换","with synchronous replacement",66.93
+718,3,"牙的","dental",97.35
+718,3,"眼","eye",97.31
+718,3,"阴茎(内的)不伴置换","penis (internal) without replacement",64.96
+718,2,"睑球粘连-见修补术,睑球粘连","symblepharon-see Repair, symblepharon",
+718,2,"角膜上皮","corneal epithelium",11.41
+718,3,"用于涂片或培养","for smear or culture",11.21
+718,2,"结石","calculus",
+718,3,"胆管(经切开)","bile duct (by incision)",51.49
+718,4,"腹腔镜的","laparoscopic",51.88
+718,4,"经皮的","percutaneous",51.98
+718,4,"内镜的","endoscopic",51.88
+718,3,"胆囊","gallbladder",51.04
+718,4,"经皮的","laparoscopic",51.88
+718,4,"内镜的","endoscopic",51.88
+718,3,"胆总管(经切开)","common duct (by incision)",51.41

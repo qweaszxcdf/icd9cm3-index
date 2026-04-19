@@ -1,0 +1,167 @@
+page,level,chinese,english,code
+759,1,"室造影,室造影术(脑的)","Ventriculogram, ventriculography (cerebral)",87.02
+759,2,"放射性核素心的","radionuclide cardiac",92.05
+759,2,"心的","cardiac",
+759,3,"右心室(流出道)","right ventricle (outflow tract)",88.52
+759,4,"合并左心","combined with left heart",88.54
+759,3,"左心室(流出道)","left ventricle (outflow tract)",88.53
+759,4,"合并右心脏","combined with right heart",88.54
+759,1,"视觉诱发电位(VEP)","Visual evoked potential (VEP)",95.23
+759,1,"视力检查","Vision check",95.09
+759,1,"视网膜电流图(ERG)","Electroretinogram (ERG)",95.21
+759,1,"视网膜冷凝固定术(为了)","Cryoretinopexy (for)",
+759,2,"撕裂或缺损修补术","repair of tear or defect",14.32
+759,2,"再附着","reattachment",14.52
+759,1,"视野测量","Perimetry",95.05
+759,1,"试用(失败)产钳","Trial (failed) forceps",73.3
+759,1,"收集精液,用于人工授精","Collection, sperm for artificial insemination",99.96
+759,1,"手法操作","Manipulation",
+759,2,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+759,2,"鼻间隔,移置","nasal septum, displaced",21.88
+759,2,"肠(腹内)","intestine (intra-abdominal)",46.80
+759,3,"大的","large",46.82
+759,3,"小的","small",46.81
+759,2,"肠造口术管口(伴扩张)","enterostomy stoma (with dilation)",96.24
+759,2,"骨病 NEC","osteopathic NEC",93.67
+759,3,"等张,等大力","isotonic, isometric forces",93.64
+759,3,"低速,高幅力(弹力)","low-velocity, high-amplitude forces (springing)",93.63
+759,3,"高速,低幅力(推力)","high-velocity, low-amplitude forces (thrusting)",93.62
+759,3,"间接力","indirect forces",93.65
+759,3,"移动组织液","to move tissue fluids",93.66
+759,3,"用于全身松动术(全身关节)","for general mobilization (general articulation)",93.61
+759,2,"关节","joint",
+759,3,"脱位一见复位,脱位","dislocation-see Reduction, dislocation",
+759,3,"粘连","adhesions",93.26
+759,4,"颞下颌的","temporomandibular",76.95
+760,2,"肌肉骨骼(物理疗法) NEC","musculoskeletal (physical therapy) NEC",93.29
+760,2,"肌肉结构","muscle structures",93.27
+760,2,"泪道(管道) NEC","lacrimal passage (tract) NEC",09.49
+760,2,"颞下颌关节 NEC","temporomandibular joint NEC",76.95
+760,2,"输尿管结石,经导管","ureteral calculus by catheter",
+760,3,"伴去除","with removal",56.0
+760,3,"不伴去除","without removal",59.8
+760,2,"胃,术中采取的","stomach, intraoperative",44.92
+760,2,"涎腺管","salivary-duct",26.91
+760,2,"直肠","rectum",96.22
+760,2,"子宫 NEC","uterus NEC",69.98
+760,3,"内翻的","inverted",
+760,4,"手法的置换(分娩后)","manual replacement (following delivery)",75.94
+760,3,"妊娠","gravid",75.99
+760,3,"外科手术的一见修补术,内翻子宫","surgical-see Repair, inverted uterus",
+760,1,"手法操作(方法)","Maneuver (method)",
+760,2,"布拉格","Prague",72.52
+760,2,"布屑利特","Bracht",72.52
+760,2,"德李(钥匙锁式旋转)","De Lee (key-in-lock)",72.4
+760,2,"范霍恩","Van Hoorn",72.52
+760,2,"克勒德","Credé",73.59
+760,2,"克里斯特勒","Kristeller",72.54
+760,2,"勒夫塞特(臀位臂牵引)","Loveset's (extraction of arms in breech birth)",72.52
+760,2,"利特根","Ritgen",73.59
+760,2,"莫里索(斯梅利伟特)","Mauriceau (-Smellie-Veit)",72.52
+760,2,"皮纳德(全臀位牵引术)","Pinard (total breech extraction)",72.54
+760,2,"斯坎佐尼(旋转)","Scanzoni (rotation)",72.4
+760,2,"维甘德-马丁","Wigand-Martin",72.52
+760,1,"手工艺疗法","Manual arts therapy",93.81
+760,1,"手术","Operation",
+760,2,"Coxmaze 操作(心脏组织的消融或破坏)一见 maze 操作","Cox-maze procedure (ablation or destruction of heart tissue)-see maze procedure",
+760,2,"Dennis-Varco(疝缝合术)一见修补术,疝,股的","Dennis-Varco (herniorrhaphy)-see Repair, hernia, femoral",
+760,2,"Maze 操作(消融,心脏组织切除或破坏)","Maze procedure (ablation or destruction of heart tissue)",
+760,3,"经切开(开放)","by incision (open)",37.33
+760,3,"经胸切开术不伴胸腔镜","by thoracotomy without thoracoscope",37.33
+761,3,"经正中胸骨切开","by median sternotomy",37.33
+761,3,"经周围循环插入的导管","by peripherally inserted catheter",37.34
+761,3,"血管内入路","endovascular approach",37.34
+761,2,"TKP(角膜热成形术)","TKP (thermokeratoplasty)",11.74
+761,2,"Y 字型吻合","Roux-en-Y",
+761,2,"阿贝","Abbe",
+761,3,"肠吻合术一见吻合术,肠","intestinal anastomosis-see Anastomosis, intestine",
+761,3,"阴道建造术","construction of vagina",70.61
+761,4,"伴移植物或假体","with graft or prosthesis",70.63
+761,2,"阿布雷尔(羊膜腔内注射用于流产)","Aburel (intra-amniotic injection for abortion)",75.0
+761,2,"阿德莱德(一斯地福特)(尿道悬吊)","Aldridge (-Studdiford) (urethral sling)",59.5
+761,2,"阿尔比","Albee",
+761,3,"骨钉,股骨颈","bone peg, femoral neck",78.05
+761,3,"滑动嵌入移植,胫骨","sliding inlay graft, tibia",78.07
+761,3,"移植物,用于髌骨滑脱","graft for slipping patella",78.06
+761,2,"阿尔穆尔(颞骨岩部分引流)","Almoor (extrapetrosal drainage)",20.22
+761,2,"阿尔内(泪管扩张)","Anel (dilation of lacrimal duct)",09.42
+761,2,"阿尔特迈耶(会阴直肠拖出)","Altemeier (perineal rectal pull-through)",48.49
+761,2,"阿蒙(泪囊切开术)","Ammon (dacryocystotomy)",09.53
+761,2,"阿塞(喉)","Asai (larynx)",31.75
+761,2,"阿斯兰(内耳开窗术)","Arslan (fenestration of inner ear)",20.61
+761,2,"埃尔姆利斯-克米(跗骨楔形骨切开术)","Elmslie-Cholmleley (tarsal wedge osteotomy)",77.28
+761,2,"埃弗勒(心脏)","Effler (heart)",36.2
+761,2,"埃格斯","Eggers",
+761,3,"腱松解术(髌支持带)","tendon release (patellar retinacula)",83.13
+761,3,"腱移植(股二头肌腱)(腘绳肌腱)","tendon transfer (biceps femoris tendon) (hamstring tendon)",83.75
+761,2,"埃莱塞","Eloesser",
+761,3,"胸成形术","thoracoplasty",33.34
+761,3,"胸廓造口术","thoracostomy",34.09
+761,2,"埃利奥特(巩膜环钻术伴虹膜切除术)","Elliot (scleral trephination with iridectomy)",12.61
+761,2,"埃梅特(子宫颈)","Emmet (cervix)",67.61
+761,2,"埃斯蒂斯(卵巢)","Estes (ovary)",65.72
+761,3,"腹腔镜的","laparoscopic",65.75
+761,2,"埃斯特兰德(胸成形术)","Estlander (thoracoplasty)",33.34
+761,2,"埃文斯(畸形足松解术)","Evans (release of clubfoot)",83.84
+762,2,"艾伯特(关节固定术,膝)","Albert (arthrodesis, knee)",81.22
+762,2,"艾利森(加固副韧带)","Ellison (reinforcement of collateral ligament)",81.44
+762,2,"艾利斯琼斯(腓腱修补术)","Ellis Jones (repair of peroneal tendon)",83.88
+762,2,"安德逊(胫骨延长)","Anderson (tibial lengthening)",78.37
+762,2,"奥伯(一扬特)(臀髂胫筋膜切开术)","Ober (-Yount) (gluteal-iliotibial fasciotomy)",83.14
+762,2,"奥狄括约肌 NEC","sphincter of Oddi NEC",51.89
+762,2,"奥多诺休(膝关节三联修补术)","O'Donoghue (triad knee repair)",81.43
+762,2,"奥尔斯豪森(子宫悬吊术)","Olshausen (uterine suspension)",69.22
+762,2,"奥克斯福福德(用于泌尿系失禁)","Oxford (for urinary incontinence)",59.4
+762,2,"奥斯卡米勒(跗骨间关节固定术)","Oscar Miller (midtarsal arthrodesis)",81.14
+762,2,"奥斯蒙德-克拉克(软组织松解伴腓骨短肌腱移植)","Osmond-Clark (soft tissue release with peroneus brevis tendon transfer)",83.75
+762,2,"巴登霍伊厄(无名动脉结扎)","Bardenheurer (ligation of innominate artery)",38.85
+762,2,"巴蒂斯塔(部分心室切除术)(心室减缩术)(心室重塑)","Batista (partial ventriculectomy)(ventricular reduction)(ventricular remodeling)",37.35
+762,2,"巴尔(胫后腱移植术)","Barr (transfer of tibialis posterior tendon)",83.75
+762,2,"巴菲斯(心房间静脉回流转位)","Baffes (interatrial transposition of venous return)",35.91
+762,2,"巴坎(前房角切开术)","Barkan (goniotomy)",12.52
+762,3,"伴前房角穿刺术","with goniopuncture",12.53
+762,2,"巴奇一斯皮皮特勒一麦克法丁(膝关节离断)","Batch-Spittler-McFaddin (knee disarticulation)",84.16
+762,2,"巴塞(女阴切除术伴腹股沟淋巴结清扫)","Bassett (vulvectomy with inguinal lymph node dissection)",71.5
+762,2,"巴斯基(裂手闭合术)","Barsky (closure of cleft hand)",82.82
+762,2,"巴西尼(疝缝合术)一见修补术,疝,腹股沟的","Bassini (herniorrhaphy)-see Repair, hernia, inguinal",
+762,2,"巴治操作(耻骨后尿道悬吊术,用于尿道口失禁)","Burch procedure (retropubic urethral suspension for urinary stress incontinence)",59.5
+762,2,"班克哈特(进入关节盂的囊修补术,用于肩关节脱位)","Bankhart (capsular repair into glenoid, for shoulder dislocation)",81.82
+762,2,"邦内尔(腱移植)","Bunnell (tendon transfer)",82.56
+762,2,"邦尼(腹子宫切除术)","Bonney (abdominal hysterectomy)",68.49
+762,3,"腹腔镜的","laparoscopic",68.41
+762,2,"鲍勃(胆石切除术)","Bobb (cholelithotomy)",51.04
+762,2,"鲍尔","Ball",
+762,3,"肛周下部切开","undercutting",49.02
+763,3,"疝缝合术一见修补术,疝,腹股沟的","herniorrhaphy-see Repair, hernia, inguinal",
+763,2,"鲍尔迪-韦伯斯特(子宫悬吊术)","Baldy-Webster (uterine suspension)",69.22
+763,2,"贝尔-博伊特纳特(经腹子宫次全切除术)","Bell-Beuttner (subtotal abdominal hysterectomy)",68.39
+763,2,"贝尔西(食管胃括约肌)","Belsey (esophagogastric sphincter)",44.65
+763,2,"贝克 I (心外膜撒粉法)","Beck I (epicardial poudrage)",36.39
+763,2,"贝克 II (主动脉冠状窦分流)","Beck II (aorta-coronary sinus shunt)",36.39
+763,2,"贝克加努(永久性胃造口术)","Beck-Jianu (permanent gastrostomy)",43.19
+763,2,"贝尼南蒂(球部尿道旋转)","Benenenti (rotation of bulbous urethra)",58.49
+763,2,"鼻,鼻的 NEC","nose, nasal NEC",21.99
+763,3,"窦 NEC","sinus NEC",22.9
+763,2,"鼻窦 NEC","nasal sinus NEC",22.9
+763,2,"鼻咽的 NEC","nasopharynx NEC",29.99
+763,2,"比罗特 I (部分胃切除术伴胃十二指肠吻合术)","Billroth I (partial gastrectomy with gastroduodenostomy)",43.6
+763,2,"比罗特 II (部分胃切除术伴胃空肠吻合术)","Billroth II (partial gastrectomy with gastrojejunostomy)",43.7
+763,2,"比奇洛(碎石洗出术)","Bigelow (litholapaxy)",57.0
+763,2,"比森伯杰(乳房缩小,双侧)","Biesenberger (size reduction of breast, bilateral)",85.32
+763,3,"单侧的","unilateral",85.31
+763,2,"毕晓夫(脊髓切开术)","Bishoff (spinal myelotomy)",03.29
+763,2,"毕肖夫(输尿管肾囊肿吻合术)","Bischoff (ureteroneocystostomy)",56.74
+763,2,"扁桃腺 NEC","tonsil NEC",28.99
+763,2,"宾尼(肝固定术)","Binnie (hepatopexy)",50.69
+763,2,"波茨-史密斯(降主动脉左肺动脉吻合术)","Potts-Smith (descending aorta-left pulmonary artery anastomosis)",39.0
+763,2,"波耳亚(胃切除术)","Polya (gastrectomy)",43.7
+763,2,"玻璃体 NEC","vitreous NEC",14.79
+763,2,"波利坦诺-利德贝特(输尿管肾囊肿吻合术)","Politano-Leadbetter (ureteroneocystostomy)",56.74
+763,2,"波罗(剖宫产术)","Porro (cesarean section)",74.99
+763,2,"波默罗伊(输卵管结扎和切断)","Pomeroy (ligation and division of fallopian tubes)",66.32
+763,2,"博阿里(膀胱皮瓣)","Boari (bladder flap)",56.74
+763,2,"博斯特","Bost",
+763,3,"桡腕融合术","radiocarpal fusion",81.26
+763,3,"足底的解剖","plantar dissection",80.48
+763,2,"博斯沃斯","Bosworth",
+763,3,"关节成形术用于肩锁分离","arthroplasty for acromioclavicular separation",81.83

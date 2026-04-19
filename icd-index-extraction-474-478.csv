@@ -1,0 +1,187 @@
+page,level,chinese,english,code
+474,2,"全身","total body",88.79
+474,2,"乳房","breast",88.73
+474,2,"深静脉血栓","deep vein thrombosis",88.77
+474,2,"头和颈","head and neck",88.71
+474,2,"消化系统","digestive system",88.74
+474,2,"心脏","heart",88.72
+474,2,"胸NEC","thorax NEC",88.73
+474,2,"血管内-见超声,血管内(IVUS)","intravascular-see Ultrasound, intravascular (IVUS)",
+474,2,"眼","eye",95.13
+474,2,"治疗性-见超声","therapeutic-see Ultrasound",
+474,2,"中线移位,脑","midline shift, brain",88.71
+474,2,"周围血管系统","peripheral vascular system",88.77
+474,2,"主动脉弓","aortic arch",88.73
+474,2,"子宫","uterus",88.79
+474,3,"妊娠","gravid",88.78
+474,1,"超声心动描记术","Echocardiography",88.72
+474,2,"经食管","transesophageal",88.72
+474,2,"监测(多普勒)(超声)","monitoring (Doppler) (ultrasound)",89.68
+474,2,"心内的(心房)(ICE)","intracardiac (heart chambers) (ICE)",37.28
+474,2,"血管内(冠状血管)","intravascular (coronary vessels)",00.24
+474,1,"成形术-另见修补术,按部位","Plasty-see also Repair, by site",
+474,2,"膀胱颈(V-Y)","bladder neck (V-Y)",57.85
+474,2,"皮肤(不伴移植)","skin (without graft)",86.89
+474,2,"皮下组织","subcutaneous tissue",86.89
+474,1,"持续气道正压(CPAP)(非侵入性)","Continuous positive airway pressure [CPAP] (non-invasive)",93.90
+474,2,"传送,经","delivered by",
+474,3,"气管内管-见亚目","endotracheal tube-see subcategory",96.7
+474,3,"气管造口-见亚目","tracheostomy-see subcategory",96.7
+474,1,"耻骨联合切开术","Symphysiotomy",77.39
+474,2,"辅助分娩(产科的)","assisting delivery (obstetrical)",73.94
+474,2,"肾(马蹄形)","kidney (horseshoe)",55.85
+474,1,"耻骨切开术","Pubiotomy",77.39
+474,2,"辅助分娩","assisting delivery",73.94
+474,1,"耻骨尾骨成形术","Pubococcygeoplasty",59.71
+474,1,"齿龈成形术(伴骨移植)(伴软组织移植)","Gingivoplasty (with bone graft) (with soft tissue graft)",24.2
+474,1,"齿龈切除术","Gingivectomy",24.31
+474,1,"充气","Inflation",
+474,2,"带子包裹","belt wrap",93.99
+474,2,"输卵管","fallopian tube",66.8
+475,3,"伴治疗性物质注射","with injection of therapeutic agent",66.95
+475,2,"咽鼓管","Eustachian tube",20.8
+475,1,"充气造影,充气造影术","Pneumogram, pneumography",
+475,2,"骶前的","presacral",88.15
+475,2,"腹膜NEC","peritoneum NEC",88.13
+475,2,"腹膜后","retroperitoneum",88.15
+475,2,"腹膜外的","extraperitoneal",88.15
+475,2,"骨盆","pelvic",88.13
+475,2,"眶","orbit",87.14
+475,2,"纵隔的","mediastinal",87.33
+475,1,"充填术,肺","Plombage, lung",33.39
+475,1,"重叠,巩膜,用于环扎术-另见环扎术,巩膜的","Overlapping, sclera, for buckling-see also Buckling, scleral",14.49
+475,1,"重建,连续性-另见吻合术","Re-establishment, continuity-see also Anastomosis",
+475,2,"肠","bowel",46.50
+475,2,"输精管","vas deferens",63.82
+475,2,"输卵管","fallopian tube",66.79
+475,1,"重建术(整形的)-另见建造术和修补术,按部位","Reconstruction (plastic)-see also Construction and Repair, by site",
+475,2,"鼻(全部)(用臂皮瓣)(用额皮瓣)","nose (total) (with arm flap) (with forehead flap)",21.83
+475,2,"肠人工造口","artificial stoma, intestine",46.40
+475,2,"唇裂","cleft lip",27.54
+475,2,"动脉(移植)-见移植物,动脉","artery (graft)-see Graft, artery",
+475,2,"额鼻管","frontonasal duct",22.79
+475,2,"耳(外)(外耳)","ear (external) (auricle)",18.71
+475,3,"道(新)(骨的皮肤覆盖)","meatus (new) (osseous skin-lined)",18.6
+475,3,"前突或突出","prominent or protruding",18.5
+475,3,"外耳道","external auditory canal",18.6
+475,3,"小骨","ossicles",19.3
+475,2,"耳道(外)","auditory canal (external)",18.6
+475,2,"骨,除外面的-另见骨成形术","bone, except facial-see also Osteoplasty",78.40
+475,3,"面的NEC","facial NEC",76.46
+475,4,"伴全部骨切除术","with total ostectomy",76.44
+475,3,"下颌骨","mandible",76.43
+475,4,"伴全部下颌骨切除术","with total mandibulectomy",76.41
+475,2,"骨盆底","pelvic floor",71.79
+475,2,"关节-见关节成形术","joint-see Arthroplasty",
+475,2,"横膈","diaphragm",34.84
+476,2,"腱滑轮(伴移植)(伴局部组织)","tendon pulley (with graft) (with local tissue)",83.83
+476,3,"手","hand",82.71
+476,3,"用于对向肌成形术","for opponensplasty",82.71
+476,2,"角膜NEC","cornea NEC",11.79
+476,2,"结膜穹窿","conjunctival cul-de-sac",10.43
+476,3,"伴移植(颊黏膜)(游离)","with graft (buccal mucous membrane) (free)",10.42
+476,2,"口,口内的","mouth, intraoral",27.59
+476,2,"髋(全部)(伴假体)","hip (total) (with prosthesis)",81.51
+476,2,"淋巴的(通过移植)","lymphatic (by transplantation)",40.9
+476,2,"眉","eyebrow",08.70
+476,2,"拇指(骨成形术)(伴骨移植)(伴皮肤移植)","thumb (osteoplastic) (with bone graft) (with skin graft)",82.69
+476,2,"尿道","urethra",58.46
+476,2,"膀胱","bladder",57.87
+476,3,"伴","with",
+476,4,"回肠","ileum",57.87[45.51]
+476,4,"乙状","sigmoid",57.87[45.52]
+476,2,"皮肤(整形的)(不伴移植)NEC","skin (plastic) (without graft) NEC",86.89
+476,3,"伴移植-见移植物,皮肤","with graft-see Graft, skin",
+476,2,"皮下组织(整形的)(不伴皮肤移植)NEC","subcutaneous tissue (plastic) (without skin graft) NEC",86.89
+476,3,"伴移植-见移植物,皮肤","with graft-see Graft, skin",
+476,2,"脐","umbilicus",
+476,3,"腹腔镜的","laparoscopic",53.43
+476,4,"伴移植物或假体","with graft or prosthesis",53.42
+476,4,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
+476,3,"其他开放性","other open",53.49
+476,2,"气管(伴移植)","trachea (with graft)",31.75
+476,2,"乳房,全部,NOS","breast, total, NOS",85.70
+476,3,"背阔肌肌皮瓣","latissimus dorsi myocutaneous flap",85.71
+476,3,"腹壁下浅动脉(SIEA)皮瓣,游离的","superficial inferior epigastric artery (SIEA) flap, free",85.75
+476,3,"腹壁下深动脉穿支(DIEP)皮瓣,游离的","deep inferior epigastric artery perforator (DIEP) flap, free",85.74
+476,3,"横行腹直肌肌皮(TRAM)瓣,带蒂的","transverse rectus abdominis myocutaneous (TRAM) flap, pedicled",85.72
+476,3,"横行腹直肌肌皮(TRAM)瓣,游离的","transverse rectus abdominis musculocutaneous (TRAM) flap, free",85.73
+476,3,"其他","other",85.79
+477,3,"臀动脉穿支(GAP)皮瓣,游离的","gluteal artery perforator (GAP) flap, free",85.76
+477,2,"乳头NEC","nipple NEC",85.87
+477,2,"乳突腔","mastoid cavity",19.9
+477,2,"输精管,手术切断","vas deferens, surgically divided",63.82
+477,2,"输卵管","fallopian tube",66.79
+477,2,"输尿管肾盂连接处","ureteropelvic junction",55.87
+477,2,"外耳","auricle (ear)",18.71
+477,2,"下颌骨","mandible",76.43
+477,3,"伴全部下颌骨切除术","with total mandibulectomy",76.41
+477,2,"小骨(移植)(假体)NEC","ossicles (graft) (prosthesis) NEC",19.3
+477,3,"伴","with",
+477,4,"镫骨切除术","stapedectomy",19.19
+477,4,"鼓室成形术","tympanoplasty",19.53
+477,2,"心瓣环","cardiac annulus",35.33
+477,2,"胸壁(网状物)(硅橡胶)","chest wall (mesh) (silastic)",34.79
+477,2,"眼睑","eyelid",08.70
+477,3,"板层","partial-thickness",08.72
+477,4,"涉及睑缘","involving lid margin",08.71
+477,3,"伴移植物或皮瓣","with graft or flap",08.69
+477,4,"睑板结膜的(一期)(二期)","tarsoconjunctival (one-stage) (two-stage)",08.64
+477,4,"毛囊","hair follicle",08.63
+477,4,"黏膜","mucous membrane",08.62
+477,4,"皮肤","skin",08.61
+477,3,"全层","full-thickness",08.74
+477,4,"涉及睑缘","involving lid margin",08.73
+477,2,"眼窝","eye socket",16.64
+477,3,"伴移植物","with graft",16.63
+477,2,"咽","pharynx",29.4
+477,2,"阴道","vagina",70.62
+477,3,"伴移植物或假体","with graft or prosthesis",70.64
+477,2,"阴茎(肋骨移植物)(皮肤移植物)(肌皮瓣)","penis (rib graft) (skin graft) (myocutaneous flap)",64.44
+477,2,"阴囊(伴蒂带皮瓣)(伴旋转皮瓣)","scrotum (with pedicle flap) (with rotational flap)",61.49
+477,2,"龈,齿槽嵴(突)(峙)(伴移植或植入物)","alveolus, alveolar (process) (ridge) (with graft or implant)",24.5
+477,2,"支气管","bronchus",33.48
+477,2,"眦(侧的)","canthus (lateral)",08.59
+477,2,"足和趾(伴固定装置)","foot and toes (with fixation device)",81.57
+477,3,"伴假体植入","with prosthetic implant",81.57
+478,1,"重铺表面骨,髋","Resurfacing, hip",00.86
+478,2,"部分的NOS","partial NOS",00.85
+478,3,"股骨头","femoral head",00.86
+478,3,"髋臼","acetabulum",00.87
+478,2,"股骨头","femoral head",00.86
+478,3,"伴髋臼","with acetabulum",00.85
+478,2,"髋臼","acetabulum",00.87
+478,3,"伴股骨头","with femoral head",00.85
+478,2,"全部的(髋臼和股骨头)","total (acetabulum and femoral head)",00.85
+478,1,"重新拧紧(非侵入性)","Retightening (noninvasive)",
+478,2,"外固定装置-省略编码","external fixator device-omit code",
+478,1,"重新塑造","Remodel",
+478,2,"心室","ventricle",37.35
+478,1,"重组人类活化C蛋白(激活),输注","Drotrecogin alfa (activated), infusion",00.11
+478,1,"冲洗","Irrigation",
+478,2,"鼻的","nasal",
+478,3,"窦","sinus",22.00
+478,3,"通道","passages",96.53
+478,2,"鼻泪管","nasolacrimal duct",09.43
+478,3,"伴管或支架插入","with insertion of tube or stent",09.44
+478,2,"肠造口术","enterostomy",96.36
+478,2,"创伤白内障","traumatic cataract",13.3
+478,2,"胆囊造口术","cholecystostomy",96.41
+478,2,"导管","catheter",
+478,3,"泌尿系,留置的NEC","urinary, indwelling NEC",96.48
+478,3,"脑室的","ventricular",02.41
+478,3,"伤口","wound",96.58
+478,3,"输尿管","ureter",96.46
+478,3,"血管的","vascular",96.57
+478,2,"耳(耳垢去除)","ear (removal of cerumen)",96.52
+478,2,"腹膜的","peritoneal",54.25
+478,2,"管","tube",
+478,3,"鼻胃的NEC","nasogastric NEC",96.34
+478,3,"胆的NEC","biliary NEC",96.41
+478,3,"胰腺的","pancreatic",96.42
+478,2,"海绵体","corpus cavernosum",64.98
+478,2,"肌肉","muscle",83.02
+478,3,"手","hand",82.02
+478,2,"腱(鞘)","tendon (sheath)",83.01
+478,3,"手","hand",82.01
+478,2,"角膜","cornea",96.51

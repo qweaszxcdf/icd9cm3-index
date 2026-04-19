@@ -1,0 +1,181 @@
+page,level,chinese,english,code
+834,1,"心包固定术","Cardiopericardiopexy",36.39
+834,1,"心包切除术","Pericardiectomy",37.31
+834,1,"心包切开术","Pericardiotomy",37.12
+834,1,"心包松解术","Pericardiolysis",37.12
+834,1,"心包造口术(导管)","Pericardiostomy (tube)",37.12
+834,1,"心冲击描记法","Ballistocardiography",89.59
+834,1,"心的","Cardiac",
+834,2,"按摩(外)(闭合性胸)","massage (external) (closed chest)",99.63
+834,2,"开胸","open chest",37.91
+834,2,"标测图","mapping",37.27
+834,2,"再训练","retraining",93.36
+834,1,"心电图(具有12个或更多个导联)","Electrocardiogram (with 12 or more leads)",89.52
+834,2,"伴心电向量图","with vectorcardiogram",89.53
+834,2,"节律(用一到三个导联)","rhythm (with one to three leads)",89.51
+834,2,"胎儿(头皮),宫内","fetal (scalp), intrauterine",75.32
+834,1,"心电向量图(VCG)(伴 ECG)","Vectorcardiogram (VCG) (with ECG)",89.53
+834,1,"心动描记术—另见心血管造影术","Cardiography-see also Angiocardiography",88.50
+834,1,"心房成形术 NEC","Atrioplasty NEC",37.99
+834,2,"隔(心脏) NEC","septum (heart) NEC",35.71
+834,2,"合并瓣膜修补术和室间隔缺损—见修补术,心内膜垫缺损","combined with repair of valvular and ventricular septal defects-see Repair, endocardial cushion defect",
+834,1,"心房脑室吻合术(脑-心脏)","Atrioventriculostomy (cerebral-heart)",02.32
+834,1,"心房切开术","Atriotomy",37.11
+834,1,"心肺固定术","Cardiopneumopexy",36.39
+834,1,"心复率术(外部)","Cardioversion (external)",99.62
+834,2,"心房","atrial",99.61
+834,1,"心肌缝合术","Cardiorrhaphy",37.49
+834,1,"心肌固定术","Cardiomyopexy",36.39
+834,1,"心肌切除术(梗死部位)","Myocardiectomy (infarcted area)",37.33
+834,1,"心肌切开术","Myocardiotomy",37.11
+834,1,"心尖心电图(伴 ECG 导联)","Apexcardiogram (with ECG lead)",89.57
+834,1,"心理剧疗法","Psychodrama",94.43
+834,1,"心麻痹","Cardioplegia",39.63
+834,1,"心脾固定术","Cardiosplenopexy",36.39
+834,1,"心切开术(探查术)","Cardiotomy (exploratory)",37.11
+834,1,"心室切除术,心脏","Ventriculectomy, heart",
+834,2,"部分的","partial",37.35
+834,1,"心室心肌切开术","Ventriculomyocardiotomy",37.11
+835,1,"心松离术","Cardioschisis",37.12
+835,1,"心外膜切除术","Epicardiectomy",36.39
+835,1,"心血管荧光电影照相术—另见心血管造影术","Cineangiocardiography-see also Angiocardiography",88.50
+835,1,"心血管造影术(选择性)","Angiocardiography (selective)",88.50
+835,2,"SPY(术间造影系统),冠状动脉","SPY, coronary",88.59
+835,2,"二氧化碳(负对比)","carbon dioxide (negative contrast)",88.58
+835,2,"腔静脉(下)(上)","vena cava (inferior) (superior)",88.51
+835,2,"手术中冠状动脉荧光血管","intra-operative coronary fluorescence vascular",88.59
+835,2,"右心(心房)(肺动脉瓣膜)(心室)(心室流出道)","right heart (atrium) (pulmonary valve) (ventricle) (ventricular outflow tract)",88.52
+835,3,"伴左心","combined with left heart",88.54
+835,2,"左心(主动脉瓣膜)(心房)(心室)(心室流出道)","left heart (aortic valve) (atrium) (ventricle) (ventricular outflow tract)",88.53
+835,3,"伴右心","combined with right heart",88.54
+835,2,"左心和右心联合的","combined right and left heart",88.54
+835,1,"心音图,伴 ECG 导联","Phonocardiogram, with ECG lead",89.55
+835,1,"心脏瓣膜二尖化","Bicuspidization of heart valve",35.10
+835,2,"二尖瓣的","mitral",35.12
+835,2,"主动脉的","aortic",35.11
+835,1,"心脏穿刺术","Cardiocentesis",37.0
+835,1,"心脏松解术","Cardiolysis",37.10
+835,1,"心脏网膜固定术","Cardio-omentopexy",36.39
+835,1,"心脏支持装置(CSD)","Cardiac support device (CSD)",37.41
+835,1,"形成","Formation",
+835,2,"并趾(手指)(趾)","syndactyly (finger) (toe)",86.89
+835,2,"窗","window",
+835,3,"心包的","pericardial",37.12
+835,3,"胸膜的(为了引流)","pleural (for drainage)",34.09
+835,4,"胸腔镜的","thoracoscopic",34.06
+835,2,"动静脉瘘(用于肾透析)(周围的)(分流)","arteriovenous fistula (for kidney dialysis) (peripheral) (shunt)",39.27
+835,3,"外部套管","external cannula",39.93
+835,2,"反向胃管(胸内)(胸骨后)","reversed gastric tube (intrathoracic) (retrosternal)",42.58
+835,3,"胸骨前或胸前的","antesternal or antethoracic",42.68
+835,2,"分流","shunt",
+835,3,"动静脉的","arteriovenous",39.93
+835,3,"腹静脉的","abdominovenous",54.94
+835,3,"腹腔颈静脉的","peritoneojugular",54.94
+835,3,"腹腔血管的","peritoneo-vascular",54.94
+836,3,"经颈静脉肝内门体分流术(TIPS)","transjugular intrahepatic portosystemic (TIPS)",39.1
+836,3,"胸膜腹膜的","pleuroperitoneal",34.05
+836,3,"肛门,人工—另见结肠造口术","anus, artificial-see Colostomy",
+836,3,"回肠造口术—另见回肠造口术","ileostomy-see Ileostomy",
+836,3,"空肠造口术","jejunostomy",46.39
+836,4,"经皮(内镜)(PEJ)","percutaneous (endoscopic) (PEJ)",46.32
+836,3,"十二指肠造口术","duodenostomy",46.39
+836,3,"骨皮瓣,颅的","bone flap, cranial",02.03
+836,3,"管瓣的(贝克加努)(弗兰克)(詹韦)(斯皮瓦克)(萨-弗)","tubulovalvular fistula (Beck-Jianu) (Franks) (Janeway) (Spivaks) (Ssabanejew-Frank)",43.19
+836,2,"回肠的","ileal",
+836,3,"膀胱","bladder",
+836,4,"闭合性","closed",57.87[45.51]
+836,4,"开放","open",56.51
+836,4,"通道","conduit",56.51
+836,3,"间隔的缺损,心房间","septal defect, interatrial",35.42
+836,2,"结肠造口术—另见结肠造口术","colostomy-see Colostomy",
+836,2,"瘘","fistula",
+836,3,"动静脉(用于肾透析)(周围分流)","arteriovenous (for kidney dialysis) (peripheral shunt)",39.27
+836,4,"外部套管","external cannula",39.93
+836,4,"管瓣的(贝克加努)(弗兰克)(詹韦)(斯皮瓦克)(萨-弗)","tubulovalvular (Beck-Jianu) (Franks) (Janeway) (Spivacks) (Ssabanejew-Frank)",43.19
+836,3,"黏液的—另见结肠造口术","mucous-see Colostomy",
+836,3,"尿道阴道的","urethrovaginal",58.0
+836,3,"膀胱至皮肤 NEC","bladder to skin NEC",57.18
+836,4,"伴膀胱皮瓣","with bladder flap",57.21
+836,4,"经皮的","percutaneous",57.17
+836,3,"皮肤腹膜的","cutaneoperitoneal",54.93
+836,3,"气管食管的","tracheoesophageal",31.95
+836,3,"胃的","gastric",43.19
+836,4,"经皮(内镜)(经腹)","percutaneous (endoscopic) (transabdominal)",43.11
+836,3,"直肠阴道的","rectovaginal",48.99
+836,2,"囊袋","pocket",
+836,3,"丘脑刺激器脉搏发生器","thalamic stimulator pulse generator",
+836,4,"伴首次电池包植入—省略编码","with initial insertion of battery package-omit code",
+837,3,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",86.09
+837,3,"心脏装置(除颤器)(起搏器)","cardiac device (defibrillator) (pacemaker)",
+837,4,"伴首次心脏装置植入—省略编码","with initial insertion of cardiac device-omit code",
+837,3,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",37.79
+837,3,"循环记录器","loop recorder",37.79
+837,2,"黏液瘘—见结肠造口术","mucous fistula-see Colostomy",
+837,2,"尿道阴道的瘘","urethrovaginal fistula",58.0
+837,2,"皮下隧道","subcutaneous tunnel",
+837,3,"脉搏发生器导联","pulse generator lead wire",86.99
+837,4,"伴首次操作—省略编码","with initial procedure-omit code",
+837,3,"丘脑刺激器脉搏发生器囊袋","thalamic stimulator pulse generator pocket",
+837,4,"伴首次电池包植入—省略编码","with initial insertion of battery package-omit code",
+837,3,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",86.09
+837,3,"食管","esophageal",42.86
+837,4,"伴吻合—见吻合术,食管,胸骨前的","with anastomosis-see Anastomosis, esophagus, antesternal",
+837,2,"气管食管的","tracheoesophageal",31.95
+837,2,"输尿管回肠造口术,皮肤的","uretero-ileostomy, cutaneous",56.51
+837,2,"输尿管造口术,皮肤的","ureterostomy, cutaneous",56.61
+837,3,"回肠","ileal",56.51
+837,2,"瞳孔","pupil",12.39
+837,3,"经虹膜切除术","by iridectomy",12.14
+837,2,"通道","conduit",
+837,3,"回肠(泌尿系)","ileal (urinary)",56.51
+837,3,"心尖-主动脉(AAC)","apical-aortic (AAC)",35.93
+837,3,"右心房和肺动脉","right atrium and pulmonary artery",35.94
+837,3,"右心室和肺动脉(末端)","right ventricle and pulmonary (distal) artery",35.92
+837,4,"修补术中的","in repair of",
+837,5,"大血管转位","transposition of great vessels",35.92
+837,5,"动脉干","truncus arteriosus",35.83
+837,5,"肺动脉闭锁","pulmonary artery atresia",35.92
+837,3,"左心室和主动脉","left ventricle and aorta",35.93
+837,2,"心包的","pericardial",
+837,3,"窗","window",37.12
+837,3,"折流板,心房间","baffle, interatrial",35.91
+837,2,"心房间瘘","interatrial fistula",35.42
+837,2,"心脏起搏器囊袋","cardiac device (defibrillator) (pacemaker) pocket",
+838,2,"伴首次起搏器植入—省略编码","with initial insertion of cardiac device-omit code",
+838,2,"新部位(皮肤)(皮下)","new site (skin) (subcutaneous)",37.79
+838,1,"胸膜窗(为了引流)","pleural window (for drainage)",34.09
+838,1,"粘连","adhesions",
+838,2,"心包","pericardium",36.39
+838,2,"胸膜","pleura",34.6
+838,1,"直肠内回肠凹(J凹)(H凹)(S凹)(伴与肛门吻合)","endorectal ileal pouch (J-pouch) (H-pouch) (S-pouch) (with anastomosis to anus)",45.95
+838,1,"直肠阴道的瘘","rectovaginal fistula",48.99
+838,1,"行为改正","Behavior modification",94.33
+838,1,"性格分析,心理学的","Character analysis, psychologic",94.03
+838,1,"性情评估","Temperament assessment",94.02
+838,1,"性腺切除术","Gonadectomy",
+838,2,"睾丸","testis",
+838,3,"单侧的","unilateral",62.3
+838,3,"双侧的","bilateral",62.41
+838,2,"卵巢","ovary",
+838,3,"单侧","unilateral",65.39
+838,4,"腹腔镜的","laparoscopic",65.31
+838,3,"双侧","bilateral",65.51
+838,4,"腹腔镜","laparoscopic",65.53
+838,1,"杏仁核海马切开术","Amygdalohippocampotomy",01.39
+838,1,"杏仁核切除术","Amygdalotomy",01.39
+838,1,"杏仁核切开术","Amygdalohippocampectomy",01.59
+838,1,"胸骨切开","Sternotomy",77.31
+838,2,"用于骨髓活组织检查","for bone marrow biopsy",41.31
+838,2,"作为手术入路—省略编码","as operative approach-omit code",
+838,1,"胸廓部分切除术","Thoracectomy",34.09
+838,2,"用于肺萎陷","for lung collapse",33.34
+838,1,"胸廓成形术(前的)(胸膜外)(脊柱旁)(后侧)(完全)(部分)","Thoracoplasty (anterior) (extrapleural) (paravertebral) (posterolateral) (complete) (partial)",33.34
+838,1,"胸廓切开术(伴引流)","Thoracotomy (with drainage)",34.09
+838,2,"探查术","exploratory",34.02
+838,2,"作为手术入路—省略编码","as operative approach-omit code",
+838,1,"胸廓造口术","Thoracostomy",34.09
+838,2,"用于肺萎陷","for lung collapse",33.32
+838,1,"胸廓粘连松解术(用于肺萎陷)","Thoracolysis (for collapse of lung)",33.39
+838,1,"胸膜固定术","Pleuropexy",34.99
+838,1,"胸膜切除术 NEC","Pleurectomy NEC",34.59
+838,1,"胸膜切开术","Pleurotomy",34.09

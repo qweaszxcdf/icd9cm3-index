@@ -1,0 +1,191 @@
+page,level,chinese,english,code
+899,4,"阴道建造术","Colpopoiesis",70.61
+899,5,"阴道缝合术","vaginal construction",70.61
+899,6,"伴移植物或假体","with graft or prosthesis",70.63
+899,4,"阴道镜检查","Colposcopy,Vaginoscopy",70.21
+899,4,"阴道切除术","Colpectomy,Vaginectomy",70.4
+899,4,"阴道切开术","Vaginotomy",70.14
+899,5,"为了","for",
+899,6,"后穹隆穿刺术","culdocentesis",70.0
+899,6,"盆腔脓肿","pelvic abscess",70.12
+899,5,"用于骨盆腹膜的引流","for pelvic peritoneal drainage",70.12
+899,4,"阴道子宫切除术","Colpohysterectomy",68.59
+899,5,"腹腔镜辅助(LAVH)","laparoscopically assisted (LAVH)",68.51
+899,4,"阴蒂切除术","Clitoridectomy",71.4
+899,4,"阴蒂切开术","Clitoridotomy",71.4
+899,4,"阴茎切除术","Penectomy",64.3
+899,4,"阴囊成形术","Scrotoplasty",61.49
+899,4,"阴囊缝合术","Scrotorrhaphy",61.41
+899,4,"阴囊积水疝状修补术,睾丸鞘膜","Bottle repair of hydrocele, tunica-vaginalis",61.2
+899,4,"阴囊切除术(部分)","Scrotectomy (partial)",61.3
+899,4,"阴囊切开术","Scrototomy",61.0
+899,4,"音乐疗法","Music therapy",93.84
+899,4,"引出-见抽出","Extration",
+899,4,"引导下激光间质热疗法(LITT)","Laser interstitial thermal therapy (LITT) under guidance",
+899,5,"损害","lesion",
+899,6,"肺","lung",17.69
+899,6,"肝","liver",17.63
+899,6,"甲状腺","thyroid",17.62
+899,6,"脑","brain",17.61
+899,6,"前列腺","prostate",17.69
+899,6,"乳房","breast",17.69
+899,6,"头和颈","Head and neck",17.62
+899,4,"引流","Drainage",
+899,5,"扁桃体","tonsil",28.0
+899,5,"扁桃体周的","peritonsillar",28.0
+899,5,"藏毛囊肿或窦","pilonidal cyst or sinus",86.03
+899,5,"胆囊","gallbladder",51.04
+899,6,"经","by",
+899,7,"抽吸","aspiration",51.01
+899,7,"切开","incision",51.04
+899,7,"吻合术","anastomosis",51.35
+900,5,"耳","ear",
+900,6,"内的","inner",20.79
+900,6,"外的","external",18.09
+900,6,"中的(经鼓膜切开术)","middle (by myringotomy)",20.09
+900,7,"伴插管法","with intubation",20.01
+900,5,"肺(经切开)","lung (by incision)",33.1
+900,6,"经钻孔(针吸)(套针)","by punch (needle) (trocar)",33.93
+900,5,"腹","abdomen",54.19
+900,6,"经皮的","percutaneous",54.91
+900,5,"腹股沟区(腹壁)(腹股沟的)","groin region (abdominal wall) (inguinal)",54.0
+900,6,"皮肤","skin",86.04
+900,6,"皮下组织","subcutaneous tissue",86.04
+900,5,"腹膜","peritoneum",54.19
+900,6,"骨盆的(女性)","pelvic (female)",70.12
+900,6,"经皮的","percutaneous",54.91
+900,5,"腹膜内的","intraperitoneal",54.19
+900,6,"经皮的","percutaneous",54.91
+900,5,"腹膜外的","extraperitoneal",54.0
+900,5,"肝","liver",50.0
+900,6,"经抽吸","by aspiration",50.91
+900,5,"肝下隙","subhepatic space",54.19
+900,6,"经皮的","percutaneous",54.91
+900,5,"睾丸鞘膜","tunica vaginalis",61.0
+900,5,"膈下隙","subphrenic space",54.19
+900,6,"经皮的","percutaneous",54.91
+900,5,"腘动脉间隙","popliteal space",86.04
+900,5,"横膈下的","subdiaphragmatic",54.19
+900,6,"经皮的","percutaneous",54.91
+900,5,"会阴","perineum",
+900,6,"男性","male",86.04
+900,6,"女性","female",71.09
+900,5,"脊髓的(管)(索)","spinal (canal) (cord)",03.09
+900,6,"经吻合术-见分流,脊髓的","by anastomosis-see Shunt, spinal",
+900,6,"诊断性","diagnostic",03.31
+900,5,"脊柱","vertebral column",03.09
+900,5,"季肋部","hypochondrium",54.0
+900,6,"腹内","intra-abdominal",54.19
+900,5,"颊腔","buccal space",27.0
+900,5,"甲沟炎","paronychia",86.04
+900,5,"甲状舌管(经切开)","thyroglossal tract (by incision)",06.09
+900,6,"经抽吸","by aspiration",06.01
+901,5,"甲状腺(区)(腺)(经切开)","thyroid (field) (gland) (by incision)",06.09
+901,6,"经抽吸","by aspiration",06.01
+901,6,"手术后","postoperative",06.02
+901,5,"假囊肿,胰","pseudocyst, pancreas",52.3
+901,6,"经吻合术","by anastomosis",52.4
+901,5,"腱(鞘)","tendon (sheath)",83.01
+901,6,"手","hand",82.01
+901,5,"筋膜间隙,头和颈","fascial compartments, head and neck",27.0
+901,5,"经","by",
+901,6,"抽吸-见抽吸","aspiration-see Aspiration",
+901,6,"切开-见切开术","incision-see Incision",
+901,6,"吻合术-见吻合术","anastomosis-see Anastomosis",
+901,5,"颏下隙","submental space",27.0
+901,5,"口底部","mouth floor",27.0
+901,5,"阑尾","appendix",47.91
+901,6,"伴阑尾切除术","with appendectomy",47.09
+901,7,"腹腔镜的","laparoscopic",47.01
+901,6,"脓肿","abscess",47.2
+901,7,"伴阑尾切除术","with appendectomy",47.09
+901,8,"腹腔镜的","laparoscopic",47.01
+901,5,"颅窦(切开)(环钻术)","cranial sinus (incision) (trephination)",01.21
+901,6,"经抽吸","by aspiration",01.09
+901,5,"颅内腔(硬膜外的)(硬膜外)(切开)(环钻术)","intracranial space (epidural) (extradural) (incision) (trephination)",01.24
+901,6,"经抽吸","by aspiration",01.09
+901,5,"蛛网膜下或硬膜下的(切开)(环钻术)","subarachnoid or subdural (incision) (trephination)",01.31
+901,6,"经抽吸","by aspiration",01.09
+901,5,"路德维格咽峡炎","Ludwig's angina",27.0
+901,5,"卵巢(抽吸)","ovary (aspiration)",65.91
+901,6,"腹腔镜的","laparoscopic",65.01
+901,6,"经切开","by incision",65.09
+901,5,"面部","facial region",27.0
+901,5,"囊肿-另见引流,按部位和切开,按部位","cyst-see also Drainage, by site and Incision, by site",
+901,6,"藏毛的","pilonidal",86.03
+901,6,"脾,脾的(经袋形缝合术)","spleen, splenic (by marsupialization)",41.41
+901,6,"胰(经导管)","pancreas (by catheter)",52.01
+901,7,"经袋形缝合术","by marsupialization",52.3
+901,8,"内部的(吻合术)","internal (anastomosis)",52.4
+902,5,"脑,脑的(脑膜)(脑室)(切开)(环钻术)","cerebrum, cerebral (meninges) (ventricle) (incision) (trephination)",01.39
+902,6,"经","by",
+902,7,"抽吸","aspiration",01.09
+902,8,"经以前植入的导管","through previously implanted catheter",01.02
+902,6,"吻合术-见分流,脑室","anastomosis-see Shunt, ventricular",
+902,5,"脑积水(针刺)(套针)","hydrocephalic head (needling) (trocar)",73.8
+902,5,"脑室(脑的)(切开)","ventricle (cerebral) (incision)",
+902,6,"经","by",
+902,7,"抽吸","aspiration",01.09
+902,8,"经以前植入导管","through previously implanted catheter",01.02
+902,7,"颅外脑室分流-见亚目","extracranial ventricular shunt-see subcategory",02.3
+902,6,"吻合术-见分流,脑室的","anastomosis-see Shunt, ventricular",
+902,5,"黏液囊","bursa",83.03
+902,6,"尺的","ulnar",82.03
+902,6,"经抽吸","by aspiration",83.94
+902,7,"手","hand",82.92
+902,6,"桡的","radial",82.03
+902,6,"手","hand",82.03
+902,7,"经抽吸","by aspiration",82.92
+902,5,"黏液囊肿,鼻窦","mucocele, nasal sinus",22.00
+902,6,"经穿刺","by puncture",22.01
+902,6,"经自然腔口","through natural ostium",22.02
+902,5,"颞窝","temporal pouches",27.0
+902,5,"颞下窝","infratemporal fossa",27.0
+902,5,"脓肿-另见引流,按部位和切开,按部位","abscess-see also Drainage, by site and Incision, by site",
+902,6,"扁桃体,扁桃体的(口的)(经颈的)","tonsil, tonsillar (oral) (transcervical)",28.0
+902,6,"扁桃体周的(口的)(经颈的)","peritonsillar (oral) (transcervical)",28.0
+902,6,"甲状体(区)(腺)","thyroid (field) (gland)",06.09
+902,7,"经皮的(针吸)","percutaneous (needle)",06.01
+902,7,"手术后","postoperative",06.02
+902,6,"阑尾","appendix",47.2
+902,7,"伴阑尾切除术","with appendectomy",47.09
+902,8,"腹腔镜的","laparoscopic",47.01
+902,6,"咽后的(口的)(经颈的)","retropharyngeal (oral) (transcervical)",28.0
+903,6,"咽旁的(口的)(经颈的)","parapharyngeal (oral) (transcervical)",28.0
+903,5,"膀胱(不伴切开)","bladder (without incision)",57.0
+903,6,"经留置的导管","by indwelling catheter",57.94
+903,7,"耻骨上的 NEC","suprapubic NEC",57.18
+903,7,"经皮耻骨上的(闭合的)","percutaneous suprapubic (closed)",57.17
+903,5,"盆腔腹膜(女性)","pelvic peritoneum (female)",70.12
+903,6,"男性","male",54.19
+903,5,"脾","spleen",41.2
+903,6,"囊肿(经袋形缝合术)","cyst (by marsupialization)",41.41
+903,5,"皮肤","skin",86.04
+903,5,"皮下组织","subcutaneous tissue",86.04
+903,5,"脾周组织的","perisplenic tissue",54.19
+903,6,"经皮的","percutaneous",54.91
+903,5,"髂窝","iliac fossa",54.0
+903,5,"颧骨后间隙","postzygomatic space",27.0
+903,5,"腮腺间隙","parotid space",27.0
+903,5,"舌下腺间隙","sublingual space",27.0
+903,5,"肾(经切开)","kidney (by incision)",55.01
+903,5,"骨盆(经切开)","pelvis (by incision)",55.11
+903,6,"经","by",
+903,7,"导管","catheter",59.8
+903,7,"吻合术","anastomosis",55.86
+903,5,"十二指肠(管)","duodenum (tube)",46.39
+903,6,"经切开","by incision",45.01
+903,5,"手掌间隙(中)","palmar space (middle)",82.04
+903,5,"输尿管(经导管)","ureter (by catheter)",59.8
+903,6,"经","by",
+903,7,"切开","incision",56.2
+903,7,"吻合术 NEC-另见吻合术,输尿管","anastomosis NEC-see also Anastomosis, ureter",56.79
+903,5,"锁骨上窝","supraclavicular fossa",86.04
+903,5,"胎儿脑积水(针刺)(套针)","fetal hydrocephalic head (needling) (trocar)",73.8
+903,4,"体位的","postural",93.99
+903,4,"网膜","omentum",54.19
+903,5,"经皮的","percutaneous",54.91
+903,4,"胃周的","perigastric",54.19
+903,5,"经皮的","percutaneous",54.91
+903,4,"心包","pericardium",37.0
+903,4,"胸(闭合的)","chest,thorax (closed)",34.04

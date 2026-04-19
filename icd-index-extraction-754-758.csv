@@ -1,0 +1,165 @@
+page,level,chinese,english,code
+754,1,"食管发音训练(喉切除术后)","Esophageal voice training (postlaryngectomy)",93.73
+754,1,"食管缝合术","Esophagorrhaphy",42.82
+754,1,"食管回肠吻合术(胸内) NEC","Esophagoileostomy (intrathoracic) NEC",42.54
+754,2,"伴小肠间置术","with interposition of small bowel",42.53
+754,2,"胸骨前或胸前的 NEC","antesternal or antethoracic NEC",42.64
+754,3,"伴小肠间置术","with interposition of small bowel",42.63
+754,1,"食管肌切开术","Esophagomyotomy",42.7
+754,1,"食管结肠胃吻合术(胸内)","Esophagocologastrostomy (intrathoracic)",42.55
+754,2,"胸骨前或胸前","antesternal or antethoracic",42.65
+754,1,"食管结肠吻合术(胸内) NEC","Esophagocolostomy (intrathoracic) NEC",42.56
+754,2,"伴结肠间置术","with interposition of colon",42.55
+754,2,"胸骨前或胸前 NEC","antesternal or antethoracic NEC",42.66
+754,3,"伴结肠间置术","with interposition of colon",42.65
+754,1,"食管镜检查 NEC","Esophagoscopy NEC",42.23
+754,2,"伴闭合性活组织检查","with closed biopsy",42.24
+754,2,"经腹的(手术的)","transabdominal (operative)",42.21
+754,2,"经切开(手术的)","by incision (operative)",42.21
+754,2,"经造口(人工的)","through stoma (artificial)",42.22
+754,1,"食管空肠吻合术(胸内) NEC","Esophagojejunostomy (intrathoracic) NEC",42.54
+754,2,"伴","with",
+754,3,"完全胃切除术","complete gastrectomy",43.99
+754,3,"小肠间置","interposition of small bowel",42.53
+754,2,"胸骨前或胸前的 NEC","antesternal or antethoracic NEC",42.64
+754,3,"伴小肠间置术","with interposition of small bowel",42.63
+754,1,"食管切除术","Esophagectomy",42.40
+754,2,"部分或大部","partial or subtotal",42.41
+754,2,"腹胸颈的(联合的)(同时的)","abdominothoracocervical (combined) (synchronous)",42.42
+754,2,"全部","total",42.42
+754,1,"食管切开术 NEC","Esophagotomy NEC",42.09
+754,1,"食管十二指肠造口术(胸内) NEC","Esophagoduodenostomy (intrathoracic) NEC",42.54
+754,2,"伴","with",
+754,3,"完全胃切除术","complete gastrectomy",43.99
+754,3,"小肠间置","interposition of small bowel",42.53
+754,1,"食管食管吻合术(胸内)","Esophagoesophagostomy (intrathoracic)",42.51
+755,2,"胸骨前或胸前","antesternal or antethoracic",42.61
+755,1,"食管胃成形术","Esophagogastroplasty",44.65
+755,1,"食管胃固定术","Esophagogastropexy",44.65
+755,1,"食管胃肌切开术","Esophagogastromyotomy",42.7
+755,1,"食管胃镜检查 NEC","Esophagogastroscopy NEC",44.13
+755,2,"经腹(手术的)","transabdominal (operative)",44.11
+755,2,"经造口(人工的)","through stoma (artificial)",44.12
+755,1,"食管胃切除术","Esophagogastrectomy",43.99
+755,1,"食管胃十二指肠镜检查(EGD)","Esophagogastroduodenoscopy (EGD)",45.13
+755,2,"伴闭合性活组织检查","with closed biopsy",45.16
+755,2,"经腹的(手术的)","transabdominal (operative)",45.11
+755,2,"经造口(人工的)","through stoma (artificial)",45.12
+755,1,"食管胃吻合术(胸内)","Esophagogastrostomy (intrathoracic)",42.52
+755,2,"伴部分胃切除术","with partial gastrectomy",43.5
+755,2,"胸骨前或胸前","antesternal or antethoracic",42.62
+755,1,"食管造口术","Esophagostomy",42.10
+755,2,"颈的","cervical",42.11
+755,2,"胸的","thoracic",42.19
+755,1,"史密斯-彼得森手术一见 SmithPeterson 手术","史密斯-彼得森手术-see Smith-Peterson operation",
+755,1,"史密斯手术一见 Smith 手术","史密斯-see Smith operation",
+755,1,"史密斯威克手术一见 Smithwick 手术","史密斯威克手术-see Smithwick operation",
+755,1,"使用","Application",
+755,2,"MAST(军用抗休克裤)","MAST (military anti-shock trousers)",93.58
+755,2,"巴尔通钳(颅骨)(同时伴骨骼牵引)","Barton's tongs (skull) (with synchronous skeletal traction)",02.94
+755,2,"绑扎(非牵引)","strapping (non-traction)",93.59
+755,2,"布克牵引","Buck's traction",93.46
+755,2,"布赖恩特牵引","Bryant's traction",93.44
+755,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+755,2,"产钳,伴分娩一见分娩,产钳","forceps, with delivery-see Delivery, forceps",
+755,2,"齿桥形器(填塞器)(栓结术)","orthodontic appliance (obturator) (wiring)",24.7
+755,2,"邓洛普牵引","Dunlop's traction",93.44
+755,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+755,2,"电子绑腿","electronic gaiter",93.59
+755,2,"弓形杆(正牙的)","arch bars (orthodontic)",24.7
+756,2,"用于固定(骨折)","for immobilization (fracture)",93.55
+756,2,"骨盆悬吊","pelvic sling",93.44
+756,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+756,2,"骨生长刺激器(表浅)(经皮)","bone growth stimulator (surface) (transcutaneous)",99.86
+756,2,"骨形态形成蛋白(重组)(基因工程人骨形成蛋白)","bone morphogenetic protein (Infuse.™)(OP-1™)(recombinant)(rhBMP)",84.52
+756,2,"管型(玻璃纤维)(石膏)(塑料) NEC","cast (fiberglass) (plaster) (plastic) NEC",93.53
+756,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+756,2,"人字型绷带","spica",93.51
+756,2,"冠(人造的)","crown (artificial)",23.41
+756,2,"夹板,用于固定(石膏)(气的)(托盘)","splint, for immobilization (plaster) (pneumatic) (tray)",93.54
+756,3,"伴骨折复位一见复位,骨折","with fracture reduction-see Reduction, fracture",
+756,2,"假体,用于耳缺失","prosthesis for missing ear",18.71
+756,2,"间歇压力装置","intermittent pressure device",93.59
+756,2,"颈托","cervical collar",93.52
+756,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+756,2,"颈支持物(模型)","neck support (molded)",93.52
+756,2,"卡钳(颅骨)(同时伴骨骼牵引)","caliper tongs (skull) (with synchronous skeletal traction)",02.94
+756,2,"抗休克裤","anti-shock trousers",93.58
+756,2,"克拉奇菲尔德钳(颅骨)(同时伴骨骼牵引)","Crutchfield tongs (skull) (with synchronous skeletal traction)",02.94
+756,2,"莱曼史密斯牵引","Lyman Smith traction",93.44
+756,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+756,2,"立体定位头框架","stereotactic head frame",93.59
+756,2,"鲁塞尔牵引","Russell's traction",93.44
+756,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+756,2,"米纳瓦夹克","Minerva jacket",93.52
+757,2,"脑动脉瘤钳夹(克拉奇菲尔德)(西尔芙斯通)","clamp, cerebral aneurysm (Crutchfield) (Silverstone)",39.51
+757,2,"屏障物,粘连","barrier substance, adhesion",99.77
+757,2,"牵引","traction",
+757,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+757,3,"布克","Buck's",93.46
+757,3,"布赖恩特","Bryant's",93.44
+757,3,"邓洛普","Dunlop's",93.44
+757,3,"顶架","gallows",93.46
+757,3,"骨骼 NEC","skeletal NEC",93.44
+757,4,"间歇性","intermittent",93.43
+757,3,"脊髓的 NEC","spinal NEC",93.42
+757,3,"用于颅骨装置(环钳)(卡钳)(克拉奇菲尔德)(加德纳-维尔斯)(钳)(文凯)(钳)","with skull device (caliper) (Crutchfield) (Gardner-Wells) (halo) (Vinke) (tongs)",93.41
+757,4,"同时伴插入","with synchronous insertion",02.94
+757,3,"胶带(皮肤)","adhesive tape (skin)",93.46
+757,3,"科特雷尔","Cotrel's",93.42
+757,3,"莱曼史密斯","Lyman Smith",93.44
+757,3,"鲁塞尔","Russell's",93.44
+757,3,"皮肤,四肢 NEC","skin, limbs NEC",93.46
+757,3,"托马斯夹板","Thomas' splint",93.45
+757,4,"靴状","boot",93.46
+757,3,"伤口敷料 NEC","wound dressing NEC",93.57
+757,3,"石膏背心","plaster jacket",93.51
+757,3,"米纳瓦","Minerva",93.52
+757,2,"弹力袜","elastic stockings",93.59
+757,2,"填塞器(齿娇形)","obturator (orthodontic)",24.7
+757,2,"托马斯项圈","Thomas collar",93.52
+757,3,"伴骨折或脱位的复位一见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture and Reduction, dislocation",
+757,2,"外部的,固定装置(骨)","external fixator device (bone)",78.10
+757,3,"Ilizarov 型","Ilizarov type",84.72
+757,3,"Sheffield 型","Sheffield type",84.72
+757,3,"髌骨","patella",78.16
+757,3,"尺骨","ulna",78.13
+757,3,"单相装置或系统","monoplanar system or device",84.71
+757,3,"腓骨","fibula",78.17
+757,3,"附骨,跖骨","tarsal, metatarsal",78.18
+758,3,"肱骨","humerus",78.12
+758,3,"股骨","femur",78.15
+758,3,"骨盆","pelvic",78.19
+758,3,"环形装置或系统","ring device or system",84.72
+758,3,"混合装置或系统","hybrid device or system",84.73
+758,3,"计算机辅助的(依赖的)","computer assisted (dependent)",84.73
+758,3,"肩胛骨","scapula",78.11
+758,3,"胫骨","tibia",78.17
+758,3,"桡骨","radius",78.13
+758,3,"锁骨","clavicle",78.11
+758,3,"特指的部位 NEC","specified site NEC",78.19
+758,3,"腕骨,掌骨","carpal, metacarpal",78.14
+758,3,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",78.11
+758,3,"趾(指)骨(足)(手)","phalanges (foot) (hand)",78.19
+758,3,"椎骨","vertebrae",78.19
+758,2,"微型固定装置(骨)一见亚目 78.1","minifixator device (bone)-see subcategory 78.1",
+758,1,"维尔波敷料","Velpeau dressing",93.59
+758,1,"文凯钳(颅骨)(同时伴骨骼牵引)","Vinke tongs (skull) (with synchronous skeletal traction)",02.94
+758,1,"哮吼喷雾","croupette, croup tent",93.94
+758,1,"血气装置","vasopneumatic device",93.58
+758,1,"牙周夹(齿娇形)","peridontal splint (orthodontic)",24.7
+758,1,"压迫","pressure",
+758,2,"敷料(绷带)(吉布尼)(罗伯特琼斯)(尚兹)","dressing (bandage) (Gibney) (Robert Jones') (Shanz)",93.56
+758,2,"裤(抗休克)(MAST)","trousers (anti-shock) (MAST)",93.58
+758,1,"移植一见移植物","graft-see Graft",
+758,1,"尤娜(锌明胶)石膏靴","Unna's paste boot",93.53
+758,1,"约布斯特抽吸装置(水肿消肿)","Jobst pumping unit (reduction of edema)",93.59
+758,1,"粘连屏障物","adhesion barrier substance",99.77
+758,1,"重力(G)服","gravity (G-) suit",93.59
+758,1,"朱伊特延伸支具","Jewett extension brace",93.59
+758,1,"石膏管型(用于固定) NEC","Casting (for immobilization) NEC",93.53
+758,2,"伴骨折复位一见复位,骨折","with fracture-reduction-see Reduction, fracture",
+758,1,"室间隔固定术一另见修补术,室间隔","Ventriculoseptopexy-see also Repair, ventricular septal defect",35.72
+758,1,"室切开术","Ventriculotomy",
+758,2,"脑的","cerebral",02.22
+758,2,"心脏","heart",37.11

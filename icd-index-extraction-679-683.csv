@@ -1,0 +1,193 @@
+page,level,chinese,english,code
+679,4,"除手或神经以外的部位","site other than hand or nerve",83.31
+679,4,"交感神经","sympathetic nerve",05.29
+679,4,"三叉神经","trigeminal nerve",04.05
+679,3,"神经瘤(莫顿)(周围神经)","neuroma (Morton's.) (peripheral nerve)",04.07
+679,4,"交感神经","sympathetic nerve",05.29
+679,4,"听神经的","acoustic",
+679,5,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
+679,6,"单源光子","single source photon",92.31
+679,6,"多源","multi-source",92.32
+679,6,"放射外科学 NEC","radiosurgery NEC",92.39
+679,6,"钴-60","cobalt 60",92.32
+679,6,"粒子","particulate",92.33
+679,6,"粒子束流","particle beam",92.33
+679,6,"线形加速器(LINAC)","linear accelerator (LINAC)",92.31
+679,4,"经颅骨切开术","by craniotomy",04.01
+679,3,"肾上腺—另见肾上腺切除术","adrenal gland-see also Adrenalectomy",07.22
+679,3,"肾血管,迷行的","renal vessel, aberrant",38.66
+679,3,"肾周围组织","perirenal tissue",59.91
+679,3,"声带索(黏膜下)","vocal cord(s) (submucous)",30.22
+679,3,"食管—另见食管切除术","esophagus-see also Esophagectomy",42.40
+679,3,"输卵管—见输卵管切除术","fallopian tube-see Salpingectomy",
+679,3,"输卵管","wolfian duct",69.19
+679,3,"输尿管,输尿管的","ureter, ureteral",56.40
+679,4,"伴肾上腺切除术—见肾上腺切除术","with nephrectomy-see Nephrectomy",
+679,4,"部分的","partial",56.41
+679,4,"全部的","total",56.42
+679,4,"狭窄","stricture",56.41
+679,3,"输尿管疝","ureterocele",56.41
+679,3,"水囊瘤,囊性","hygroma, cystic",40.29
+679,3,"斯基恩腺(女性尿道旁腺)","Skene's gland",71.3
+679,3,"松果腺(完全)(全部)","pineal gland (complete) (total)",07.54
+679,4,"部分的","partial",07.53
+679,3,"锁骨(头)(部分)","clavicle (head) (partial)",77.81
+679,4,"全部(完全)","total (complete)",77.91
+679,3,"外生骨疣—另见切除术,病损,骨","exostosis-see also Excision, lesion, bone",77.60
+679,4,"第一跖骨(踇外翻修补术)—见踇囊肿切除术","first metatarsal (hallux valgus repair)-see Bunionectomy",
+679,4,"面骨","facial bone",76.2
+679,4,"外耳道","auditory canal, external",18.29
+680,3,"外阴(双侧)(单纯)—另见外阴切除术","vulva (bilateral) (simple)-see also Vulvectomy",71.62
+680,3,"胃—见胃切除术","stomach-see Gastrectomy",
+680,3,"胃结肠韧带","gastrocolic ligament",54.4
+680,3,"文身","tattoo",86.3
+680,4,"经擦皮法","by dermabrasion",86.25
+680,3,"息肉—另见切除,病损,按部位","polyp-see also Excision, lesion, by site",
+680,4,"鼻","nose",21.31
+680,4,"大肠","large intestine",45.41
+680,5,"内镜的","endoscopic",45.42
+680,4,"食管","esophagus",42.32
+680,5,"内镜","endoscopic",42.33
+680,4,"胃(内镜)","stomach (endoscopic)",43.41
+680,4,"直肠(内镜)","rectum (endoscopic)",48.36
+680,3,"系带","frenulum, frenum",
+680,4,"唇的","labial (lip)",27.41
+680,4,"舌的","vingual (tongue)",25.92
+680,3,"涎腺","salivary gland",26.30
+680,4,"部分","partial",26.31
+680,4,"根治","radical",26.32
+680,4,"完全","complete",26.32
+680,3,"睑粒肿","meibomian gland",08.20
+680,3,"腺瘤—见切除术,病损,按部位","adenoma-see Excision, lesion, by site",
+680,3,"纤维腺瘤,乳房","fibroadenoma, breast",85.21
+680,3,"小趾囊肿(伴骨切开术)","bunionette (with osteotomy)",77.54
+680,3,"斜角肌的脂肪垫","scalene fat pad",40.21
+680,3,"心包粘连","pericardial adhesions",37.31
+680,3,"心瘤","cardioma",37.33
+680,3,"心肉柱(心脏)","trabeculae carneae cordis (heart)",35.35
+680,3,"心脏辅助系统—见去除","heart assist system-see Removal",
+680,3,"胸膜 NEC","pleura NEC",34.59
+680,3,"胸腺—另见胸腺切除术","thymus-see also Thymectomy",07.80
+680,3,"悬雍垂","uvula",27.72
+680,3,"血管—另见血管切除术","blood vessel-see also Angiectomy",38.60
+680,3,"血肿—见引流,按部位","hematoma-see Drainage, by site",
+680,3,"牙 NEC—另见去除,牙,外科手术的","tooth NEC-see also Removal, tooth, surgical",23.19
+680,4,"自鼻窦","from nasal sinus",22.60
+680,3,"牙瘤","odontoma",24.4
+680,3,"牙质瘤","dentinoma",24.4
+680,3,"岩尖细胞","petrous apex cells",20.59
+680,3,"眼","eye",16.49
+681,4,"伴植入(至眼球囊)","with implant (into Tenon's capsule)",16.42
+681,5,"伴肌附着","with attachment of muscles",16.41
+681,3,"眼睑","eyelid",08.20
+681,4,"多余的皮肤","redundant skin",08.86
+681,3,"咽(部分的)","pharynx (partial)",29.33
+681,3,"咽带","pharyngeal bands",29.54
+681,3,"胰(全部)(同时伴十二指肠切除术)","pancreas (total) (with synchronous duodenectomy)",52.6
+681,4,"部分的 NEC","partial-NEC",52.59
+681,5,"根治性大部","radical subtotal",52.53
+681,5,"近端(头)(伴部分体部)(同时伴十二指肠切除术)","proximal (head) (with part of body) (with synchronous duodenectomy)",52.51
+681,5,"远端的(尾)(伴部分体部)","distal (tail) (with part of body)",52.52
+681,4,"根治性(一期)(二期)","radical (one-stage) (two-stage)",52.7
+681,5,"大部的","subtotal",52.53
+681,3,"异位","ectopic",
+681,3,"腹腔胎儿","abdominal fetus",74.3
+681,3,"组织—另见切除术,病损,按组织起源的部位","tissue-see also Excision, lesion, by site of tissue origin",
+681,4,"肺","lung",32.29
+681,5,"内镜的","endoscopic",32.28
+681,6,"胸腔镜的","thoracoscopic",32.20
+681,4,"骨,自肌肉","bone, from muscle",83.32
+681,4,"脾","spleen",41.93
+681,4,"乳房","breast",85.24
+681,3,"异位骨,自","heterotopic bone, from",
+681,4,"肌肉","muscle",83.32
+681,5,"手","hand",82.22
+681,4,"腱","tendon",83.31
+681,5,"手","hand",82.21
+681,4,"皮肤","skin",86.3
+681,3,"翼状胬肉(单纯)","pterygium (simple)",11.39
+681,4,"伴角膜移植","with corneal graft",11.32
+681,3,"阴唇—见外阴切除术","labia-see Vulvectomy",
+681,3,"阴道(全部)","vagina (total)",70.4
+681,3,"阴蒂","clitoris",71.4
+681,3,"阴囊血肿,睾丸鞘膜","hematocele, tunica vaginalis",61.92
+681,3,"龈瘤(齿龈)","epulis (gingiva)",24.31
+681,3,"疣—另见切除术,病损,按部位","verucca, wart-see also Excision, lesion, by site",
+681,4,"眼睑","eyelid",08.22
+682,3,"游离体","loose body",
+682,4,"骨—见死骨切除术,骨","bone-see Sequestrectomy, bone",
+682,4,"关节","joint",80.10
+682,3,"圆韧带","round ligament",69.19
+682,3,"增殖体(残余)","adenoids (tag)",28.6
+682,4,"伴扁桃体切除术","with tonsillectomy",28.3
+682,3,"粘连—另见松解术,粘连","synechiae-see also Lysis, synechiae",
+682,4,"子宫内膜","endometrial",68.21
+682,3,"正中嵴,尿道入路","median bar, transurethral approach",60.29
+682,3,"脂肪垫 NEC","fat pad NEC",86.3
+682,3,"膝(髌下)(髌前)","knee (infrapatellar) (prepatellar)",86.3
+682,4,"斜角肌的","scalene",40.21
+682,3,"支气管(宽袖型) NEC","bronchus (wide sleeve) NEC",32.1
+682,3,"支气管源性囊肿","bronchogenic cyst",32.09
+682,4,"内镜的","endoscopic",32.01
+682,3,"直肠—见切除术,直肠","rectum-see Resection, rectum",
+682,3,"直肠黏膜","rectal mucosa",48.35
+682,3,"直肠周围组织","perirectal tissue",48.82
+682,3,"直肠子宫陷凹(道格拉斯)","cul-de-sac (Douglas')",70.92
+682,4,"伴移植物或假体","with graft or prosthesis",70.93
+682,3,"指(趾)甲(床)(褶)","nail (bed) (fold)",86.23
+682,3,"痔(外的)(内的)(残余)","hemorrhoids (external) (internal) (tag)",49.46
+682,3,"肿瘤—见切除术,病损,按部位","neoplasm-see Excision, lesion, by site",
+682,3,"中肾旁管","paramesonephric duct",69.19
+682,3,"主动脉瓣膜下环","aortic subvalvular ring",35.35
+682,3,"主动脉缩窄(端端吻合术)","coarctation of aorta (end-to-end anastomosis)",38.64
+682,4,"伴","with",
+682,5,"移植物置换(插补)腹的","graft replacement (interposition) abdominal",38.44
+682,6,"胸的","thoracic",38.45
+682,6,"胸腹的","thoracoabdominal",38.45
+682,3,"转子脂肪过多症","trochanteric lipomatosis",86.83
+682,3,"椎间盘—见切除术,盘,椎间 NOS","intervertebral disc-see Excision, disc, intervertebral NOS",80.50
+682,3,"椎间盘 NOS","disc, intervertebral NOS",80.50
+682,4,"其他特指的(椎间盘切除术)","other specified (diskectomy)",80.51
+682,4,"疝出的(髓核)","herniated (nucleus pulposus)",80.51
+682,3,"子宫(体)—另见子宫切除术","uterus (corpus)-see also Hysterectomy",68.9
+682,4,"病损","lesion",68.29
+682,4,"隔","septum",68.22
+683,4,"子宫颈","cervix",67.4
+683,5,"病损","lesion",67.39
+683,3,"子宫颈(残端) NEC","cervix (stump) NEC",67.4
+683,4,"电锥形切除术","electrocautization",67.32
+683,4,"冷冻(刀)","cold (knife)",67.2
+683,4,"冷冻锥形切除术","cryoconization",67.33
+683,4,"锥形切除术","conization",67.2
+683,3,"总","common",
+683,4,"管(胆)","duct",51.63
+683,4,"左房后部和冠状窦间共同壁(伴结合部缺损顶部用补片移植)","wall between posterior and coronary sinus (with roofing or resultant defect with patch graft)",35.82
+683,3,"左心耳","left atrial appendage",37.36
+683,1,"切除术(部分)—另见切除术,按部位","Resection-see also Excision, by site",
+683,2,"奥狄括约肌","sphincter of Oddi",51.89
+683,2,"鼻(完全的)(扩大的)(部分的)(根治性)","nose (complete) (extended) (partial) (radical)",21.4
+683,3,"鼻甲—见鼻甲切除术","turbinates-see Turbinectomy",
+683,2,"鼻中隔(黏膜下)","nasal septum (submucous)",21.5
+683,2,"病损—见切除术,病损,按部位","lesion-see Excision, lesion, by site",
+683,2,"肠(部分的) NEC","intestine (partial) NEC",
+683,3,"大(部分的)(节段的) NEC","large (partial) (segmental) NEC",
+683,4,"多节段的","multiple segmental",
+683,5,"腹腔镜的","laparoscopic",17.31
+683,5,"开放和其他","open and other",45.71
+683,4,"腹腔镜的","laparoscopic",17.39
+683,4,"其他","other",45.79
+683,3,"全部的","total",
+683,4,"腹腔镜的","laparoscopic",45.81
+683,4,"开放","open",45.82
+683,4,"其他","other",45.83
+683,4,"未特指的","unspecified",45.83
+683,3,"未特指的","unspecified",45.79
+683,3,"用于间置术","for interposition",45.52
+683,3,"多节段的(大肠)","multiple segmental (large intestine)",
+683,4,"腹腔镜的","laparoscopic",17.31
+683,4,"开放和其他","open and other",45.71
+683,3,"小肠","small intestine",45.61
+683,3,"腹腔镜的","laparoscopic",17.39
+683,3,"肝曲","hepatic flexure",
+683,4,"腹腔镜的","laparoscopic",17.33
+683,4,"开放和其他","open and other",45.73

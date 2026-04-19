@@ -1,0 +1,192 @@
+page,level,chinese,english,code
+539,3,"伴外阴切开术","with episiotomy",72.31
+539,2,"高温疗法 NEC","Hyperthermia NEC",93.35
+539,3,"用于癌瘤治疗(间质的)(局部的)(射频)(区域的)(超声)(全身的)","for cancer treatment (interstitial) (local) (radiofrequency) (regional) (ultrasound) (whole-body)",99.85
+539,2,"高压氧疗法","Hyperbaric oxygenation",93.95
+539,3,"伤口","wound",93.59
+539,2,"高营养(胃肠外的)","Hyperalimentation (parenteral)",99.15
+539,2,"哥贝尔-弗兰哥哈姆-斯托克手术—见 Goebel-Frangenheim-Stoeckel 手术","哥贝尔-弗兰哥哈姆-斯托克手术—see Goebel-Frangenheim-Stoeckel operation",
+539,2,"戈德特怀手术—见 Goldthwaite 手术","戈德特怀手术—see Goldthwaite operation",
+539,2,"戈登-泰勒手术—见 Gordon-Taylor 手术","戈登-泰勒手术—see Gordon-Taylor operation",
+539,2,"戈姆利手术—见 Ghormley 手术","戈姆利手术—see Ghormley operation",
+539,2,"格德尔斯通手术—见 Girdlestone 手术","格德尔斯通手术—see Girdlestone operation",
+539,2,"格德尔斯通-泰勒手术—见 Girdlestone-Taylor 手术","格德尔斯通-泰勒手术—see Girdlestone-Taylor operation",
+539,2,"格德纳手术—见 Goldner 手术","格德纳手术—see Goldner operation",
+539,2,"格尔曼手术—见 Gelman 手术","格尔曼手术—see Gelman operation",
+539,2,"格赖斯手术—见 Grice 手术","格赖斯手术—see Grice operation",
+539,2,"格里蒂-斯托克斯手术—见 Gritti-Stokes 手术","格里蒂-斯托克斯手术—see Gritti-Stokes operation",
+539,2,"格林手术—见 Green 手术","格林手术—see Green operation",
+539,2,"格伦手术—见 Glenn 手术","格伦手术—see Glenn operation",
+539,2,"格罗斯手术—见 Gross 手术","格罗斯手术—see Gross operation",
+539,2,"膈成形术","Phrenoplasty",34.84
+539,2,"膈切开术","Phrenicotomy",04.03
+539,3,"用于肺萎陷","for collapse of lung",33.31
+539,2,"膈神经抽出术","Phrenicoexeresis",04.03
+539,3,"用于肺萎陷","for collapse of lung",33.31
+539,2,"膈神经切除术","Phrenicectomy",04.03
+539,3,"用于肺萎陷","for collapse of lung",33.31
+539,2,"膈神经压扎术","Phrenemphraxis, Phrenicotripsy",04.03
+539,3,"用于肺萎陷","for collapse of lung",33.31
+539,2,"根","Root",
+539,3,"管(牙)(疗法)","canal (tooth) (therapy)",23.70
+539,4,"伴","with",
+539,5,"冲洗","irrigation",23.71
+539,5,"根尖切除术","apicoectomy",23.72
+539,4,"切除术(牙)(尖)","resection (tooth) (apex)",23.73
+539,5,"伴根管疗法","with root canal therapy",23.72
+539,4,"残留或滞留","residual or retained",23.11
+539,2,"根除—另见切除术,按部位","Extirpation-see also Excision, by site",
+540,3,"动静脉瘘—见动脉瘤切除术","arteriovenous fistula-see Aneurysmectomy",
+540,3,"动脉瘤—见动脉瘤切除术","aneurysm-see Aneurysmectomy",
+540,3,"喉","larynx",30.3
+540,4,"伴根治性颈清扫术(同时伴甲状腺切除术)(同时伴气管造口)","with radical neck dissection (with synchronous thyroidectomy) (with synchronous tracheostomy)",30.4
+540,3,"静脉曲张(周围的)(下的肢体)","varicose vein (peripheral) (lower limb)",38.59
+540,4,"上肢","upper limb",38.53
+540,3,"泪囊","lacrimal sac",09.6
+540,3,"神经,牙—另见疗法,根管","nerve, tooth-see also Therapy, root canal",23.70
+540,2,"根尖切除术","Apicectomy",
+540,3,"肺","lung",32.39
+540,4,"胸腔镜的","thoracoscopic",32.30
+540,3,"牙(根)","tooth (root)",23.73
+540,4,"伴根管疗法","with root canal therapy",23.72
+540,3,"岩部","petrous pyramid",20.59
+540,2,"根尖切除术(牙)","Apicoectomy",23.73
+540,3,"伴根管疗法","with root canal therapy",23.72
+540,2,"根尖松解术(肺)","Apicolysis (lung)",33.39
+540,2,"根尖造口术,齿槽的","Apicostomy, alveolar",24.0
+540,2,"根治性颈清扫—见清扫术,颈","Radical neck dissection-see Dissection, neck",
+540,2,"跟腱缝合术","Achillorrhaphy",83.64
+540,3,"延迟","delayed",83.62
+540,2,"跟腱切断术","Achillotomy",83.11
+540,3,"整形","plastic",83.85
+540,2,"功能","Function",
+540,3,"研究—另见扫描,放射性核素","study-see also Scan, radioisotope",
+540,4,"鼻","nasal",89.12
+540,4,"肺动脉—见细目","pulmonary-see categories",89.37
+540,4,"肌肉","muscle",93.08
+540,4,"眼","ocular",95.25
+540,4,"甲状腺","thyroid",92.01
+540,4,"尿道括约肌","urethral sphincter",89.23
+540,4,"肾","renal",92.03
+540,4,"胃","gastric",89.39
+540,2,"巩膜成形术","Scleroplasty",12.89
+540,2,"巩膜切除术(钻孔)(剪刀)","Sclerectomy (punch) (scissors)",12.65
+540,3,"环钻","trephine",12.61
+540,4,"伴植入","with implant",14.41
+541,3,"霍尔思","Holth's",12.65
+541,3,"用于视网膜再附着","for retinal reattachment",14.49
+541,2,"巩膜切开术(探查术)","Sclerotomy (exploratory)",12.89
+541,3,"后的","posterior",12.89
+541,4,"伴","with",
+541,5,"玻璃体去除","removal of vitreous",14.72
+541,5,"虹膜切除术","iridectomy",12.65
+541,3,"前的","anterior",12.89
+541,4,"伴","with",
+541,5,"玻璃体去除","removal of vitreous",14.71
+541,5,"虹膜切除术","iridectomy",12.65
+541,2,"巩膜热切术","Thermosclerectomy",12.62
+541,2,"巩膜造口术(Scheie 沙伊)","Sclerostomy (Scheie's)",12.62
+541,2,"沟通分析","Transactional analysis",
+541,3,"个人","individual",94.39
+541,3,"团体","group",94.44
+541,2,"古德-鲍尔手术—见 Goodal-Power 手术","古德-鲍尔手术—See Goodal-Power operation",
+541,2,"股四头肌成形术(汤普森)","Quadricepsplasty(Thompson)",83.86
+541,2,"骨","Bone",
+541,3,"矿物质密度研究","mineral density study",88.98
+541,3,"年龄研究","age studies",88.33
+541,2,"骨病处理—另见处理,骨病","Osteopathic manipulation-see also Manipulation, osteopathic",93.67
+541,2,"骨成形术 NEC—见亚目","Osteoplasty NEC-see subcategory",78.4
+541,3,"伴骨移植—见移植物,骨","with bone graft-see Graft, bone",
+541,3,"鼻骨","nasal bones",21.89
+541,3,"髌骨","patella",78.46
+541,3,"尺骨","ulna",78.43
+541,3,"腓骨","fibula",78.47
+541,3,"跗骨的,跖骨的","tarsal, metatarsal",78.48
+541,3,"肱骨","humerus",78.42
+541,3,"股骨","femur",78.45
+541,3,"骨盆","pelvic",78.49
+541,3,"肩胛骨","scapula",78.41
+541,3,"胫骨","tibia",78.47
+541,3,"颅骨 NEC","cranium, skull NEC",02.06
+541,4,"伴","with",
+541,5,"皮瓣(骨)","flap(bone)",02.03
+541,5,"移植(骨)","graft(bone)",02.04
+541,3,"面骨 NEC","facial bone NEC",76.69
+541,3,"桡骨","radius",78.43
+541,3,"上颌骨(节段的)","maxilla (segmental)",76.65
+542,4,"全部的","total",76.66
+542,3,"锁骨","clavicle",78.41
+542,3,"特指部位 NEC","specified site NEC",78.49
+542,3,"腕骨的,掌骨的","carpal, metacarpal",78.44
+542,3,"为了","for",
+542,4,"骨联接不正或骨折不联接的修补术—见修补术,骨折,骨联接不正或不联接","repair of malunion or nonunion of fracture-see Repair, fracture malunion or nonunion",
+542,4,"骨缩如—见缩短,骨","bone shortening-see Shortening, bone",
+542,4,"骨延长—见延长,骨","bone lengthening-see Lengthening, bone",
+542,3,"下颌骨,下颌骨的 NEC","mandible, mandibular NEC",76.64
+542,4,"分支(开放性)","ramus(open)",76.62
+542,5,"闭合性","closed",76.61
+542,4,"体","body",76.63
+542,3,"胸(肋骨)(胸骨)","thorax(ribs)(sternum)",78.41
+542,3,"趾骨(足)(手)","phalanges(foot)(hand)",78.49
+542,3,"椎骨","vertebrae",78.49
+542,2,"骨缝合术(骨折)—见复位术,骨折","Osteosynthesis (fracture)-see Reduction, fracture",
+542,2,"骨缝合术—另见骨成形术","Osteorrhaphy-see also Osteoplasty",78.40
+542,2,"骨干切除术—见亚目","Diaphysectomy-see subcategory",77.8
+542,2,"骨骼摄片(X线)","Skeletal series(x-ray)",88.31
+542,2,"骨关节切开术—另见骨切开术","Osteoarthrotomy-see also Osteotomy",77.30
+542,2,"骨密度测量(连续的)(放射照相)","Densitometry, bone (serial) (radiographic)",88.98
+542,2,"骨膜切开术—另见切开,骨","Periosteotomy-see also Incision, bone",77.10
+542,3,"面骨","facial bone",76.09
+542,2,"骨盆测量","Pelvimetry",88.25
+542,3,"妇产科学的","gynecological",89.26
+542,2,"骨切除术(部分),除外面骨—另见亚目","Ostectomy (partial), except facial-see also subcategory",77.8
+542,3,"第一跖骨头—见跖囊肿切除术","first metatarsal head-see Bunionectomy",
+542,3,"面的 NEC","facial NEC",76.39
+542,4,"全部","total",76.45
+542,5,"伴再建造术","with reconstruction",76.44
+542,3,"全部的,除外面部—另见亚目","total, except facial-see also subcategory",77.9
+542,4,"面的 NEC","facial NEC",76.45
+542,5,"伴再建造术","with reconstruction",76.44
+542,4,"下颌骨","mandible",76.42
+542,5,"伴再建造术","with reconstruction",76.41
+542,3,"用于移植物(自体移植)(同种移植)—另见亚目","for graft(autograft)(homograft)-see also subcategory",77.7
+543,4,"下颌骨","mandible",76.31
+543,4,"全部的","total",76.42
+543,5,"伴再建造术","with reconstruction",76.41
+543,2,"骨切开术(内收)(角形)(块)(反旋)(置换)(部分)(旋转)","Osteotomy (adduction) (angulation) (block) (derotational) (displacement) (partial) (rotational)",77.30
+543,3,"髌骨","patella",77.36
+543,4,"楔形","wedge",77.26
+543,3,"尺骨","ulna",77.33
+543,4,"楔形","wedge",77.23
+543,3,"腓骨","fibula",77.37
+543,4,"楔形","wedge",77.27
+543,3,"跗骨","tarsal",77.38
+543,4,"楔形","wedge",77.28
+543,3,"肱骨","humerus",77.32
+543,4,"楔形","wedge",77.22
+543,3,"股骨","femur",77.35
+543,4,"楔形","wedge",77.25
+543,3,"骨盆","pelvic",77.39
+543,4,"楔形","wedge",77.29
+543,3,"肩胛骨","scapula",77.31
+543,4,"楔形","wedge",77.21
+543,3,"胫骨","tibia",77.37
+543,4,"楔形","wedge",77.27
+543,3,"面骨 NEC","facial bone NEC",76.69
+543,3,"桡骨","radius",77.33
+543,4,"楔形","wedge",77.23
+543,3,"上颌骨(节段的)","maxilla(segmental)",76.65
+543,4,"全部","total",76.66
+543,3,"锁骨","clavicle",77.31
+543,4,"楔形","wedge",77.21
+543,3,"特指部位 NEC","specified site NEC",77.39
+543,4,"楔形","wedge",77.29
+543,3,"腕骨,掌骨","carpals, metacarpals",77.34
+543,4,"楔形","wedge",77.24
+543,3,"下颌骨(节段的)(根尖下)","mandible(segmental)(subapical)",76.64
+543,4,"分支(开放性)","ramus(open)",76.62
+543,5,"闭合性","closed",76.61
+543,5,"吉利锯","Gigli saw",76.61
+543,4,"角(开放性)","angle(open)",76.62
+543,5,"闭合性","closed",76.61
+543,4,"体","body",76.63

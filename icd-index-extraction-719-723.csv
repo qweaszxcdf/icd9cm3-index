@@ -1,0 +1,187 @@
+page,level,chinese,english,code
+719,4,"腹腔镜","laparoscopic",51.88
+719,4,"经皮的","percutaneous",51.96
+719,4,"内镜的","endoscopic",51.88
+719,3,"泪的","lacrimal",
+719,4,"道","passage(s)",09.49
+719,5,"经切开","by incision",09.59
+719,4,"点","punctum",09.41
+719,5,"经切开","by incision",09.51
+719,4,"泪小管","canaliculi",09.42
+719,5,"经切开","by incision",09.52
+719,4,"囊","sac",09.49
+719,5,"经切开","by incision",09.53
+719,4,"腺","gland",09.3
+719,5,"经切开","by incision",09.0
+719,3,"尿道(经切开)","urethra (by incision)",58.0
+719,4,"不伴切开","without incision",58.6
+719,3,"膀胱(经切开)","bladder (by incision)",57.19
+719,4,"不伴切开","without incision",57.0
+719,3,"前列腺","prostate",60.0
+719,3,"肾(经切开)","kidney (by incision)",55.01
+719,4,"不伴切开","without incision (transurethral)",56.0
+719,4,"经皮的","percutaneous",55.03
+719,5,"伴碎裂,破碎(超声)","with fragmentation (ultrasound)",55.04
+719,3,"肾盂(经切开)","renal pelvis (by incision)",55.11
+719,4,"经尿道","transurethral",56.0
+719,4,"经皮肾造口术","percutaneous nephostomy",55.03
+719,5,"伴碎裂,破碎","with fragmentation",55.04
+719,3,"肾周围组织","perirenal tissue",59.09
+719,3,"输尿管(经切开)","ureter (by incision)",56.2
+719,4,"不伴切开","without incision",56.0
+719,3,"涎腺(经切开)","salivary gland (by incision)",26.0
+719,4,"经探针","by probe",26.91
+719,3,"咽","pharynx",29.39
+719,3,"胰腺管(经切开)","pancreatic duct (by incision)",52.09
+719,4,"内镜的","endoscopic",52.94
+719,2,"结扎","ligature",
+719,3,"输精管","vas deferens",63.84
+719,3,"输卵管","fallopian tube",66.79
+719,3,"输尿管","ureter",56.86
+719,2,"金属板,颅骨","plate, skull",02.07
+719,3,"同时伴置换","with synchronous replacement",02.05
+720,2,"静脉结石-见去除,栓子","phlebolith-see Removal, embolus",
+720,2,"卡钳(颅骨)","caliper tongs (skull)",02.95
+720,2,"康特洛维兹心脏泵","Kantrowitz heart pump",37.64
+720,3,"非手术的","nonoperative",97.44
+720,2,"克拉奇菲尔德德钳(颅骨)","Crutchfield tongs (skull)",02.95
+720,3,"同时伴置换","with synchronous replacement",02.94
+720,2,"可植入的血流动力学感应器(导线)和监视装置","implantable hemodynamic sensor (lead) and monitor device",37.79
+720,2,"眶的植入","orbital implant",16.72
+720,2,"昆布棒,子宫","laminaria (tent), uterus",97.79
+720,2,"淋巴结-见切除术,淋巴,结","lymph node-see Excision, lymph, node",
+720,2,"龙骨(钽板),喉","keel (tantalum plate), larynx",31.98
+720,2,"颅钳","skull tongs",02.95
+720,3,"同时伴置换","with synchronous replacement",02.94
+720,2,"罗杰斯安德逊微型固定装置(骨)-见亚目","Roger-Anderson minifixator device (bone)-see subcategory",78.6
+720,2,"罗森假体(尿道)","Rosen prosthesis (urethra)",59.99
+720,2,"马利根罩,输卵管","Mulligan hood, fallopian tube",66.94
+720,3,"同时伴置换","with synchronous replacement",66.93
+720,2,"脉搏(冲)发生器","pulse generator",
+720,3,"复律器/除颤器","cardioverter/defibrillator",37.79
+720,3,"颈动脉窦","carotid sinus",39.88
+720,4,"伴有同步电极去除(全系统)","with synchronous electrode removal (total system)",39.86
+720,4,"伴有同步置换术","with synchronous replacement",39.83
+720,3,"神经刺激器-见去除,神经刺激器,脉搏(冲)发生器","neurostimulator-see Removal, neurostimulator, pulse generator",
+720,3,"心脏起搏器","cardiac pacemaker",37.86
+720,2,"米粒样小体,腱鞘","rice bodies, tendon sheaths",83.01
+720,3,"手","hand",82.01
+720,2,"泌尿系括约肌,人工","urinary sphincter, artificial",58.99
+720,3,"伴置换","with replacement",58.93
+720,2,"囊肿管残余","cystic duct remnant",51.61
+720,2,"囊肿-另见切除术,病损,按部位","cyst-see also Excision, lesion, by site",
+720,3,"肺","lung",32.29
+720,4,"内镜的","endoscopic",32.28
+720,5,"胸腔镜","thoracoscopic",32.20
+720,3,"牙齿","dental",24.4
+720,2,"脑电图接收器(脑)(颅内的)","electroencephalographic receiver (brain) (intracranial)",01.22
+720,3,"同时伴置换","with synchronous replacement",02.93
+720,2,"脑室分流或贮池","ventricular shunt or reservoir",02.43
+721,3,"同时伴置换","with synchronous replacement",02.42
+721,2,"内固定装置-见去除,固定装置,内的","internal fixation device-see Removal, fixation device, internal",
+721,2,"内置的双心室置换系统","internal biventricular heart replacement system",37.55
+721,2,"脓肿-见切开,按部位","abscess-see Incision, by site",
+721,2,"排斥的器官","rejected organ",
+721,3,"睾丸","testis",62.42
+721,3,"肾","kidney",55.53
+721,2,"膀胱括约肌,人工","bladder sphincter, artificial",58.99
+721,3,"伴置换","with replacement",58.93
+721,2,"胚胎-见去除,异位胎儿","embryo-see Removal, ectopic fetus",
+721,2,"盆腔内容物,全部(女性)","pelvic viscera, en masse (female)",68.8
+721,3,"男性","male",57.71
+721,2,"皮肤","skin",
+721,3,"坏疽或蜕皮","necrosis or slough",86.28
+721,4,"表层(经皮肤瘢痕磨削术)","superficial layer (by dermabrasion)",86.25
+721,4,"切除的","excisional",86.22
+721,2,"葡萄胎","hydatidiform mole",68.0
+721,2,"起搏器","pacemaker",
+721,3,"脊柱-见去除,神经刺激器","spinal-see Removal, neurostimulator",
+721,3,"颅内的-见去除,神经刺激器","intracranial-see Removal, neurostimulator",
+721,3,"脑(颅内)-见去除,神经刺激器","brain (intracranial)-see Removal, neurostimulator",
+721,3,"神经系统的-见去除,神经刺激器","neural-see Removal, neurostimulator",
+721,3,"心的(装置)(初始的)(永久性)","cardiac (device) (initial) (permanent)",37.89
+721,4,"伴置换","with replacement",
+721,5,"单室装置","single-chamber device",37.85
+721,6,"节律反应","rate responsive",37.86
+721,5,"双室装置","dual-chamber device",37.87
+721,5,"电极(心房)(经静脉)(心室)","electrodes (atrial) (transvenous) (ventricular)",37.77
+721,6,"伴置换","with replacement",37.76
+721,5,"心外膜(心肌)","epicardium (myocardium)",37.77
+721,6,"伴置换(经)","with replacement (by)",
+721,6,"心房和(或)心室导联(电极)","atrial and/or ventricular lead(s) (electrode)",37.76
+721,6,"心外膜导联","epicardial lead",37.74
+721,5,"暂时性经静脉起搏器系统-省略编码","temporary transvenous pacemaker system-omit code",
+722,2,"周围神经-见去除,神经刺激器","peripheral nerve-see Removal, neurostimulator",
+722,2,"钳,颅骨","tongs, skull",02.95
+722,3,"同时伴置换","with synchronous replacement",02.94
+722,2,"嵌顿","impacted",
+722,3,"粪便(直肠)(经冲洗)(手法的)","feces (rectum) (by flushing) (manual)",96.38
+722,3,"牙","tooth",23.19
+722,3,"鼻窦(上颌)","from nasal sinus (maxillary)",22.61
+722,2,"染色,椎管","dye, spinal canal",03.31
+722,2,"人工晶体","pseudophakos",13.8
+722,2,"人工心脏","artificial heart",
+722,3,"内置的双心室置换系统","internal biventricular replacement system",37.55
+722,2,"肉芽组织-另见切除术,病损,按部位","granulation tissue-see also Excision, lesion, by site",
+722,3,"伴修补术-见修补术,按部位","with repair-see Repair, by site",
+722,3,"颅的","cranial",01.6
+722,3,"颅骨","skull",01.6
+722,2,"乳房植入","breast implant",85.94
+722,3,"组织扩张器","tissue expander",85.96
+722,2,"塞子,填塞","pack, packing",
+722,3,"鼻的","nasal",97.32
+722,3,"宫内","intrauterine",97.72
+722,3,"躯干 NEC","trunk NEC",97.85
+722,3,"外阴","vulva",97.75
+722,3,"牙的","dental",97.34
+722,3,"阴道","vagina",97.75
+722,3,"直肠","rectum",97.59
+722,2,"沙眼滤泡","trachoma follicles",10.33
+722,2,"上皮向下生长,前房","epithelial downgrowth, anterior chamber",12.93
+722,2,"神经刺激器","neurostimulator",
+722,3,"电极","electrodes",
+722,4,"骶神经","sacral nerve",04.93
+722,5,"同时伴置换","with synchronous replacement",04.92
+722,4,"脊髓的","spinal",03.94
+722,5,"同时伴置换","with synchronous replacement",03.93
+722,4,"颅内的","intracranial",01.22
+722,5,"同时伴置换","with synchronous replacement",02.93
+722,4,"脑","brain",01.22
+722,5,"同时伴置换","with synchronous replacement",02.93
+723,4,"胃的","gastric",04.93
+723,4,"周围神经","peripheral nerve",04.93
+723,5,"同时伴置换","with synchronous replacement",04.92
+723,4,"脉搏发生器(单列,双列)","pulse generator (subcutaneous single array, multiple array)",86.05
+723,5,"颅的","cranial",01.29
+723,6,"伴有同时置换","with synchronous replacement",01.20
+723,5,"同时伴置换","with synchronous replacement",86.96
+723,6,"单列","single array",86.94
+723,6,"可充电的","rechargeable",86.97
+723,6,"双列","multiple array",86.95
+723,7,"可再充电的","rechargeable",86.98
+723,3,"神经起搏器-见去除,神经刺激器,按部位","neuropacemaker-see Removal, neurostimulator, by site",
+723,2,"肾-另见肾切除术","kidney-see also Nephrectomy",
+723,3,"机械性","mechanical",55.98
+723,3,"移植的或排斥的","transplanted or rejected",55.53
+723,2,"石膏管型","cast",97.88
+723,3,"伴再应用","with reapplication",97.13
+723,4,"上肢","upper limb",97.11
+723,4,"下肢","lower limb",97.12
+723,2,"视网膜植入","retinal implant",14.6
+723,2,"手指,多余","fingers, supernumerary",86.26
+723,2,"输卵管-见输卵管切除术","fallopian tube-see Salpingectomy",
+723,2,"输尿管的夹板(支架)","ureteral splint (stent)",97.62
+723,2,"输尿管的括约肌,人工","urethral sphincter, artificial",58.99
+723,3,"伴置换","with replacement",58.93
+723,2,"栓结术,牙的(固定装置)","wiring, dental (immobilization device)",97.33
+723,3,"齿矫形","orthodontic",24.8
+723,2,"栓子","embolus",38.00
+723,2,"伴动脉内膜切除术-见动脉内膜切除术","with endarterectomy-see Endarterectomy",
+723,2,"动静脉分流或套管","arteriovenous shunt or cannula",39.49
+723,2,"肺动脉(动脉)(静脉)","pulmonary (artery) (vein)",38.05
+723,3,"腹的","abdominal",
+723,4,"动脉","artery",38.06
+723,4,"静脉","vein",38.07
+723,2,"颅内血管","intracranial vessel",
+723,3,"切开入路,颅内血管","open approach, intracranial vessels",38.01
+723,2,"切开入路,头和颈其他血管","open approach, other vessels of head and neck",38.02

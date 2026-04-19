@@ -1,0 +1,185 @@
+page,level,chinese,english,code
+904,6,"开放性(经切开)","open (by incision)",34.09
+904,7,"胸腔镜的","thoracoscopic",34.06
+904,5,"胸膜(闭合的)","pleura (closed)",34.04
+904,6,"开放性(经切开)","open (by incision)",34.09
+904,7,"胸腔镜的","thoracoscopic",34.06
+904,4,"血肿-见引流,按部位和切开,按部位","hematoma-see Drainage, by site and Incision, by site",
+904,5,"咽侧间隙","pharyngeal space, lateral",27.0
+904,5,"咽后的","retropharyngeal",28.0
+904,5,"咽旁的","parapharyngeal",28.0
+904,5,"液体(血液)(脑脊液)(CSF)","fluid (blood) (cerebrospinal) (CSF)",
+904,6,"经","by",
+904,7,"脑室外引流(EVD)放置","external ventricular drain (EVD) placement",02.21
+904,5,"腋窝","axilla",86.04
+904,5,"胰(经导管)","pancreas (by catheter)",52.01
+904,6,"经吻合术","by anastomosis",52.96
+904,5,"翼突腭窝","pterygopalatine fossa",27.0
+904,5,"阴囊","scrotum",61.0
+904,5,"硬膜外腔,脑的(切开)(环钻术)","extradural space, epidural space,cerebral (incision) (trephination)",01.24
+904,6,"经抽吸","by aspiration",01.09
+904,5,"硬膜下腔,脑的(切开)(环钻术)","subdural space, cerebral (incision) (trephination)",01.31
+904,6,"经抽吸","by aspiration",01.09
+904,5,"掌筋膜隙","thenar space",82.04
+904,5,"掌中间隙","midpalmar space",82.04
+904,5,"直肠子宫陷凹","cul-de-sac",70.12
+904,6,"经抽吸","by aspiration",70.0
+904,5,"肘窝","antecubital fossa",86.04
+904,5,"蛛网膜下腔,脑的(切开)(环钻术)","subarachnoid space, cerebral (incision) (trephination)",01.31
+904,6,"经抽吸","by aspiration",01.09
+904,4,"隐睾切除术(单侧)","Cryptorchidectomy (unilateral)",62.3
+904,5,"双侧的","bilateral",62.41
+904,4,"隐睾切除术(肛门)","Cryptectomy (anus)",49.39
+904,5,"内镜","endoscopic",49.31
+904,4,"隐睾切开术(肛门)","Cryptotomy (anus)",49.39
+904,5,"内镜的","endoscopic",49.31
+904,4,"荧光镜透视检查法-见放射照相术","Fluoroscopy-see Radiography",
+904,4,"营养,肠的","Alimentation, parenteral",99.29
+904,4,"营养,浓缩物质","Nutrition, concentrated substances",
+905,5,"肠内输注","enteral infusion (of)",96.6
+905,6,"胃肠外的(全部的)","parenteral, (total)",99.15
+905,5,"胃肠外周的","peripheral parenteral",99.15
+905,4,"影像(诊断性)","imaging (diagnostic)",
+905,5,"VHTM-IVUS[虚拟组织学血管内超声]-见影像(诊断性),血管内超声(IVUS),按部位","VHTM-IVUS-see Imaging (diagnostic), intravascular ultrasound (IVUS), by site",
+905,5,"磁共振(核子的)(质子)NEC","magnetic resonance (nuclear) (proton) NEC",88.97
+905,6,"腹","abdomen",88.97
+905,6,"骨髓血供给","bone marrow blood supply",88.94
+905,6,"肌肉骨骼","musculoskeletal",88.94
+905,6,"脊髓管(索)(脊柱)","spinal canal (cord) (spine)",88.93
+905,6,"计算机辅助手术(CAS)伴MR/MRA","computer assisted surgery (CAS) with MR/MRA",00.32
+905,6,"颈","neck",88.97
+905,6,"面","face",88.97
+905,6,"脑(脑干)","brain (brain stem)",88.91
+905,7,"实时","real-time",88.96
+905,7,"术中(MRI)","intraoperative (MRI)",88.96
+905,6,"膀胱(泌尿系)","bladder (urinary)",88.95
+905,6,"前列腺","prostate",88.95
+905,6,"特指的部位 NEC","specified site NEC",88.97
+905,6,"头 NEC","head NEC",88.97
+905,6,"心肌","myocardium",88.92
+905,6,"胸(门)(纵隔)","chest (hilar) (mediastinal)",88.92
+905,6,"眼眶","orbit of eye",88.97
+905,6,"肢(上的)(下的)","extremity (upper) (lower)",88.94
+905,5,"经","by",
+905,6,"光学相干性摄影术(OCT)-见OCT光学相干性摄影术和X线断层摄影术","optical coherence tomography (OCT)-see OCT and Tomography, optical coherence",
+905,5,"术中的","intraoperative",
+905,6,"MRI-见影像,磁共振","MRI-see Imaging, magnetic resonance",
+905,6,"血管内-见影像,血管内超声","intravascular-see Imaging, intravascular ultrasound",
+905,5,"虚拟组织学血管内超声-见影像(诊断性),血管内超声(IVUS),按部位","virtual histology intravascular ultrasound-see Imaging (diagnostic), intravascular ultrasound (IVUS), by site",
+905,5,"血管内超声-见影像,血管内超声","endovascular ultrasound-see Imaging, intravascular ultrasound",
+905,5,"血管内超声(IVUS)","intravascular ultrasound (IVUS)",00.29
+905,6,"冠状血管","coronary vessel",00.24
+905,6,"颈动脉血管","carotid vessel",00.21
+906,6,"脑的血管,颅外","cerebral vessel, extracranial",00.21
+906,6,"其他特指的血管","other specified vessel",00.28
+906,6,"腔静脉(下)(上)","vena cava (inferior) (superior)",00.22
+906,6,"肾血管","renal vessel",00.25
+906,6,"胸内血管","intrathoracic vessel",00.22
+906,6,"周围血管","peripheral vessel",00.23
+906,6,"主动脉","aorta",00.22
+906,6,"主动脉弓","aortic arch",00.22
+906,5,"诊断性 NEC","diagnostic, not elsewhere classified",88.90
+906,4,"硬化疗法","Sclerotherapy",
+906,5,"静脉 NEC","vein NEC",39.92
+906,5,"静脉曲张 NEC","varicose vein",39.92
+906,5,"食管静脉曲张(内镜)","esophageal varices (endoscopic)",42.33
+906,5,"胸膜","pleura",34.92
+906,6,"恶性肿瘤治疗(细胞毒素药物质)","treatment of malignancy (cytotoxic agent)",34.92[99.25]
+906,7,"伴四环素","with tetracycline",34.92[99.21]
+906,5,"痔疮","hemorrhoids",49.42
+906,4,"硬化症-见硬化疗法","Sclerosis-see Sclerotherapy",
+906,4,"硬脑膜成形术","Duraplasty",02.12
+906,4,"幽门成形术(芬尼)(海拿克米库利茨)","Pyloroplasty (Finney) (Heineke-Mikulicz)",44.29
+906,5,"不可分类在他处","not elsewhere classified",44.29
+906,5,"扩张,内镜","dilation, endoscopic",44.22
+906,6,"经切开","by incision",44.21
+906,5,"修复术","revision",44.29
+906,4,"幽门肌切开术(拉姆斯特德特)(伴楔形切除术)","Pyloromyotomy (Ramstedt) (with wedge resection)",43.3
+906,4,"幽门切除术","Gastropylorectomy,Pylorectomy",43.6
+906,4,"幽门十二指肠切开术-见亚目","Pyloroduodenotomy-see subcategory",44.2
+906,4,"幽门造口术-见胃造口术","Pylorostomy-see Gastrostomy",
+906,4,"游戏","Play,Games",
+906,5,"精神疗法","psychotherapy",94.36
+906,5,"竞争性","competitive",94.39
+906,5,"疗法","therapy",93.81
+906,5,"有组织的","organized",93.89
+906,4,"诱发","Induction",
+906,5,"分娩","labor",
+906,6,"胎膜剥离","stripping of membranes",73.1
+906,6,"外科手术的","surgical",73.01
+906,6,"羊膜内和羊膜外注射","intra-and extra-amniotic injection",73.1
+906,6,"医学的","medical",73.4
+907,5,"流产","abortion",
+907,6,"经","by",
+907,7,"前列腺素栓剂插入","insertion of prostaglandin suppository",96.49
+907,7,"羊膜腔内注射(前列腺素)(盐水)","intra-amniotic injection (prostaglandin) (saline)",75.0
+907,7,"子宫颈扩宫和刮宫","D and C",69.01
+907,4,"右旋转-见复位,扭转","Dextrorotation-see Reduction, torsion",
+907,4,"娱乐疗法","Recreational therapy",93.81
+907,4,"预防,牙齿(剥刮)(洗牙)","Prophylaxis, dental (scaling) (polishing)",96.54
+907,4,"语言疗法 NEC","Speech therapy NEC",93.75
+907,4,"远距离放疗法","Teleradiotherapy",
+907,5,"碘125","iodine-125",92.23
+907,5,"电子","electrons",92.25
+907,6,"手术中的","intra-operative",92.41
+907,5,"电子回旋加速器","Betatron",92.24
+907,5,"放射性铯","radioactive cesium",92.23
+907,5,"放射性核素 NEC","radioisotopes NEC",92.23
+907,5,"钴-60","cobalt-60",92.23
+907,5,"光子","photons",92.24
+907,5,"粒子辐射 NEC","particulate radiation NEC",92.26
+907,5,"线性加速器","linear accelerator",92.24
+907,5,"质子","protons",92.26
+907,5,"中子","neutrons",92.26
+907,5,"β粒子","beta particles",92.25
+907,6,"手术中的","intra-operative",92.41
+907,4,"约翰逊手术-见Johanson,手术","约翰逊手术-see Johanson operation",
+907,4,"月经引出或调节","Menstrual extraction or regulation",69.6
+907,4,"运动成形切断术-见运动成形术","Kineplasty-see Cineplasty",
+907,4,"运动成形术,运动成型性假体","Cineplasty, cineplastic prosthesis",
+907,5,"臂","arm",84.44
+907,5,"二头肌","biceps",84.44
+907,5,"截断术-见截断术","amputation-see Amputation",
+907,5,"腿","leg",84.48
+907,5,"肢","extremity",84.40
+907,6,"上的","upper",84.44
+907,6,"下的","lower",84.48
+907,4,"运动范围测定","Range of motion testing",93.05
+907,0,"Z","Z",
+907,4,"Zancolli 手术","Zancolli operation",
+908,5,"关节囊成形术","capsuloplasty",81.72
+908,5,"腱移植(二头肌)","tendon transfer (biceps)",82.56
+908,4,"Zeus 机器人手术系统-见亚目","Zeus Robotic Surgical System-see subcategory",17.4
+908,4,"Ziegler 手术(虹膜切除术)","Ziegler operation (iridectomy)",12.14
+908,4,"Z型成形术","Z-plasty",
+908,5,"睑鼻皱襞[内眦皱襞]","epicanthus",08.59
+908,5,"皮肤(瘢痕)(蹼状挛缩)","skin (scar) (web contracture)",86.84
+908,6,"伴病损切除术","with excision of lesion",86.3
+908,5,"眼睑-另见再建造术,眼睑","eyelid-see also Reconstruction, eyelid",08.70
+908,5,"咽下部","hypopharynx",29.4
+908,4,"再闭合-另见关闭合","Reclosure-see also Closure",
+908,5,"破裂的腹壁(手术后)","disrupted abdominal wall (postoperative)",54.61
+908,4,"再插入-另见插入或修复术","Reinsertion-see also Insertion or Revision",
+908,5,"瓣膜","valve",
+908,6,"脑室(脑的)","ventricular (cerebral)",02.42
+908,6,"心脏(假体)","heart (prosthetic)",35.95
+908,5,"固定装置(内的)-另见固定,骨,内的","fixation device (internal)-see also Fixation, bone, internal",78.50
+908,5,"霍尔特尔(斯皮兹)瓣膜","Holter (-Spitz) valve",02.42
+908,5,"膀胱造瘘管","cystostomy tube",59.94
+908,5,"肾盂造口术管","pyelostomy tube",55.94
+908,5,"肾造口术管","nephrostomy tube",55.93
+908,5,"输尿管造口术管","ureterostomy tube",59.93
+908,5,"输尿管支架(经尿道)","ureteral stent (transurethral)",59.8
+908,6,"伴输尿管切开术","with ureterotomy",59.8[56.2]
+908,5,"心脏瓣膜(假体)","heart valve (prosthetic)",35.95
+908,5,"植入物(排出的)(挤出的)","implant (expelled) (extruded)",
+908,6,"眶的","orbital",16.62
+908,6,"眼球(伴结膜移植物)","eyeball (with conjunctival graft)",16.62
+908,4,"再定位-另见修复术","Relocation-see also Revision",
+908,5,"CRT-D囊袋","CRT-D pocket",37.79
+908,5,"CRT-P囊袋","CRT-P pocket",37.79
+908,5,"皮下装置囊袋 NEC","subcutaneous device pocket NEC",86.09
+908,5,"心脏起搏器囊袋(CRT-D)(CRT-P),新部位(皮肤)(皮下)","cardiac device (CRT-D) (CRT-P)(defibrillator) (pacemaker) pocket, new site (skin) (subcutaneous)",37.79
+908,4,"再缝合","Resuture",
+908,5,"腹壁","abdominal wall",54.61
+908,5,"伤口(皮肤和皮下组织)(不伴移植) NEC","wound (skin and subcutaneous tissue) (without graft) NEC",86.59

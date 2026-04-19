@@ -1,0 +1,79 @@
+page,level,chinese,english,code
+954,3,"标准鞘内SEMM式子宫切除术(CISH)","classic infrafascial SEMM hysterectomy [CISH]",68.31
+954,3,"腹腔镜辅助(LASH)","laparoscopically assisted [LASH]",68.31
+954,1,"子宫切开术(伴异物去除)(伴葡萄胎去除)","Hysterotomy (with removal of foreign body) (with removal of hydatidiform mole)",68.0
+954,2,"产科的","obstetrical",74.99
+954,3,"用于终止妊娠","for termination of pregnancy",74.91
+954,2,"用于宫内输注","for intrauterine transfusion",75.2
+954,1,"子宫输卵管放射照相术气体(对比)","Hysterosalpingography gas (contrast)",87.82
+954,2,"不透明染色(对比)","opaque dye (contrast)",87.83
+954,1,"子宫输卵管吻合术","Hysterosalpingostomy",66.74
+954,1,"子宫松解术","Hysterolysis",54.59
+954,2,"腹腔镜","laparoscopic",54.51
+954,1,"子宫纤维瘤切除术,子宫","Fibroidectomy, uterine",68.29
+954,1,"子宫悬吊术","Ventrofixation, Ventrosuspension, uterus",69.22
+954,1,"子宫阴道切除术(根治性)(阴道)","Hysterocolpectomy (radical) (vaginal)",68.79
+954,2,"腹的","abdominal",68.69
+954,3,"腹腔镜的","laparoscopic",68.61
+954,2,"腹腔镜的","laparoscopic",68.71
+954,1,"自体的-见血,输注","Autologous-see Blood, transfusion",
+954,1,"自体输血(全血)-见血,输注","Autotransfusion (whole blood)-see Blood, transfusion",99.02
+954,1,"自体移植-见移植物","Autograft, Allograft, Homograf-see Graft",
+954,1,"自体移植物,自体移植-见移植物","Homotransplant, homotransplantation-see Transplant",
+954,1,"自体移植物,自体移植-另见再植入","Autotransplant, autotransplantation-see also Reimplantation",
+954,2,"肺-见移植物,移植,肺","lung-see Transplant, transplantation, lung",33.5
+954,2,"甲状旁腺组织(异位的)(常位的)","parathyroid tissue (heterotopic) (orthotopic)",06.95
+954,2,"甲状腺组织(异位的)(常位的)","thyroid tissue (heterotopic) (orthotopic)",06.94
+954,2,"卵巢","ovary",65.72
+954,3,"腹腔镜的","laparoscopic",65.75
+954,2,"肾","kidney",55.61
+954,2,"肾上腺组织(异位的)(常位的)","adrenal tissue (heterotopic) (orthotopic)",07.45
+955,2,"牙","tooth",23.5
+955,2,"胰腺组织","pancreatic tissue",52.81
+955,1,"纵隔充气造影术","Pneumomediastinography",87.33
+955,1,"纵隔镜检查(经胸膜)","Mediastinoscopy",34.22
+955,1,"纵隔切除术","Mediastinectomy",34.3
+955,1,"纵隔切开术(钱伯林操作)","Mediastinotomy (Chamberlain procedure)",34.1
+955,2,"伴肺切除术","with pneumonectomy",32.59
+955,3,"胸腔镜的","thoracoscopic",32.50
+955,1,"纵裂,切开","Slitting",
+955,2,"晶体","lens",13.2
+955,2,"泪小管为了","canaliculus for",
+955,3,"管道","passage of tube",09.42
+955,3,"去除链霉菌","removal of strepthothrix",09.42
+955,2,"阴茎包皮(背的)(侧的)","prepuce (dorsal) (lateral)",64.91
+955,1,"阻断","Interruption",
+955,2,"腔静脉(下)(上)","vena cava (inferior) (superior)",38.7
+955,1,"阻滞(区域)","Block",
+955,2,"半月神经节","gasserian ganglion",04.81
+955,2,"脊髓神经根(鞘内的)-见注射,脊髓的","spinal nerve root (intrathecal)-see Injection, spinal",
+955,2,"脊柱旁星状神经节","paravertebral stellate ganglion",05.31
+955,2,"交感神经","sympathetic nerve",05.31
+955,2,"肋间神经","intercostal nerves",04.81
+955,2,"鞘内的-见注射,脊髓的","intrathecal-see injection, spinal",
+955,2,"清扫术","dissection",
+955,3,"喉","larynx",30.3
+955,3,"颈","neck",40.40
+955,3,"淋巴结","lymph nodes",40.50
+955,3,"乳房","breast",
+955,4,"单侧","unilateral",85.45
+955,4,"双侧","bilateral",85.46
+955,3,"外阴","vulva",71.5
+955,3,"支气管","bronchus",32.6
+955,2,"三叉神经","trigeminal nerve",04.81
+955,2,"神经(颅的)(周围的)NEC","nerve (cranial) (peripheral) NEC",04.81
+955,2,"尾的-见注射,脊髓腹腔神经节或神经丛","caudal-see Injection, spinal celiac ganglion or plexus",05.31
+955,2,"星状(神经节)","stellate (ganglion)",05.31
+955,2,"硬膜外的,脊髓的-见注射,脊髓的","epidural, spinal-see Injection, spinal",
+955,2,"周围神经","peripheral nerve",04.81
+955,2,"蛛网膜下,脊髓的-见注射,脊髓的","subarachnoid, spinal-see Injection, spinal",
+956,1,"钻孔","Punch, Drilling",
+956,2,"骨-另见切开,骨","bone-see also Incision, bone",77.10
+956,2,"卵巢","ovary",65.99
+956,2,"切除术,声带","resection, vocal cords",30.22
+956,2,"手术","operation",
+956,3,"膀胱颈,经尿道","bladder neck, transurethral",57.49
+956,3,"前列腺-见前列腺切除术","prostate-see Prostatectomy",
+956,1,"坐骨耻骨切开术","Ischiopubiotomy",77.39
+956,1,"坐骨切除术(部分)","Ischiectomy (partial)",77.89
+956,2,"全部的","total",77.99

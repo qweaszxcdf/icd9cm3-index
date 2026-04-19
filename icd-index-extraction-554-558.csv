@@ -1,0 +1,167 @@
+page,level,chinese,english,code
+554,1,"关节造口术-另见关节切开术","Arthrostomy-see also Arthrotomy",80.10
+554,1,"关节造影术","Arthrogram, arthrography",88.32
+554,2,"颞下颌的","temporomandibular",87.13
+554,1,"关节制动术,距下关节","Arthroereisis, subtalar joint",81.18
+554,1,"管道成形术,外耳道","Canaloplasty, external auditory meatus",18.6
+554,1,"管饲法,胃","Gavage, gastric",96.35
+554,1,"冠,牙齿(陶瓷的)(金的)","Crown, dental (ceramic) (gold)",23.41
+554,1,"灌肠法(经肛门)NEC","Enema (transanal) NEC",96.39
+554,2,"为了去除嵌塞的粪便","for removal of impacted feces",96.38
+554,1,"灌肠疗法(小肠)","Enteroclysis (small bowel)",96.43
+554,1,"灌输","Instillation",
+554,2,"放射性核素(腔内)(静脉内)","radioisotope (intracavitary) (intravenous)",92.28
+554,2,"膀胱","bladder",96.49
+554,2,"生殖泌尿系NEC","genitourinary NEC",96.49
+554,2,"消化道,除外胃饲法","digestive tract, except gastric gavage",96.43
+554,2,"胸腔","thoracic cavity",34.92
+554,1,"灌注 NEC","Perfusion NEC",39.97
+554,2,"肠(大)(局部的)","intestine (large) (local)",46.96
+554,3,"小的","small",46.95
+554,2,"肝,局部的","liver, localized",50.93
+554,2,"高热(淋巴),局部区域或部位","hyperthermic (lymphatic), localized region or site",93.35
+554,2,"冠状动脉","coronary artery",39.97
+554,2,"颈","neck",39.97
+554,2,"颈动脉","carotid artery",39.97
+554,2,"全身","total body",39.96
+554,2,"肾局部","kidney, local",55.95
+554,2,"头","head",39.97
+554,2,"为了","for",
+554,3,"化学疗法 NEC","chemotherapy NEC",99.25
+554,3,"激素疗法 NEC","hormone therapy NEC",99.24
+554,2,"肢体(下的)(上的)","limb (lower) (upper)",39.97
+554,2,"蛛网膜下(脊索)(冷冻盐水)","subarachnoid (spinal cord) (refrigerated saline)",3.92
+554,1,"贯通-另见固定","Transfixion-see also Fixation",
+554,2,"虹膜(凸起的)","iris (bombe)",12.11
+554,1,"光化学疗法 NEC","Photochemotherapy NEC",99.83
+554,2,"体外","extracorporeal",99.88
+554,1,"光量子疗法,治疗性","Photopheresis, therapeutic",99.88
+554,1,"光疗法 NEC","Phototherapy NEC",99.83
+555,2,"新生儿","newborn",99.83
+555,2,"紫外线的","ultraviolet",99.82
+555,1,"光凝术","Photocoagulation",
+555,2,"虹膜","iris",12.41
+555,2,"黄斑孔-见光凝术,视网膜","macular hole-see Photocoagulation, retina",
+555,2,"睫状体","ciliary body",12.73
+555,2,"眶病损","orbital lesion",16.92
+555,2,"视网膜","retina",
+555,3,"激光(束)","laser (beam)",
+555,4,"为了","for",
+555,5,"病损破坏","destruction of lesion",14.24
+555,5,"撕裂或缺损修补术","repair of tear or defect",14.34
+555,5,"再附着","reattachment",14.54
+555,3,"为了","for",
+555,4,"病损破坏","destruction of lesion",14.25
+555,4,"撕裂或缺损修补术","repair of tear or defect",14.35
+555,4,"再附着","reattachment",14.55
+555,3,"氙弧光","xenon arc",
+555,4,"为了","for",
+555,5,"病损破坏","destruction of lesion",14.23
+555,5,"撕裂或缺损修补术","repair of tear or defect",14.33
+555,5,"再附着","reattachment",14.53
+555,2,"眼,眼球","eye, eyeball",16.99
+555,1,"光凝术-见光凝术","Light coagulation-see Photocoagulation",
+555,1,"光谱分析","Spectroscopy",
+555,2,"近红外线的(NIR)","near infrared (NIR)",38.23
+555,2,"血管内的","intravascular",38.23
+555,1,"光学相干性摄影术(OCT)(血管内成像)","Optical coherence tomography (OCT) (intravascular imaging)",
+555,2,"非冠状血管","non-coronary vessel(s)",38.25
+555,2,"冠状血管","coronary vessel(s)",38.24
+555,1,"广视野膀胱镜检查","Panendoscopy",57.32
+555,2,"经人工造口","through artificial stoma",57.31
+555,2,"特指部位,除膀胱外-见内镜检查,按部位","specified site, other than bladder-see Endoscopy, by site",
+555,1,"龟头成形术","Balanoplasty",64.69
+555,1,"Hagner 手术(附睾切开术)","Hagner operation (epididymotomy)",63.92
+555,1,"Halsted 手术—见修补术,疝,腹股沟的","Halsted operation-see Repair, hernia, inguinal",
+556,1,"Hampton 手术(吻合术小肠与直肠残端)","Hampton operation (anastomosis small intestine to rectal stump)",45.92
+556,1,"Harrison-Richardson 手术(阴道悬吊术)","Harrison-Richardson operation (vaginal suspension)",70.77
+556,2,"伴移植物或假体","with graft or prosthesis",70.78
+556,1,"Hartmann 切除术(肠)(伴凹)-见结肠切除术,按部位","Hartmann resection (of intestine) (with pouch)-see Colectomy, by site",
+556,1,"Heaney 手术(阴道子宫切除术)","Heaney operation (vaginal hysterectomy)",68.59
+556,2,"腹腔镜辅助(LAVH)","laparoscopically assisted (LAVH)",68.51
+556,1,"HeartMate® II 左心室辅助系统[LVAS]","HeartMate II left ventricular assist system [LVAS]",37.66
+556,1,"HeartMate® 可植入型心脏辅助系统","HeartMate implantable heart assist system",37.66
+556,1,"Hegar 手术(会阴缝合术)","Hegar operation (perineorrhaphy)",71.79
+556,1,"Heine 手术(睫状体分离术)","Heine operation (cyclodialysis)",12.55
+556,1,"Heineke-Mikulicz 手术(幽门成形术)","Heineke-Mikulicz operation (pyloroplasty)",44.29
+556,1,"Heller 手术(食管肌切开术)","Heller operation (esophagomyotomy)",42.7
+556,1,"Hellström 手术(迷行肾血管移植)","Hellstrom operation (transplantation of aberrant renal vessel)",39.55
+556,1,"Henley 手术(空肠转位)","Henley operation (jejunal transposition)",43.81
+556,1,"Hey 手术(足截断术)","Hey operation (amputation of foot)",84.12
+556,1,"Hey-Groves 手术(前交叉韧带重建术)","Hey-Groves operation (reconstruction of anterior cruciate ligament)",81.45
+556,1,"Heyman-Herndon(-Strong)手术(内翻跖矫正术)","Heyman-Herndon (-Strong) operation (correction of metatarsus varus)",80.48
+556,1,"Heyman 手术(软组织松解用于畸形足)","Heyman operation (soft tissue release for clubfoot)",83.84
+556,1,"Hibbs 手术(腰的脊椎融合术)-见融合术,腰的","Hibbs operation (lumbar spinal fusion)-see Fusion, lumbar",
+556,1,"Higgins 手术-见修补术,疝,股的","Higgins operation-see Repair, hernia, femoral",
+556,1,"Hill-Allison 手术(裂孔疝修补术,经胸膜入路)","Hill-Allison operation (hiatal hernia repair, transpleural approach)",53.8
+556,1,"Hinging,二尖瓣","Hinging, mitral valve",35.12
+556,1,"Hitchcock 手术(固定二头肌肌腱)","Hitchcock operation (anchoring tendon of biceps)",83.88
+556,1,"Hofmeister 手术(胃切除术)","Hofmeister operation (gastrectomy)",43.7
+556,1,"Hoke 手术","Hoke operation",
+556,2,"跗骨间的融合术","midtarsal fusion",81.14
+557,2,"三关节固定术","triple arthrodesis",81.12
+557,1,"Holth 手术","Holth operation",
+557,2,"巩膜切除术","sclelectomy",12.65
+557,2,"虹膜嵌顿术","iridencleisis",12.63
+557,1,"Homan 手术(淋巴水肿矫正术)","Homan operation (correction of lymphedema)",40.9
+557,1,"Hutch 手术(输尿管肾囊肿吻合术)","Hutch operation (ureteroneocystostomy)",56.74
+557,1,"Hybinette-Eden 手术(肩关节盂骨阻塞)","Hybinette-Eden operation (glenoid bone block)",78.01
+557,1,"哈策手术—见 Hutch 手术","哈策手术— see Hutch operation",
+557,1,"哈格纳手术—见 Hagner 手术","哈格纳手术— see Hagner operation",
+557,1,"哈里逊-理查德森手术—见 HarrisonRichardson 手术","哈里逊-理查德森手术— see Harrison-Richardson operation",
+557,1,"哈特曼切除术—见 Hartmann 切除术","哈特曼切除术— see Hartmann resection",
+557,1,"海比-尼特伊登手术—见 HybinetteEden 手术","海比尼特-伊登手术— see Hybinette-Eden operation",
+557,1,"海勒手术—见 Heller 手术","海勒手术— see Heller operation",
+557,1,"海曼-赫顿(-斯卓尔)手术—见 HeymanHerndon(-Strong)手术","海曼-赫顿(-斯卓尔)手术— see Heyman-Herndon (-Strong)operation",
+557,1,"海曼手术—见 Heyman 手术","海曼手术— see Heyman operation",
+557,1,"海拿克-米库利茨手术—见 HeinekeMikulicz 手术","海拿克-米库利茨手术— see Heineke-Mikulicz operation",
+557,1,"海因手术—见 Heine 手术","海因手术— see Heine operation",
+557,1,"汉普顿手术—见 Hampton 手术","汉普顿手术— see Hampton operation",
+557,1,"豪塞手术","Hauser operation",
+557,2,"髌骨稳定术","stabilization of patella",81.44
+557,2,"跟腱切断术","achillotenotomy",83.11
+557,2,"踇囊肿切除术伴内收肌腱移植术","bunionectomy with adductor tendon transfer",77.53
+557,1,"核磁共振影像-见影像,磁共振","Nuclear magnetic resonance imaging-see Imaging, magnetic resonance",
+557,1,"合生,胸膜","Symphysis, pleural",34.6
+557,1,"赫斯特伦手术—见 Hellstöm 手术","赫斯特伦手术— see Hellstöm operation",
+557,1,"黑-葛若夫斯手术—见 HeyGroves 手术","黑-葛若夫斯手术— see Hey-Groves operation",
+557,1,"黑加手术—见 Hegar 手术","黑加手术— see Hegar operation",
+557,1,"黑氏手术—见 Hey 手术","黑氏手术— see Hey operation",
+557,1,"亨利手术—见 Henley 手术","亨利手术— see Henley operation",
+557,1,"横结肠造口术—另见结肠造口术","Transversostomy-see also Colostomy",46.10
+557,1,"横切—另见切断","Transection-see also Division",
+558,2,"动脉(伴结扎)-另见切断,动脉","artery (with ligation)-see also Division, artery",38.8
+558,3,"肾,迷行的(伴再植入)","renal, aberrant (with reimplantation)",39.55
+558,2,"骨—另见骨切开术","bone-see also Osteotomy",77.3
+558,2,"肌","muscle",83.19
+558,3,"手","hand",82.19
+558,3,"眼","eye",15.13
+558,4,"多数的(两条或多条肌)","multiple (two or more muscles)",15.3
+558,2,"脊髓的","spinal",
+558,3,"神经根","nerve root",3.1
+558,3,"索束","cord tracts",3.29
+558,2,"腱","tendon",83.13
+558,3,"手","hand",82.11
+558,2,"静脉(伴结扎)-另见切断,静脉","vein (with ligation)-see also Division, vein",38.8
+558,3,"静脉曲张(下肢)","varicose (lower limb)",38.59
+558,3,"肾,迷行的(伴再植入)","renal, aberrant (with reimplantation)",39.55
+558,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",4.03
+558,3,"根(脊髓的)","root (spinal)",3.1
+558,3,"脊索内束","tracts in spinal cord",3.29
+558,3,"交感神经","sympathetic",5.0
+558,3,"迷走神经(经腹)-另见迷走神经切断术","vagus (transabdominal)-see also Vagotomy",44.0
+558,3,"三叉","trigeminal",4.02
+558,3,"听神经","acoustic",4.01
+558,2,"肾血管,迷行的(伴再植入)","renal vessel, aberrant (with reimplantation)",39.55
+558,2,"输精管","vas deferens",63.71
+558,2,"输卵管(双侧)(残留)(孤立的)","fallopian tube (bilateral) (remaining) (solitary)",66.39
+558,3,"单侧","unilateral",66.92
+558,3,"经内镜检查","by endoscopy",66.22
+558,2,"峡,甲状腺","isthmus, thyroid",6.91
+558,2,"悬雍垂","uvula",27.71
+558,2,"幽门(伴楔形切除术)","pylorus (with wedge resection)",43.3
+558,1,"红细胞成分分血,治疗性","Erythrocytapheresis, therapeutic",99.73
+558,1,"红细胞存活检查","Red cell survival studies",92.05
+558,1,"虹膜成形术 NEC","Iridoplasty NEC",12.39
+558,1,"虹膜巩膜切除术","Iridosclerectomy",12.65
+558,1,"虹膜巩膜切开术","Iridosclerotomy",12.69

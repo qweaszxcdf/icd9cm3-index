@@ -1,0 +1,189 @@
+page,level,chinese,english,code
+874,7,"胫骨成分","tibial component",00.81
+874,7,"股骨成分","femoral component",00.82
+874,7,"胫骨插入","tibial insert",00.84
+874,7,"胫骨成分","tibial component",00.81
+874,6,"全部的(所有组成)","total (all components)",00.80
+874,5,"心律再同步化除颤器(CRT-D)","cardiac resynchronization defibrillator (CRT-D)",
+874,6,"电极","electrode(s)",37.75
+874,6,"囊袋","pocket",37.79
+874,6,"装置","device",37.79
+874,5,"心律再同步化起搏器(CRT-P)","cardiac resynchronization pacemaker (CRT-P)",
+874,6,"电极(心房)(经静脉)(心室)","electrode(s) (atrial) (transvenous) (ventricular)",37.75
+874,6,"囊袋","pocket",37.79
+874,6,"装置(永久性)","device (permanent)",37.89
+874,5,"心脏操作 NEC","heart procedure NEC",35.95
+874,5,"心脏起搏器","cardiac pacemaker",
+874,6,"电极(心房)(经静脉)(心室)","electrode(s) (atrial) (transvenous) (ventricular)",37.75
+874,6,"囊袋","pocket",37.79
+874,6,"装置(永久性)","device (permanent)",37.89
+874,5,"血管操作(以前的) NEC","vascular procedure (previous) NEC",39.49
+874,5,"眼球剜出腔","enucleation socket",16.64
+874,6,"伴移植","with graft",16.63
+874,5,"眼外肌手术","extraocular muscle surgery",15.6
+874,5,"眼植入","ocular implant",16.62
+874,5,"以前乳房切除术部位-见亚目","previous mastectomy site-see categories",85.0
+874,5,"幽门成形术","pyloroplasty",44.29
+874,5,"造口","stoma",
+874,6,"肠","intestine",46.40
+874,7,"大的","large",46.43
+874,7,"小的","small",46.41
+874,6,"胆管","bile duct",51.79
+874,6,"胆囊","gallbladder",51.99
+874,6,"胆总管","common duct",51.72
+874,6,"肝管","hepatic duct",51.79
+874,6,"喉","larynx",31.63
+874,6,"尿道","urethra",58.49
+874,6,"膀胱(膀胱造口术)","bladder (vesicostomy)",57.22
+874,6,"气管","trachea",31.74
+875,6,"肾","kidney",55.89
+875,6,"食管","esophagus",42.89
+875,6,"输尿管","ureter",56.62
+875,6,"胃","stomach",44.69
+875,7,"腹腔镜的","laparoscopic",44.68
+875,6,"胸","thorax",34.79
+875,6,"支气管","bronchus",33.42
+875,6,"直肠","rectum",48.79
+875,5,"支气管造口术","bronchostomy",33.42
+875,5,"直肠造口术","proctostomy",48.79
+875,5,"趾置换(假体)","toe replacement (prosthesis)",81.59
+875,5,"肘置换(假体)","elbow replacement (prosthesis)",81.97
+875,5,"椎间盘,人工(部分的)(全部的) NOS","intervertebral disc, artificial (partial)(total) NOS",84.69
+875,6,"颈的","cervical",84.66
+875,6,"胸的","thoracic",84.67
+875,6,"腰的,腰骶的","lumbar, lumbosacral",84.68
+875,5,"眦,侧的","canthus, lateral",08.59
+875,5,"足置换(假体)","foot replacement (prosthesis)",81.59
+875,4,"修整,截断术残端","Trimming, amputation stump",84.3
+875,4,"修整外形,齿龈","Recontour, gingiva",24.2
+875,4,"休厄尔手术-见 Sewell 手术","see sewell operation",
+875,4,"休克疗法","Shock therapy",
+875,5,"电抽搐","electrotonic",94.27
+875,5,"电惊厥","electroconvulsive",94.27
+875,5,"化学","chemical",94.24
+875,5,"亚抽搐","subconvulsive",94.26
+875,5,"胰岛素","insulin",94.24
+875,4,"悬带-另见手术,悬吊","Sling-see also Operation, sling",
+875,5,"耻骨尾骨","pubococcygeal",59.71
+875,5,"筋膜(阔筋膜)","fascial (fascia lata)",
+875,6,"口","mouth",86.81
+875,6,"轮匝肌(口)","orbicularis (mouth)",86.81
+875,6,"舌","tongue",25.59
+875,6,"用于面松弛(三叉神经麻痹)","for facial weakness (trigeminal nerve paralysis)",86.81
+875,5,"舌(筋膜)","tongue (fascial)",25.59
+875,5,"提肌(尿道膀胱固定术)","levator muscle (urethrocystopexy)",59.71
+875,5,"直肠(耻骨直肠)","rectum (puborectalis)",48.76
+875,4,"悬吊","Suspension",
+875,5,"奥尔斯豪森(子宫)","Olshausen (uterus)",69.22
+875,5,"卵巢","ovary",65.79
+876,5,"尿道(耻骨后)(悬带)","urethra (retropubic) (sling)",59.5
+876,5,"尿道旁(佩里拉)","paraurethral (Pereyra)",59.6
+876,5,"尿道膀胱的","urethrovesical",
+876,6,"耻骨上","suprapubic",59.4
+876,6,"哥贝尔弗兰亨哈姆斯托克","Goebel-Frangenheim-Stoeckel",59.4
+876,6,"股薄肌移植","gracilis muscle transplant",59.71
+876,6,"马歇尔马蒂凯(克兰茨)","Marshall-Marchetti (-Krantz)",59.5
+876,6,"米林里德","Millin-Read",59.4
+876,6,"提肌悬吊","levator muscle sling",59.71
+876,5,"尿道周围","periurethral",59.6
+876,5,"膀胱 NEC","bladder NEC",57.89
+876,5,"平衡,为了牵引","balanced, for traction",93.45
+876,5,"肾","kidney",55.7
+876,5,"咽憩室","diverticulum, pharynx",29.59
+876,5,"阴道","vagina",70.77
+876,6,"伴移植物或假体","with graft or prosthesis",70.78
+876,5,"子宫(腹或阴道入路)","uterus (abdominal or vaginal approach)",69.22
+876,4,"悬雍垂腭咽成形术(UPPP)","Uvulopalatopharyngoplasty (UPPP)",27.69[29.4]
+876,4,"悬雍垂切除术","Uvulectomy",27.72
+876,4,"悬雍垂切开术","Uvulotomy",27.71
+876,4,"血","Blood",
+876,5,"斑,脊柱(硬膜外的)","patch, spine (epidural)",03.95
+876,5,"流量研究,多普勒型(超声)-见超声波检查","flow study, Doppler-type (ultrasound)-see Ultrasonography",
+876,5,"输注","transfusion",
+876,6,"交换","exchange",99.01
+876,6,"抗血友病因子","antihemophilic factor",99.06
+876,6,"粒细胞","granulocytes",99.09
+876,6,"凝固因子","coagulation factors",99.06
+876,6,"其他物质","other substance",99.09
+876,6,"血浆","plasma",99.07
+876,6,"血管扩张剂","blood expander",99.08
+876,6,"血清,其他","serum, other",99.07
+876,6,"血小板","platelets,thrombocytes",99.05
+876,6,"血液代用品","blood surrogate",99.09
+876,6,"血液稀释","hemodilution",99.03
+876,6,"压缩细胞","packed cells",99.04
+876,6,"自身的","autologous",
+876,7,"手术后","postoperative",99.00
+876,7,"手术前后的","perioperative",99.00
+877,8,"术前收集","collected prior to surgery",99.02
+877,8,"术中的","intraoperative",99.00
+877,8,"血液回收","salvage",99.00
+877,8,"以前收集的","previously collected",99.02
+877,4,"血供区阻断,胃","Devascularization, stomach",44.99
+877,4,"血管闭合,经皮穿刺-省略编码","Vascular closure, percutaneous puncture-omit code",
+877,4,"血管成形术(激光)-另见修补术,血管","Angioplasty (laser)-see also Repair, blood vessel",
+877,5,"冠状","coronary",36.09
+877,6,"经皮经管腔(球囊)(单根血管)","percutaneous transluminal (balloon)",00.66
+877,6,"胸开放性入路","open chest approach",36.03
+877,5,"经皮经管腔(球囊)","percutaneous transluminal (balloon)",
+877,6,"肠系膜","mesenteric",39.50
+877,6,"股腘的","femoropopliteal",39.50
+877,6,"冠状(球囊)","coronary (balloon)",00.66
+877,6,"基底的","basilar",00.62
+877,6,"脊椎的","vertebral",00.61
+877,7,"颅内部分","intracranial portion",00.62
+877,6,"颈动脉","carotid",00.61
+877,7,"颅内的","intracranial",00.62
+877,7,"颅外的","extracranial",00.61
+877,6,"脑血管的","cerebrovascular",
+877,7,"颅内的","intracranial",00.62
+877,7,"颅外的","extracranial",00.61
+877,6,"髂的","iliac",39.50
+877,6,"上肢 NOS","upper extremity NOS",39.50
+877,6,"肾的","renal",39.50
+877,6,"锁骨下","subclavian",39.50
+877,6,"下肢 NOS","lower extremity NOS",39.50
+877,6,"周围的 NEC","peripheral NEC",39.50
+877,5,"球囊(经皮经管腔) NEC","balloon (percutaneous transluminal) NEC",39.50
+877,6,"冠状动脉","coronary artery",00.66
+877,6,"特指的部位 NEC","specified site NEC",39.50
+878,6,"脑血管的","cerebrovascular",
+878,7,"颅内的","intracranial",00.62
+878,7,"颅外的","extracranial",00.61
+878,6,"周围的","peripheral",39.50
+878,4,"血管缝合术","Angiorrhaphy",39.30
+878,5,"动脉","artery",39.31
+878,5,"静脉","vein",39.32
+878,4,"血管镜检查,经皮的","Angioscopy, percutaneous",38.22
+878,5,"眼(荧光素)","eye (fluorescein)",95.12
+878,4,"血管切除术","Angiectomy",
+878,5,"伴","with",
+878,6,"吻合术","anastomosis",38.30
+878,7,"腹","abdominal",
+878,8,"动脉","artery",38.36
+878,8,"静脉","vein",38.37
+878,7,"颅内 NEC","intracranial NEC",38.31
+878,7,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.33
+878,7,"头和颈 NEC","head and neck NEC",38.32
+878,7,"下肢","lower limb",
+878,8,"动脉","artery",38.38
+878,8,"静脉","vein",38.39
+878,7,"胸血管 NEC","thoracic vessel NEC",38.35
+878,7,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.34
+878,6,"移植物置换(插补)","graft replacement (interposition)",38.40
+878,7,"腹","abdominal",
+878,8,"动脉","artery",38.46
+878,8,"静脉","vein",38.47
+878,8,"主动脉","aorta",38.44
+878,7,"颅内 NEC","intracranial NEC",38.41
+878,7,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.43
+878,7,"头和颈 NEC","head and neck NEC",38.42
+878,7,"下肢","lower limb",
+878,8,"动脉","artery",38.48
+878,8,"静脉","vein",38.49
+878,7,"胸血管 NEC","thoracic vessel NEC",38.45
+878,7,"主动脉(弓)(升)(降胸)","aorta (arch) (ascending) (descending thoracic)",
+878,8,"腹","abdominal",38.44
+878,8,"胸","thoracic",38.45
+878,8,"胸腹","thoracoabdominal",38.45[38.44]
+878,4,"血管切开术","Angiotomy",38.00

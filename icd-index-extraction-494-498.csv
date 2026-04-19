@@ -1,0 +1,195 @@
+page,level,chinese,english,code
+494,2,"大腿(脂肪)","thighs (adipose)",86.83
+494,2,"腹壁(脂肪)(下垂的)","abdominal wall (adipose) (pendulous)",86.83
+494,2,"皮肤","skin",86.83
+494,2,"皮下组织","subcutaneous tissue",86.83
+494,2,"乳房(双侧)","breast (bilateral)",85.32
+494,3,"单侧的","unilateral",85.31
+494,2,"臀(脂肪)","buttocks (adipose)",86.83
+494,1,"带蒂皮瓣-见移植物,皮肤,蒂","Pedicle flap-see Graft, skin, pedicle",
+494,1,"带蒂皮瓣延迟移植术","Delaying of pedicle graft",86.71
+494,1,"戴洛姆手术-见Delorme手术","戴洛姆手术-see Delorme operation",
+494,1,"戴帽操作(掌骨延长和局部皮瓣转移术)","Cocked hat procedure (metacarpal lengthening and transfer of local flap)",82.69
+494,1,"戴维斯手术-见Davis手术","戴维斯手术-see Davis operation",
+494,1,"袋形缝合术-另见破坏,病损,按部位","Marsupialization-see also Destruction, lesion, by site",
+494,2,"病损","lesion",
+494,3,"肝","liver",50.21
+494,3,"脑","brain,cerebral",01.59
+494,2,"藏毛囊肿或窦(开放性切除术)(伴部分闭合)","pilonidal cyst or sinus (open excision) (with partial closure)",86.21
+494,2,"假囊肿,胰","pseudocyst, pancreas",52.3
+494,2,"囊肿","cyst",
+494,3,"巴多林","Bartholin's",71.23
+494,3,"藏毛的(开放性切除术)(伴部分闭合)","pilonidal (open excision) (with partial closure)",86.21
+494,3,"肝","liver",50.21
+494,3,"含齿的","dentigerous",24.4
+494,3,"喉","larynx",30.01
+494,3,"脊髓的(椎管内的)(脑膜)","spinal (intraspinal) (meninges)",03.4
+494,3,"卵巢","ovary",65.21
+494,4,"腹腔镜的","laparoscopic",65.23
+494,3,"脑","brain",01.59
+494,3,"脾,脾的","spleen, splenic",41.41
+494,3,"肾","kidney",55.31
+494,3,"涎腺","salivary gland",26.21
+494,3,"牙齿","dental",24.4
+494,3,"胰","pancreas",52.3
+494,3,"子宫颈(纳博特)","cervical (nabothian)",67.31
+494,2,"舌下囊肿,涎腺","ranula, salivary gland",26.21
+494,1,"丹福思手术-见Danforth手术","丹福思手术-see Danforth operation",
+495,1,"丹尼斯巴科手术-见Dennis-Barco手术","丹尼斯-巴科手术-see Dennis-Barco operation",
+495,1,"胆管胆管吻合术","Cholangiocholangiostomy",51.39
+495,1,"胆管空肠吻合术(肝内)","Cholangiojejunostomy (intrahepatic)",51.39
+495,1,"胆管切开术","Cholangiotomy",51.59
+495,1,"胆管胃吻合术","Cholangiogastrostomy",51.39
+495,1,"胆管小肠吻合术","Cholangio-enterostomy",51.39
+495,1,"胆管胰造影术,内镜,逆行的(ERCP)","Cholangiopancreatography, endoscopic retrograde (ERCP)",51.10
+495,1,"胆管造口术","Cholangiostomy",51.59
+495,1,"胆管造影术","Cholangiogram,Cholangiography",87.54
+495,2,"经肝的","transhepatic",87.53
+495,2,"静脉内","intravenous",87.52
+495,2,"经皮的肝的","percutaneous hepatic",87.51
+495,2,"内镜逆行的(ERC)","endoscopic retrograde (ERC)",51.11
+495,2,"手术间","intraoperative",87.53
+495,1,"胆囊胆管造影术","Cholecystocholangiogram",87.59
+495,1,"胆囊缝合术","Cholecystorrhaphy",51.91
+495,1,"胆囊固定术","Cholecystopexy",51.99
+495,1,"胆囊回肠吻合术","Cholecystoileostomy",51.32
+495,1,"胆囊结肠吻合术","Cholecystocolostomy",51.32
+495,1,"胆囊空肠吻合术(Y字型吻合)(伴空肠空肠吻合术)","Cholecystojejunostomy (Roux-en-Y) (with jejunojejunostomy)",51.32
+495,1,"胆囊盲肠吻合术","Cholecystocecostomy",51.32
+495,1,"胆囊切除术(全部)","Cholecystectomy (total)",51.22
+495,2,"一部分","partial",51.21
+495,3,"腹腔镜的","laparoscopic",51.24
+495,2,"全部","total",51.22
+495,3,"腹腔镜的","laparoscopic",51.23
+495,1,"胆囊切开术","Cholecystotomy",51.04
+495,2,"经皮的","percutaneous",51.01
+495,1,"胆囊十二指肠吻合术","Cholecystoduodenostomy",51.32
+495,1,"胆囊胃吻合术","Cholecystogastrostomy",51.34
+495,1,"胆囊小肠缝合术","Cholecystoenterorrhaphy",51.91
+495,1,"胆囊小肠吻合术(威尼沃特)","Cholecystoenterostomy (Winiwater)",51.32
+495,1,"胆囊胰腺吻合术","Cholecystopancreatostomy",51.33
+495,1,"胆囊造口术NEC","Cholecystostomy NEC",51.03
+495,2,"通过套针","by trocar",51.02
+495,1,"胆囊造影术","Cholecystogram",87.59
+495,1,"胆石切除术","Cholelithotomy",51.04
+495,1,"胆总管部分切除术","Choledochectomy",51.63
+495,1,"胆总管成形术","Choledochoplasty",51.72
+496,1,"胆总管缝合术","Choledochorrhaphy",51.71
+496,1,"胆总管结石切除术","Choledocholithotomy",51.41
+496,2,"内镜","endoscopic",51.88
+496,1,"胆总管镜检查","Choledochoscopy",51.11
+496,1,"胆总管空肠吻合术","Choledochojejunostomy",51.36
+496,1,"胆总管切开术","Choledochotomy",51.51
+496,1,"胆总管十二指肠吻合术","Choledochoduodenostomy",51.36
+496,1,"胆总管碎石术","Choledocholithotripsy",51.41
+496,2,"内镜","endoscopic",51.88
+496,1,"胆总管小肠吻合术","Choledochoenterostomy",51.36
+496,1,"胆总管胰腺吻合术","Choledochopancreatostomy",51.39
+496,1,"胆总管造口术","Choledochostomy",51.51
+496,1,"导管插入术-另见插入,导管","Catheterization-see also Insertion, catheter",
+496,2,"鼻泪管","lacrimonasal, nasolacrimal duct",09.44
+496,2,"动静脉","arteriovenous",39.93
+496,2,"动脉","artery",38.91
+496,2,"肝静脉","hepatic vein",38.93
+496,2,"喉的","laryngeal",96.05
+496,2,"静脉NEC","vein NEC",38.93
+496,3,"用于肾透析","for renal dialysis",38.95
+496,2,"经气管给氧","transtracheal for oxygenation",31.99
+496,2,"肋间隙(伴水密封),用于引流","intercostal space (with water seal), for drainage",34.04
+496,3,"胸腔镜的","thoracoscopic",34.06
+496,3,"修复术(伴粘连松解术)","revision (with lysis of adhesions)",34.04
+496,3,"胸腔镜的","thoracoscopic",34.06
+496,2,"尿道,留置的","urethra, indwelling",57.94
+496,2,"膀胱,留置的","bladder, indwelling",57.94
+496,3,"耻骨上NEC","suprapubic NEC",57.18
+496,3,"经皮(膀胱造口术)","percutaneous (cystostomy)",57.17
+496,2,"脐静脉","umbilical vein",38.92
+496,2,"肾静脉","renal vein",38.93
+496,2,"输尿管(至肾)","ureter (to kidney)",59.8
+496,3,"用于逆行性肾盂造影","for retrograde pyelogram",87.74
+496,2,"斯旺-甘兹(肺动脉)","Swan-Ganz (pulmonary)",89.64
+496,2,"下腔静脉","inferior vena cava",38.93
+496,2,"心的(右)","cardiac (right)",37.21
+496,3,"右","right",37.21
+496,4,"伴左心","combined with left heart",37.23
+496,3,"左","left",37.22
+496,4,"伴右心","combined with right heart",37.23
+496,3,"左心和右心联合的","combined left and right",37.23
+497,2,"心脏(右)","heart (right)",37.21
+497,3,"右","right",37.21
+497,4,"伴左心","combined with left heart",37.23
+497,3,"左","left",37.22
+497,4,"伴右心","combined with right heart",37.23
+497,3,"左心和右心联合的","combined left and right",37.23
+497,2,"胸","chest",34.04
+497,3,"胸腔镜的","thoracoscopic",34.06
+497,3,"修复术(伴粘连松解术)","revision (with lysis of adhesions)",34.04
+497,3,"胸腔镜的","thoracoscopic",34.06
+497,2,"咽鼓管","Eustachian tube",20.8
+497,2,"胰腺囊肿","pancreatic cyst",52.01
+497,2,"支气管","bronchus",96.05
+497,3,"伴灌洗","with lavage",96.56
+497,2,"中心静脉NEC","central venous NEC",38.93
+497,3,"经周围静脉插入中心静脉导管(PICC)","peripherally inserted central catheter (PICC)",38.93
+497,1,"道格拉斯手术-见Douglas手术","道格拉斯手术-see Douglas operation",
+497,1,"倒逆,肠段","Reversal, intestinal segment",45.50
+497,2,"大的","large",45.52
+497,2,"小的","small",45.51
+497,1,"德格兰德芒手术-见de Grandmont手术","德格兰德芒手术-see de Grandmont operation",
+497,1,"德怀尔手术-见Dwyer手术","德怀尔手术-see Dwyer operation",
+497,1,"德拉奇手术-见Derlacki手术","德拉奇手术-see Derlacki operation",
+497,1,"德马纽-见Dermabond手术","德马纽- see Dermabond operation",
+497,1,"德亥维利叶手术-见Denonvillier手术","德亥维利叶手术-see Denonvillier operation",
+497,1,"德翁布雷恩手术-见D'Ombrain手术","德翁布雷恩手术-see D'Ombrain operation",
+497,1,"登克尔手术-见Denker手术","登克尔手术-see Denker operation",
+497,1,"等响平衡","Equiloudness balance",95.43
+497,1,"邓恩手术-见Dunn手术","邓恩手术-see Dunn operation",
+497,1,"镫骨底板穿孔(钉住)","Sacculotomy (tack)",20.79
+497,1,"镫骨固定术","Malleostapediopexy",19.19
+497,2,"伴砧骨置换","with incus replacement",19.11
+497,1,"镫骨撬动术","Stapediolysis",19.0
+497,1,"镫骨切除术","Stapedectomy",19.19
+497,2,"伴砧骨置换(自体移植)(假体)","with incus replacement (homograft) (prosthesis)",19.11
+497,2,"修复术","revision",19.29
+497,3,"伴砧骨置换","with incus replacement",19.21
+497,1,"低温疗法(中枢的)(局部的)","Hypothermia (central) (local)",99.81
+497,2,"全身性(开放性心脏手术中)","systemic (in open heart surgery)",39.62
+498,2,"胃(冷冻)","gastric (cooling)",96.31
+498,3,"冰冻性","freezing",96.32
+498,1,"迪尔森手术-见Duhrssen手术","迪尔森手术-see Duhrssen operation",
+498,1,"迪芬巴赫手术-见Dieffenbach手术","迪芬巴赫手术-see Dieffenbach operation",
+498,1,"迪克森手术-见Dickson手术","迪克森手术-see Dickson operation",
+498,1,"迪克森-戴夫利手术-见Dickson-Diveley手术","迪克森-戴夫利手术-see Dickson-Diveley operation",
+498,1,"骶骨切除术(部分)","Sacrectomy (partial)",77.89
+498,2,"全部的","total",77.99
+498,1,"电解术","Electrolysis",
+498,2,"睫状体","ciliary body",12.71
+498,2,"毛囊","hair follicle",86.92
+498,2,"皮肤","skin",86.92
+498,2,"皮下组织","subcutaneous tissue",86.92
+498,2,"视网膜(为了)","retina (for)",
+498,3,"病损破坏","destruction of lesion",14.21
+498,3,"撕裂修补术","repair of tear",14.31
+498,3,"再附着","reattachment",14.51
+498,1,"电惊厥疗法(ECT)","Electroconvulsive therapy (ECT)",94.27
+498,1,"电烙术-另见烧灼","Electrocautery-see also Cauterization",
+498,2,"角膜病损(溃疡)","corneal lesion (ulcer)",11.42
+498,2,"食管","esophagus",42.39
+498,3,"内镜","endoscopic",42.33
+498,2,"子宫颈","cervix",67.32
+498,1,"电离,医学的","Ionization, medical",99.27
+498,1,"电麻醉","Electronarcosis",94.29
+498,1,"电凝术-另见破坏,病损,按部位","Electrocoagulation-see also Destruction, lesion, by site",
+498,2,"半规管","semicircular canals",20.79
+498,2,"半月神经节","gasserian ganglion",04.02
+498,2,"鼻,用于鼻出血(伴填塞)","nose, for epistaxis (with packing)",21.03
+498,2,"鼻甲","nasal turbinates",21.61
+498,2,"动脉瘤(脑的)(周围血管)","aneurysm (cerebral) (peripheral vessels)",39.52
+498,2,"耳","ear",
+498,3,"内","inner",20.79
+498,3,"外","external",18.29
+498,3,"中","middle",20.51
+498,2,"卵巢","ovary",65.29
+498,3,"腹腔镜","laparoscopic",65.25
+498,2,"尿道膀胱连接处,经尿道","urethrovesical junction, transurethral",57.49
+498,2,"膀胱镜检查的","cystoscopic",57.49

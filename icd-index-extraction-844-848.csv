@@ -1,0 +1,184 @@
+page,level,chinese,english,code
+844,6,"部分-见特指的操作","partial-see specific procedure",
+844,6,"全部的(一期)","total (one-stage)",35.81
+844,5,"房间隔缺损","atrial septal defect",35.71
+844,6,"伴","with",
+844,7,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.51
+844,7,"闭合性心脏技术","closed heart technique",35.52
+844,7,"组织移植","tissue graft",35.61
+844,6,"合并瓣膜和室间隔缺损修补术-见修补术,心内膜垫缺损","combined with repair of valvular and ventricular septal defects-see Repair, endocardial cushion defect",
+844,5,"全部异常肺动静脉连接修补术","in total repair of total anomalous pulmonary venous connection",35.82
+844,5,"房室管缺损(任何型)","atrioventricular canal defect (any type)",35.73
+844,6,"伴","with",
+844,7,"假体","prosthesis",35.54
+844,7,"组织移植","tissue graft",35.63
+844,5,"房室中隔","ostium",
+844,6,"第一型缺损","primum defect",35.73
+844,7,"伴","with",
+844,8,"假体","prosthesis",35.54
+844,8,"组织移植","tissue graft",35.63
+844,6,"二型缺损","secundum defect",35.71
+844,6,"伴","with",
+844,7,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.51
+844,7,"闭合性心脏技术","closed heart technique",35.52
+844,7,"组织移植","tissue graft",35.61
+844,5,"肺 NEC","lung NEC",33.49
+844,5,"肺动静脉异常连接(全部)","anomalous pulmonary venous connection (total)",
+844,6,"部分-见特指的操作","partial-see specific procedure",
+844,6,"全部的","total",35.82
+844,6,"一期","one-stage",35.82
+844,5,"附睾(和精索) NEC","epididymis (and spermatic cord) NEC",63.59
+844,6,"伴输精管","with vas deferens",63.89
+844,5,"复律器/除颤器(自动的)囊袋(皮肤)(皮下)","cardioverter/defibrillator (automatic) pocket, (skin) (subcutaneous)",37.99
+844,5,"腹壁","abdominal wall",54.72
+844,5,"腹裂","gastroschisis",54.71
+844,5,"腹膜 NEC","peritoneum NEC",54.73
+845,6,"经缝合","by suture",54.64
+845,5,"腹膜后组织","retroperitoneal tissue",54.73
+845,5,"腹直肌分离","diastasis recti",83.65
+845,5,"肝 NEC","liver NEC",50.69
+845,6,"撕裂","laceration",50.61
+845,5,"肝管","hepatic duct",51.79
+845,5,"肛门","anus",49.79
+845,6,"撕裂(经缝合)","laceration (by suture)",49.71
+845,7,"产科的(近期)","obstetric (current)",75.62
+845,8,"陈旧性","old",49.79
+845,6,"肛门括约肌","anal sphincter",49.79
+845,7,"人工括约肌","artificial sphincter",
+845,8,"修复术","revision",49.75
+845,8,"植入","implantation",49.75
+845,6,"撕裂(经缝合)","laceration (by suture)",49.71
+845,7,"产科的(近期)","obstetric (current)",75.62
+845,8,"陈旧性","old",49.79
+845,5,"睾丸 NEC","testis NEC",62.69
+845,5,"睾丸鞘膜","tunica vaginalis",61.49
+845,6,"撕裂(经缝合)","laceration (by suture)",61.41
+845,5,"巩膜,巩膜的","sclera, scleral",12.89
+845,6,"瘘","fistula",12.82
+845,6,"葡萄肿 NEC","staphyloma NEC",12.86
+845,7,"伴移植","with graft",12.85
+845,5,"骨 NEC-另见骨成形术-见亚目","bone NEC-see also Osteoplasty-see subcategory",78.4
+845,6,"鼻的","nasal",21.89
+845,6,"鼻旁窦","accessory sinus",22.79
+845,6,"经骨性联接技术-见关节固定术","by synostosis technique-see Arthrodesis",
+845,6,"颅骨 NEC","skull,cranium NEC",02.06
+845,7,"伴","with",
+845,8,"皮瓣(骨)","flap (bone)",02.03
+845,8,"移植(骨)","graft (bone)",02.04
+845,7,"用于骨联接不正,不连接或延迟性骨折连接-见修补术,骨折,骨联接不正或不连接","for malunion, nonunion, or delayed union of fracture-see Repair, fracture, malunion or nonunion",
+845,5,"鼓膜-见鼓室成形术","tympanum-see Tympanoplasty",
+845,5,"股四头肌(机械装置)","quadriceps (mechanism)",83.86
+845,5,"骨盆底 NEC","pelvic floor NEC",70.79
+845,6,"产科撕裂(近期)","obstetric laceration (current)",75.69
+845,7,"陈旧性","old",70.79
+845,5,"骨折-另见复位,骨折","fracture-see also Reduction, fracture",
+846,6,"骨联接不正或不连接(延迟的) NEC-见亚目","malunion or nonunion (delayed) NEC-see subcategory",78.4
+846,7,"伴","with",
+846,8,"插入","insertion (of)",
+846,9,"骨生长刺激器(侵入)-见亚目","bone growth stimulator (invasive)-see subcategory",78.9
+846,9,"内固定装置","internal fixation device",78.5
+846,9,"骨切开术","osteotomy",
+846,10,"伴","with",
+846,11,"正骨术","correction of alignment-see subcategory",77.3
+846,12,"伴内部固定装置-见亚目","with internal fixation device-see categories",77.3[78.5]
+846,12,"伴髓内棒","with intramedullary rod-see categories",77.3[78.5]
+846,9,"骨性联接技术-见关节固定术","synostosis technique-see Arthrodesis",
+846,9,"死骨切除术-见关节成形术","sequestrectomy-see subcategory",77.0
+846,9,"Sofield 型操作","Sofield type procedure-see categories",77.3[78.5]
+846,8,"推拿用于重新接骨-见复位,骨折,按部位,闭合的","manipulation for realignment-see Reduction, fracture, by site, closed",
+846,8,"移植-见移植物,骨","graft-see Graft, bone",
+846,8,"置换关节成形术-见关节成形术","replacement arthroplasty-see Arthroplasty",
+846,5,"喉","larynx",31.64
+846,5,"椎骨","vertebra",03.53
+846,5,"关节(囊)(软骨) NEC-另见关节成形术","joint (capsule) (cartilage) NEC-see also Arthroplasty",81.96
+846,5,"冠状动脉 NEC","coronary artery NEC",36.99
+846,6,"经动脉粥样硬化切除术","by atherectomy",
+846,7,"经皮经管腔","percutaneous transluminal",17.55
+846,6,"经血管成形术-见血管成形术,冠状","by angioplasty-see Angioplasty, coronary",
+846,5,"横膈 NEC","diaphragm NEC",34.84
+846,5,"虹膜(破裂) NEC","iris (rupture) NEC",12.39
+846,5,"喉","larynx",31.69
+846,6,"骨折","fracture",31.64
+846,6,"撕裂","laceration",31.61
+846,5,"喉气管裂","laryngotracheal cleft",31.69
+846,5,"喉造口术","laryngostomy",31.62
+846,5,"滑膜,关节-见关节成形术","synovial membrane, joint-see Arthroplasty",
+846,5,"回肠造口术","ileostomy",46.41
+846,5,"会厌","epiglottis",31.69
+847,5,"会阴(女性)","perineum (female)",71.79
+847,6,"男性 NEC","male NEC",86.89
+847,7,"撕裂(经缝合)","laceration (by suture)",86.59
+847,7,"撕裂(经缝合)","laceration (by suture)",71.71
+847,8,"产科的(近期)","obstetric (current)",75.69
+847,9,"陈旧性","old",71.79
+847,5,"肌 NEC","muscle NEC",83.87
+847,6,"经","by",
+847,7,"缝合(直接)","suture (direct)",83.65
+847,8,"手","hand",82.46
+847,8,"移植或植入(肌)","transfer or transplantation (muscle)",83.77
+847,8,"手","hand",82.58
+847,8,"移植或植入(筋膜)(肌)","graft or implant (fascia) (muscle)",83.82
+847,9,"腱","tendon",83.81
+847,10,"手","hand",82.79
+847,10,"手","hand",82.72
+847,8,"手","hand",82.89
+847,8,"通过","by",
+847,9,"缝合(直接)","suture (direct)",82.46
+847,9,"移植或植入(肌)","transfer or transplantation (muscle)",82.58
+847,9,"移植或植入 NEC","graft or implant NEC",82.79
+847,10,"筋膜","fascia",82.72
+847,5,"肌腱袖,肩","musculotendinous cuff, shoulder",83.63
+847,5,"积水","hydrocele",
+847,6,"睾丸鞘膜","tunica vaginalis",61.2
+847,6,"精索","spermatic cord",63.1
+847,6,"圆韧带","round ligament",69.19
+847,5,"嵴上缺损(心脏)","supracristal defect (heart)",35.72
+847,6,"伴","with",
+847,7,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.53
+847,7,"闭合性心脏技术","closed heart technique",35.55
+847,7,"组织移植","tissue graft",35.62
+847,5,"脊髓的(索)(脑膜)(结构) NEC","spinal (cord) (meninges) (structures) NEC",03.59
+847,6,"脊髓脊膜突出","myelomeningocele",03.52
+847,6,"脑(脊)膜突出","meningocele",03.51
+847,5,"脊髓脊膜突出","myelomeningocele",03.52
+847,5,"脊髓纵裂","diastematomyelia",03.59
+848,5,"脊柱裂 NEC","spina bifida NEC",03.59
+848,6,"脊髓脊膜突出","myelomeningocele",03.52
+848,6,"脑(脊)膜突出","meningocele",03.51
+848,5,"脊椎弓缺损(脊柱裂)","vertebral arch defect (spina bifida)",03.59
+848,5,"假性动脉瘤-见修补术,动脉瘤","false aneurysm-see Repair, aneurysm",
+848,5,"尖,瓣膜-见修补术,心脏,瓣膜","cusp, valve-see Repair, heart, valve",
+848,5,"睑鼻皱襞[内眦皱襞](褶)","epicanthus (fold)",08.59
+848,5,"睑裂狭小","blepharophimosis",08.59
+848,5,"睑内翻","entropion",08.49
+848,6,"通过或伴","by or with",
+848,7,"缝合(技术)","suture (technique)",08.42
+848,7,"睑再建造术","lid reconstruction",08.44
+848,7,"热烙术","thermocauterization",08.41
+848,7,"楔形切除术","wedge resection",08.43
+848,5,"睑球粘连 NEC","symblepharon NEC",10.49
+848,6,"伴游离移植","with free graft",10.41
+848,6,"经切断(伴皱置体插入)","by division (with insertion of conformer)",10.5
+848,5,"睑外翻","ectropion",08.49
+848,6,"通过或伴","by or with",
+848,7,"缝合(技术)","suture (technique)",08.42
+848,7,"睑再建造术","lid reconstruction",08.44
+848,7,"热烙术","thermocauterization",08.41
+848,7,"楔形切除术","wedge resection",08.43
+848,5,"睑下垂","blepharoptosis",08.36
+848,6,"提肌技术","levator muscle technique",08.34
+848,6,"伴切除术或前徙术","with resection or advancement",08.33
+848,6,"跗骨技术","tarsal technique",08.35
+848,6,"通过","by",
+848,7,"额肌肌技术(伴)","frontalis muscle technique (with)",
+848,8,"缝合","suture",08.31
+848,8,"筋膜悬吊","fascial sling",08.32
+848,7,"眼轮匝肌悬吊","orbicularis oculi muscle sling",08.36
+848,5,"腱","tendon",83.88
+848,6,"破裂 NEC","ruptured NEC",83.88
+848,7,"手","hand",82.86
+848,6,"鞘(直接缝合)","sheath (direct suture)",83.61
+848,7,"手","hand",82.41
+848,6,"手","hand",82.86
+848,7,"经","by",
+848,8,"缝合(直接)(立即)(初期)-另见缝合,腱,手","suture (direct) (immediate) (primary)-see also Suture, tendon, hand",82.45

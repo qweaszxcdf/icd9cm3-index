@@ -1,0 +1,145 @@
+page,level,chinese,english,code
+934,8,"胫骨成分","tibial component",00.81
+934,8,"全部的（所有组成）","total (all components)",00.80
+934,4,"心房间隔伞状装置","atrial septal umbrella",35.52
+934,4,"心律再同步化装置","cardiac resynchronization device",
+934,5,"除颤器（双心室除颤器）（BiV ICD）（BiV 起搏器伴除颤器）（CRT-D）（装置和一个或多个导联）（全系统）","defibrillator (biventricular defibrillator) (BiV ICD) (BiV pacemaker with defibrillator) (CRT-D) (device and one or more leads) (total system)",00.51
+934,6,"仅脉搏发生器","pulse generator only",00.54
+934,6,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
+934,5,"起搏器（双心室起搏器）（BiV 起搏器）（CRT-P）（装置和一个或多个导联）（全系统）","pacemaker (biventricular pacemaker) (BiV pacemaker) (CRT-P) (device and one or more leads) (total system)",00.50
+934,6,"仅脉搏发生器","pulse generator only",00.53
+934,6,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
+934,4,"心脏","heart",
+934,5,"CorCap™","CorCap™",37.41
+934,5,"Impella®","Impella®",37.68
+934,5,"瓣膜—见置换，心脏瓣膜","valve-see Replacement, heart valve",
+934,5,"泵（康特洛维兹）","pump (Kantrowitz)",37.62
+934,5,"辅助系统—见植入，心脏辅助系统","assist system-see Implant, heart assist system",
+934,5,"假体心脏支持装置","prosthetic cardiac support device",37.41
+934,5,"起搏器—见插入，起搏器，心的","pacemaker-see Insertion, pacemaker, cardiac",
+934,5,"心室支持装置","ventricular support device",37.41
+934,5,"心外膜支持装置","epicardial support device",37.41
+934,5,"心脏支持装置（CSD）","cardiac support device (CSD)",37.41
+934,5,"循环的辅助系统—见植入，心脏辅助系统","circulatory assist system-see Implant, heart assist system",
+934,4,"心脏支持装置（CSD）（CorCap™）","cardiac support device (CSD) (CorCap™)",37.41
+934,4,"胸骨固定装置伴有刚性板","sternal fixation device with rigid plates",84.94
+934,4,"胸管","chest tube",34.04
+934,5,"胸腔镜的","thoracoscopic",34.06
+934,4,"血管通路装置，完全可植入的","vascular access device, totally implantable",86.07
+934,4,"循环记录器","loop recorder",37.79
+935,4,"循环支持装置","circulatory support device",
+935,5,"CentriMag®（体外血泵系统）","CentriMag®",37.62
+935,5,"pVAD（经皮心室辅助装置）","pVAD (percutaneous ventricular assist device)",37.68
+935,5,"TandemHeart®","TandemHeart®",37.68
+935,5,"非植入性的","non-implantable",37.62
+935,6,"外部心脏辅助装置","external heart assist device",
+935,7,"Impella®","Impella®",37.68
+935,7,"经皮的","percutaneous",37.68
+935,7,"双心室的","biventricular",37.60
+935,7,"暂时性","temporary",37.62
+935,4,"暂时性非植入型循环辅助装置","temporary non-implantable circulatory assist device",37.62
+935,4,"牙托（全部）","denture (total)",99.97
+935,4,"牙周夹（齿矫形）","peridontal splint (orthodontic)",24.7
+935,4,"眼阀植入","eye valve implant",12.67
+935,4,"眼球，进入眼窝","globe, into eye socket",16.69
+935,4,"眼植入","ocular implant",
+935,5,"随后或二期","following or secondary to",
+935,6,"内容物取出术","evisceration",16.61
+935,6,"剜出术","enucleation",16.61
+935,5,"同时伴","with synchronous",
+935,6,"内容物剜出术","evisceration",16.31
+935,6,"剜出术","enucleation",16.42
+935,7,"伴肌附着于植入物","with muscle attachment to implant",16.41
+935,4,"咽瓣膜，人工","pharyngeal valve, artificial",31.75
+935,4,"阴道，人造的","vagina, synthetic",70.95
+935,4,"阴道隔","diaphragm, vagina",96.17
+935,4,"阴道模型","vaginal mold",96.15
+935,4,"阴茎假体（非可膨胀的）（内的）","penile prosthesis (non-inflatable) (internal)",64.95
+935,5,"可膨胀的（内的）","inflatable (internal)",64.97
+935,4,"引流管","drainage tube",
+935,5,"肾","kidney",55.02
+935,5,"肾盂","renal pelvis",55.12
+935,4,"硬膜外钉","epidural pegs",02.93
+935,4,"硬膜下的","subdural",
+935,5,"条带状","strips",02.93
+935,5,"网状","grids",02.93
+935,4,"折板，心脏（心房）（心房间）（心房内）","baffle, heart (atrial) (interatrial) (intra-atrial)",35.91
+936,3,"支架（支架植入）","stent(s) (stent graft)",
+936,4,"肠系膜的","mesenteric",39.90
+936,5,"裸，药物涂层","bare, drug-coated",39.90
+936,5,"药物洗脱","drug-eluting",00.55
+936,4,"胆管","bile duct",51.43
+936,5,"经皮的经肝的","percutaneous transhepatic",51.98
+936,6,"内镜的","endoscopic",51.87
+936,4,"动脉（裸）（结合的）（药物涂层）（非药物洗脱）","artery (bare) (bonded) (drug coated) (non-drug-eluting)",
+936,5,"非冠状血管","non-coronary vessel",
+936,6,"股动脉，表浅的","femoral artery, superficial",39.90
+936,7,"非药物洗脱","non-drug-eluting",39.90
+936,7,"药物洗脱","drug-eluting",00.60
+936,6,"基底","basilar",00.64
+936,6,"脊椎的","vertebral",00.64
+936,6,"颈动脉","carotid",00.63
+936,6,"颅内的","intracranial",00.65
+936,6,"颅外的","extracranial",00.64
+936,6,"周围的","peripheral",39.90
+936,7,"裸，药物涂层","bare, drug-coated",39.90
+936,7,"药物洗脱","drug-eluting",00.55
+936,6,"股动脉，表浅的","femoral artery, superficial",39.90
+936,7,"非药物洗脱","non-drug-eluting",39.90
+936,7,"药物洗脱","drug-eluting",00.60
+936,5,"冠状（裸）（结合的）（药物涂层）（非药物洗脱）","coronary (bare) (bonded) (drug coated) (non-drug-eluting)",36.06
+936,6,"药物洗脱","drug-eluting",36.07
+936,6,"基底动脉","basilar",00.64
+936,6,"颈动脉","carotid",00.63
+936,6,"颅内","intracranial",00.65
+936,6,"颅外","extracranial",00.64
+936,6,"颈动脉","carotid",00.63
+936,6,"脑血管的","cerebrovascular",
+936,7,"脑的（颅内）","cerebral (intracranial)",00.65
+936,7,"入脑前的（颅外）","precerebral (extracranial)",00.64
+936,8,"颈动脉","carotid",00.63
+937,4,"房水引流","aqueous drainage",12.67
+937,4,"非冠状血管","non-coronary vessel",
+937,5,"伴旁路—省略编码","with bypass-omit code",
+937,5,"伴血管成形术或动脉粥样硬化切除术","with angioplasty or atherectomy",39.50
+937,6,"肠系膜的","mesenteric",39.90
+937,7,"裸，药物涂层","bare, drug-coated",39.90
+937,7,"药物洗脱","drug-eluting",00.55
+937,6,"基底","basilar",00.64
+937,6,"脊椎的","vertebral",00.64
+937,6,"颈动脉","carotid",00.63
+937,6,"颅内的","intracranial",00.65
+937,6,"颅外的","extracranial",00.64
+937,6,"肾的","renal",39.90
+937,7,"裸，药物涂层","bare, drug-coated",39.90
+937,7,"药物洗脱","drug-eluting",00.55
+937,6,"周围的","peripheral",39.90
+937,7,"裸，药物涂层","bare, drug-coated",39.90
+937,7,"药物洗脱","drug-eluting",00.55
+937,5,"冠状（动脉）（裸）（结合的）（药物涂层）（非药物洗脱）","coronary (artery) (bare) (bonded) (drug coated) (non-drug-eluting)",36.06
+937,6,"药物洗脱","drug-eluting",36.07
+937,6,"脊椎的","vertebral",00.64
+937,4,"结肠","colon",
+937,5,"内镜的（荧光镜引导）","endoscopic (fluoroscopic guidance)",46.86
+938,5,"其他","other",46.87
+938,4,"气管支气管的","tracheobronchial",96.05
+938,4,"入脑前的","precerebral",00.64
+938,5,"肾的","renal",39.90
+938,6,"裸，药物涂层","bare, drug-coated",39.90
+938,6,"药物洗脱","drug-eluting",00.55
+938,5,"食管（内镜）（荧光镜的）","esophagus (endoscopic) (fluoroscopic)",42.81
+938,5,"锁骨下","subclavian",39.90
+938,5,"裸，药物涂层","bare, drug-coated",39.90
+938,6,"药物洗脱","drug-eluting",00.55
+938,5,"胰腺管","pancreatic duct",52.92
+938,6,"内镜的","endoscopic",52.93
+938,5,"周围的","peripheral",39.90
+938,6,"股动脉，表浅的，药物洗脱的","femoral artery, superficial, drug-eluting",00.60
+938,5,"裸，药物涂层","bare, drug-coated",39.90
+938,6,"药物洗脱","drug-eluting",00.55
+938,4,"肢体延长装置，内的，NOS","limb lengthening device, internal, NOS",84.54
+938,5,"伴动力分离术","with kinetic distraction",84.53
+938,3,"植入物—见插入，假体","implant-see Insertion, prosthesis",
+938,3,"止血垫","tampon",
+938,4,"食管","esophagus",96.06
+938,4,"阴道","vagina",96.14

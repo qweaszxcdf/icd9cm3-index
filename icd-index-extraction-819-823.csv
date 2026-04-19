@@ -1,0 +1,174 @@
+page,level,chinese,english,code
+819,2,"踝关节侧韧带重建术","reconstruction of lateral ligaments, ankle",81.49
+819,2,"肩关节固定术(关节外)","shoulder arthrodesis (extra-articular)",81.23
+819,2,"腱成形术","tenoplasty",83.88
+819,2,"髋关节固定术","hip arthrodesis",81.21
+819,1,"Weir 手术","Weir operation",
+819,2,"鼻孔矫正术","correction of nostrils",21.86
+819,2,"阑尾造口术","appendicostomy",47.91
+819,1,"Wertheim 手术(根治子宫切除术)","Wertheim operation (radical hysterectomy)",68.69
+819,2,"腹腔镜的","laparoscopic",68.61
+819,1,"West 手术(泪囊鼻腔吻合术)","West operation (dacryocystorhinostomy)",09.81
+819,1,"Wheeler 手术","Wheeler operation",
+819,2,"减半操作(眼睑)","halving procedure (eyelid)",08.24
+819,2,"睑内翻修补术","entropion repair",08.44
+819,1,"Whipple 手术(根治胰十二指肠切除术)","Whipple operation (radical pancreaticoduodenectomy)",52.7
+819,2,"蔡尔德改进型(根治性胰腺大部切除术)","Child modification (radical subtotal pancreatectomy)",52.53
+819,2,"罗德尼史密斯改进型(根治性胰腺大部切除术)","Rodney Smith modification (radical subtotal pancreatectomy)",52.53
+819,1,"Whitehead 手术","Whitehead operation",
+819,2,"舌截除术,根治性","glossectomy, radical",25.4
+819,2,"痔切除术","hemorrhoidectomy",49.46
+819,1,"White 手术(跟腱延长术,经不完全的腱切断术)","White operation (lengthening of tendo calcaneus by incomplete tenotomy)",83.11
+819,1,"Whitman 手术","Whitman operation",
+819,2,"距骨切除术","talectomy",77.98
+819,2,"髋重建术","hip reconstruction",81.40
+819,2,"前锯肌修补术","repair of serratus anterior muscle",83.87
+819,2,"转子楔形骨切开术","trochanter wedge osteotomy",77.25
+819,2,"足稳定术(距骨切除术)","foot stabilization (talectomy)",77.98
+819,1,"Wier 手术(睑内翻修补术)","Wier operation (entropion repair)",08.44
+819,1,"Williams-Richardson 手术(阴道建造术)","Williams-Richardson operation (vaginal construction)",70.61
+819,2,"伴移植物或假体","with graft or prosthesis",70.63
+819,1,"Wilms 手术(胸成形术)","Wilms operation (thoracoplasty)",33.34
+819,1,"Wilson 手术(角形骨切开术用于踇外翻)","Wilson operation (angulation osteotomy for hallux valgus)",77.51
+819,1,"Winiwarter 手术(胆囊小肠吻合术)","Winiwarter operation (cholecystoenterostomy)",51.32
+820,1,"Wirsungo(空肠造口术)","Wirsungo jejunostomy",52.96
+820,1,"Witzel 手术(暂时性胃造口术)","Witzel operation (temporary gastrostomy)",43.19
+820,1,"Woodward 手术(高骑位肩胛骨松解术)","Woodward operation (release of high riding scapula)",81.83
+820,1,"瓦达实验—见 Wada 测验","瓦达实验-see Wada test",
+820,1,"外科","Surgery",
+820,2,"IGS—见手术,计算机辅助","IGS-see Surgery, computer assisted",
+820,2,"机器人辅助—见亚目","robotic assisted-see subcategory",17.4
+820,2,"计算机辅助(CAS)","computer assisted (CAS)",00.39
+820,3,"CAS 伴 MR/MRA","CAS with MR/MRA",00.32
+820,3,"CAS 用 CT/CTA","CAS with CT/CTA",00.31
+820,3,"CAS 用多数据集合","CAS with multiple datasets",00.35
+820,4,"其他 CAS","other CAS",00.39
+820,4,"无显像","imageless",00.34
+820,3,"CAS 用荧光镜透视检查法","CAS with fluoroscopy",00.33
+820,2,"影像引导—见手术,计算机辅助","image guided-see Surgery, computer assisted",
+820,1,"外路小梁切除术","Trabeculectomy ab externo",12.64
+820,1,"外路小梁切开术","Trabeculotomy ab externo",12.54
+820,1,"外生骨茧切除术—另见切除术,骨","Exostectomy-see also Excision, lesion, bone",77.60
+820,1,"外阴成形术","Episioplasty",71.79
+820,1,"外阴缝合术","Episiorrhaphy",71.71
+820,2,"为了产科撕裂","for obstetrical laceration",75.69
+820,1,"外阴会阴成形术","Episioperineoplasty",71.79
+820,1,"外阴会阴缝合术","Episioperineorrhaphy",71.71
+820,2,"产科的","obstetrical",75.69
+820,1,"外阴切开术(伴随后的外阴缝合术)","Episiotomy (with subsequent episiorrhaphy)",73.6
+820,2,"出口产钳","outlet forceps",72.1
+820,2,"低位产钳","low forceps",72.1
+820,2,"非产科的","nonobstetrical",71.09
+820,2,"高位产钳","high forceps",72.31
+820,2,"中位产钳","mid forceps",72.21
+821,1,"外阴直肠切开术","Episioproctotomy",73.6
+821,1,"外展,杓状软骨","Abduction, arytenoid",31.69
+821,1,"外折,巩膜,用于环扎术","Outfolding, sclera, for buckling-see also Buckling, scleral",14.49
+821,1,"外折术,鼻甲(鼻的)","Outfracture, turbinates (nasal)",21.62
+821,1,"外置术","Exteriorization",
+821,2,"藏毛囊肿或窦(开放性切除术)(伴部分闭合)","pilonidal cyst or sinus (open excision) (with partial closure)",86.21
+821,2,"肠","intestine",46.03
+821,3,"大的","large",46.03
+821,3,"小的","small",46.01
+821,2,"上颌窦","maxillary sinus",22.9
+821,2,"食管凹","esophageal pouch",42.12
+821,1,"剜出术—另见切除术,病损,按部位","Enucleation-see also Excision, lesion, by site",
+821,2,"囊肿","cyst",
+821,3,"肝","liver",50.29
+821,3,"阔韧带","broad ligament",69.19
+821,3,"卵巢","ovarian",65.29
+821,4,"腹腔镜","laparoscopic",65.25
+821,3,"皮肤","skin",86.3
+821,3,"皮下组织","subcutaneous tissue",86.3
+821,3,"腮腺的","parotid gland",26.29
+821,3,"涎腺","salivary gland",26.29
+821,3,"牙的","dental",24.4
+821,3,"眼球","eyeball",16.49
+821,3,"伴肌附着","with attachment of muscles",16.41
+821,3,"伴植入(至特农囊)","with implant (into Tenons capsule)",16.42
+821,1,"腕骨切除术(部分)","Carpectomy (partial)",77.84
+821,2,"全部","total",77.94
+821,1,"王针抽吸活组织检查","Wang needle aspiration biopsy",
+821,2,"肺","lung",33.27
+821,2,"支气管","bronchus",33.24
+821,1,"网膜成形术","Omentoplasty",54.74
+821,1,"网膜缝合术","Epilorrhaphy, Omentorrhaphy",54.74
+821,1,"网膜固定术","Epiplopexy, Omentofixation, Omentopexy",54.74
+821,1,"网膜切除术","Epiploectomy, Omentectomy",54.4
+821,1,"网膜切开术","Omentotomy",54.19
+821,1,"威策尔手术—见 Witzel 手术","威策尔手术-see Witzel operation",
+821,1,"威尔姆斯手术—见 Wilms 手术","威尔姆斯手术-see Wilms operation",
+822,1,"威尔手术—见 Wier 手术","威尔手术-see Wier operation",
+822,1,"威尔逊手术—见 Wilson 手术","威尔逊手术-see Wilson operation",
+822,1,"威廉斯-理查森手术—见 Williams-Richardson 手术","威廉斯-理查森手术-see Williams-Richardson operation",
+822,1,"威尼沃特手术—见 Winiwarter 手术","威尼沃特手术-see Winiwarter operation",
+822,1,"危象处理","Crisis intervention",94.35
+822,1,"维持压力","Pressure support",
+822,2,"通气[PSV]-见亚目","Ventilation[PSV]-see category",96.7
+822,1,"维达尔手术—见 Vidal 手术","维达尔手术-see Vidal operation",
+822,1,"维尔松空肠造口术—见 Wirsungo 空肠造口术","维尔松空肠造口术-see Wirsungo jejunostomy",
+822,1,"韦斯特手术—见 West 手术","韦斯特手术-see West operation",
+822,1,"尾骨切除术(部分)","Coccygectomy (partial)",77.89
+822,2,"全部","total",77.99
+822,1,"尾骨切开术","Coccygotomy",77.39
+822,1,"萎陷,肺,外科手术的","Collapse, lung, surgical",33.39
+822,2,"经","by",
+822,3,"膈神经破坏","destruction of phrenic nerve",33.31
+822,3,"气腹","pneumoperitoneum",33.33
+822,3,"气胸,人工诱发的","pneumothorax, artificially-induced",33.32
+822,3,"胸成形术","thoracoplasty",33.34
+822,1,"胃肠吻合术(旁路) NEC","Gastroenterostomy, Gastrogastrostomy (bypass) NEC",44.39
+822,2,"伴部分胃切除术","with partial gastrectomy",43.7
+822,2,"腹腔镜的","laparoscopic",44.38
+822,1,"胃成形术 NEC","Gastroplasty NEC",44.69
+822,2,"垂直束带胃成形术(VBG)","vertical banded gastroplasty (VBG)",44.68
+822,2,"腹腔镜的","laparoscopic",44.68
+822,1,"胃底切除术","Fundusectomy, gastric",43.89
+822,1,"胃底折叠术(食管)(尼森)","Fundoplication (esophageal) (Nissens)",44.66
+822,2,"腹腔镜","laparoscopic",44.67
+822,1,"胃电图","Electrogastrogram",44.19
+822,1,"胃缝合术","Gastrorrhaphy",44.61
+822,1,"胃固定术","Gastropexy",44.64
+822,1,"胃镜检查 NEC","Gastroscopy NEC",44.13
+822,2,"经腹(手术的)","transabdominal (operative)",44.11
+822,2,"经造口(人工的)","through stoma (artificial)",44.12
+822,1,"胃空肠吻合术(旁路)","Gastrojejunostomy (bypass)",44.39
+822,2,"伴部分胃切除术","with partial gastrectomy",43.7
+822,2,"腹腔镜的","laparoscopic",44.38
+823,1,"胃内照相术","Gastrocamera",44.19
+823,1,"胃切除术(部分)(大部) NEC","Gastrectomy (partial) (sleeve) (subtotal) NEC",43.89
+823,2,"伴","with",
+823,3,"空肠转位","jejunal transposition",43.81
+823,3,"食管胃造口术","esophagogastrostomy",43.5
+823,3,"胃肠吻合术(旁路)","gastroenterostomy (bypass)",43.7
+823,3,"胃空肠吻合术(旁路)","gastrojejunostomy (bypass)",43.7
+823,3,"胃十二指肠吻合术(旁路)","gastroduodenostomy (bypass)",43.6
+823,3,"胃胃吻合术(旁路)","gastrogastrostomy (bypass)",43.89
+823,3,"吻合术(至) NEC","anastomosis (to) NEC",43.89
+823,4,"空肠","jejunum",43.7
+823,4,"十二指肠","duodenum",43.6
+823,4,"食管","esophagus",43.5
+823,4,"胃胃的","gastrogastric",43.89
+823,2,"波耳亚","Polya",43.7
+823,2,"腹腔镜垂直(袖状)","laparoscopic, vertical (sleeve)",43.82
+823,2,"根治 NEC","radical NEC",43.99
+823,3,"伴肠间置术","with intestinal interposition",43.91
+823,2,"霍夫迈斯特","Hofmeister",43.7
+823,2,"近端","proximal",43.5
+823,2,"全部 NEC","total NEC",43.99
+823,3,"伴肠间置术","with intestinal interposition",43.91
+823,2,"完全 NEC","complete NEC",43.99
+823,3,"伴肠间置术","with intestinal interposition",43.91
+823,2,"袖状","sleeve",
+823,3,"腹腔镜的","laparoscopic",43.82
+823,2,"远端","distal",43.6
+823,1,"胃切开术","Gastrotomy",43.0
+823,2,"用于出血控制","for control of hemorrhage",44.49
+823,1,"胃十二指肠镜检查","Gastroduodenoscopy",45.13
+823,2,"经腹(手术的)","transabdominal (operative)",45.11
+823,2,"经造口(人工的)","through stoma (artificial)",45.12
+823,1,"胃十二指肠切除术—见胃切除术","Gastroduodenectomy-see Gastrectomy",
+823,1,"胃十二指肠吻合术(旁路)(雅布累)","Gastroduodenostomy (bypass) (Jaboulays)",44.39
+823,2,"伴部分胃切除术","with partial gastrectomy",43.6
+823,1,"胃松解术","Gastrolysis",54.59
+823,2,"腹腔镜","laparoscopic",54.51

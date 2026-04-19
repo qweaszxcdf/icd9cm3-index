@@ -1,0 +1,177 @@
+page,level,chinese,english,code
+879,7,"腹","abdominal",
+879,8,"动脉","artery",38.06
+879,8,"静脉","Vein",38.07
+879,7,"颅内 NEC","intracranial NEC",38.01
+879,7,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+879,7,"头和颈 NEC","head and neck NEC",38.02
+879,7,"下肢","lower limb",
+879,8,"动脉","artery",38.08
+879,8,"静脉","vein",38.09
+879,7,"胸 NEC","thoracic NEC",38.05
+879,7,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+879,4,"血管通路移植","Vectra vascular access graft",86.07
+879,4,"血管通路装置,完全可植入的","Vascular access device, totally implantable",86.07
+879,4,"血管形成-见血管再形成","Vascularization-see Revascularization",
+879,4,"血管压扎术","Angiotripsy",39.98
+879,4,"血管再形成","Revascularization",
+879,5,"心的(心脏肌)(心肌)(直接)","cardiac (heart muscle) (myocardium) (direct)",36.10
+879,6,"伴","with",
+879,7,"动脉植入心脏(肌)(心肌)(心室)","implantation of artery into heart (muscle) (myocardium) (ventricle)",36.2
+879,7,"旁路吻合术","bypass anastomosis",
+879,8,"腹动脉与冠状动脉","abdominal artery to coronary artery",36.17
+879,8,"乳内冠状动脉(单根血管)","internal mammary-coronary artery (single vessel)",36.15
+879,9,"双血管","double vessel",36.16
+879,9,"特指类型 NEC","specified type NEC",36.19
+879,9,"胃网膜动脉与冠状动脉","gastroepiploic artery to coronary artery",36.17
+879,8,"胸动脉冠状动脉(单根血管)","thoracic artery-coronary artery (single vessel)",36.15
+879,9,"双血管","double vessel",36.16
+879,9,"主动脉冠状动脉(导管支架)(自体移植)(假体)(隐静脉静脉移植)","aortocoronary (catheter stent) (homograft) (prosthesis) (saphenous vein graft)",36.10
+879,10,"一根冠状血管","one coronary vessel",36.11
+879,10,"二根冠状血管","two coronary vessels",36.12
+879,10,"三根冠状血管","three coronary vessels",36.13
+879,10,"四根冠状血管","four coronary vessels",36.14
+880,6,"间接的","indirect",36.2
+880,7,"经心肌的","transmyocardial",
+880,8,"经皮的","percutaneous",36.34
+880,8,"开放胸","open chest",36.31
+880,8,"内镜的","endoscopic",36.33
+880,8,"特指类型 NEC","specified type NEC",36.32
+880,8,"胸腔镜的","thoracoscopic",36.33
+880,8,"血管内的","endovascular",36.34
+880,7,"特指类型 NEC","specified type NEC",36.39
+880,4,"血管造影术(动脉)-另见动脉造影术","Angiography (arterial)-see also Arteriography",88.40
+880,5,"臂的","brachial",88.49
+880,5,"非冠状动脉,手术中荧光","non-coronary, intra-operative fluorescence",17.71
+880,5,"肺动脉","pulmonary",88.43
+880,5,"腹内 NEC","intra-abdominal NEC",88.47
+880,5,"腹腔的","celiac",88.47
+880,5,"股动脉","femoral",88.48
+880,5,"冠状 NEC","coronary NEC",88.57
+880,6,"手术中荧光血管的","intra-operative fluorescence vascular",88.59
+880,5,"基底","basilar",88.41
+880,5,"脊椎","vertebral",88.41
+880,5,"颈","neck",88.41
+880,5,"颈动脉(内的)","carotid (internal)",88.41
+880,5,"经C.A.T.-见扫描,C.A.T.,按部位","by C.A.T.-see Scan, C.A.T., by site",
+880,5,"经磁共振-见影像,磁共振,按部位","by magnetic resonance-see Imaging, magnetic resonance, by site",
+880,5,"经股动脉","transfemoral",88.48
+880,5,"经计算机断层照相-见扫描,C.A.T,按部位","by computed tomography-see Scan, C.A.T., by site",
+880,5,"静脉-见静脉造影术","veins-see Phlebography",
+880,5,"颅内","intracranial",88.41
+880,5,"脑的(后循环)","cerebral (posterior circulation)",88.41
+880,5,"上肢 NEC","upper extremity NEC",88.49
+880,5,"肾","renal",88.45
+880,5,"胎盘","placenta",88.46
+880,5,"特指的动脉 NEC","specified artery NEC",88.49
+880,5,"下肢 NEC","lower extremity NEC",88.48
+880,5,"心脏","heart",88.50
+880,5,"胸内血管 NEC","intrathoracic vessels NEC",88.44
+880,5,"眼(荧光素)","eye (fluorescein)",95.12
+881,5,"用超声-见超声波检查,按部位","by ultrasound-see Ultrasonography, by site",
+881,5,"用放射性核素-见扫描,放射性核素,按部位","by radioisotope-see Scan, radioisotope, by site",
+881,4,"血浆除去法,治疗性","Plasmapheresis, therapeutic",99.71
+881,4,"血浆分离置换法,治疗性-见亚目","Apheresis, therapeutic-see subcategory",99.7
+881,4,"血浆交换","Plasma exchange",99.07
+881,4,"血块去除-另见去除,血栓","Declotting-see also Removal, thrombus",
+881,5,"动静脉套管或分流","arteriovenous cannula or shunt",39.49
+881,4,"血流计,多普勒(超声)-另见超声波检查","Flowmetry, Doppler (ultrasonic)-see also Ultrasonography",
+881,5,"头和颈","head and neck",88.71
+881,5,"心脏","heart",88.72
+881,5,"胸 NEC","thorax NEC",88.73
+881,5,"主动脉弓","aortic arch",88.73
+881,4,"血取样,用于胎儿遗传测定","Sampling, blood for genetic determination of fetus",75.33
+881,4,"血栓动脉内膜切除术","Thromboendarterectomy",38.10
+881,5,"腹的","abdominal",38.16
+881,5,"冠状动脉","coronary artery",36.09
+881,6,"开胸入路","open chest approach",36.03
+881,5,"颅内血管 NEC","intracranial NEC",38.11
+881,5,"上肢","upper limb",38.13
+881,5,"头和颈 NEC","head and neck NEC",38.12
+881,5,"下肢","lower limb",38.18
+881,5,"胸的 NEC","thoracic NEC",38.15
+881,5,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.14
+881,4,"血栓切除术","Thrombectomy",38.00
+881,5,"伴动脉内膜切除术-见动脉内膜切除术","with endarterectomy-see Endarterectomy",
+881,5,"动静脉分流或套管","arteriovenous shunt or cannula",39.49
+881,5,"肺动脉血管","pulmonary vessel",38.05
+881,5,"腹的","abdominal",
+881,6,"动脉","artery",38.06
+881,6,"静脉","vein",38.07
+881,5,"冠状动脉","coronary artery",36.09
+881,5,"机械性","mechanical",
+881,6,"血管内的","endovascular",
+881,7,"头和颈","head and neck",39.74
+881,5,"颅内血管 NEC","intracranial vessel NEC",38.01
+881,5,"牛移植物","bovine graft",39.49
+881,5,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+882,5,"头和颈血管 NEC","head and neck vessel NEC",38.02
+882,5,"下肢","lower limb",
+882,6,"动脉","artery",38.08
+882,6,"静脉","vein",38.09
+882,5,"胸血管 NEC","thoracic vessel NEC",38.05
+882,5,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+882,4,"血小板除去法,治疗性","Plateletpheresis, therapeutic",99.74
+882,4,"血小板抑制剂(仅 GP II B/III a 抑制剂),输注","Platelet inhibitor (GP IIB/IIIa inhibitor only), infusion",99.20
+882,4,"血液回收(自体血)(术中采取的)(手术前后的)(手术后)","Salvage (autologous blood) (intraoperative) (perioperative) (postoperative)",99.00
+882,4,"血液透析(体外)","Hemodialysis (extracorporeal)",39.95
+882,4,"血液透析滤过(体外)","Hemodiafiltration (extracorporeal)",39.95
+882,4,"血液稀释(体外)","Hemofiltration (extracorporeal)",39.95
+882,4,"血液稀释","Hemodilution",99.03
+882,4,"训练(为了)(于)","Training (for) (in)",
+882,5,"ADL(日常起居活动)","ADL (activities of daily living)",93.83
+882,5,"用于盲人的","for the blind",93.78
+882,5,"步态","gait",93.22
+882,5,"步行","ambulation",93.22
+882,5,"出生前的(自然分娩)","prenatal (natural childbirth)",93.37
+882,5,"唇读","lip reading",93.75
+882,5,"导盲狗,用于盲人","use of lead dog for the blind",93.76
+882,5,"关节活动","joint movements",93.14
+882,5,"假体或矫正装置的使用","prosthetic or orthotic device usage",93.24
+882,5,"盲文","braille",93.77
+882,5,"穆恩(盲读)","Moon (blind reading)",93.77
+882,5,"食管发音(喉切除术后)","esophageal speech (postlaryngectomy)",93.73
+882,5,"视轴矫正的","orthoptic",95.35
+882,5,"松弛","relaxation",94.33
+882,5,"诵读困难","dyslexia",93.71
+882,5,"用拐行走","crutch walking",93.24
+882,5,"语言 NEC","speech NEC",93.75
+882,6,"食管型","esophageal type",93.73
+882,6,"用于缺损矫正术","for correction of defect",93.74
+882,5,"语言困难","dysphasia",93.72
+882,5,"职业的","vocational",93.85
+882,0,"Y","Y",
+883,5,"腱移植术(胫骨前肌)(平足修补术)","tendon transfer (anterior tibialis) (repair of flat foot)",83.75
+883,5,"尿道上裂修补术","epispadias repair",58.45
+883,4,"Yount 手术(髂胫束切断)","Yount operation (division of iliotibial band)",83.14
+883,4,"Y 字型吻合术","Roux-en-Y operation",
+883,5,"胆管","bile duct",51.36
+883,5,"胆囊空肠吻合术","cholecystojejunostomy",51.32
+883,5,"食管(胸内)","esophagus (intrathoracic)",42.54
+883,5,"胃肠吻合术","gastroenterostomy",44.39
+883,6,"腹腔镜的","laparoscopic",44.38
+883,5,"胃空肠吻合术","gastrojejunostomy",44.39
+883,6,"腹腔镜","laparoscopic",44.38
+883,5,"胰空肠吻合术","pancreaticojejunostomy",52.96
+883,4,"牙槽成形术(伴移植或植入)","Alveoloplasty (with graft or implant)",24.5
+883,4,"牙槽切除术(根间的)(牙槽间隔内的)(根治)(单纯)(伴移植)(伴植入)","Alveolectomy (interradicular) (intraseptal) (radical) (simple) (with graft) (with implant)",24.5
+883,4,"牙槽切开术(尖)","Alveolotomy (apical)",24.0
+883,4,"牙冠龈盖切除术","Operculectomy",24.6
+883,4,"牙切除术 NEC-另见去除,牙,外科手术的","Odontectomy NEC-see also Removal, tooth, surgical",23.19
+883,4,"牙髓切除术-另见疗法,根管","Pulpectomy-see also Therapy, root canal",23.70
+883,4,"牙髓切断术-另见疗法,根管","Pulpotomy-see also Therapy, root canal",23.70
+883,4,"雅布累手术-见 Jaboulay 手术","雅布累手术- see Jaboulay operation",
+883,4,"压出,沙眼滤泡","Expression, trachoma follicles",10.33
+883,4,"压力测量法","Manometry",
+883,5,"脊液","spinal fluid",89.15
+883,5,"泌尿系","urinary",89.21
+883,5,"食管的","esophageal",89.32
+883,4,"压迫,三叉神经","Compression, trigeminal nerve",04.02
+883,4,"亚当斯手术-见 Adams 手术","亚当斯手术- see Adams operation",
+883,4,"亚历山大-亚当斯手术-见 Alexander-Adams 手术","亚历山大-亚当斯手术- see Alexander-Adams operation",
+883,4,"亚历山大手术-见 Alexander 手术","亚历山大手术- see Alexander operation",
+883,4,"阉割","Castration",
+883,5,"男性","male",62.41
+883,5,"女性(卵巢切除术,双侧)","female (oophorectomy, bilateral)",65.51
+883,6,"腹腔镜的","laparoscopic",65.53
+883,4,"延长","Lengthening,Elongation",

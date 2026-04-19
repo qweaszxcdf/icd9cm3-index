@@ -1,0 +1,202 @@
+page,level,chinese,english,code
+664,3,"皮下组织","subcutaneous tissue",86.3
+664,3,"乳房","breast",85.21
+664,3,"气管","trachea",31.5
+664,3,"前房(眼) NEC","anterior chamber (eye) NEC",12.40
+664,3,"前列腺(经尿道)","prostate (transurethral)",60.61
+664,3,"前列腺周围组织","periprostatic tissue",60.82
+664,3,"韧带(关节)—另见切除术,病损,关节","ligament (joint)-see also Excision, lesion, joint",80.80
+664,4,"阔","broad",69.19
+664,4,"圆","round",69.19
+664,4,"子宫骶骨的","uterosacral",69.19
+664,3,"乳房(节段的)(楔形)","breast (segmental) (wedge)",85.21
+664,3,"乳房管","mammary duct",85.21
+664,3,"乳突(骨)","mastoid (bone)",20.49
+664,3,"软组织 NEC","soft tissue NEC",83.39
+664,4,"手","hand",82.29
+664,3,"腮腺或管 NEC","parotid gland or duct NEC",26.29
+664,3,"舌","tongue",25.1
+664,3,"神经(颅的)(周围的)","nerve (cranial) (peripheral)",04.07
+664,4,"交感神经","sympathetic",05.29
+664,3,"肾","kidney",55.39
+664,4,"伴部分肾上腺切除术","with partial nephrectomy",55.4
+664,3,"肾上腺","adrenal gland(s)",07.21
+664,3,"肾周围组织","perirenal tissue",59.91
+664,3,"声带","vocal cords",30.09
+664,3,"十二指肠(局部的)","duodenum (local)",45.31
+664,4,"内镜的","endoscopic",45.30
+664,3,"食管 NEC","esophagus NEC",42.32
+664,4,"内镜的","endoscopic",42.33
+664,3,"输卵管","fallopian tube",66.61
+664,3,"输尿管","ureter",56.41
+664,3,"斯基恩腺(女性尿道旁腺)","Skene's gland",71.3
+664,3,"松果腺","pineal gland",07.53
+664,3,"涎腺或管 NEC","salivary gland or duct NEC",26.29
+664,4,"整块","en bloc",26.32
+664,3,"外耳","auricle, ear",18.29
+664,4,"根治性","radical",18.31
+664,3,"外耳道","auditory canal or meatus, external",18.29
+664,4,"根治性","radical",18.31
+664,3,"外阴","vulva",71.3
+664,3,"网膜","omentum",54.4
+664,3,"胃 NEC","stomach NEC",43.42
+665,4,"内镜的","endoscopic",43.41
+665,4,"息肉","polyp",43.41
+665,4,"息肉(内镜的)","polyp (endoscopic)",43.41
+665,3,"腺样增殖体","adenoids",28.92
+665,3,"心包","pericardium",37.31
+665,3,"心房","atrium",37.33
+665,3,"心肌","myocardium",37.33
+665,3,"心室(心脏)","ventricle (heart)",37.33
+665,3,"心外膜","epicardium",37.31
+665,3,"心脏","heart",37.34
+665,4,"Cox-maze,开放的","Cox-maze, open",37.33
+665,4,"maze,改良,开放的","maze, modified, open",37.33
+665,4,"maze,改良,血管内的","maze, modified, endovascular",37.34
+665,4,"开放的","open",37.33
+665,4,"其他入路,闭合的","other approach, closed",37.34
+665,3,"胸","thorax",34.4
+665,3,"胸壁","chest wall",34.4
+665,3,"胸膜","pleura",34.59
+665,3,"胸腺","thymus",
+665,4,"部分的(开放)(其他)","partial (open) (other)",07.81
+665,5,"胸腔镜的","thoracoscopic",07.83
+665,4,"全部(开放)(其他)","total (open) (other)",07.82
+665,5,"胸腔镜的","thoracoscopic",07.84
+665,3,"血管","blood vessel",38.60
+665,4,"腹的","abdominal",
+665,5,"动脉","artery",38.66
+665,5,"静脉","vein",38.67
+665,5,"颅内的 NEC","intracranial NEC",38.61
+665,5,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.63
+665,5,"头和颈 NEC","head and neck NEC",38.62
+665,5,"下肢","lower limb",
+665,6,"动脉","artery",38.68
+665,6,"静脉","vein",38.69
+665,5,"胸的 NEC","thoracic NEC",38.65
+665,5,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.64
+665,3,"牙的(颌骨)","dental (jaw)",24.4
+665,3,"牙龈","gum",24.31
+665,3,"牙槽","alveolus",24.4
+665,3,"牙龈下","subgingival",24.31
+665,3,"牙源性的","odontogenic",24.4
+665,3,"眼,眼球的","eye, eyeball",16.93
+666,4,"前节 NEC","anterior segment NEC",12.40
+666,3,"眼睑","eyelid",08.20
+666,4,"大的","major",
+666,5,"板层","partial-thickness",08.23
+666,5,"全层","full-thickness",08.24
+666,5,"经","by",
+666,6,"楔形切除术","wedge resection",08.24
+666,6,"半操作","halving procedure",08.24
+666,4,"小的","minor",08.22
+666,3,"咽","pharynx",29.39
+666,4,"憩室","diverticulum",29.32
+666,3,"胰(局部的)","pancreas (local)",52.22
+666,4,"内镜的","endoscopic",52.21
+666,3,"阴唇","labia",71.3
+666,3,"阴道","vagina",70.33
+666,3,"阴茎","penis",64.2
+666,3,"阴囊","scrotum",61.3
+666,3,"支气管 NEC","bronchus NEC",32.09
+666,4,"内镜的","endoscopic",32.01
+666,3,"直肠","rectum",48.35
+666,4,"息肉(内镜)","polyp (endoscopic)",48.36
+666,3,"直肠阴道隔","rectovaginal septum",48.82
+666,3,"直肠周围组织","perirectal tissue",48.82
+666,3,"直肠子宫陷凹(道格拉斯)","cul-de-sac (Douglas')",70.32
+666,3,"指(趾)甲","nail",86.23
+666,3,"中耳","middle ear",20.51
+666,3,"椎管内的","intraspinal",03.4
+666,3,"子宫","uterus",68.29
+666,3,"子宫骶骨韧带","uterosacral ligament",69.19
+666,3,"子宫颈(肌瘤)","cervix (myoma)",67.39
+666,3,"子宫内膜","endometrium",68.29
+666,3,"子宫韧带","uterine ligament",69.19
+666,3,"纵隔","mediastinum",34.3
+666,3,"嘴唇","lip",27.43
+666,4,"经广泛切除术","by wide excision",27.42
+666,3,"玻璃体混浊","vitreous opacity",14.74
+666,4,"前入路","anterior approach",14.73
+666,3,"残余(扁桃体)","tag",28.4
+666,3,"藏毛囊肿或窦(开放)(伴部分闭合)","pilonidal cyst or sinus (open) (with partial closure)",86.21
+666,3,"肠—另见切除术,肠","intestine-see also Resection, intestine",
+666,4,"大的(全部)","large (total)",
+667,4,"腹腔镜的","laparoscopic",45.81
+667,4,"节段的","segmental",
+667,5,"多的","multiple",
+667,6,"腹腔镜的","laparoscopic",17.31
+667,6,"开放和其他","open and other",45.71
+667,6,"腹腔镜的","laparoscopic",17.39
+667,6,"开放和其他","open and other",45.79
+667,5,"局部的","local",45.41
+667,6,"内镜的","endoscopic",45.43
+667,5,"开放的","open",45.82
+667,5,"其他","other",45.83
+667,5,"未特指的","unspecified",45.83
+667,5,"用于间置术","for interposition",45.52
+667,4,"小的(全部)","small (total)",45.63
+667,5,"部分的","partial",45.62
+667,5,"节段的","segmental",45.62
+667,5,"多的","multiple",45.61
+667,5,"局部的","local",45.33
+667,5,"用于间置术","for interposition",45.51
+667,4,"用于间置术","for interposition",45.50
+667,5,"大的","large",45.52
+667,5,"小的","small",45.51
+667,3,"肠脂垂","appendices epiploicae",54.4
+667,3,"齿龈","gum,gingiva",24.31
+667,3,"处女膜(残余)","hymen (tag)",70.31
+667,3,"处女膜尿道融合术","hymeno-urethral fusion",70.31
+667,3,"垂体腺(完全)(全部)—另见垂体切除术","pituitary gland (complete) (total)-see also Hypophysectomy",07.69
+667,3,"唇","lip",27.43
+667,3,"错构瘤,乳房的","hamartoma, mammary",85.21
+667,3,"胆管","bile duct",51.69
+667,4,"内镜的","endoscopic",51.64
+667,3,"胆质瘤—见切除术,病损,按部位","cholesteatoma-see Excision, lesion, by site",
+667,3,"顶泌腺","apocrine gland",86.3
+667,3,"动静脉瘘—见动脉瘤切除术","arteriovenous fistula-see also Aneurysmectomy",38.60
+667,3,"动脉—另见动脉切除术","artery-see also Arteriectomy",38.60
+667,3,"动脉瘤(动静脉的)—另见动脉瘤切除术","aneurysm (arteriovenous)-see also Aneurysmectomy",38.60
+667,4,"冠状动脉","coronary artery",36.91
+667,4,"瓦尔萨尔瓦窦","sinus of Valsalva",35.39
+667,4,"心肌","myocardium",37.32
+668,4,"心室(心脏)","ventricle (heart)",37.32
+668,4,"心脏","heart",37.32
+668,3,"窦—另见切除术,病损,按部位","sinus-see also Excision, lesion, by site",
+668,4,"鼻的—见窦切除术","nasal-see Sinusectomy",
+668,4,"藏毛的","pilonidal",86.21
+668,4,"耳前(耳)(根治)","preauricular (ear) (radical)",18.21
+668,4,"跗骨","tarsi",80.88
+668,4,"甲状舌管(伴舌骨切除术)","thyroglossal (with resection of hyoid bone)",06.7
+668,3,"脐尿管的(膀胱)","urachal (bladder)",57.51
+668,4,"腹壁","abdominal wall",54.3
+668,3,"多余","supernumerary",
+668,4,"乳房","breast",85.24
+668,4,"指(趾)","digits",86.26
+668,3,"多余黏膜","redundant mucosa",
+668,4,"回肠造口术","ileostomy",45.33
+668,4,"会阴","perineum",71.3
+668,4,"结肠造口术","colostomy",45.41
+668,5,"内镜的","endoscopic",45.43
+668,4,"空肠造口术","jejunostomy",45.33
+668,4,"十二指肠造口术","duodenostomy",45.31
+668,5,"内镜","endoscopic",45.30
+668,4,"外阴","vulva",71.3
+668,4,"直肠","rectum",48.35
+668,3,"耳,外的(完全) NEC","ear, external (complete) NEC",18.39
+668,4,"部分","partial",18.29
+668,4,"根治","radical",18.31
+668,3,"耳前","preauricular",
+668,4,"残余","remnant",18.29
+668,4,"副耳(残余)","appendage (remnant)",18.29
+668,4,"囊肿,瘘,或窦(先天性的)","cyst, fistula, or sinus (congenital)",18.21
+668,3,"法特氏壶腹(伴胆总管再植入)","ampulla of Vater (with reimplantation of common duct)",51.62
+668,3,"肺(完全)(伴纵隔清扫)","lung (with mediastinal dissection)",32.59
+668,4,"肺容量减少术","volume reduction surgery",32.22
+668,5,"生物学肺容积减少术—见亚目","biologic lung volume reduction (BLVR)-see subcategory",33.7
+668,4,"副或异位组织","accessory or ectopic tissue",32.29
+668,5,"内镜的","endoscopic",32.28
+668,6,"胸腔镜的","thoracoscopic",32.20
+668,4,"节段的","segmental",32.39
+668,5,"胸腔镜的","thoracoscopic",32.30

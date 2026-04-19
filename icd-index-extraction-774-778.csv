@@ -1,0 +1,172 @@
+page,level,chinese,english,code
+774,2,"克劳斯(交感神经去神经术)","Krause (sympathetic denervation)",05.29
+774,2,"克勒尼希(子宫颈下剖宫产术)","Kronig (low cervical cesarean section)",74.1
+774,2,"克鲁肯伯格(肘下截断重建术)","Krukenberg (reconstruction of below-elbow amputation)",82.89
+774,2,"克伦莱茵(眶侧开术)","Kroenlein (lateral orbitotomy)",16.01
+774,2,"克罗纳(部分输卵管切除术)","Kroener (partial salpingectomy)",66.69
+774,2,"空肠 NEC","jejunum NEC",46.99
+774,2,"口 NEC","mouth NEC",27.99
+774,2,"口腔 NEC","oral cavity NEC",27.99
+774,2,"口咽 NEC","oropharynx NEC",29.99
+774,2,"眶 NEC","orbit NEC",16.98
+774,2,"昆特济马诺夫斯基(睑外翻修补术伴睑再建造术)","Kuhnt-Szymanowski (ectropion repair with lid reconstruction)",08.44
+774,2,"拉贝(胃切开术)","Labbe (gastrotomy)",43.0
+774,2,"拉茨科","Latzko",
+774,3,"剖宫产术,腹膜外的","cesarean section, extraperitoneal",74.2
+774,3,"阴道闭合术","colpocleisis",70.8
+774,2,"拉德(肠松动术)","Ladd (mobilization of intestine)",54.95
+774,2,"拉格兰奇(虹膜巩膜切除术)","Lagrange (iridosclerectomy)",12.65
+774,2,"拉里(肩关节离断)","Larry (shoulder disarticulation)",84.08
+774,2,"拉马迪尔(颞骨岩部内引流)","Ramadier (intrapetrosal drainage)",20.22
+774,2,"拉姆斯特德(幽门肌切开术)(伴楔形切除术)","Ramstedt (pyloromyotomy) (with wedge resection)",43.3
+774,2,"拉皮德斯(踇囊肿切除术伴跖骨背切开术)","Lapidus (bunionectomy with metatarsal osteotomy)",77.51
+774,2,"拉塞(舟状骨移植)","Russe (bone graft of scaphoid)",78.04
+774,2,"拉什","Lash",
+774,3,"腹腔镜子宫颈上子宫切除术","laparoscopic supracervical hysterectomy",68.31
+774,3,"子宫内颈口修补术","internal cervical os repair",67.59
+774,2,"拉什金德(球囊房间隔造口术)","Rashkind (balloon septostomy)",35.41
+774,2,"拉斯特里(在右心室和肺动脉之间创建通道)","Rastelli (creation of conduit between right ventricle and pulmonary artery)",35.92
+774,3,"修补术的","in repair of",
+774,4,"大血管转位","transposition of great vessels",35.92
+774,4,"动脉干","truncus arteriosus",35.83
+774,4,"肺动脉闭锁","pulmonary artery atresia",35.92
+774,2,"拉兹-佩雷亚操作(膀胱颈悬吊术)","Raz-Pereyra procedure (bladder neck suspension)",59.79
+774,2,"兰布里努迪(三关节固定术)","Lambrinudi (triple arthrodesis)",81.12
+774,2,"兰根贝克(腭裂修补术)","Langenbeck (cleft palate repair)",27.62
+774,2,"兰金","Rankin",
+775,3,"肠外置术","exteriorization of intestine",46.03
+775,3,"直肠切除术(完全),NOS","proctectomy (complete), NOS",48.50
+775,4,"腹腔镜的","laparoscopic",48.51
+775,4,"开放性","open",48.52
+775,4,"其他","other",48.59
+775,2,"阑尾 NEC","appendix NEC",47.99
+775,2,"朗迈尔(胆管吻合术)","Longmire (bile duct anastomosis)",51.39
+775,2,"劳埃德-戴维斯(腹会阴切除术),NOS","Lloyd-Davies (abdominoperineal resection), NOS",48.50
+775,3,"腹腔镜的","laparoscopic",48.51
+775,3,"开放性","open",48.52
+775,3,"其他","other",48.59
+775,2,"勒福特(阴道闭合术)","Le Fort (colpocleisis)",70.8
+775,2,"勒里施(周围动脉交感神经切除术)","Leriche (periarterial sympathectomy)",05.25
+775,2,"勒梅热勒(唇裂修补术)","LeMesurier (cleft lip repair)",27.54
+775,2,"泪的","lacrimal",
+775,3,"系统 NEC","system NEC",09.99
+775,3,"腺","gland",09.3
+775,2,"泪点三剪开","three-snip, punctum",09.51
+775,2,"梨状隐窝 NEC","pyriform sinus NEC",29.99
+775,2,"里普斯坦(直肠脱垂修补术)","Ripstein (repair of rectal prolapse)",48.75
+775,2,"利德贝特(尿道再建造术)","Leadbetter (urethral reconstruction)",58.46
+775,2,"利德贝特-波利坦诺(输尿管肾囊肿吻合术)","Leadbetter-Politano (ureteroneocystostomy)",56.74
+775,2,"利斯弗朗","Lisfranc",
+775,3,"肩关节离断","shoulder disarticulation",84.08
+775,3,"足截断术","foot amputation",84.12
+775,2,"利特尔伍德(前股截断术)","Littlewood (forequarter amputation)",84.09
+775,3,"肝 NEC","liver NEC",50.99
+775,2,"淋巴结构 NEC","lymphatic structure(s) NEC",40.9
+775,3,"左(胸)导管 NEC","duct, left (thoracic) NEC",40.69
+775,2,"林顿(静脉曲张)","Linton (varicose vein)",38.59
+775,2,"林霍尔姆(肌腱裂伤修补术)","Lindholm (repair of ruptured tendon)",83.88
+775,2,"颅骨 NEC","skull NEC",02.99
+775,2,"卢卡斯和默里(膝关节固定术伴金属板)","Lucas and Murray (knee arthrodesis with plate)",81.22
+775,2,"鲁戈德思维特(髌骨脱位修补术)","Roux-Goldthwait (repair of patellar dislocation)",81.44
+775,2,"鲁-赫曾-朱戴恩(空肠襻间置术)","Roux-Herzen-Judine (jejunal loop interposition)",42.63
+775,2,"鲁伊斯-莫拉(近端趾切除术用于锤状趾)","Ruiz-Mora (proximal phalangectomy for hammer toe)",77.99
+776,2,"卵巢 NEC","ovary NEC",65.99
+776,2,"轮匝肌悬吊","orbicularis muscle sling",08.36
+776,2,"罗德尼史密斯(胰腺根治性次全切除术)","Rodney Smith (radical subtotal pancreatectomy)",52.53
+776,2,"罗斯(膝关节离断)","S. P. Rogers (knee disarticulation)",84.16
+776,2,"洛德","Lord",
+776,3,"肛管扩张用于痔疮","dilation of anal canal for hemorrhoids",49.49
+776,3,"睾丸固定术","orchidopexy",62.5
+776,3,"痔切除术","hemorrhoidectomy",49.49
+776,2,"马德伦纳(输卵管结扎)","Madlener (tubal ligation)",66.31
+776,2,"马格努森(-斯塔克)(关节成形术用于复发性肩关节脱位)","Magnuson (-Stack) (arthroplasty for recurrent shoulder dislocation)",81.82
+776,2,"马克沃尔德手术(子宫颈口修补术)","Marckwald (cervical os repair)",67.59
+776,2,"马裤式(胃吻合修正术)","pantaloon (revision of gastric anastomosis)",44.5
+776,2,"马斯塔德(静脉回流心房间转位)","Mustard (interatrial transposition of venous return)",35.91
+776,2,"马塔斯(动脉瘤缝合术)","Matas (aneurysmorrhaphy)",39.52
+776,2,"马歇尔-马蒂凯(-克兰茨)(耻骨后尿道悬吊术)","Marshall-Marchetti (-Krantz) (retropubic urethral suspension)",59.5
+776,2,"马泽特(膝关节离断)","Mazet (knee disarticulation)",84.16
+776,2,"迈尔斯(直肠完全切除术),NOS","Miles (complete proctectomy), NOS",48.50
+776,3,"腹腔镜的","laparoscopic",48.51
+776,3,"开放性","open",48.52
+776,3,"其他","other",48.59
+776,2,"麦基弗(第一跖趾关节融合术用于踇外翻修补术)","McKeever (fusion of first metatarsophalangeal joint for hallux valgus repair)",77.52
+776,2,"麦基索克(乳房缩小)","McKissock (breast reduction)",85.33
+776,2,"麦金杜(阴道建造术)","McIndoe (vaginal construction)",70.61
+776,3,"伴移植物或假体","with graft or prosthesis",70.63
+776,2,"麦考尔(肠膨出修补术)","McCall (enterocele repair)",70.92
+776,3,"伴移植物或假体","with graft or prosthesis",70.93
+776,2,"麦考利(畸形足松解术)","McCauley (release of clubfoot)",83.84
+776,2,"麦克伯尼-见修补术,疝,腹股沟的","McBurney-see Repair, hernia, inguinal",
+776,2,"麦克布莱德(踇囊肿切除术伴软组织矫正)","McBride (bunionectomy with soft tissue correction)",77.53
+776,2,"麦克雷诺兹(翼状胬肉移位)","McReynolds (transposition of pterygium)",11.31
+776,2,"麦克唐纳(环绕缝合,子宫颈)","McDonald (encirclement suture, cervix)",67.59
+776,2,"麦克维","McVay",
+777,3,"腹股沟疝-见修补术,疝,腹股沟的","inguinal hernia-see Repair, hernia, inguinal",
+777,3,"股疝-见修补术,疝,股的","femoral hernia-see Repair, hernia, femoral",
+777,2,"脉络膜 NEC","choroid NEC",14.9
+777,2,"曼彻斯特(-唐纳德)(-福瑟吉尔)(子宫悬吊术)","Manchester (-Donald) (-Fothergill) (uterine suspension)",69.22
+777,2,"盲肠 NEC","cecum NEC",46.99
+777,2,"芒福德(部分锁骨切除术)","Mumford (partial claviculectomy)",77.81
+777,2,"梅奥","Mayo",
+777,3,"踇囊肿切除术","bunionectomy",77.59
+777,3,"疝缝合术","herniorrhaphy",
+777,4,"腹腔镜的","laparoscopic",53.43
+777,5,"伴移植物或假体","with graft or prosthesis",53.42
+777,5,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
+777,4,"其他开放性","other open",53.49
+777,3,"阴道子宫切除术","vaginal hysterectomy",68.59
+777,4,"腹腔镜辅助(LAVH)","laparoscopically assisted (LAVH)",68.51
+777,2,"米库利奇(肠外置术)(一期)","Mikulicz (exteriorization of intestine) (first stage)",46.03
+777,3,"二期","second stage",46.04
+777,2,"米勒","Miller",
+777,3,"跗骨间关节固定术","midtarsal arthrodesis",81.14
+777,3,"尿道膀胱悬吊术","urethrovesical suspension",59.4
+777,2,"米勒(肺动脉结扎)","Muller (banding of pulmonary artery)",38.85
+777,2,"米拉德(唇成形术)","Millard (cheiloplasty)",27.54
+777,2,"米林-里德(尿道膀胱悬吊术)","Millin-Read (urethrovesical suspension)",59.4
+777,2,"米切尔(踇外翻修补术)","Mitchell (hallux valgus repair)",77.51
+777,2,"泌尿系统 NEC","urinary system NEC",59.99
+777,2,"面 NEC","face NEC",27.99
+777,2,"面骨或关节 NEC","facial bone or joint NEC",76.99
+777,2,"摩尔(关节成形术)","Moore (arthroplasty)",81.52
+777,2,"莫斯(皮肤化学外科切除术)","Mohs (chemosurgical excision of skin)",86.24
+777,2,"莫斯科维茨","Moschowitz",
+777,3,"肠膨出修补术","enterocele repair",70.92
+777,4,"伴移植物或假体","with graft or prosthesis",70.93
+777,3,"疝缝合术-见修补术,疝,股的","herniorrhaphy-see Repair, hernia, femoral",
+777,3,"乙状结肠固定术","sigmoidopexy",46.63
+778,2,"拇指整复术(伴神经和血供给)","pollicization (with nerves and blood supply)",82.61
+778,2,"男性生殖器官 NEC","male genital organs NEC",64.99
+778,2,"脑 NEC","brain NEC",02.99
+778,2,"脑垂体 NEC","hypophysis NEC",07.79
+778,2,"脑的(脑膜) NEC","cerebral (meninges) NEC",02.99
+778,2,"脑膜(脊髓的) NEC","meninges (spinal) NEC",03.99
+778,3,"脑的 NEC","cerebral NEC",02.99
+778,2,"内田(输卵管结扎伴或不伴输卵管伞部切除术)","Uchida (tubal ligation with or without fimbriectomy)",66.32
+778,2,"尼古拉(腱固定术用于复发性肩脱臼)","Nicola (tenodesis for recurrent dislocation of shoulder)",81.82
+778,2,"尼森(胃底折叠术)","Nissen (fundoplication of stomach)",44.66
+778,3,"腹腔镜的","laparoscopic",44.67
+778,2,"黏液囊 NEC","bursa NEC",83.99
+778,3,"手","hand",82.99
+778,2,"尿道 NEC","urethra NEC",58.99
+778,2,"尿道周围组织 NEC","periurethral tissue NEC",58.99
+778,2,"女性(生殖器官) NEC","female (genital organs) NEC",71.9
+778,3,"子宫切除术 NEC","hysterectomy NEC",68.9
+778,2,"诺贝尔(小肠折叠)","Noble (plication of small intestine)",46.62
+778,2,"诺顿(腹膜外剖宫产术)","Norton (extraperitoneal cesarean operation)",74.2
+778,2,"诺曼米勒(阴道固定术)","Norman Miller (vaginopexy)",70.77
+778,3,"伴移植物或假体","with graft or prosthesis",70.78
+778,2,"欧文-另见骨切开术","Irwin-see also Osteotomy",77.30
+778,2,"欧文(输卵管结扎)","Irving (tubal ligation)",66.32
+778,2,"帕蒂(耳道)","Pattee (auditory canal)",18.6
+778,2,"帕蒂普拉特(肩关节囊缝合术用于复发性脱臼)","Putti-Platt (capsulorrhaphy of shoulder for recurrent dislocation)",81.82
+778,2,"帕昆(输尿管肾囊肿吻合术)","Paquin (ureteroneocystostomy)",56.74
+778,2,"帕纳(线形直肠切开术)","Panas (linear proctotomy)",48.0
+778,2,"帕特施(牙囊肿袋形缝合术)","Partsch (marsupialization of dental cyst)",24.4
+778,2,"派姆伯敦","Pemberton",
+778,3,"髂骨骨切开术","osteotomy of ilium",77.39
+778,3,"直肠(松动术和固定用于脱垂修补术)","rectum (mobilization and fixation for prolapse repair)",48.76
+778,2,"派珀(产钳)","Piper (forceps)",72.6
+778,2,"潘科斯特(卵圆孔三叉神经切断)","Pancoast (division of trigeminal nerve at foramen ovale)",04.02
+778,2,"膀胱 NEC","bladder NEC",57.99

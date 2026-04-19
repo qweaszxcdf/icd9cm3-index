@@ -1,0 +1,195 @@
+page,level,chinese,english,code
+439,1,"CISH（标准子宫颈筋膜内子宫切除术）","CISH [classic intrafascial SEMM hysterectomy]",68.31
+439,1,"Cockett 手术（静脉曲张）","Cockett operation (varicose vein)",
+439,2,"上肢","upper limb",38.53
+439,2,"下肢","lower limb",38.59
+439,1,"Cody tack 手术（镫骨底板穿孔）","Cody tack (perforation of footplate)",19.0
+439,1,"Coffey 手术（子宫悬吊术）（Meig 改进型）","Coffey operation (uterine suspension) (Meig's modification)",69.22
+439,1,"Cole 手术（前跗骨楔形骨切开术）","Cole operation (anterior tarsal wedge osteotomy)",77.28
+439,1,"Collis-Nissen 手术（裂孔疝修补术伴食管胃成形术）","Collis-Nissen operation (hiatal hernia repair with esophagogastroplasty)",53.80
+439,1,"Colonna 手术","Colonna operation",
+439,2,"髋关节成形术（二期）","hip arthroplasty (second stage)",81.40
+439,2,"髋重建术（二期）","reconstruction of hip (second stage)",81.40
+439,2,"内收肌腱切断术（一期）","adductor tenotomy (first stage)",83.12
+439,1,"Commando 手术（根治性舌切除术）","Commando operation (radical glossectomy)",25.4
+439,1,"CorCap™","CorCap™",37.41
+439,1,"Coventry 手术（胫骨楔形骨切开术）","Coventry operation (tibial wedge osteotomy)",77.27
+439,1,"CPAP（持续气道正压）","CPAP (continuous positive airway pressure)",93.90
+439,2,"由","delivered by",
+439,3,"气管内管—见亚目","endotracheal tube-see subcategory",96.7
+439,3,"气管造口—见亚目","tracheostomy-see subcategory",96.7
+439,1,"Crawford 手术（眼睑睑板额肌悬吊术）","Crawford operation (tarso-frontalis sling of eyelid)",08.32
+439,1,"Credé 手法操作","Credé maneuver",73.59
+439,1,"Culp-Deweerd 手术（螺旋形的皮瓣肾盂成形术）","Culp-Deweerd operation (spiral flap pyeloplasty)",55.87
+439,1,"Culp-Scardino 手术（输尿管皮瓣肾盂成形术）","Culp-Scardino operation (ureteral flap pyeloplasty)",55.87
+439,1,"Curtis 手术（指(趾)间关节成形术）","Curtis operation (interphalangeal joint arthroplasty)",81.72
+439,1,"CVP（中心静脉压监测）","CVP (central venous pressure monitoring)",89.62
+439,1,"擦洗，后鼻（粘连）","Scrub, posterior nasal (adhesions)",21.91
+439,1,"蔡尔德手术—见 Child 手术","蔡尔德手术— see Child operation",
+439,1,"采集","Harvesting",
+439,2,"干细胞","stem cells",99.79
+439,2,"骨髓","bone marrow",41.91
+440,2,"脂肪为移植或库存","fat for grafting or banking",86.90
+440,1,"采用","Introduction",
+440,2,"齿矫形器","orthodontic appliance",24.7
+440,2,"治疗性物质（局部作用或全身作用）NEC","therapeutic substance (acting locally or systemically) NEC",99.29
+440,3,"关节","joint",81.92
+440,4,"颞下颌的","temporomandibular",76.96
+440,3,"腱","tendon",83.97
+440,4,"手","hand",82.95
+440,3,"筋膜","fascia",83.98
+440,4,"手","hand",82.96
+440,3,"静脉","vein",39.92
+440,3,"黏液囊","bursa",83.96
+440,4,"手","hand",82.94
+440,3,"韧带（关节）","ligament (joint)",81.92
+440,3,"软组织 NEC","soft tissue NEC",83.98
+440,4,"手","hand",82.96
+440,3,"心包","pericardium",37.93
+440,3,"心脏","heart",37.92
+440,1,"苍白球核样切开术","Pallidoansotomy",01.42
+440,1,"苍白球切除术","Pallidectomy",01.42
+440,1,"苍白球切开术","Pallidotomy",01.42
+440,2,"通过立体定位放射外科学","by stereotactic radiosurgery",92.32
+440,3,"单源光子","single source photon",92.31
+440,3,"多源","multi-source",92.32
+440,3,"放射外科 NEC","radiosurgery NEC",92.39
+440,3,"钴-60","cobalt-60",92.32
+440,3,"粒子","particulate",92.33
+440,3,"粒子束流","particle beam",92.33
+440,3,"线性加速器（LINAC）","linear accelerator (LINAC)",92.31
+440,1,"苍白球丘脑化学破坏术","Chemopallidectomy",01.42
+440,1,"操作—另见具体操作","Procedure-see also specific procedure",
+440,2,"呼吸（非手术的）NEC","respiratory (nonoperative) NEC",93.99
+440,2,"其他（非手术的）NEC","miscellaneous (nonoperative) NEC",99.99
+440,2,"外科手术的—见手术","surgical-see Operation",
+440,2,"造口术，巩膜 NEC","fistulizing, sclera NEC",12.69
+440,2,"诊断性 NEC","diagnostic NEC",
+440,3,"奥狄括约肌","sphincter of Oddi",51.19
+440,3,"鼻，鼻的","nose, nasal",21.29
+440,4,"窦","sinus",22.19
+440,3,"鼻咽","nasopharynx",29.19
+440,3,"扁桃腺","tonsils",28.19
+441,4,"玻璃体","vitreous",14.19
+441,4,"苍白球","globus pallidus",01.18
+441,3,"肠","intestine",45.29
+441,4,"大的","large",45.28
+441,4,"小的","small",45.19
+441,3,"垂体腺","pituitary gland",07.19
+441,3,"大肠","large intestine",45.28
+441,3,"胆道","biliary tract",51.19
+441,3,"胆囊","gallbladder",51.19
+441,3,"窦，鼻的","sinus, nasal",22.19
+441,3,"腭","palate",27.29
+441,3,"耳","ear",
+441,4,"内和中","inner and middle",20.39
+441,4,"外的","external",18.19
+441,3,"耳咽管","Eustachian tube",20.39
+441,3,"肺","lung",33.29
+441,3,"肺动脉","pulmonary",33.29
+441,3,"附睾","epididymis",63.09
+441,3,"腹（区）","abdomen (region)",54.29
+441,3,"腹膜","peritoneum",54.29
+441,3,"腹膜后","retroperitoneum",59.29
+441,3,"肝，肝的","liver, hepatic",50.19
+441,3,"肛门","anus",49.29
+441,3,"肛周组织","perianal tissue",49.29
+441,3,"睾丸","testicle",62.19
+441,3,"睾丸鞘膜","tunica vaginalis",61.19
+441,3,"巩膜","sclera",12.29
+441,3,"骨","bone",78.80
+441,4,"髌骨","patella",78.86
+441,4,"尺骨","ulna",78.83
+441,4,"腓骨","fibula",78.87
+441,4,"跗骨的，跖骨的","tarsal, metatarsal",78.88
+441,4,"肱骨","humerus",78.82
+441,4,"股骨","femur",78.85
+441,4,"骨盆","pelvic",78.89
+441,4,"骨髓","marrow",41.38
+441,4,"肩胛骨","scapula",78.81
+441,4,"胫骨","tibia",78.87
+441,4,"面的","facial",76.19
+441,4,"桡骨","radius",78.83
+441,4,"锁骨","clavicle",78.81
+441,4,"特指部位 NEC","specified site NEC",78.89
+442,3,"腕骨的，掌骨的","carpal, metacarpal",78.84
+442,3,"胸（肋骨）（胸骨）","thorax (ribs) (sternum)",78.81
+442,3,"趾骨（足）（手）","phalanges (foot) (hand)",78.89
+442,3,"椎骨","vertebrae",78.89
+442,3,"关节（囊）（韧带）（结构）NEC","joint (capsule) (ligament) (structure) NEC",81.98
+442,3,"面的","facial",76.19
+442,3,"横膈","diaphragm",34.28
+442,3,"虹膜","iris",12.29
+442,3,"喉","larynx",31.48
+442,3,"后房，眼","posterior chamber, eye",14.19
+442,3,"呼吸","respiratory",33.29
+442,3,"回肠","ileum",45.19
+442,3,"肌肉","muscle",83.29
+442,3,"乳头（心脏）","papillary (heart)",37.29
+442,3,"眼外（斜肌）（直肌）","extraocular (oblique) (rectus)",15.09
+442,3,"脊柱，脊髓的（管）（索）（脑膜）（结构）","spine, spinal (canal) (cord) (meninges) (structure)",03.39
+442,3,"颊","buccal",27.24
+442,3,"甲状旁腺","parathyroid gland",06.19
+442,3,"甲状腺","thyroid gland",06.19
+442,3,"睑板","tarsus",09.19
+442,3,"腱 NEC","tendon NEC",83.29
+442,4,"眼外","extraocular",15.09
+442,3,"交感神经","sympathetic nerve",05.19
+442,3,"角膜","cornea",11.29
+442,3,"结肠","colon",45.28
+442,3,"结膜","conjunctiva",10.29
+442,3,"睫状体","ciliary body",12.29
+442,3,"筋膜（任何部位）","fascia (any site)",83.29
+442,3,"精囊","seminal vesicle",60.19
+442,3,"精索","spermatic cord",63.09
+442,3,"空肠","jejunum",45.19
+442,3,"口，口的（腔）","mouth, oral (cavity)",27.29
+442,3,"眶","orbit",16.29
+442,3,"阑尾","appendix",45.28
+442,3,"泪的（系统）","lacrimal (system)",09.19
+442,3,"淋巴结构（管道）（腺）（结）（血管）","lymphatic structure (channel) (gland) (node) (vessel)",40.19
+442,3,"颅骨","skull",01.19
+442,3,"卵巢","ovary",65.19
+442,4,"腹腔镜的","laparoscopic",65.14
+443,3,"脉络膜","choroid",14.19
+443,3,"盲肠","cecum",45.28
+443,3,"脑","brain",01.18
+443,3,"脑垂体","hypophysis",07.19
+443,3,"脑膜（脑的）","meninges (cerebral)",01.18
+443,4,"脊髓的","spinal",03.39
+443,3,"黏液囊","bursa",83.29
+443,3,"尿道","urethra",58.29
+443,3,"尿道周围组织","periurethral tissue",58.29
+443,3,"膀胱，膀胱的","bladder, vesical",57.39
+443,3,"膀胱周围组织","perivesical tissue",59.29
+443,3,"脾","spleen",41.39
+443,3,"皮肤","skin",86.19
+443,3,"皮下组织","subcutaneous tissue",86.19
+443,3,"气管","trachea",31.49
+443,3,"前房，眼","anterior chamber, eye",12.29
+443,3,"前列腺","prostate",60.18
+443,3,"前列腺周围组织","periprostatic tissue",60.18
+443,3,"丘脑","thalamus",01.18
+443,3,"韧带","ligament",81.98
+443,4,"子宫","uterine",68.19
+443,3,"乳房","breast",85.19
+443,3,"乳头","nipple",85.19
+443,3,"乳头肌（心脏）","papillary muscle (heart)",37.29
+443,3,"软组织","soft tissue",83.29
+443,3,"舌","tongue",25.09
+443,3,"神经（颅的）（周围的）NEC","nerve (cranial) (peripheral) NEC",04.19
+443,4,"交感神经","sympathetic",05.19
+443,3,"神经节（颅的）（周围的）","ganglion (cranial) (peripheral)",04.19
+443,4,"交感神经","sympathetic",05.19
+443,3,"肾，肾的","kidney, renal",55.29
+443,3,"肾上腺","adrenal gland",07.19
+443,3,"肾周组织","perirenal tissue",59.29
+443,3,"十二指肠","duodenum",45.19
+443,3,"食管","esophagus",42.29
+443,3,"视网膜","retina",14.19
+443,3,"输精管","vas deferens",63.09
+443,3,"输卵管","fallopian tube",66.19
+443,3,"输尿管","ureter",56.39
+443,3,"松果腺","pineal gland",07.19
+443,3,"胎儿","fetus",75.35
+443,3,"外阴","vulva",71.19

@@ -1,0 +1,191 @@
+page,level,chinese,english,code
+689,2,"脑膜(脑的)","meninges (cerebral)",01.51
+689,3,"脊髓的","spinal",03.4
+689,2,"脑膜","cerebral meninges",01.51
+689,2,"内脏的","splanchnic",05.29
+689,2,"黏膜下","submucous",
+689,3,"鼻中隔","nasal septum",21.5
+689,3,"喉","larynx",30.29
+689,3,"声带","vocal cords",30.22
+689,2,"黏液囊","bursa",83.5
+689,2,"手","hand",82.31
+689,2,"膀胱(部分)(节段的)(经膀胱的)(楔形)","bladder (partial) (segmental) (transvesical) (wedge)",57.6
+689,3,"病损 NEC","lesion NEC",57.59
+689,4,"经尿道入路","transurethral approach",57.49
+689,3,"颈","neck",57.59
+689,4,"经尿道入路","transurethral approach",57.49
+689,3,"完全或全部的","complete or total",57.79
+689,2,"膀胱颈","vesical neck",57.59
+689,3,"经尿道","transurethral",57.49
+689,2,"盆腔内脏(全部)(女性)","pelvic viscera (en masse) (female)",68.8
+689,3,"男性","male",57.71
+689,2,"脾曲(结肠)","splenic flexure (colon)",45.75
+689,2,"气管","trachea",31.5
+689,2,"前列腺—另见前列腺切除术","prostate-see also Prostatectomy",
+689,3,"经尿道(钻孔)","transurethral (punch)",60.29
+689,2,"桡骨头","radial head",77.83
+689,2,"韧带—另见关节截除术","ligament-see also Arthrectomy",80.90
+689,3,"阔的","broad",69.19
+689,3,"圆的","round",69.19
+689,3,"子宫","uterine",69.19
+689,2,"乳房—另见乳房切除术","breast-see also Mastectomy",
+689,3,"节段的","segmental",85.23
+689,3,"象限","quadrant",85.22
+689,2,"软组织 NEC","soft tissue NEC",83.49
+689,3,"手","hand",82.39
+689,2,"舌","tongue",25.2
+689,3,"楔形","wedge",25.1
+689,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.07
+689,3,"膈的","phrenic",04.03
+689,4,"用于肺萎陷","for collapse of lung",33.31
+689,3,"交感神经的","sympathetic",05.29
+689,3,"迷走神经—见迷走神经切断术","vagus-see Vagotomy",
+690,2,"肾(节段的)(楔形)","kidney (segmental) (wedge)",55.4
+690,2,"声带(钻孔)","vocal cords (punch)",30.22
+690,2,"食管(部分的)(大部的)—另见食管切除术","esophagus (partial) (subtotal)-see also Esophagectomy",42.41
+690,3,"全部","total",42.42
+690,2,"输尿管(部分的)","ureter (partial)",56.41
+690,3,"全部","total",56.42
+690,2,"锁骨","clavicle",77.81
+690,2,"提上睑肌","levator palpebrae muscle, tarsolevator",08.33
+690,2,"外置肠—见切除术,肠,外置的","exteriorized intestine-see Resection, intestine, exteriorized",
+690,2,"网膜","omentum",54.4
+690,2,"胃(部分的)(袖形)(大部的) NEC—另见胃切除术","gastric (partial) (sleeve) (subtotal) NEC-see also Gastrectomy",43.89
+690,3,"伴吻合 NEC","with anastomosis NEC",43.89
+690,4,"食管胃的","esophagogastric",43.5
+690,4,"胃空肠的","gastrojejunal",43.7
+690,4,"胃十二指肠的","gastroduodenal",43.6
+690,4,"胃胃的","gastrogastric",43.89
+690,3,"腹腔镜","laparoscopic",43.82
+690,3,"根治性 NEC","radical NEC",43.99
+690,4,"伴肠间置术","with intestinal interposition",43.91
+690,3,"完全或全部的 NEC","complete or total NEC",43.99
+690,4,"伴肠间置术","with intestinal interposition",43.91
+690,3,"楔形","wedge",43.42
+690,4,"内镜的","endoscopic",43.41
+690,2,"胃(部分的)(袖形)(大部的) NEC—另见胃切除术","stomach (partial) (sleeve) (subtotal) NEC-see also Gastrectomy",43.89
+690,3,"伴吻合 NEC","with anastomosis NEC",43.89
+690,4,"食管胃的","esophagogastric",43.5
+690,4,"胃空肠的","gastrojejunal",43.7
+690,4,"胃十二指肠的","gastroduodenal",43.6
+690,4,"胃胃的","gastrogastric",43.89
+690,3,"底","fundus",43.89
+690,3,"腹腔镜","laparoscopic",43.82
+690,3,"根治性 NEC","radical NEC",43.99
+690,4,"伴肠间置术","with intestinal interposition",43.91
+690,3,"完全或全部的 NEC","complete or total NEC",43.99
+690,4,"伴肠间置术","with intestinal interposition",43.91
+690,3,"楔形","wedge",43.42
+690,4,"内镜的","endoscopic",43.41
+690,2,"心包(部分)(为了)","pericardium (partial) (for)",
+691,4,"慢性狭窄性心包炎","chronic constrictive pericarditis",37.31
+691,4,"引流","drainage",37.12
+691,4,"粘连去除","removal of adhesions",37.31
+691,2,"心肌","myocardium",37.33
+691,2,"心室(心脏)(左)","ventricle (heart)",37.35
+691,3,"漏斗状","infundibula",35.34
+691,2,"胸","thorax",34.4
+691,2,"胸壁","chest wall",34.4
+691,2,"胸骨","sternum",77.81
+691,2,"胸结构(块)(整块)(根治性)(臂丛,支气管,肺叶,肋骨和交感神经)","thoracic structures (block) (en bloc) (radical) (brachial plexus, bronchus, lobes of lung, ribs, and sympathetic nerves)",32.6
+691,2,"血管—见血管切除术","blood vessel-see Angiectomy",
+691,2,"牙槽突和腭(整块)","alveolar process and palate (en bloc)",27.32
+691,2,"牙根","tooth root",23.73
+691,3,"伴根管疗法","with root canal therapy",23.72
+691,3,"残留或滞留","residual or retained",23.11
+691,3,"尖(脓肿)","apex (abscess)",23.73
+691,4,"伴根管疗法","with root canal therapy",23.72
+691,2,"咽(部分)","pharynx (partial)",29.33
+691,2,"胰(全部的)(同时伴十二指肠切除术)","pancreas (total) (with synchronous duodenectomy)",52.6
+691,3,"部分的 NEC","partial NEC",52.59
+691,4,"根治性大部的","radical subtotal",52.53
+691,4,"近端(头)(伴部分体部)(同时伴十二指肠切除术)","proximal (head) (with part of body) (with synchronous duodenectomy)",52.51
+691,4,"远端(尾部)(伴部分体部)","distal (tail) (with part of body)",52.52
+691,3,"根治性(一期)(二期)","radical (one-stage) (two-stage)",52.7
+691,4,"大部的","subtotal",52.53
+691,2,"胰十二指肠的—另见胰腺切除术","pancreaticoduodenal-see also Pancreatectomy",52.6
+691,2,"翼状窝肉","pterygium",11.39
+691,2,"阴蒂","clitoris",71.4
+691,2,"阴茎","penis",64.3
+691,2,"阴囊","scrotum",61.3
+691,2,"右心室(心脏),用于漏斗状狭窄","right ventricle (heart), for infundibular stenosis",35.34
+691,2,"圆韧带","round ligament",69.19
+691,2,"支气管(袖形)(宽袖形)","bronchus (sleeve) (wide sleeve)",32.1
+691,3,"块(整块)(伴臂丛,支气管,肺叶,肋骨和交感神经根治清扫术)","block (en bloc) (with radical dissection of brachial plexus, bronchus, lobe of lung, ribs, and sympathetic nerves)",32.6
+692,2,"直肠(部分的),NEC","rectum (partial) NEC",48.69
+692,3,"STARR 操作","STARR procedure",48.74
+692,3,"伴","with",
+692,4,"经骶乙状结肠切除术","transsacral sigmoidectomy",48.61
+692,4,"盆腔内容物剜出","pelvic exenteration",68.8
+692,3,"杜哈梅尔","Duhamel",48.65
+692,3,"腹会阴的,NOS","abdominoperineal, NOS",48.50
+692,4,"腹腔镜的","laparoscopic",48.51
+692,4,"开放性","open",48.52
+692,4,"其他","other",48.59
+692,4,"拖出 NEC","pull-through NEC",48.49
+692,5,"杜哈梅尔型","Duhamel type",48.65
+692,5,"腹腔镜的","laparoscopic",48.42
+692,5,"开放性","open",48.43
+692,5,"其他方面未特指的","not otherwise specified",48.40
+692,3,"腹直肠内(联合的),NOS","abdominoendorectal (combined), NOS",48.50
+692,4,"腹腔镜的","laparoscopic",48.51
+692,4,"开放性","open",48.52
+692,4,"其他","other",48.59
+692,3,"后的","posterior",48.64
+692,4,"黏膜下的(索夫)","submucosal (Soave)",48.41
+692,5,"腹联合的,NOS","combined abdominal, NOS",48.50
+692,6,"腹腔镜的","laparoscopic",48.51
+692,6,"开放性","open",48.52
+692,6,"其他","other",48.59
+692,4,"前的","anterior",48.63
+692,5,"伴肠造口术(同时的)","with colostomy (synchronous)",48.62
+692,4,"拖出 NEC","pull-through NEC",48.49
+692,5,"腹腔镜的","laparoscopic",48.42
+692,5,"开放性","open",48.43
+692,5,"其他方面未特指的","not otherwise specified",48.40
+692,5,"直肠内的","endorectal",48.41
+692,4,"直肠内","endorectal",48.41
+692,5,"腹联合的,NOS","combined abdominal, NOS",48.50
+692,6,"腹腔镜的","laparoscopic",48.51
+692,6,"开放性","open",48.52
+692,6,"其他","other",48.59
+692,2,"直肠内(拖出)(索夫)","endorectal (pull-through) (Soave)",48.41
+692,3,"腹联合的,NOS","combined abdominal, NOS",48.50
+692,4,"腹腔镜的","laparoscopic",48.51
+692,4,"开放性","open",48.52
+693,4,"其他","other",48.59
+693,2,"直肠乙状结肠—另见切除术,直肠","rectosigmoid-see also Resection, rectum",48.69
+693,2,"主动脉瓣膜(用于瓣膜下狭窄)","aortic valve (for subvalvular stenosis)",35.11
+693,2,"子宫—见子宫切除术","uterus-see Hysterectomy",
+693,2,"嘴唇(楔形)","lip (wedge)",27.43
+693,1,"切断","Cutting",
+693,2,"蒂(皮瓣)移植","pedicle (flap) graft",86.71
+693,2,"脊髓神经根","spinal nerve root",03.1
+693,2,"尿道括约肌","urethral-sphincter",58.5
+693,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.03
+693,2,"耳的","auditory",04.01
+693,3,"脊髓神经根","root, spinal",03.1
+693,3,"交感神经的","sympathetic",05.0
+693,3,"前庭","vestibular",04.01
+693,3,"三叉的","trigeminal",04.02
+693,3,"听神经","acoustic",04.01
+693,2,"输尿管膀胱口","ureterovesical orifice",56.1
+693,2,"幽门(伴楔形切除术)","pylorus (with wedge resection)",43.3
+693,1,"切断(分开)","Division",
+693,2,"鼻泪管狭窄(伴引流)","nasolacrimal duct stricture (with drainage)",09.59
+693,2,"玻璃体,瘢痕带(后入路)","vitreous, cicatricial bands (posterior approach)",14.74
+693,3,"前入路","anterior approach",14.73
+693,2,"垂体茎—另见垂体切除术,部分的","hypophyseal stalk-see also Hypophysectomy, partial",07.63
+693,2,"唇系带","labial frenum",27.91
+693,2,"动静脉瘘(伴结扎)","arteriovenous fistula (with ligation)",39.53
+693,2,"动脉(伴结扎)","artery (with ligation)",38.80
+693,3,"腹","abdominal",38.86
+693,3,"颅内 NEC","intracranial NEC",38.81
+693,3,"上肢","upper limb",38.83
+693,3,"头和颈 NEC","head and neck NEC",38.82
+693,3,"下肢","lower limb",38.88
+693,3,"胸的 NEC","thoracic NEC",38.85
+693,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.84
+693,2,"动脉导管未闭","patent ductus arteriosus",38.85
+693,2,"耳硬化隆突或材料,中耳","otosclerotic process or material, middle ear",19.0
+693,2,"跟腱","Achilles tendon",83.11

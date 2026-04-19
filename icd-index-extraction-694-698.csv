@@ -1,0 +1,200 @@
+page,level,chinese,english,code
+694,3,"弓形韧带(脊柱)—省略编码","arcuate ligament (spine)-omit code",
+694,3,"骨—另见骨切开术","bone-see also Osteotomy",77.30
+694,3,"鼓膜","tympanum",20.23
+694,2,"关节囊","joint capsule",80.40
+694,3,"踝","ankle",80.47
+694,3,"肩","shoulder",80.41
+694,3,"髋","hip",80.45
+694,3,"手和手指","hand and finger",80.44
+694,3,"特指部位 NEC","specified site NEC",80.49
+694,3,"腕","wrist",80.43
+694,3,"膝","knee",80.46
+694,3,"肘","elbow",80.42
+694,3,"足和趾","foot and toe",80.48
+694,2,"虹膜后粘连","posterior synechiae",12.33
+694,2,"虹膜前房角粘连","goniosynechiae",12.31
+694,2,"虹膜前粘连","anterior synechiae",12.32
+694,2,"喉的神经(外)(复发性)(上)","laryngeal nerve (external) (recurrent) (superior)",31.91
+694,2,"黄韧带(脊柱)—省略编码","ligamentum flavum (spine)-omit code",
+694,2,"肌","muscle",83.19
+694,3,"手","hand",82.19
+694,2,"脊髓的","spinal",
+694,3,"脊髓神经束","cord tracts",03.29
+694,4,"经皮的","percutaneous",03.21
+694,3,"神经根","nerve root",03.1
+694,2,"睑缝合术","blepharorrhaphy,canthorrhaphy",08.02
+694,2,"睑球粘连(伴载置体插入)","symblepharon (with insertion of conformer)",10.5
+694,2,"腱","tendon",83.13
+694,3,"跟","Achilles",83.11
+694,3,"内收肌(髋)","adductor (hip)",83.12
+694,3,"手","hand",82.11
+694,2,"腱膜","aponeurosis",83.13
+694,2,"腱索","chordae tendineae",35.32
+694,2,"筋膜","fascia",83.14
+694,3,"手","hand",82.12
+694,2,"静脉(伴结扎)","vein (with ligation)",38.80
+694,3,"腹","abdominal",38.87
+694,3,"静脉曲张","varicose",38.50
+694,4,"腹的","abdominal",38.57
+694,4,"颅内的 NEC","intracranial NEC",38.51
+694,4,"上肢","upper limb",38.53
+695,4,"头和颈 NEC","head and neck NEC",38.52
+695,4,"下肢","lower limb",38.59
+695,4,"胸的 NEC","thoracic NEC",38.55
+695,3,"颅内的 NEC","intracranial NEC",38.81
+695,3,"上肢","upper limb",38.83
+695,3,"头和颈 NEC","head and neck NEC",38.82
+695,3,"下肢","lower limb",38.89
+695,3,"静脉曲张","varicose",38.59
+695,4,"胸的 NEC","thoracic NEC",38.85
+695,2,"括约肌","sphincter",
+695,3,"奥狄","of Oddi",51.82
+695,3,"内镜","endoscopic",51.85
+695,3,"贲门的","cardiac",42.7
+695,3,"肛门的(外的)(内的)","anal (external) (internal)",49.59
+695,4,"后的","posterior",49.52
+695,4,"左侧的","left lateral",49.51
+695,3,"胰腺","pancreatic",51.82
+695,4,"内镜","endoscopic",51.85
+695,2,"泪腺","lacrimal ductules",09.0
+695,2,"泪小管","canaliculus",09.52
+695,2,"脑膜(脑的)","meninges (cerebral)",01.31
+695,2,"脑束","cerebral tracts",01.32
+695,2,"脑组织","brain tissue",01.32
+695,2,"皮质粘连","cortical adhesions",02.91
+695,2,"内收肌腱(髋)","adductor tendon (hip)",83.12
+695,2,"膀胱颈","bladder neck",57.91
+695,2,"髂胫束","iliotibial band",83.14
+695,2,"前斜角肌","scalenus anticus muscle",83.19
+695,2,"韧带","ligament",80.40
+695,3,"弓形(脊柱)—省略编码","arcuate (spine)-omit code",
+695,3,"踝","ankle",80.47
+695,3,"脊柱","spine",80.49
+695,4,"弓形—省略编码","arcuate-omit code",
+695,4,"黄的—省略编码","flavum-omit code",
+695,3,"肩","shoulder",80.41
+695,3,"髋","hip",80.45
+695,3,"手和手指","hand and finger",80.44
+695,3,"特指部位 NEC","specified site NEC",80.49
+695,3,"腕关节","wrist",80.43
+695,3,"膝","knee",80.46
+695,3,"眼睑","palpebrae",08.36
+695,3,"肘","elbow",80.42
+696,3,"眦","canthal",08.36
+696,3,"子宫骶骨的","uterosacral",69.3
+696,3,"足和趾","foot and toe",80.48
+696,2,"乳头肌(心脏)","papillary muscle (heart)",35.31
+696,2,"软骨","cartilage",80.40
+696,3,"踝","ankle",80.47
+696,3,"脊柱","spine",80.49
+696,3,"肩","shoulder",80.41
+696,3,"髋","hip",80.45
+696,3,"手和手指","hand and finger",80.44
+696,3,"特指的部位 NEC","specified site NEC",80.49
+696,3,"腕关节","wrist",80.43
+696,3,"膝","knee",80.46
+696,3,"肘","elbow",80.42
+696,3,"足和趾","foot and toe",80.48
+696,2,"软组织 NEC","soft tissue NEC",83.19
+696,3,"手","hand",82.19
+696,2,"舌咽神经","glossopharyngeal nerve",29.92
+696,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.03
+696,3,"耳的","auditory",04.01
+696,3,"膈的","phrenic",04.03
+696,4,"用于肺萎陷","for collapse of lung",33.31
+696,3,"根,脊髓或椎管内的","root, spinal or intraspinal",03.1
+696,3,"喉的(外的)(复发性)(复发性)(上)","laryngeal (external) (recurrent) (superior)",31.91
+696,3,"交感神经","sympathetic",05.0
+696,3,"泪支","lacrimal branch",05.0
+696,3,"迷走神经—另见迷走神经切断术","vagus-see also Vagotomy",44.00
+696,3,"前庭","vestibular",04.01
+696,3,"三叉","trigeminal",04.02
+696,3,"舌咽的","glossopharyngeal",29.92
+696,3,"肾上腺","adrenal gland",07.42
+696,3,"束","tracts",
+696,4,"脊髓","spinal cord",03.29
+696,4,"经皮的","percutaneous",03.21
+696,4,"脑的","cerebral",01.32
+696,3,"听神经","acoustic",04.01
+696,2,"神经节,交感神经","ganglion, sympathetic",05.0
+696,2,"输精管","vas deferens",63.71
+696,2,"输卵管—见结扎,输卵管","fallopian tube-see Ligation, fallopian tube",
+696,2,"斯基恩腺(女性尿道旁腺)","Skene's gland",71.3
+696,2,"系带","frenulum, frenum",
+697,3,"唇的","labial",27.91
+697,3,"舌,舌的","tongue,lingual",25.91
+697,2,"峡","isthmus",
+697,2,"甲状腺","thyroid",06.91
+697,2,"马蹄形肾","horseshoe kidney",55.85
+697,2,"下颌骨角(开放)","angle of mandible (open)",76.62
+697,3,"闭合性","closed",76.61
+697,2,"先天性蹼","congenital web",
+697,3,"喉","larynx",31.98
+697,3,"咽","pharynx",29.54
+697,2,"心脏柱(心脏)","trabeculae carneae cordis (heart)",35.35
+697,2,"血管,角膜","blood vessels, cornea",10.1
+697,2,"阴道隔","vaginal septum",70.14
+697,2,"阴茎粘连","penile adhesions",64.93
+697,2,"幽门(伴楔形切除术)","pylorus (with wedge resection)",43.3
+697,2,"粘连","synechiae",
+697,3,"虹膜(后的)","iris (posterior)",12.33
+697,4,"前的","anterior",12.32
+697,3,"子宫内膜的","endometrial",68.21
+697,2,"粘连—见松解术,粘连","adhesions-see Lysis, adhesions",
+697,2,"直肠(狭窄)","rectum (stricture)",48.91
+697,2,"眦缝合术","tarsorrhaphy",08.02
+697,2,"子宫骶骨韧带","uterosacral ligaments",69.3
+697,2,"子宫内膜粘连","endometrial synechiae",68.21
+697,2,"左心房后和冠状窦间的共同壁层(伴结合部缺损的顶部用补片移植)","common wall between posterior left atrium and coronary sinus (with roofing of resultant defect with patch graft)",35.82
+697,1,"切开","Opening",
+697,2,"骨性迷路(耳)","bony labyrinth (ear)",20.79
+697,2,"脊髓硬脑膜","spinal dura",03.09
+697,2,"颅缝合","cranial suture",02.01
+697,2,"心脏瓣膜","heart valve",
+697,3,"闭合性心脏技术—见瓣膜切开术,按部位","closed heart technique-see Valvulotomy, by site",
+697,3,"开放性心脏技术—见瓣膜切开术,按部位","open heart technique-see Valvuloplasty, by site",
+697,1,"切开(和引流)","Incision (and drainage)",
+697,2,"奥狄括约肌","sphincter of Oddi",51.82
+697,3,"内镜的","endoscopic",51.85
+697,2,"巴多林腺或囊肿","Bartholin's gland or cyst",71.22
+697,2,"伴","with",
+697,3,"探查术—见探查术","exploration-see Exploration",
+698,3,"异物去除—见去除,异物","removal of foreign body-see Removal, foreign body",
+698,2,"鼻","nose",21.1
+698,2,"鼻泪管(狭窄)","nasolacrimal duct (stricture)",09.59
+698,2,"扁桃体","tonsil",28.0
+698,2,"藏毛的窦(囊肿)","pilonidal sinus (cyst)",86.03
+698,2,"肠","intestine",45.00
+698,3,"大","large",45.03
+698,3,"小","small",45.02
+698,2,"齿龈","gingiva,gum",24.0
+698,2,"处女膜","hymen",70.11
+698,2,"垂体(腺)","pituitary (gland)",07.72
+698,2,"大脑内的","intracerebral",01.39
+698,2,"胆管(伴 T 或 Y 管插入) NEC","bile duct (with T or Y tube insertion) NEC",51.59
+698,3,"用于","for",
+698,4,"解除梗阻","relief of obstruction",51.49
+698,4,"探查术","exploration",51.59
+698,4,"总(探查术)","common (exploratory)",51.51
+698,3,"用于","for",
+698,4,"解除梗阻 NEC","relief of obstruction NEC",51.42
+698,4,"去除结石","removal of calculus",51.41
+698,2,"胆囊","gallbladder",51.04
+698,2,"胆总管(用于探查术)","common bile duct (for exploration)",51.51
+698,3,"用于","for",
+698,4,"解除梗阻","relief of obstruction",51.42
+698,4,"去除结石","removal of calculus",51.41
+698,2,"道格拉斯凹","pouch of Douglas",70.12
+698,2,"迪尔森(子宫颈,帮助分娩)","Duhrssen's (cervix, to assist delivery)",73.93
+698,2,"动脉","artery",38.00
+698,3,"腹的","abdominal",38.06
+698,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+698,3,"颅内的 NEC","intracranial NEC",38.01
+698,3,"上肢","upper limb",38.03
+698,3,"头和颈 NEC","head and neck NEC",38.02
+698,3,"下肢","lower limb",38.08
+698,3,"胸的 NEC","thoracic NEC",38.05
+698,2,"窦—见窦切开术","sinus-see Sinusotomy",
+698,2,"腭","palate",27.1
+698,2,"耳","ear",

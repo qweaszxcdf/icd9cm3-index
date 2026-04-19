@@ -1,0 +1,196 @@
+page,level,chinese,english,code
+939,5,"分娩或流产后","after delivery or abortion",75.8
+939,4,"子宫","uterus",69.91
+939,3,"周围血管-见非冠状血管","peripheral blood vessel-see non-coronary",
+939,3,"肘假体(全部)","elbow prosthesis (total)",81.84
+939,4,"修复术","revision",81.97
+939,3,"装置","device",
+939,4,"CorCap™","CorCap™",37.41
+939,4,"Lap-Band™(可调节性胃绷带系统)","Lap-Band™",44.95
+939,4,"MitraClip®二尖瓣小叶钳","MitraClip® mitral leaflet clip",35.97
+939,4,"假体心脏支持装置","prosthetic cardiac support device",37.41
+939,4,"可调节的胃束带和端口","adjustable gastric band and port",44.95
+939,4,"心室支持装置","ventricular support device",37.41
+939,4,"心外膜支持装置","epicardial support device",37.41
+939,4,"心脏再同步化-见插入,心律再同步化装置","cardiac resynchronization-see Insertion, cardiac resynchronization device",
+939,4,"心脏支持装置(CSD)","cardiac support device (CSD)",37.41
+939,4,"胸骨固定装置伴有刚性板","sternal fixation device with rigid plates",84.94
+939,4,"血管通路","vascular access",86.07
+939,4,"支气管瓣膜","bronchial valve(s)",
+939,5,"单叶","single lobe",33.71
+939,5,"多叶","multiple lobes",33.73
+939,4,"支气管物质NOS","bronchial substance NOS",33.79
+939,4,"支气管装置NOS","bronchial device NOS",33.79
+939,4,"左心房附加装置","left atrial appendage",37.90
+939,4,"左心房过滤器","left atrial filter",37.90
+939,4,"左心房心导管闭合器","left atrial occluder",37.90
+939,3,"椎体脊椎融合装置","interbody spinal fusion device",84.51
+939,3,"子宫内","intrauterine",
+939,4,"避孕装置","contraceptive device",69.7
+939,4,"镭(腔内)","radium (intracavitary)",69.91
+939,4,"填塞(非产科)","tamponade (nonobstetric)",69.91
+939,3,"子宫托","pessary",
+939,4,"阴道","vagina",96.18
+939,4,"子宫颈","cervix",96.18
+939,5,"助产或引产","to assist delivery or induce labor",73.1
+939,3,"组织扩张器(皮肤)NEC","tissue expander (skin) NEC",86.93
+939,4,"乳房","breast",85.95
+939,3,"组织轴柄(周围血管)(涤纶)(斯帕克型)","tissue mandril (peripheral vessel) (Dacron) (Spark's type)",39.99
+939,4,"伴","with",
+940,5,"血管旁路或分流-见旁路,血管的","vascular bypass or shunt-see Bypass, vascular",
+940,4,"血管修补术","blood vessel repair",39.56
+940,3,"查恩利手术-见Charnley手术","see Charnley operation",
+940,3,"查尔斯手术-见Charles手术","see Charles operation",
+940,3,"拆除术","Take-down",
+940,4,"肠造口","intestinal stoma, enterostomy",46.50
+940,5,"大的","large",46.52
+940,5,"小的","small",46.51
+940,4,"动静脉分流","arteriovenous shunt",39.43
+940,5,"伴创建新分流","with creation of new shunt",39.42
+940,4,"动脉旁路","arterial bypass",39.49
+940,4,"喉造口术","laryngostomy",31.62
+940,4,"回肠造口术","ileostomy",46.51
+940,4,"结肠造口术","colostomy",46.52
+940,4,"空肠回肠旁路","jejunoileal bypass",46.93
+940,4,"空肠造口术","jejunostomy",46.51
+940,4,"盲肠造口术","cecostomy",46.52
+940,4,"脑室分流(脑的)","ventricular shunt (cerebral)",02.43
+940,4,"气管造口","tracheostomy",31.72
+940,4,"十二指肠造口术","duodenostomy",46.51
+940,4,"食管造口","esophagostomy",42.83
+940,4,"体动脉-肺动脉吻合术","systemic-pulmonary artery anastomosis",39.49
+940,5,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+940,4,"胃空肠吻合术","gastrojejunostomy",44.5
+940,4,"胃十二指肠吻合术","gastroduodenostomy",44.5
+940,4,"吻合术","anastomosis",
+940,5,"肠","intestine",46.93
+940,5,"动脉","arterial",39.49
+940,5,"脑室的","ventricular",02.43
+940,5,"胃","stomach",44.5
+940,5,"胃的,胃肠的","gastric, gastrointestinal",44.5
+940,5,"血管,血管的","blood vessel, vascular",39.49
+940,4,"血管吻合术或旁路","vascular anastomosis or bypass",39.49
+940,4,"乙状结肠造口术","sigmoidostomy",46.52
+940,4,"造口","stoma",
+940,5,"肠","intestine",46.50
+940,6,"大的","large",46.52
+940,6,"小的","small",46.51
+940,5,"胆管","bile duct",51.79
+940,5,"胆囊","gall bladder",51.92
+941,5,"胆总管","common duct",51.72
+941,5,"肝管","hepatic duct",51.79
+941,5,"喉","larynx",31.62
+941,5,"尿道","urethra",58.42
+941,5,"膀胱","bladder",57.82
+941,5,"气管","trachea",31.72
+941,5,"肾","kidney",55.82
+941,5,"食管","esophagus",42.83
+941,5,"输尿管","ureter",56.83
+941,5,"胃","stomach",44.62
+941,5,"胸","thorax",34.72
+941,5,"支气管","bronchus",33.42
+941,5,"直肠","rectum",48.72
+941,3,"产钳分娩-见分娩,产钳","Forceps delivery-see Delivery, forceps",
+941,3,"产生-另见形成和创建","Production-see also Formation and Creation",
+941,4,"皮下隧道用于食管吻合术","subcutaneous tunnel for esophageal anastomosis",42.86
+941,5,"伴吻合-见吻合术,食管,胸骨前","with anastomosis-see Anastomosis, esophagus, antesternal",
+941,4,"房间隔缺损","atrial septal defect",35.42
+941,3,"肠肠吻合术","Enteroenterostomy",45.90
+941,4,"小肠对大肠","small-to-large intestine",45.93
+941,4,"小肠对小肠","small-to-small intestine",45.91
+941,3,"肠肠营养","Enteroentectropy",46.99
+941,3,"肠穿刺术","Enterocentesis",45.00
+941,4,"大肠","large intestine",45.03
+941,4,"十二指肠","duodenum",45.01
+941,4,"小肠NEC","small intestine NEC",45.02
+941,3,"肠胆囊吻合术","Enterocholecystostomy",51.32
+941,3,"肠缝合术","Enterorrhaphy",46.79
+941,4,"大肠","large intestine",46.75
+941,4,"小肠","small intestine",46.73
+941,3,"肠切除术NEC","Enterectomy NEC",45.63
+941,3,"肠切开术","Enterotomy",45.00
+941,4,"大肠","large intestine",45.03
+941,4,"小肠","small intestine",45.02
+941,3,"肠疝切除术","Enterocelectomy",53.9
+941,4,"女性","female",70.92
+941,5,"伴移植物或假体","with graft or prosthesis",70.93
+941,4,"阴道","vaginal",70.92
+941,5,"伴移植物或假体","with graft or prosthesis",70.93
+941,3,"肠石切开术","Enterolithotomy",45.00
+942,3,"肠胃造口术","Enterogastrostomy",44.39
+942,4,"腹腔镜的","laparoscopic",44.38
+942,3,"肠吻合术","Enteroanastomosis",
+942,4,"大肠与大肠","large-to-large intestine",45.94
+942,4,"小肠与大肠","small-to-large intestine",45.93
+942,4,"小肠与小肠","small-to-small intestine",45.91
+942,3,"肠系膜固定术","Mesenteriopexy, Mesopexy",54.75
+942,3,"肠系膜切除术","Mesenterectomy",54.4
+942,3,"肠系膜折叠术","Mesenteriplication",54.75
+942,3,"肠胰吻合术","Enteropancreatostomy",52.96
+942,3,"肠营养,全部的","Parenteral nutrition, total",99.15
+942,4,"周围的","peripheral",99.15
+942,3,"肠造口术NEC","Enterostomy NEC",46.39
+942,4,"横结肠-另见结肠造口术","transverse colon-see also Colostomy",46.10
+942,5,"袢式","loop",46.03
+942,4,"回肠(布鲁克)(德拉格施泰德)","ileum (Brooke) (Dragstedt)",46.20
+942,5,"袢式","loop",46.01
+942,4,"结肠(横的)-另见结肠造口术","colon (transverse)-see also Colostomy",46.10
+942,5,"袢式","loop",46.03
+942,4,"空肠(喂养)","jejunum (feeding)",46.39
+942,5,"经皮的(内镜)","percutaneous (endoscopic)",46.32
+942,5,"袢式","loop",46.01
+942,4,"盲肠-另见结肠造口术","cecum-see also Colostomy",46.10
+942,4,"十二指肠","duodenum",46.39
+942,5,"袢式","loop",46.01
+942,4,"喂养NEC","feeding NEC",46.39
+942,5,"经皮的(内镜的)","percutaneous (endoscopic)",46.32
+942,4,"延迟性切开","delayed opening",46.31
+942,4,"乙状结肠-另见结肠造口术","sigmoid colon-see also Colostomy",46.10
+942,5,"袢式","loop",46.03
+942,3,"肠粘连松解术","Enterolysis",54.59
+942,4,"腹腔镜的","laparoscopic",54.51
+942,3,"常规","Routine",
+942,4,"精神病学就诊","psychiatric visit",94.12
+942,4,"胸X线检查","chest x-ray",87.44
+942,3,"超滤","Ultrafiltration",99.78
+942,4,"去除,血浆水分","removal, plasma water",99.78
+942,4,"血液透析(肾),血液滤过","hemodialysis (kidney), hemodiafiltration",39.95
+942,4,"治疗性血浆除去法","therapeutic plasmapheresis",99.71
+942,3,"超声","Ultrasound",
+943,4,"VH™-IVUS[虚拟组织学血管内超声]-见超声,血管内的,按部位","VH™-IVUS-see Ultrasound, intravascular, by site",
+943,4,"治疗","therapy",93.35
+943,4,"内耳","inner ear",20.79
+943,4,"碎裂,破碎(...的)","fragmentation (of)",
+943,5,"白内障(伴抽吸)","cataract (with aspiration)",13.41
+943,5,"尿路结石,结石(科克袋)","urinary calculus, stones (Kock pouch)",59.95
+943,4,"心脏","heart",
+943,5,"非侵入的","non-invasive",88.72
+943,5,"心内的(心房)(ICE)","intracardiac (heart chambers) (ICE)",37.28
+943,5,"血管内的(冠状血管)(IVUS)","intravascular (coronary vessels) (IVUS)",00.24
+943,4,"虚拟组织学血管内超声-见超声,血管内的,按部位","virtual histology intravascular ultrasound-see Ultrasound, intravascular, by site",
+943,4,"血管内(IVUS)","intravascular (IVUS) (VH™-IVUS)",00.29
+943,5,"冠状血管","coronary vessel",00.24
+943,5,"脑的血管,颅外","cerebral vessel, extracranial",00.21
+943,5,"其他特指血管","other specified vessel",00.28
+943,5,"腔静脉(下)(上)","vena cava (inferior) (superior)",00.22
+943,5,"肾血管","renal vessel",00.25
+943,5,"胸内血管","intrathoracic vessel",00.22
+943,5,"周围血管","peripheral vessel",00.23
+943,5,"主动脉","aorta",00.22
+943,5,"主动脉弓","aortic arch",00.22
+943,4,"诊断性-见超声波检查","diagnostic-see Ultrasonography",
+943,4,"治疗性","therapeutic",
+943,5,"颈","neck",00.01
+943,5,"其他治疗性超声","other therapeutic ultrasound",00.09
+943,5,"头","head",00.01
+943,5,"头和颈血管","vessels of head and neck",00.01
+943,5,"心脏","heart",00.02
+943,5,"周围血管","peripheral vascular vessels",00.03
+943,3,"超声波检查","Ultrasonography",
+943,4,"肠","intestine",88.74
+943,4,"胆道","biliary tract",88.74
+943,4,"多部位","multiple sites",88.79
+943,4,"肺","lung",88.73
+943,4,"腹","abdomen",88.76
+943,4,"腹膜后","retroperitoneum",88.76
+943,4,"泌尿系","urinary system",88.75

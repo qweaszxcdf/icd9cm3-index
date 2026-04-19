@@ -1,0 +1,186 @@
+page,level,chinese,english,code
+544,3,"胸(肋骨)(胸骨)","thorax(ribs)(sternum)",77.31
+544,4,"楔形","wedge",77.21
+544,3,"跖骨","metatarsal",77.38
+544,4,"楔形","wedge",77.28
+544,5,"用于踇外翻修补术","for hallux valgus repair",77.51
+544,3,"指(趾)骨(足)(手)","phalanges(foot)(hand)",77.39
+544,4,"楔形","wedge",77.29
+544,5,"用于修补术","for repair of",
+544,6,"踇囊炎—见踇囊肿切除术","bunion-see Bunionectomy",
+544,6,"踇外翻—见踇囊肿切除术","hallux valgus-see Bunionectomy",
+544,6,"小趾囊肿","bunionette",77.54
+544,4,"用于修补术","for repair of",
+544,5,"踇囊炎—见踇囊肿切除术","bunion-see Bunionectomy",
+544,5,"踇外翻—见踇囊肿切除术","hallux valgus-see Bunionectomy",
+544,5,"小趾囊肿","bunionette",77.54
+544,3,"趾","toe",77.39
+544,4,"楔形","wedge",77.29
+544,5,"用于修补术","for repair of",
+544,6,"踇囊炎—见踇囊肿切除术","bunion-see Bunionectomy",
+544,6,"踇外翻—见踇囊肿切除术","hallux valgus-see Bunionectomy",
+544,6,"小趾囊肿","bunionette",77.54
+544,4,"用于修补术","for repair of",
+544,5,"踇囊炎—见踇囊肿切除术","bunion-see Bunionectomy",
+544,5,"踇外翻—见踇囊肿切除术","hallux valgus-see Bunionectomy",
+544,5,"小趾囊肿","bunionette",77.54
+544,3,"椎骨","vertebrae",77.39
+544,4,"楔形","wedge",77.29
+544,2,"骨溶解—见亚目","Osteolysis-see subcategory",78.4
+544,2,"骨再折术","Refracture",
+544,3,"鼻骨","nasal bones",21.88
+544,3,"骨(用于连接不好的)—另见折骨术","bone(for faulty unlon)-see also Osteoclasis",78.70
+544,2,"骨折,外科手术的—另见折骨术","Fracture, surgical-see also Osteoclasis",78.70
+544,3,"鼻甲(鼻的)","turbinates(nasal)",21.62
+544,2,"钴-60疗法(治疗)","Cobalt-60 therapy(treatment)",92.23
+544,2,"鼓窦隐窝切开术(耳)","Atticoantrotomy(ear)",20.49
+544,2,"鼓窦隐窝造口术(耳)","Atticoantrostomy(ear)",20.49
+544,2,"鼓膜襞切断术,鼓室","Plicotomy, tympanum",20.23
+544,2,"鼓膜成形术(鼓室上的,I型)(经烧灼)(通过移植)","Myringoplasty (epitympanic, type I) (by cauterization) (by graft)",19.4
+544,3,"修复术","revision",19.6
+545,2,"鼓膜锤骨迷路固定术","Myringomalleolabyrinthopexy",19.52
+545,2,"鼓膜固走术","Myringostapediopexy",19.53
+545,2,"鼓膜切除术","Myringectomy, Myringodectomy, Tympanectomy",20.59
+545,3,"伴鼓室成形术—见鼓室成形术","with tympanoplasty-see Tympanoplasty",
+545,2,"鼓膜切开术","Tympanotomy",20.09
+545,3,"伴插管法","with intubation",20.01
+545,2,"鼓膜切开术(伴抽吸)(伴引流)","Myringotomy(with aspiration)(with drainage)",20.09
+545,3,"伴管或引流装置插入(纽)(金属孔眼)","with insertion of tube or drainage device (button) (grommet)",20.01
+545,2,"鼓膜造口术","Myringostomy",20.01
+545,2,"鼓室成形术(I型)(伴移植)","Tympanoplasty (type I) (with graft)",19.4
+545,3,"伴","with",
+545,4,"半规管开窗","fenestra in semicircular canal",19.55
+545,4,"移植物靠紧","graft against",
+545,5,"活动且完整的镫骨","mobile and intact stapes",19.53
+545,5,"砧镫骨固定术","incudostapediopexy",19.52
+545,5,"砧骨或锤骨","incus or malleus",19.52
+545,4,"圆窗上含气小室","air pocket over round window",19.54
+545,3,"鼓室上的,I型","epitympanic,type I",19.4
+545,3,"型","type",
+545,4,"II(移植物靠紧砧骨或锤骨)","II (graft against incus or malleus)",19.52
+545,4,"III(移植物靠紧活动且完整的镫骨)","III (graft against mobile and intact stapes)",19.53
+545,4,"IV(圆窗上含气小室)","IV (air pocket over round window)",19.54
+545,4,"V(开穿半规管)","V (fenestra in semicircular canal)",19.55
+545,3,"修复术","revision",19.6
+545,2,"鼓室交感神经切除术","Tympanosympathectomy",20.91
+545,2,"鼓室乳突切除术","Tympanomastoidectomy",20.42
+545,2,"鼓室上隐窝切开术(耳)","Atticotomy(ear)",20.23
+545,2,"鼓室下部切开术","Hypotympanotomy",20.23
+545,2,"鼓室压图","Tympanogram",95.41
+545,2,"固定","Fixation",
+545,3,"肠","intestine",46.60
+545,4,"大的","large",46.64
+545,5,"至腹壁","to abdominal wall",46.63
+545,4,"小的","small",46.62
+545,5,"至腹壁","to abdominal wall",46.61
+545,4,"与腹壁","to abdominal wall",46.60
+545,3,"骨","bone",
+546,4,"内的(不伴骨折复位)","internal (without fracture reduction)",78.50
+546,5,"伴骨折复位—见复位,骨折","with fracture reduction-see Reduction, fracture",
+546,5,"髌骨","patella",78.56
+546,5,"尺骨","ulna",78.53
+546,5,"腓骨","fibula",78.57
+546,5,"跗骨的,跖骨的","tarsal, metatarsal",78.58
+546,5,"肱骨","humerus",78.52
+546,5,"股骨","femur",78.55
+546,5,"骨盆","pelvic",78.59
+546,5,"肩胛骨","scapula",78.51
+546,5,"胫骨","tibia",78.57
+546,5,"桡骨","radius",78.53
+546,5,"锁骨","clavicle",78.51
+546,5,"特指部位NEC","specified site NEC",78.59
+546,5,"腕骨的,掌骨的","carpal, metacarpal",78.54
+546,5,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",78.51
+546,6,"胸骨固定装置伴有刚性板","sternal fixation device with rigid plates",84.94
+546,5,"趾骨(足)(手)","phalanges (foot) (hand)",78.59
+546,5,"椎骨","vertebrae",78.59
+546,4,"外部,不伴复位","external, without reduction",93.59
+546,5,"伴骨折复位—见复位,骨折","with fracture reduction-see Reduction, fracture",
+546,5,"夹板","splint",93.54
+546,5,"牵引(骨骼)NEC","traction (skeletal), NEC",93.44
+546,6,"间歇性","intermittent",93.43
+546,5,"石膏管型固定NEC","cast immobilization NEC",93.53
+546,5,"外固定器—见固定器,外部的","external fixator-see Fixator, external",
+546,3,"关节—见关节成形术","joint-see Arthroplasty",
+546,3,"虹膜(凸起的)","iris (bombe)",12.11
+546,3,"回肠","ileum",46.62
+546,4,"至腹壁","to abdominal wall",46.61
+546,3,"脊柱,伴融合术—另见融合术,脊髓的","spine, with fusion-see also Fusion, spinal",81.00
+546,3,"夹板","splint",93.54
+546,3,"腱","tendon",83.88
+546,4,"手","hand",82.85
+546,3,"颈托","cervical collar",93.52
+546,3,"空肠","jejunum",46.62
+546,4,"至腹壁","to abdominal wall",46.61
+547,3,"髋","hip",81.40
+547,3,"内的","internal",
+547,4,"伴骨折复位—见复位,骨折","with fracture reduction-see Reduction, fracture",
+547,4,"不伴骨折复位—见固定,骨,内的","without fracture reduction-see Fixation, bone, internal",
+547,3,"尿道阴道的(至库珀韧带)","urethrovaginal (to Cooper's ligament)",70.77
+547,4,"伴移植物或假体","with graft or prosthesis",70.78
+547,3,"脾","spleen",41.95
+547,3,"韧带","ligament",
+547,4,"眼睑","palpebrae",8.36
+547,4,"主要的(子宫颈横(侧)韧带)","cardinal",69.22
+547,3,"乳房(悬垂的)","breast (pendulous)",85.6
+547,3,"舌","tongue",25.59
+547,3,"肾","kidney",55.7
+547,3,"十二指肠","duodenum",46.62
+547,4,"至腹壁","to abdominal wall",46.61
+547,3,"石膏背心","plaster jacket",93.51
+547,3,"其他石膏管型","other cast",93.53
+547,3,"外部(不伴复位操作)","external (without manipulation for reduction)",93.59
+547,4,"伴骨折复位—见复位,骨折","with fracture reduction-see Reduction, fracture",
+547,4,"绑扎(非牵引)","strapping (non-traction)",93.59
+547,4,"夹板","splint",93.54
+547,4,"牵引(骨骼)NEC","traction (skeletal) NEC",93.44
+547,5,"间歇性","intermittent",93.43
+547,4,"石膏管型固定NEC","cast immobilization NEC",93.53
+547,4,"压力绷带","pressure dressing",93.56
+547,3,"网膜","omentum",54.74
+547,3,"阴道","vagina",70.77
+547,4,"伴移植物或假体","with graft or prosthesis",70.78
+547,3,"阴囊睾丸","testis in scrotum",62.5
+547,3,"直肠(悬带)","rectum (sling)",48.76
+547,3,"主韧带(子宫颈横(侧)韧带)","cardinal ligaments",69.22
+547,3,"子宫(腹)(阴道)(腹壁固定)","uterus (abdominal) (vaginal) (ventrofixation)",69.22
+547,3,"子宫旁的","parametrial",69.22
+547,2,"固定(通过)","Immobilization (by)",
+547,3,"伴骨折复位—见复位,骨折","with fracture-reduction-see Reduction, fracture",
+548,3,"绑扎(非牵引)","strapping (non-traction)",93.59
+548,3,"绷带","bandage",93.59
+548,3,"骨","bone",93.53
+548,3,"夹板(石膏)(盘状)","splint (plaster) (tray)",93.54
+548,4,"伴骨折或脱位的复位—见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture, and Reduction, dislocation",
+548,3,"立体定位头框架","stereotactic head frame",93.59
+548,3,"石膏管型NEC","cast NEC",93.53
+548,4,"伴骨折或脱位的复位—见复位,骨折和复位,脱位","with reduction of fracture or dislocation-see Reduction, fracture, and Reduction, dislocation",
+548,3,"压力绷带","pressure dressing",93.56
+548,3,"装置NEC","device NEC",93.59
+548,2,"固定器,外部的","Fixator, external",
+548,3,"Ilizarov型","Ilizarov type",84.72
+548,3,"Sheffield型","Sheffield type",84.72
+548,3,"单相系统","monoplanar system",84.71
+548,3,"环形装置或系统","ring device or system",84.72
+548,3,"混合装置或系统","hybrid device or system",84.73
+548,3,"计算机辅助的(依赖的)","computer assisted (dependent)",84.73
+548,2,"刮匙排除术,晶体","Curette evacuation, lens",13.2
+548,2,"刮除","Scraping",
+548,3,"角膜上皮","corneal epithelium",11.41
+548,4,"用于涂片或培养","for smear or culture",11.21
+548,3,"沙眼滤泡","trachoma follicles",10.33
+548,2,"刮除术","Shaving",
+548,3,"髌骨","patella",77.66
+548,3,"骨—另见切除术,病损,骨","bone-see also Excision, lesion, bone",77.60
+548,3,"角膜(上皮)","cornea (epithelium)",11.41
+548,4,"用于涂片或培养","for smear or culture",11.21
+548,2,"刮除术(伴填塞)(伴II期闭合)—另见扩宫和刮宫","Curettage (with packing) (with secondary closure)-see also Dilation and curettage",
+548,3,"耳,外部","ear, external",18.29
+548,3,"肛门","anus",49.39
+548,3,"内镜","endoscopic",49.31
+548,3,"巩膜","sclera",12.84
+548,3,"骨—另见切除术,病损,骨","bone-see also Excision, lesion, bone",77.60
+548,3,"关节—见切除术,病损,关节","joint-see also Excision, lesion, joint",80.80
+548,3,"肌肉","muscle",83.32
+548,4,"手","hand",82.22
+548,3,"脊索(脑膜)","spinal cord (meninges)",3.4

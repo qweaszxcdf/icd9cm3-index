@@ -1,0 +1,190 @@
+page,level,chinese,english,code
+889,7,"自体的(造血的)","autologous (hematopoietic)",41.04
+889,8,"伴净化","with purging",41.07
+889,7,"骨髓","marrow",41.00
+889,8,"干细胞","stem cell",
+889,9,"脐血","cord blood",41.06
+889,8,"同种异基因(造血的)","allogeneic (hematopoietic)",41.05
+889,9,"伴净化","with purging",41.08
+889,8,"自体的(造血的)","autologous (hematopoietic)",41.04
+889,9,"伴净化","with purging",41.07
+889,7,"同种异基因","allogeneic",41.03
+889,8,"伴净化","with purging",41.02
+889,7,"同种异体移植","allograft",41.03
+889,8,"伴净化","with purging",41.02
+889,7,"自体的","autologous",41.01
+889,8,"伴净化","with purging",41.02
+889,7,"自体移植","autograft",41.03
+889,8,"伴净化","with purging",41.09
+889,5,"股薄肌(为了)","gracilis muscle (for)",83.77
+889,6,"肛门失禁","anal incontinence",49.74
+889,6,"尿道膀胱悬吊术","urethrovesical suspension",59.71
+889,5,"合并心脏-肺","combined heart-lung",33.6
+889,5,"回肠造口至新部位","ileal stoma to new site",46.23
+889,5,"肌","muscle",83.77
+889,6,"股薄肌(为了)","gracilis (for)",83.77
+889,7,"肛门失禁","anal incontinence",49.74
+889,7,"尿道膀胱悬吊术","urethrovesical suspension",59.71
+889,5,"颞","temporalis",83.77
+889,6,"伴眶的内容物剜出","with orbital exenteration",16.59
+889,5,"手","hand",82.58
+889,5,"甲状腺组织","thyroid tissue",06.94
+889,5,"腱","tendon",83.75
+889,6,"鹅足(膝修补术)","pes anserinus (repair of knee)",81.47
+889,6,"上直肌(睑下垂)","superior rectus (blepharoptosis)",08.36
+889,6,"手","hand",82.56
+889,5,"角膜-见角膜成形术","corneal-see also Keratoplasty",11.60
+889,5,"结膜,用于翼状胬肉","conjunctiva, for pterygium",11.39
+889,5,"筋膜","fascia",83.82
+889,6,"手","hand",82.72
+889,5,"精索","spermatic cord",63.53
+889,5,"静脉(周围的)","vein (peripheral)",39.59
+889,6,"肾,迷行","renal, aberrant",39.55
+889,5,"淋巴结构(周围的)","lymphatic structure(s) (peripheral)",40.9
+890,5,"卵巢","ovary",65.92
+890,5,"毛囊","hair follicles",
+890,6,"眉","eyebrow",08.63
+890,6,"头皮","scalp",86.64
+890,6,"眼睑","eyelid",08.63
+890,5,"脾","spleen",41.94
+890,5,"皮肤-见移植物,皮肤","skin-see Graft, skin",
+890,5,"乳房动脉至心肌或心室壁","mammary artery to myocardium or ventricular wall",36.2
+890,5,"神经(颅的)(周围的)","nerve (cranial) (peripheral)",04.6
+890,5,"肾 NEC","renal, kidney NEC",55.69
+890,5,"血管,迷行","vessel, aberrant",39.55
+890,5,"手指(替代缺损的拇指)(同一手)","finger (replacing absent thumb) (same hand)",82.61
+890,6,"至","to",
+890,7,"对侧手(伴截断术)","opposite hand (with amputation)",82.69[84.01]
+890,6,"手指,除拇指外","finger, except thumb",82.81
+890,5,"输尿管至","ureter to",
+890,6,"肠","intestine",56.71
+890,7,"回肠(外转流)","ileum (external diversion)",56.51
+890,8,"仅内转流","internal diversion only",56.71
+890,6,"膀胱","bladder",56.74
+890,6,"皮肤","skin",56.61
+890,5,"涎腺管开放","salivary duct opening",26.49
+890,5,"心脏(常位的)","heart (orthotopic)",37.51
+890,6,"合并肺","combined with lung",33.6
+890,5,"胸腺","thymus",07.94
+890,5,"血管","blood vessel",39.59
+890,6,"肾,迷行","renal, aberrant",39.55
+890,5,"牙","tooth",23.5
+890,5,"胰","pancreas",52.80
+890,6,"胰岛(细胞)","Islets of Langerhans (cells)",52.86
+890,7,"细胞异体移植","allotransplantation of cells",52.85
+890,7,"细胞异种移植术","heterotransplantation",52.85
+890,7,"细胞自体移植","autotransplantation of cells",52.84
+890,6,"异种移植物","heterotransplant",52.83
+890,6,"再植入","reimplantation",52.81
+890,6,"自体移植物","homotransplant",52.82
+890,5,"胰岛(细胞)","Islets of Langerhans (cells)",52.86
+890,6,"细胞异体移植","allotransplantation of cells",52.85
+890,6,"细胞异种移植术","heterotransplantation",52.85
+891,6,"细胞自体移植","autotransplantation of cells",52.84
+891,5,"硬脑膜","dura",02.12
+891,5,"趾(替代缺损的拇指)(伴截断术)","toe (replacing absent thumb) (with amputation)",82.69[84.11]
+891,6,"至手指,除拇指外","to finger, except thumb",82.81[84.11]
+891,5,"自体移植物-见再植入","autotransplant-see Reimplantation",
+891,4,"移植物,移植术","Graft, grafting",
+891,5,"鼻","nose",21.89
+891,6,"伴","with",
+891,7,"鼻成形术-见鼻成形术","rhinoplasty-see Rhinoplasty",
+891,7,"全部再建造术","total reconstruction",21.83
+891,7,"增大","augmentation",21.85
+891,6,"隔","septum",21.88
+891,6,"尖","tip",21.86
+891,6,"鼻唇皮瓣","nasolabial flaps",21.86
+891,5,"唇","lip",27.56
+891,6,"全层","full-thickness",27.55
+891,5,"唇红缘(唇)","vermilion border (lip)",27.56
+891,5,"带毛的皮肤","hair-bearing skin",86.64
+891,5,"蒂-见移植物,皮肤,蒂","pedicle-see Graft, skin, pedicle",
+891,5,"动脉,动脉(补片)","artery, arterial (patch)",39.58
+891,6,"伴","with",
+891,7,"合成补片(涤纶)(聚四氟乙烯)","synthetic patch (Dacron) (Teflon)",39.57
+891,7,"切除术或血管切除术-见动脉切除术,伴移植物置换","excision or resection of vessel-see Arteriectomy, with graft replacement",
+891,7,"组织补片(静脉)(自体的)(自体移植)","tissue patch (vein) (autogenous) (homograft)",39.56
+891,5,"动脉瘤","aneurysm",39.52
+891,6,"血管内","endovascular",
+891,7,"腹主动脉","abdominal aorta",39.71
+891,8,"开窗(分支)移植","fenestrated (branching) graft",39.78
+891,7,"上肢动脉","upper extremity artery(s)",39.79
+891,7,"下肢动脉","lower extremity artery(s)",39.79
+891,7,"胸主动脉","thoracic aorta",39.73
+891,5,"腭","palate",27.69
+891,6,"用于腭裂修补术","for cleft palate repair",27.62
+892,5,"耳","ear",
+892,6,"外耳","auricle",18.79
+892,5,"耳后的(沃尔夫)","postauricular (Wolff)",18.79
+892,5,"附骨软骨","tarsal cartilage",08.69
+892,5,"睾丸","testicle",62.69
+892,5,"骨(自体的)(骨库)(双重高嵌体)(异种的)(嵌体)(大块高)(多数的)(骨骨膜的)(钉)(骨膜下的)(伴金属固定)","bone (autogenous) (bone bank) (dual onlay) (heterogenous) (inlay) (massive onlay) (multiple) (osteoperiosteal) (peg) (subperiosteal) (with metallic fixation)",78.00
+892,6,"伴","with",
+892,7,"关节成形术-见关节成形术","arthroplasty-see Arthroplasty",
+892,7,"关节固定术-见关节固定术","arthrodesis-see Arthrodesis",
+892,7,"牙龈成形术","gingivoplasty",24.2
+892,7,"延长-见延长,骨","lengthening-see Lengthening, bone",
+892,6,"鼻-见移植物,鼻","nose-see Graft, nose",
+892,6,"髌骨","patella",78.06
+892,6,"尺骨","ulna",78.03
+892,6,"腓骨","fibula",78.07
+892,6,"跗骨,跖骨","tarsal, metatarsal",78.08
+892,6,"肱骨","humerus",78.02
+892,6,"股骨","femur",78.05
+892,6,"骨盆","pelvic",78.09
+892,6,"骨髓-见移植物,骨,骨髓","marrow-see Transplant, bone, marrow",
+892,6,"关节-见关节成形术","joint-see Arthroplasty",
+892,6,"脊柱","spine",78.09
+892,7,"伴融合术-见融合术,脊髓的","with fusion-see Fusion, spinal",
+892,6,"肩胛骨","scapula",78.01
+892,6,"胫骨","tibia",78.07
+892,6,"颅骨","skull",02.04
+892,6,"颅骨膜的","pericranial",02.04
+892,6,"面的 NEC","facial NEC",76.91
+892,7,"伴全部骨切除术","with total ostectomy",76.44
+892,6,"拇指(伴皮肤皮瓣转移术)","thumb (with transfer of skin flap)",82.69
+892,6,"桡骨","radius",78.03
+892,6,"锁骨","clavicle",78.01
+892,6,"特指部位 NEC","specified site NEC",78.09
+892,6,"腕骨,掌骨","carpals, metacarpals",78.04
+892,6,"下颌骨","mandible",76.91
+892,7,"伴全部下颌骨切除术","with total mandibulectomy",76.41
+892,6,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",78.01
+892,6,"趾骨(足)(手)","phalanges (foot) (hand)",78.09
+892,6,"椎骨","vertebrae",78.09
+893,7,"伴融合术-见融合术,脊髓的","with fusion-see Fusion, spinal",
+893,5,"鼓膜-另见鼓室成形术","tympanium-see also Tympanoplasty",19.4
+893,5,"关节-见关节成形术","joint-see Arthroplasty",
+893,5,"管状的(管)-见移植物,皮肤,蒂","tubular (tube)-see Graft, skin, pedicle",
+893,5,"喉","larynx",31.69
+893,5,"肌肉","muscle",83.82
+893,6,"手","hand",82.72
+893,5,"颊沟","buccal sulcus",27.99
+893,5,"腱","tendon",83.81
+893,6,"手","hand",82.79
+893,6,"用于关节修补术-见关节成形术","for joint repair-see Arthroplasty",
+893,5,"角膜-另见角膜成形术","cornea-see also Keratoplasty",11.60
+893,5,"结膜(游离)(黏膜)","conjunctiva (free) (mucosa)",10.44
+893,6,"用于睑球粘连修补术","for symblepharon repair",10.41
+893,5,"筋膜","fascia",83.82
+893,6,"伴疝修补术-见修补术,疝","with hernia repair-see Repair, hernia",
+893,6,"附骨软骨","tarsal cartilage",08.69
+893,6,"手","hand",82.72
+893,6,"眼睑","eyelid",08.32
+893,5,"静脉(补片)","vein (patch)",39.58
+893,6,"伴","with",
+893,7,"合成补片(涤纶)(聚四氟乙烯)","synthetic patch (Dacron) (Teflon)",39.57
+893,7,"切除术或血管切除术-见静脉切除术,伴移植物置换","excision or resection of vessel-see Phlebectomy, with graft replacement",
+893,7,"组织补片(静脉)(自体的)(自体移植)","tissue patch (vein) (autogenous) (homograft)",39.56
+893,5,"口,除外腭","mouth, except palate",27.56
+893,6,"全层","full-thickness",27.55
+893,5,"眶(骨)(软骨)(皮肤)","orbit (bone) (cartilage) (skin)",16.63
+893,5,"淋巴结构(管道)(结)(血管)","lymphatic structure(s) (channel) (node) (vessel)",40.9
+893,5,"流出道(补片)(肺动脉瓣膜)","outflow tract (patch) (pulmonary valve)",35.26
+893,6,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+893,5,"卵巢","ovary",65.92
+893,5,"眉-另见再建造术,眼睑,伴移植","eyebrow-see also Reconstruction, eyelid, with graft",08.69
+893,5,"拇指(用于重建术) NEC","thumb (for reconstruction) NEC",82.69
+893,5,"囊袋-见移植物,皮肤,蒂","pocket-see Graft, skin, pedicle",
+893,5,"脑膜(脑的)","meninges (cerebral)",02.12
+893,5,"颞肌至眶","temporalis muscle to orbit",16.63

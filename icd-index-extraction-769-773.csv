@@ -1,0 +1,173 @@
+page,level,chinese,english,code
+769,3,"骨髓 NEC","marrow NEC",41.98
+769,3,"颅骨 NEC","skull NEC",02.99
+769,3,"面","facial",76.99
+769,3,"损伤 NEC-见亚目","injury NEC-see subcategory",79.9
+769,2,"古德鲍尔(阴道)","Goodall-Power (vagina)",70.4
+769,2,"关节(囊)(韧带)(结构) NEC","joint (capsule) (ligament) (structure) NEC",81.99
+769,3,"面的 NEC","facial NEC",76.99
+769,2,"过滤(用于青光眼)","filtering (for glaucoma)",12.79
+769,3,"伴虹膜切除术","with iridectomy",12.65
+769,2,"哈策(输尿管肾囊肿吻合术)","Hutch (ureteroneocystostomy)",56.74
+769,2,"哈格纳(附睾切开术)","Hagner (epididymotomy)",63.92
+769,2,"哈里逊理查德森(阴道悬吊术)","Harrison-Richardson (vaginal suspension)",70.77
+769,3,"伴移植物或假体","with graft or prosthesis",70.78
+769,2,"哈特曼-见结肠切除术,按部位","Hartmann-see Colectomy, by site",
+769,2,"海比尼特-伊登(肩关节盂骨阻塞)","Hybinette-eden (glenoid bone block)",78.01
+769,2,"海勒(食管肌切开术)","Heller (esophagomyotomy)",42.7
+769,2,"海曼(软组织松解用于畸形足)","Heyman (soft tissue release for clubfoot)",83.84
+769,2,"海曼-赫顿(-斯卓尔)(内翻跖矫正术)","Heyman-Herndon (-Strong) (correction of metatarsus varus)",80.48
+769,2,"海拿克-米库利茨(幽门成形术)-见亚目","Heineke-Mikulicz (pyloroplasty)-see subcategory",44.2
+769,2,"海因(睫状体分离术)","Heine (cyclodialysis)",12.55
+769,2,"汉普顿(小肠与直肠残端吻合术)","Hampton (anastomosis small intestine to rectal stump)",45.92
+769,2,"豪塞","Hauser",
+769,3,"髌骨稳定术","stabilization of patella",81.44
+769,3,"跟腱切断术","achillotenotomy",83.11
+769,3,"踇囊肿切除术伴内收肌腱移植术","bunionectomy with adductor tendon transfer",77.53
+769,2,"颌下腺或管 NEC","submaxillary gland or duct NEC",26.99
+769,2,"赫斯特伦(迷行肾血管移植)","Hellstrom (transplantation of aberrant renal vessel)",39.55
+769,2,"黑-葛若夫斯(前交叉韧带重建术)","Hey-Groves (reconstruction of anterior cruciate ligament)",81.45
+769,2,"黑加(会阴缝合术)","Hegar (perineorrhaphy)",71.79
+769,2,"黑氏(足截断术)","Hey (amputation of foot)",84.12
+769,2,"亨利(空肠转位)","Henley (jejunal transposition)",43.81
+769,2,"横膈 NEC","diaphragm NEC",34.89
+769,2,"虹膜 NEC","iris NEC",12.97
+770,3,"嵌顿术","inclusion",12.63
+770,2,"喉 NEC","larynx NEC",31.98
+770,2,"后房(眼) NEC","posterior chamber (eye) NEC",14.9
+770,2,"后推(腭裂修补术)","push-back (cleft palate repair)",27.62
+770,2,"呼吸(管道) NEC","respiratory (tract) NEC",33.99
+770,2,"怀特(跟腱延长术,经不完全的腱切断术)","White (lengthening of tendo calcaneus by incomplete tenotomy)",83.11
+770,2,"怀特黑德","Whitehead",
+770,3,"舌截除术,根治性","glossectomy, radical",25.4
+770,3,"痔切除术","hemorrhoidectomy",49.46
+770,2,"回肠 NEC","ileum NEC",46.99
+770,2,"回肠襻","ileal loop",56.51
+770,2,"惠勒","Wheeler",
+770,3,"减半操作(眼睑)","halving procedure (eyelid)",08.24
+770,3,"睑内翻修补术","entropion repair",08.44
+770,2,"惠普尔(根治胰十二指肠切除术)","Whipple (radical pancreaticoduodenectomy)",52.7
+770,3,"蔡尔德改进型(根治性胰腺大部切除术)","Child modification (radical subtotal pancreatectomy)",52.53
+770,3,"罗德尼史密斯改进型(根治性胰腺次全切除术)","Rodney Smith modification (radical subtotal pancreatectomy)",52.53
+770,2,"惠特曼","Whitman",
+770,3,"距骨切除术","talectomy",77.98
+770,3,"髋重建术","hip reconstruction",81.40
+770,3,"前锯肌修补术","repair of serratus anterior muscle",83.87
+770,3,"转子楔形骨切开术","trochanter wedge osteotomy",77.25
+770,3,"足稳定术(距骨切除术)","foot stabilization (talectomy)",77.98
+770,2,"会阴(女性) NEC","perineum (female) NEC",71.8
+770,3,"男性 NEC","male NEC",86.99
+770,2,"霍尔思","Holth",
+770,3,"巩膜切除术","sclerectomy",12.65
+770,3,"虹膜嵌顿术","iridencleisis",12.63
+770,2,"霍尔斯特德-见修补术,疝,腹股沟的","Halsted-see Repair, hernia, inguinal",
+770,2,"霍尔斯特德乳房切除术","Halsted mastectomy",85.45
+770,2,"霍夫迈斯特(胃切除术)","Hofmeister (gastrectomy)",43.7
+770,2,"霍克","Hoke",
+770,3,"跗骨间融合术","midtarsal fusion",81.14
+770,3,"三关节固定术","triple arthrodesis",81.12
+770,2,"霍曼(淋巴水肿矫正术)","Homan (correction of lymphedema)",40.9
+770,2,"肌 NEC","muscle NEC",83.99
+770,3,"手 NEC","hand NEC",82.99
+770,3,"心乳头 NEC","papillary heart NEC",35.31
+771,3,"眼外-见手术,眼外的","extraocular-see Operation, extraocular",
+771,2,"肌肉骨骼系统 NEC","musculoskeletal system NEC",84.99
+771,2,"基德纳(副舟骨切除术)(伴腱移植)","Kidner (excision of accessory navicular bone) (with tendon transfer)",77.98
+771,2,"基利安(额的窦切开术)","Killian (frontal sinusotomy)",22.41
+771,2,"吉尔","Gill",
+771,3,"肩关节固定术","arthrodesis of shoulder",81.23
+771,3,"椎板切除术","laminectomy",03.09
+771,2,"吉尔-斯坦(腕桡关节固定术)","Gill-Stein (carporadial arthrodesis)",81.25
+771,2,"吉福德","Giffod",
+771,3,"角膜切开术(限界性)","keratotomy (delimiting)",11.1
+771,3,"泪囊破坏","destruction of lacrimal sac",09.6
+771,2,"吉利姆(子宫悬吊术)","Gilliam (uterine suspension)",69.22
+771,2,"脊椎的(管)(索)(结构) NEC","spinal (canal) (cord) (structures) NEC",03.99
+771,2,"齐格勒(虹膜切除术)","Ziegler (iridectomy)",12.14
+771,2,"加布尔-杜华纳(股骨头钻孔)","Graber-Duvernay (drilling femoral head)",77.15
+771,2,"加布里尔(腹会阴直肠切除术),NOS","Gabriel (abdominoperineal resection of rectum), NOS",48.50
+771,3,"腹腔镜的","laparoscopic",48.51
+771,3,"开放性","open",48.52
+771,3,"其他","other",48.59
+771,2,"加德纳(脊脑膜膨出修补术)","Gardner (spinal meningocele repair)",03.51
+771,2,"加尔索(胫骨腱移植术)","Garceau (tibial tendon transfer)",83.75
+771,2,"颊腔 NEC","buccal cavity NEC",27.99
+771,2,"甲状旁腺 NEC","parathyroid gland(s) NEC",06.99
+771,2,"甲状腺 NEC","thyroid gland NEC",06.98
+771,2,"睑板 NEC","tarsus NEC",08.99
+771,3,"肌肉悬吊","muscle sling",08.35
+771,2,"睑缝合(睑下垂)","lid suture (blepharoptosis)",08.31
+771,2,"腱 NEC","tendon NEC",83.99
+771,3,"手 NEC","hand NEC",82.99
+771,3,"眼外的 NEC","extraocular NEC",15.9
+771,2,"腱索 NEC","chordae tendineae NEC",35.32
+771,2,"交感神经 NEC","sympathetic nerve NEC",05.89
+771,2,"角膜 NEC","cornea NEC",11.99
+771,2,"结(淋巴) NEC","node (lymph) NEC",40.9
+771,2,"结肠 NEC","colon NEC",46.99
+771,2,"结膜 NEC","conjunctiva NEC",10.99
+771,3,"破坏性 NEC","destructive NEC",10.33
+771,2,"捷特尼(动脉调转)","Jatene (arterial switch)",35.84
+772,2,"睫状体 NEC","ciliary body NEC",12.98
+772,2,"筋膜 NEC","fascia NEC",83.99
+772,3,"手","hand",82.99
+772,2,"金斯蒂奎斯特(后肢截断术)","King-Steelquist (hindquarter amputation)",84.19
+772,2,"精囊 NEC","seminal vesicle NEC",60.79
+772,2,"精索 NEC","spermatic cord NEC",63.99
+772,2,"晶体 NEC","lens NEC",13.90
+772,2,"颈动脉体或腺 NEC","carotid body or gland NEC",39.89
+772,2,"静脉 NEC","vein NEC",39.99
+772,2,"居荣(踝截断术)","Guyon (amputation of ankle)",84.13
+772,2,"绝育术 NEC","sterilization NEC",
+772,3,"男性-见见结扎,输精管","male-see also Ligation, vas deferens",63.70
+772,3,"女性-另见特指的手术","female-see also specific operation",66.39
+772,2,"卡德尔(暂时性胃造口术)","Kader (temporary gastrostomy)",43.19
+772,2,"卡尔普-迪威尔德(螺旋形的皮瓣肾盂成形术)","Culp-Deweerd (spiral flap pyeloplasty)",55.87
+772,2,"卡尔普-斯卡迪诺(输尿管皮瓣肾盂成形术)","Culp-Scardino (ureteral flap pyeloplasty)",55.87
+772,2,"卡兰德(膝关节离断)","Callander (knee disarticulation)",84.16
+772,2,"卡罗尔和泰伯(关节成形术近端趾(趾)间关节)","Carroll and Taber (arthroplasty proximal interphalangeal joint)",81.72
+772,2,"卡特尔(疝缝合术)","Cattell (herniorrhaphy)",53.51
+772,2,"卡赞吉安(颊前庭颊唇沟或舌沟牵伸术)","Kazanjian (buccal vestibular sulcus extension)",24.91
+772,2,"开窗术(主动脉)","fenestration (aorta)",39.54
+772,2,"凯尔(肝固定术)","Kehr (hepatopexy)",50.69
+772,2,"凯勒(踇囊肿切除术)","Keller (bunionectomy)",77.59
+772,2,"凯利(-肯尼迪)(尿道膀胱折叠术)","Kelly (-Kennedy) (urethrovesical plication)",59.3
+772,2,"凯利-斯托克尔(尿道膀胱折叠术)","Kelly-Stoeckel (urethrovesical plication)",59.3
+772,2,"凯斯勒(关节成形术,腕掌关节)","Kessler (arthroplasty, carpometacarpal joint)",81.74
+772,2,"坎贝尔","Campbell",
+772,3,"骨块融合术,踝","bone block, ankle",81.11
+772,3,"筋膜切开术(髂嵴)","fasciotomy (iliac crest)",83.14
+772,3,"前交叉韧带重建术","reconstruction of anterior cruciate ligaments",81.45
+772,2,"康多利昂(淋巴水肿矫正术)","Kondoleon (correction of lymphedema)",40.9
+773,2,"康曼多(根治性舌切除术)","commando (radical glossectomy)",25.4
+773,2,"抗失禁 NEC","anti-incontinence NEC",59.79
+773,2,"考德威尔(颊唇沟或舌沟牵伸术)","Caldwell (sulcus extension)",24.91
+773,2,"考德威尔-卢克(上颌窦切开术)","Caldwell-Luc (maxillary sinusotomy)",22.39
+773,3,"伴膜衬切除术","with removal of membrane lining",22.31
+773,2,"考夫曼(用于尿道口失禁)","Kaufman (for urinary stress incontinence)",59.79
+773,2,"考文垂(胫骨楔形骨切开术)","Coventry (tibial wedge osteotomy)",77.27
+773,2,"柯蒂斯(指(趾)间关节成形术)","Curtis (interphalangeal joint arthroplasty)",81.72
+773,2,"柯克(经大腿截断术)","Kirk (amputation through thigh)",84.17
+773,2,"科迪钉(镫骨底板穿孔)","Cody tack (perforation of footplate)",19.0
+773,2,"科尔(前跗骨楔形骨切开术)","Cole (anterior tarsal wedge osteotomy)",77.28
+773,2,"科菲(子宫悬吊术)(Meigs 改进型)","Coffey (uterine suspension) (Meigs' modification)",69.22
+773,2,"科凯特(静脉曲张)","Cockett (varicose vein)",
+773,3,"上肢","upper limb",38.53
+773,3,"下肢","lower limb",38.59
+773,2,"科克囊","Kock pouch",
+773,3,"ESWL(体外休克波碎石术)","ESWL (electrocorporeal shockwave lithotripsy)",98.51
+773,3,"肠吻合术-省略编码","bowel anastomosis-omit code",
+773,3,"节制性回肠造口术","continent ileostomy",46.22
+773,3,"泌尿系转流操作","urinary diversion procedure",56.51
+773,3,"皮肤输尿管回肠造口术","cutaneous uretero-ileostomy",56.51
+773,3,"去除,结石","removal, calculus",57.19
+773,3,"修复术,皮肤输尿管回肠造口术","revision, cutaneous uretero-ileostomy",56.52
+773,2,"科利斯-尼森(裂孔疝修补术)","Collis-Nissen (hiatal hernia repair)",53.80
+773,2,"科隆纳","Colonna",
+773,3,"髋关节成形术(二期)","hip arthroplasty (second stage)",81.40
+773,3,"髋重建术(二期)","reconstruction of hip (second stage)",81.40
+773,3,"内收肌腱切断术(一期)","adductor tenotomy (first stage)",83.12
+773,2,"克尔(剖宫产术)","Kerr (cesarean section)",74.1
+773,2,"克拉格特(开放皮瓣引流后胸壁闭合)","Clagett (closure of chest wall following open flap drainage)",34.72
+773,2,"克莱顿(跖骨头和趾骨底部切除术)","Clayton (resection of metatarsal heads and bases of phalanges)",77.88
+773,2,"克劳福德(眼睑睑板额肌悬吊术)","Crawford (tarso-frontalis sling of eyelid)",08.32

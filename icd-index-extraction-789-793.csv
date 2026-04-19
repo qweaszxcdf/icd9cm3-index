@@ -1,0 +1,192 @@
+page,level,chinese,english,code
+789,2,"输精管附睾吻合术","Epididymovasostomy",63.83
+789,2,"输精管结扎","Vasoligation",63.71
+789,2,"输精管切除术(完全的)(部分的)","Vasectomy (complete) (partial)",63.73
+789,2,"输精管切开术","Vasotomy",63.6
+789,2,"输精管输精管吻合术","Vasovasostomy",63.82
+789,2,"输精管压扎术","Vasotripsy",63.71
+789,2,"输精管造口术","Vasostomy",63.6
+789,2,"输精管造影","Vasogram",87.94
+789,2,"输卵管成形术","Salpingoplasty",66.79
+789,2,"输卵管缝合术","Salpingorrhaphy",66.71
+789,2,"输卵管卵巢成形术","Salpingo-oophoroplasty",65.73
+789,3,"腹腔镜的","laparoscopic",65.76
+789,2,"输卵管卵巢缝合术","Salpingo-oophorrhaphy",65.79
+789,2,"输卵管卵巢切除术(单侧)","Salpingo-oophorectomy (unilateral)",65.49
+789,3,"残留或孤立管和卵巢","remaining or solitary tube and ovary",65.62
+789,3,"腹腔镜的","laparoscopic",65.64
+789,3,"经腹腔镜","that by laparoscope",65.41
+789,3,"双侧(同期手术)","bilateral (same operative episode)",65.61
+789,4,"腹腔镜的","laparoscopic",65.63
+789,2,"输卵管卵巢切开术","Salpingo-oophorotomy",65.09
+789,3,"腹腔镜","laparoscopic",65.01
+789,2,"输卵管卵巢造口术","Salpingo-oophorostomy",66.72
+789,2,"输卵管切除术(双侧)(全部)(经阴道)","Salpingectomy (bilateral) (total) (transvaginal)",66.51
+789,3,"伴卵巢切除术","with oophorectomy",65.61
+789,4,"腹腔镜","laparoscopic",65.63
+789,3,"部分(单侧)","partial (unilateral)",66.69
+789,4,"伴去除输卵管妊娠","with removal of tubal pregnancy",66.62
+789,4,"双侧","bilateral",66.63
+789,5,"用于绝育","for sterilization",66.39
+789,6,"经内镜检查","by endoscopy",66.29
+789,3,"残留或孤立的输卵管","remaining or solitary tube",66.52
+789,4,"伴卵巢","with ovary",65.62
+789,5,"腹腔镜","laparoscopic",65.64
+789,3,"单侧(全部)","unilateral (total)",66.4
+789,4,"伴","with",
+789,5,"卵巢切除术","oophorectomy",65.49
+789,5,"腹腔镜","laparoscopic",65.41
+789,5,"去除输卵管妊娠","removal of tubal pregnancy",66.62
+789,4,"部分","partial",66.69
+789,2,"输卵管切开术","Salpingotomy",66.01
+790,2,"输卵管全部切除术-另见输卵管切除术,部分","Fimbriectomy-see also Salpingectomy, partial",66.69
+790,3,"内田(伴输卵管结扎)","Uchida (with tubal ligation)",66.32
+790,2,"输卵管输卵管吻合术","Salpingosalpingostomy",66.73
+790,2,"输卵管造口术(用于去除无破裂异位妊娠)","Salpingostomy (for removal of non-ruptured ectopic pregnancy)",66.02
+790,2,"输卵管造影术","Salpingography",87.85
+790,2,"输卵管子宫吻合术","Salpingo-uterostomy, Salpingohysterostomy",66.74
+790,2,"输尿管肠管吻合术","Ureteroenterostomy",56.71
+790,2,"输尿管成形术","Ureteroplasty",56.89
+790,2,"输尿管缝合术","Ureterorrhaphy",56.82
+790,2,"输尿管固定术","Ureteropexy",56.85
+790,2,"输尿管回肠吻合术(内转流)","Ureteroileostomy (internal diversion)",56.71
+790,3,"外转流","external diversion",56.51
+790,2,"输尿管结肠吻合术","Ureterocolostomy",56.71
+790,2,"输尿管镜检查","Ureteroscopy",56.31
+790,3,"伴活组织检查","with biopsy",56.33
+790,2,"输尿管盲肠吻合术","Ureterocecostomy",56.71
+790,2,"输尿管膀胱吻合术","Ureterocystostomy",56.74
+790,2,"输尿管切除术","Ureterectomy",56.40
+790,3,"伴肾上腺切除术","with nephrectomy",55.51
+790,3,"部分的","partial",56.41
+790,3,"全部的","total",56.42
+790,2,"输尿管切开取石术","Ureterolithotomy",56.2
+790,2,"输尿管切开术","Ureterotomy",56.2
+790,2,"输尿管疝切除术","Ureterocelectomy",56.41
+790,2,"输尿管肾囊肿吻合术","Ureteroneocystostomy",56.74
+790,2,"输尿管肾盂成形术","Ureteropyeloplasty",55.87
+790,2,"输尿管肾盂吻合术","Ureteropyelostomy",55.86
+790,2,"输尿管肾盂造影(静脉内)(利尿药输注)","Ureteropyelography (intravenous) (diuretic infusion)",87.73
+790,3,"经皮的","percutaneous",87.75
+790,3,"逆行的","retrograde",87.74
+790,2,"输尿管输尿管吻合术(交叉)","Ureteroureterostomy (crossed)",56.75
+790,3,"切除术伴端端吻合术","resection with end-to-end anastomosis",56.41
+790,3,"腰的","lumbar",56.41
+790,3,"竹片状的","spatulated",56.41
+790,2,"输尿管松解术","Ureterolysis",59.02
+790,3,"伴输尿管松解或复位","with freeing or repositioning of ureter",59.02
+790,3,"腹腔镜","laparoscopic",59.03
+791,2,"输尿管乙状结肠吻合术","Ureterosigmoidostomy",56.71
+791,2,"输尿管造口术(皮肤的)(外部)(管)","Ureterostomy (cutaneous) (external) (tube)",56.61
+791,3,"闭合","closure",56.83
+791,3,"回肠","ileal",56.51
+791,2,"输尿管折叠术","Ureteroplication",56.89
+791,2,"输尿管直肠吻合术","Ureteroproctostomy",56.71
+791,2,"输注(--的)","Transfusion (of)",99.03
+791,3,"Dextran","Dextran",99.08
+791,3,"γ球蛋白","gamma globulin",99.14
+791,3,"宫内","intrauterine",75.2
+791,3,"骨髓","bone marrow",41.00
+791,4,"异体移植","allograft",41.03
+791,5,"伴净化","with purging",41.02
+791,4,"异源的","allogeneic",41.03
+791,5,"伴净化","with purging",41.02
+791,4,"自体的","autologous",41.01
+791,5,"伴净化","with purging",41.09
+791,4,"自体移植","autograft",41.01
+791,5,"伴净化","with purging",41.09
+791,3,"换血","exsanguination",99.01
+791,3,"交换","exchange",99.01
+791,4,"腹膜内的","intraperitoneal",75.2
+791,4,"子宫内(伴子宫切开术)","in utero (with hysterotomy)",75.2
+791,3,"抗蛇毒素","antivenin",99.16
+791,3,"抗血友因子","antihemophilic factor",99.06
+791,3,"粒细胞","granulocytes",99.09
+791,3,"凝固因子","coagulation factors",99.06
+791,3,"血(全部)NOS","blood (whole) NOS",99.03
+791,4,"代用品","surrogate",99.09
+791,4,"扩张剂","expander",99.08
+791,3,"血浆","plasma",99.07
+791,3,"血清 NEC","serum NEC",99.07
+791,3,"血小板","platelets,thrombocytes",99.05
+791,3,"血液稀释","hemodilution",99.03
+791,3,"压缩细胞","packed cells",99.04
+791,3,"置换(血),全部","replacement,total",99.01
+791,3,"置换(血)","substitution",99.01
+791,3,"自体血","autologous blood",
+791,4,"手术后","postoperative",99.00
+791,4,"手术前后的","perioperative",99.00
+791,4,"术前收集","collected prior to surgery",99.02
+792,4,"术中","intraoperative",99.00
+792,4,"血液回收","salvage",99.00
+792,4,"以前收集的","previously collected",99.02
+792,2,"输注(动脉内)(静脉内)","Infusion (intra-arterial) (intravenous)",
+792,3,"cintredekinbesudotox(抗肿瘤药)","cintredekin besudotox",99.28
+792,3,"CLO","CLO",17.70
+792,3,"GP II B/IIa 抑制剂","GP II B/IIa inhibitor",99.20
+792,3,"IgG(免疫球蛋白)","IgG (immunoglobulin)",99.14
+792,3,"IVIG(免疫球蛋白)(IVIg)","IVIG (immunoglobulin) (IVIg)",99.14
+792,3,"γ球蛋白","gamma globulin",99.14
+792,3,"阿地白介素(小剂量)","Proleukin (low-dose)",99.28
+792,4,"大剂量","high-dose",00.15
+792,3,"阿昔单抗","Abciximab",99.20
+792,3,"埃替非巴肽","Eptifibatide",99.20
+792,3,"癌瘤化学疗法物质 NEC","cancer chemotherapy agent NEC",99.25
+792,3,"白细胞介素-2","interleukin-2",
+792,4,"大剂量","high-dose",00.15
+792,4,"小剂量","low-dose",99.28
+792,3,"伴","with",
+792,4,"血脑屏障破坏术[BBBD]","disruption of blood brain barrier [BBBD]",00.19
+792,3,"电解液","electrolytes",99.18
+792,3,"放射免疫疗法","radioimmunotherapy",92.28
+792,3,"放射免疫偶联物","radioimmunoconjugate",92.28
+792,3,"放射性核素(液体短程治疗)(液体I-125)","radioisotope (liquid brachytherapy) (liquid I-125)",92.20
+792,3,"激素物质 NEC","hormone substance NEC",99.24
+792,3,"抗生素","antibiotic",
+792,4,"噁唑烷酮类","oxazolidinone class",00.14
+792,3,"抗肿瘤物质(化疗性)","antineoplastic agent (chemotherapeutic)",99.25
+792,4,"cintredekinbesudotox(抗肿瘤药)","cintredekin besudotox",99.28
+792,4,"CLO","CLO",17.70
+792,4,"大剂量白细胞介素-2","high-dose interleukin-2",00.15
+792,4,"氯法拉滨","clofarabine,CLOLAR®",17.70
+792,4,"生物反应修饰剂[BRM]","biological response modifier [BRM]",99.28
+792,4,"小剂量白细胞介素-2","low-dose interleukin-2",99.28
+792,3,"淋巴细胞","lymphocyte",99.09
+792,3,"氯法拉滨","CLOLAR®,clofarabine",17.70
+792,3,"酶,溶解血栓的(链激酶)(组织血浆酶原催化剂)(TPA)(尿激酶)","enzymes, thrombolytic (streptokinase) (tissue plasminogen activator) (TPA) (urokinase)",
+793,4,"静脉内","intravenous",99.10
+793,4,"直接冠状动脉","direct coronary artery",36.04
+793,3,"免疫球蛋白(IgG)(IVIG)(IVIg)","immunoglobulin (IgG) (IVIG) (IVIg)",99.14
+793,3,"免疫抑制抗体治疗","immunosuppressive antibody therapy",00.18
+793,3,"尼莫地平","nimodipine",99.75
+793,3,"人B型利尿钠肽(hBNP)","human B-type natriuretic peptide (hBNP)",00.13
+793,3,"溶栓剂(酶)(链激酶)","thrombolytic agent (enzyme) (streptokinase)",99.10
+793,4,"伴经皮经管腔血管成形术","with percutaneous transluminal angioplasty",
+793,5,"非冠状血管","non-coronary vessel(s)",39.50
+793,5,"冠状","coronary",00.66
+793,5,"特指部位 NEC","specified site NEC",39.50
+793,5,"直接冠状动脉内","direct intracoronary artery",36.04
+793,4,"瑞替普酶(一种溶栓药)","reteplase",99.10
+793,4,"神经保护剂","neuroprotective agent",99.75
+793,4,"生物反应修饰剂[BRM],抗肿瘤物质","biological response modifier [BRM], antineoplastic agent",99.28
+793,5,"cintredekinbesudotox(抗肿瘤药)","cintredekin besudotox",99.28
+793,5,"大剂量白细胞介素-2","high-dose interleukin-2",00.15
+793,5,"小剂量白细胞介素-2","low-dose interleukin-2",99.28
+793,4,"替罗非班(HCL)","tirofiban (HCL)",99.20
+793,4,"血管加压的","vasopressor",00.17
+793,4,"血小板抑制剂","platelet inhibitor",
+793,5,"静脉内","intravenous",99.20
+793,5,"直接冠状动脉","direct coronary artery",36.04
+793,4,"疫苗","vaccine",
+793,5,"瘤","tumor",99.28
+793,3,"营养物质-见营养","nutritional substance-see Nutrition",
+793,3,"预防性物质 NEC","prophylactic substance NEC",99.29
+793,3,"治疗性物质 NEC","therapeutic substance NEC",99.29
+793,3,"重组B型尿钠肽多肽","nesiritide",00.13
+793,3,"重组蛋白","recombinant protein",00.11
+793,3,"重组人类活化 C 蛋白(活性的)","drotrecogin alfa (activated)",00.11
+793,2,"舒夏特手术-见 Schuchardt 手术","舒夏特手术-see Schuchardt operation",
+793,2,"刷除术,结膜","Grattage, conjunctiva",10.31
+793,2,"栓结术","Wiring",
+793,3,"动脉瘤","aneurysm",39.52
+793,3,"牙齿(用于固定)","dental (for immobilization)",93.55

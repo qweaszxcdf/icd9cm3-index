@@ -1,0 +1,189 @@
+page,level,chinese,english,code
+619,3,"高温疗法,用于癌瘤治疗","hyperthermia for cancer treatment",99.85
+619,3,"热疗法","heat therapy",93.35
+619,3,"物理疗法","physical therapy",93.35
+619,3,"治疗性-见超声","therapeutic-see Ultrasound",
+619,2,"持续正气道压(CPAP)","continuous positive airway pressure (CPAP)",93.90
+619,3,"由","delivered by",
+619,4,"气管内管-见亚目","endotracheal tube-see subcategory",96.7
+619,4,"气管造口-见亚目","tracheostomy-see subcategory",96.7
+619,2,"电抽搐(ETT)","electrotonic (ETT)",94.27
+619,2,"电惊厥(ECT)","electroconvulsive (ECT)",94.27
+619,2,"电休克(EST)","electroshock (EST)",94.27
+619,3,"亚抽搐","subconvulsive",94.26
+619,2,"二氧化碳","carbon dioxide",94.25
+619,2,"放射","radiation",92.29
+619,3,"表浅的(150KVP或小于)","superficial (150 KVP or less)",92.21
+619,3,"超高电压","supervoltage",92.24
+619,3,"低电压(150KVP或小于)","low voltage (150 KVP or less)",92.21
+619,3,"电子,手术中","electron, intra-operative",92.41
+619,3,"放射性核素(放射疗法)","radioisotope (teleradiotherapy)",92.23
+619,3,"高电压(200~300KVP)","high voltage (200~300 KVP)",92.22
+619,3,"光子","photon",92.24
+619,3,"接触性(150KVP或小于)","contact (150 KVP or less)",92.21
+619,3,"粒子源 NEC","particle source NEC",92.26
+619,3,"深(200~300KVP)","deep (200~300 KVP)",92.22
+619,3,"视网膜病损","retinal lesion",14.26
+619,3,"兆伏电压","megavoltage",92.24
+619,3,"中电压","orthovoltage",92.22
+619,2,"放射性核素,放射性核素的 NEC","radioisotope, radioisotopic NEC",92.29
+619,3,"放射疗法","teleradiotherapy",92.23
+619,3,"植入或插入","implantation or insertion",92.27
+619,3,"注射或灌输","injection or instillation",92.28
+619,2,"高温疗法 NEC","hyperthermia NEC",93.35
+619,3,"用于癌治疗","for cancer treatment",99.85
+619,2,"高压氧","hyperbaric oxygen",93.95
+619,3,"伤口","wound",93.59
+619,2,"个人,精神病学的 NEC","individual, psychiatric NEC",94.39
+619,3,"用于精神性功能障碍","for psychosexual dysfunction",94.34
+619,2,"根管","root canal",23.70
+619,3,"伴","with",
+619,4,"冲洗","irrigation",23.71
+619,4,"根尖切除术","apicoectomy",23.72
+620,2,"工业生产","industrial",93.89
+620,2,"钴-60","cobalt-60",92.23
+620,2,"过饱和氧(SSO2)","SuperOxygenation (SSO2)",00.49
+620,2,"过饱和氧","SuperSaturated oxygen",00.49
+620,2,"氦","helium",93.98
+620,2,"红外线放射","infrared irradiation",93.35
+620,2,"呼吸 NEC","respiratory NEC",93.99
+620,3,"持续气道正压[CPAP]","continuous positive airway pressure [CPAP]",93.90
+620,4,"由","delivered by",
+620,5,"气管内管-见亚目","endotracheal tube-see subcategory",96.7
+620,5,"气管造口-见亚目","tracheostomy-see subcategory",96.7
+620,3,"非侵入性正压(NIPPV)","non-invasive positive pressure (NIPPV)",93.90
+620,3,"负压(持续性)[CNP]","negative pressure (continuous) [CNP]",93.99
+620,3,"间歇性正压呼吸[IPPB]","intermittent positive pressure breathing [IPPB]",93.91
+620,3,"其他持续性(未特指时限)","other continuous invasive (unspecified duration)",96.70
+620,4,"用于连续96小时或多","for 96 consecutive hours or more",96.72
+620,4,"用于少于连续96小时","for less than 96 consecutive hours",96.71
+620,3,"气管内呼吸辅助-见亚目","endotracheal respiratory assistance-see subcategory",96.7
+620,3,"双水平正气压[BiPAP]","bi-level positive airway pressure [BiPAP]",93.90
+620,4,"由","delivered by",
+620,5,"气管内管-见亚目","endotracheal tube-see subcategory",96.7
+620,5,"气管造口-见亚目","tracheostomy-see subcategory",96.7
+620,3,"氧化一氮","nitric oxide",00.12
+620,3,"正末呼气压[PEEP]","positive end expiratory pressure [PEEP]",
+620,4,"非侵入的","non-invasive",93.90
+620,4,"侵入性-见亚目","invasive-see subcategory",96.7
+620,2,"家庭","family",94.42
+620,2,"家务","domestic tasks",93.83
+620,3,"用于盲","for the blind",93.78
+620,2,"间歇性正压呼吸(IPPB)","intermittent positive pressure breathing (IPPB)",93.91
+621,2,"教育的(卧床儿童)(残疾的)","educational (bed-bound children) (handicapped)",93.82
+621,2,"精神病学的 NEC","psychiatric NEC",94.39
+621,3,"药物 NEC","drug NEC",94.25
+621,4,"锂","lithium",94.22
+621,2,"精神抑制药","neuroleptic",94.23
+621,2,"康复 NEC","rehabilitation NEC",93.89
+621,2,"来访团组","encounter group",94.44
+621,2,"镭(氡)","radium (radon)",92.23
+621,2,"锂","lithium",94.22
+621,2,"盲康复 NEC","blind rehabilitation NEC",93.78
+621,2,"美沙酮","methadone",94.25
+621,2,"末正呼气压-见亚目","positive end expiratory pressure-see subcategory",96.7
+621,2,"喷雾(吸入)","mist (inhalation)",93.94
+621,2,"喷雾器","nebulizer",93.94
+621,2,"蛆","maggot",86.28
+621,2,"热 NEC","heat NEC",93.35
+621,3,"用于癌瘤治疗","for cancer treatment",99.85
+621,2,"热敷","hot pack(s)",93.35
+621,2,"日常活动","daily living activities",93.83
+621,3,"为盲人","for the blind",93.78
+621,2,"石蜡浴","paraffin bath",93.35
+621,2,"手法操作,骨病的一另见处理,骨病的","manipulative, osteopathic-see also Manipulation, osteopathic",93.67
+621,2,"手工艺","manual arts",93.81
+621,2,"水氧(AO)","aqueous oxygen (AO)",00.49
+621,2,"水蛭","leech",99.99
+621,2,"跳舞","dance",93.89
+621,2,"听觉 NEC","hearing NEC",95.49
+621,2,"团体 NEC","group NEC",94.44
+621,3,"用于精神性功能不良","for psychosexual dysfunctions",94.41
+621,2,"脱敏","desensitization",94.33
+621,2,"脱瘾","detoxification",94.25
+621,2,"雾(吸入)","fog (inhalation)",93.94
+621,2,"物理 NEC","physical NEC",93.39
+621,3,"联合的(未提及组成部分)","combined (without mention of components)",93.38
+621,3,"诊断性 NEC","diagnostic NEC",93.09
+621,2,"吸入 NEC","inhalation NEC",93.96
+621,3,"一氧化氮","nitric oxide",00.12
+621,2,"下游系统®","Downstream® system",00.49
+622,2,"消退","extinction",94.33
+622,2,"哮吼喷雾","croupette, croup tent",93.94
+622,2,"行为","behavior",94.33
+622,2,"休克","shock",
+622,3,"电的","electric",94.27
+622,4,"亚抽搐","subconvulsive",94.26
+622,3,"化学的","chemical",94.24
+622,4,"胰岛素","insulin",94.24
+622,3,"训练,精神病学的","conditioning, psychiatric",94.33
+622,2,"氧","oxygen",93.96
+622,3,"催化性","catalytic",93.96
+622,4,"高压","hyperbaric",93.95
+622,5,"伤口","wound",93.59
+622,4,"过饱和","SuperSaturated",00.49
+622,4,"伤口(高压的)","wound (hyperbaric)",93.59
+622,4,"水的","aqueous",00.49
+622,3,"氧化氮","nitric oxide",00.12
+622,2,"胰岛素休克","insulin shock",94.24
+622,2,"艺术","art",93.89
+622,2,"音乐","music",93.84
+622,2,"引导下的LITT(激光间质热疗法)","LITT (laser interstitial thermal therapy) under guidance",
+622,3,"损害","lesion",
+622,4,"肺","lung",17.69
+622,4,"肝","liver",17.63
+622,4,"甲状腺","thyroid",17.62
+622,4,"脑","brain",17.61
+622,4,"前列腺","prostate",17.69
+622,4,"乳房","breast",17.69
+622,4,"头和颈","head and neck",17.62
+622,2,"游戏","play",93.81
+622,3,"心理治疗的","psychotherapeutic",94.36
+622,2,"娱乐","recreational",93.81
+622,2,"语言","speech",93.75
+622,3,"用于缺损矫正术","for correction of defect",93.74
+622,2,"憎恶","aversion",94.33
+622,2,"职业","occupational",93.83
+622,2,"转移注意力","diversional",93.81
+622,2,"紫外线灯","ultraviolet light",99.82
+622,2,"γ线","gamma ray",92.23
+622,1,"裂缝整容(藏毛囊肿手术)","Cleft lift",86.21
+622,1,"淋巴管成形术","Lymphangioplasty",40.9
+623,1,"淋巴管缝合术","Lymphangiorrhaphy",40.9
+623,1,"淋巴管切除术(根治)-另见切除术,淋巴,结,按部位,根治","Lymphangiectomy (radical)-see also Excision, lymph, node, by site, radical",40.50
+623,1,"淋巴管切开术","Lymphangiotomy",40.0
+623,1,"淋巴管造口术","Lymphaticostomy",40.9
+623,2,"胸管","thoracic duct",40.62
+623,1,"淋巴管造影术","Lymphangiogram",
+623,2,"腹的","abdominal",88.04
+623,2,"骨盆","pelvic",88.04
+623,2,"颈的","cervical",87.08
+623,2,"上肢","upper limb",88.34
+623,2,"下肢","lower limb",88.36
+623,2,"胸内的","intrathoracic",87.34
+623,1,"淋巴结切开术","Lymphadenotomy",40.0
+623,1,"淋巴结切除术(单纯)-另见切除术,淋巴,结","Lymphadenectomy (simple)-see also Excision, lymph, node",40.29
+623,1,"林顿手术-见 Linton 手术","林顿手术- see Linton operation",
+623,1,"林霍尔姆手术-见 Lindholm 手术","林霍尔姆手术- see Lindholm operation",
+623,1,"流产,治疗性","Abortion, therapeutic",69.51
+623,2,"经","by",
+623,3,"插入","insertion",
+623,4,"昆布","laminaria",69.93
+623,4,"前列腺素栓剂","prostaglandin suppository",96.49
+623,3,"抽吸刮宫","aspiration curettage",69.51
+623,3,"扩宫和刮宫","dilation and curettage",69.01
+623,3,"羊膜腔内注射(saline)","intra-amniotic injection (saline)",75.0
+623,3,"子宫切除术-见子宫切除术","hysterectomy-see Hysterectomy",
+623,3,"子宫切开术","hysterotomy",74.91
+623,1,"聋患者训练","Deaf training",95.49
+623,1,"瘘管切除术-另见闭合,瘘,按部位","Fistulectomy-see also Closure, fistula, by site",
+623,2,"鼻唇的","nasolabial",21.82
+623,2,"鼻的","nasal",21.82
+623,3,"窦","sinus",22.71
+623,2,"鼻咽的","nasopharyngeal",21.82
+623,2,"肠","intestine",
+623,3,"大的","large",46.76
+623,3,"小的","small",46.74
+623,2,"肠子宫的","enterouterine,intestinouterine",69.42
+623,2,"胆道 NEC","biliary tract NEC",51.79
+623,2,"胆管","bile duct",51.79
