@@ -211,6 +211,19 @@ def resolve_source_file(page: int) -> str:
     return mapping.get(page, "")
 
 
+def csv_quote_text(value: str) -> str:
+    escaped = str(value).replace('"', '""')
+    return f'"{escaped}"'
+
+
+def csv_escape_if_needed(value: str) -> str:
+    text = str(value)
+    if any(ch in text for ch in [',', '"', '\n', '\r']):
+        escaped = text.replace('"', '""')
+        return f'"{escaped}"'
+    return text
+
+
 def save_source_file(file_name: str) -> None:
     file_lookup: Dict[str, Dict[str, object]] = st.session_state.file_lookup
     if file_name not in file_lookup:
@@ -230,18 +243,14 @@ def save_source_file(file_name: str) -> None:
     subset = subset.sort_values(by=["page", "_order", "_uid"], ascending=[True, True, True])
 
     with source_path.open("w", encoding="utf-8-sig", newline="") as fp:
-        writer = csv.writer(fp)
-        writer.writerow(DATA_COLUMNS)
+        fp.write(",".join(DATA_COLUMNS) + "\n")
         for _, row in subset.iterrows():
-            writer.writerow(
-                [
-                    parse_int(row["page"], 0),
-                    parse_int(row["level"], 0),
-                    parse_text(row["chinese"]),
-                    parse_text(row["english"]),
-                    parse_text(row["code"]),
-                ]
-            )
+            page_value = str(parse_int(row["page"], 0))
+            level_value = str(parse_int(row["level"], 0))
+            chinese_value = csv_quote_text(parse_text(row["chinese"]))
+            english_value = csv_quote_text(parse_text(row["english"]))
+            code_value = csv_escape_if_needed(parse_text(row["code"]))
+            fp.write(",".join([page_value, level_value, chinese_value, english_value, code_value]) + "\n")
 
 
 def get_active_page_df(page: int) -> pd.DataFrame:
