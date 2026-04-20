@@ -13,11 +13,11 @@ page,level,chinese,english,code
 459,5,"仅股骨成分","femoral component only",00.72
 459,5,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
 459,5,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
-459,4,"髋臼成分","acetabular component only",00.71
+459,5,"髋臼成分","acetabular component only",00.71
 459,4,"仅股骨成分","femoral component only",00.72
 459,4,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
 459,4,"髋臼成分","acetabular component only",00.71
-459,4,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
+459,5,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
 459,4,"髋臼和股骨成分（全部的）","acetabular and femoral components (total)",00.70
 459,4,"全部的（髋臼和股骨成分）","total (acetabular and femoral components)",00.70
 459,2,"框架（立体定向）","frame (stereotactic)",
@@ -44,7 +44,7 @@ page,level,chinese,english,code
 460,2,"泌尿系括约肌，人工（AUS）（可膨胀的）","urinary sphincter, artificial (AUS) (inflatable)",58.93
 460,2,"面骨植入（异质造形的）（人造的）","facial bone implant (alloplastic) (synthetic)",76.92
 460,2,"摩尔（杯）","Moore (cup)",81.52
-460,2,"默彼兹-乌丁伞，腔静脉","Mobitz-Uddin umbrella, vena cava",38.7
+460,2,"默彼此毕茨乌德丁伞状，腔静脉","Mobitz-Uddin umbrella, vena cava",38.7
 460,2,"脑电图接收器—见植入，脑电图接收器，按部位","electroencephalographic receiver-see Implant, electroencephalographic receiver, by site",
 460,2,"内移植物，血管内移植物","endograft(s), endovascular graft(s)",
 460,3,"血管内，其他血管（用于动脉瘤）","endovascular, other vessels (for aneurysm)",39.79
@@ -56,7 +56,7 @@ page,level,chinese,english,code
 460,3,"胆管","bile duct",51.87
 460,3,"股骨头（双极）","femoral head (bipolar)",81.52
 460,3,"胰腺管","pancreatic duct",52.93
-460,3,"欧麻亚储液器","Ommaya reservoir",02.22
+460,2,"欧麻亚储液器","Ommaya reservoir",02.22
 460,2,"起搏导管—见插入，起搏器，心的","pacing catheter-see Insertion, pacemaker, cardiac",
 460,2,"起搏器","pacemaker",
 460,3,"脊柱—见植入，神经刺激器，脊柱","spine-see Implant, neurostimulator, spine",
@@ -73,14 +73,14 @@ page,level,chinese,english,code
 461,4,"双室装置（初始的）","dual-chamber device (initial)",37.83
 461,5,"置换","replacement",37.87
 461,4,"心脏手术中和心脏手术即时后","during and immediately following cardiac surgery",39.64
-461,5,"再同步化（心室起搏器）（BiV 起搏器）（CRT-P）（装置）","resynchronization (biventricular pacemaker) (BiV pacemaker) (CRT-P) (device)",
-461,6,"仅装置（初始的）（置换）","device only (initial) (replacement)",00.53
-461,6,"经静脉导联进入左心室冠状静脉系统","transvenous lead into left ventricular coronary venous system",00.52
-461,7,"全系统（装置和一个或多个导联）","total system (device and one or more leads)",00.50
-461,6,"暂时性经静脉起搏器系统","temporary transvenous pacemaker system",37.78
-461,6,"心脏手术中和心脏手术即时后","during and immediately following cardiac surgery",39.64
-461,4,"心脏—见插入，起搏器，心的","heart-see Insertion, pacemaker, cardiac",
-461,4,"周围神经—见植入，神经刺激器，周围神经","peripheral nerve-see Implant, neurostimulator, peripheral nerve",
+461,4,"再同步化（心室起搏器）（BiV 起搏器）（CRT-P）（装置）","resynchronization (biventricular pacemaker) (BiV pacemaker) (CRT-P) (device)",
+461,5,"仅装置（初始的）（置换）","device only (initial) (replacement)",00.53
+461,5,"经静脉导联进入左心室冠状静脉系统","transvenous lead into left ventricular coronary venous system",00.52
+461,5,"全系统（装置和一个或多个导联）","total system (device and one or more leads)",00.50
+461,4,"暂时性经静脉起搏器系统","temporary transvenous pacemaker system",37.78
+461,5,"心脏手术中和心脏手术即时后","during and immediately following cardiac surgery",39.64
+461,3,"心脏—见插入，起搏器，心的","heart-see Insertion, pacemaker, cardiac",
+461,3,"周围神经—见植入，神经刺激器，周围神经","peripheral nerve-see Implant, neurostimulator, peripheral nerve",
 461,2,"气道","airway",
 461,3,"鼻咽的","sopharynx",96.01
 461,3,"口咽","oropharynx",96.02
@@ -112,9 +112,9 @@ page,level,chinese,english,code
 462,4,"分娩或流产后","after delivery or abortion",75.8
 462,4,"辅助分娩或引产","to assist delivery or induce labor",73.1
 462,2,"伞状装置","umbrella device",
-462,3,"腔静脉（默彼兹-乌丁）","vena cava (Mobitz-Uddin)",38.7
+462,3,"腔静脉（默彼此毕茨乌德丁）","vena cava (Mobitz-Uddin)",38.7
 462,3,"心房间隔（金米尔斯）","atrial septum (King-Mills)",35.52
-462,2,"森斯塔肯-布莱克莫尔管","Sengstaken-Blakemore tube",96.06
+462,2,"森斯塔肯-布莱克管","Sengstaken-Blakemore tube",96.06
 462,2,"神经刺激器—见植入，神经刺激器，按部位","neurostimulator-see Implant, neurostimulator, by site",
 462,2,"神经起搏器—见植入，神经刺激器，按部位","neuropacemaker-see Implant, neurostimulator, by site",
 462,2,"输尿管支架（经尿道）","ureteral stent (transurethral)",59.8
@@ -135,7 +135,7 @@ page,level,chinese,english,code
 463,2,"套管","cannula",
 463,3,"艾伦-布朗","Allen-Brown",39.93
 463,3,"鼻窦（经穿刺）","nasal sinus (by puncture)",22.01
-463,4,"经自然腔隙口","through natural ostium",22.02
+463,4,"经自然腔口","through natural ostium",22.02
 463,3,"血管至血管","vessel to vessel",39.93
 463,3,"胰腺管","pancreatic duct",52.92
 463,4,"内镜的","endoscopic",52.93
@@ -153,10 +153,10 @@ page,level,chinese,english,code
 463,2,"膝假体（部分的）（全部的）","knee prosthesis (partial) (total)",81.54
 463,3,"修复术 NOS","revision NOS",81.55
 463,4,"髌骨成分","patellar component",00.83
-463,5,"部分的","partial",
-463,6,"髌骨成分","patellar component",00.83
-463,6,"股骨成分","femoral component",00.82
-463,6,"胫骨插入","tibial insert",00.84
-463,6,"胫骨成分","tibial component",00.81
-463,6,"股骨成分","femoral component",00.82
-463,6,"胫骨插入","tibial insert",00.84
+463,4,"部分的","partial",
+463,5,"髌骨成分","patellar component",00.83
+463,5,"股骨成分","femoral component",00.82
+463,5,"胫骨插入","tibial insert",00.84
+463,5,"胫骨成分","tibial component",00.81
+463,4,"股骨成分","femoral component",00.82
+463,4,"胫骨插入","tibial insert",00.84
