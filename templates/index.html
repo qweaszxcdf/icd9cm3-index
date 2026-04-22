@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ICD-9-CM-3 检索与浏览</title>
+    <link rel="stylesheet" href="/static/style.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="topbar">
+        <h1>ICD-9-CM-3 手机检索与浏览</h1>
+        <p>输入代码或关键词检索，或点击“浏览整个索引”查看完整层级索引。</p>
+      </header>
+
+      <section class="search-panel">
+        <label class="field-label">搜索内容</label>
+        <div class="search-row">
+          <input id="queryInput" type="search" placeholder="例如 69.22 或 子宫" />
+          <button id="searchButton">搜索</button>
+        </div>
+        <div class="options-row">
+          <label>
+            <input type="radio" name="searchMode" value="auto" checked />
+            自动
+          </label>
+          <label>
+            <input type="radio" name="searchMode" value="code" />
+            代码
+          </label>
+          <label>
+            <input type="radio" name="searchMode" value="phrase" />
+            精确短语
+          </label>
+        </div>
+        <div class="browse-row">
+          <button id="browseRootButton" type="button">浏览整个索引</button>
+          <button id="expandAllButton" type="button">展开全部</button>
+          <button id="collapseAllButton" type="button">折叠全部</button>
+        </div>
+      </section>
+
+      <section id="resultsSection" class="results-section">
+        <div id="summary" class="summary"></div>
+        <div id="reverseContainer" class="summary" style="display:none;"></div>
+        <div id="treeContainer" class="tree-container"></div>
+      </section>
+
+      <footer class="footer">
+        <p>数据来自 CSV 提取结果。点击“见/另见/see/see also”可快速跳转搜索。</p>
+      </footer>
+    </div>
+    <script src="/static/app.js"></script>
+  </body>
+</html>

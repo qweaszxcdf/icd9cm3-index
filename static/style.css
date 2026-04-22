@@ -1,0 +1,271 @@
+:root {
+  color-scheme: light;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background: #f6f7f9;
+  color: #111;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background: #f6f7f9;
+}
+
+.page-shell {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.topbar {
+  background: #1a73e8;
+  color: white;
+  border-radius: 14px;
+  padding: 18px 16px;
+  margin-bottom: 16px;
+}
+
+.topbar h1 {
+  margin: 0 0 8px;
+  font-size: 1.4rem;
+}
+
+.topbar p {
+  margin: 0;
+  opacity: 0.92;
+  line-height: 1.5;
+}
+
+.search-panel {
+  background: white;
+  border-radius: 14px;
+  padding: 16px;
+  margin-bottom: 16px;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+}
+
+.field-label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.search-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 10px;
+}
+
+.search-row input[type="search"] {
+  width: 100%;
+  border: 1px solid #d5d7db;
+  border-radius: 12px;
+  padding: 12px 14px;
+  font-size: 1rem;
+}
+
+.search-row button {
+  border: none;
+  background: #1a73e8;
+  color: white;
+  border-radius: 12px;
+  padding: 12px 18px;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.options-row {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.options-row label {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: #eef3ff;
+  color: #1e293b;
+  font-size: 0.92rem;
+}
+
+.browse-row {
+  margin-top: 12px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.browse-row button {
+  border: 1px solid #cbd5e1;
+  background: white;
+  color: #1e293b;
+  border-radius: 12px;
+  padding: 10px 14px;
+  cursor: pointer;
+  font-size: 0.95rem;
+}
+
+.browse-row button:hover {
+  background: #f8fafc;
+}
+
+.results-section {
+  display: grid;
+  gap: 16px;
+}
+
+.summary {
+  background: white;
+  padding: 14px 16px;
+  border-radius: 14px;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+  font-size: 0.95rem;
+}
+
+.tree-container,
+.list-container {
+  background: white;
+  border-radius: 14px;
+  padding: 16px;
+  box-shadow: 0 10px 25px rgba(15, 23, 42, 0.06);
+}
+
+.tree-node {
+  margin-bottom: 14px;
+}
+
+.tree-node .node-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.tree-node .node-heading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: nowrap;
+}
+
+.tree-node .toggle-icon {
+  display: inline-flex;
+  width: 18px;
+  min-width: 18px;
+  justify-content: center;
+  color: #1d4ed8;
+  transition: transform 0.2s ease;
+}
+
+.node-title {
+  flex: 1;
+  min-width: 0;
+}
+
+.matched-node .node-title {
+  color: #0f766e;
+}
+
+
+.node-title {
+  white-space: normal;
+  min-width: 0;
+}
+
+.tree-node.has-children .node-label {
+  cursor: pointer;
+}
+
+.tree-node.collapsed > .node-details {
+  display: none;
+}
+
+.tree-node .toggle-icon {
+  transform: rotate(0deg);
+}
+
+.node-title,
+.item-title {
+  font-weight: 700;
+  margin: 0;
+}
+
+.node-meta,
+.item-meta {
+  color: #4b5563;
+  font-size: 0.9rem;
+  line-height: 1.4;
+}
+
+.node-details,
+.item-details {
+  margin-top: 8px;
+}
+
+.item-code {
+  display: block;
+  margin-top: 8px;
+  font-size: 0.95rem;
+  color: #111827;
+}
+
+.reference-chip {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 10px;
+  border-radius: 999px;
+  background: #eef2ff;
+  color: #3730a3;
+  font-size: 0.88rem;
+  text-decoration: none;
+  margin-right: 6px;
+  margin-bottom: 6px;
+}
+
+.reference-chip:hover {
+  background: #dbe4ff;
+}
+
+.child-list {
+  margin: 10px 0 0 12px;
+  padding-left: 12px;
+  border-left: 2px solid #e2e8f0;
+}
+
+.path-children {
+  margin: 10px 0 0 12px;
+  padding-left: 12px;
+  border-left: 2px solid #e2e8f0;
+}
+
+.footer {
+  margin-top: 24px;
+  text-align: center;
+  color: #475569;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 640px) {
+  .page-shell {
+    padding: 12px;
+  }
+
+  .search-row {
+    grid-template-columns: 1fr;
+  }
+
+  .search-row button {
+    width: 100%;
+  }
+}

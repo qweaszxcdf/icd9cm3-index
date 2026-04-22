@@ -26,8 +26,10 @@ This repository is intended to share and collaborate on the electronic ICD-9-CM-
 
 ## Files
 
-- `proofreading_app.py` — main Streamlit app.
-- `requirements-proofreading.txt` — Python dependencies for the app.
+- `proofreading_app.py` — main Streamlit proofreading app.
+- `search_app.py` — independent Streamlit ICD 索引检索系统。
+- `requirements-proofreading.txt` — Python dependencies for the proofreading app.
+- `requirements-search.txt` — Python dependencies for the search app.
 - `icd-index-extraction-*.csv` — original extracted CSVs.
 - `target.pdf` — optional PDF source file (ignored from Git).
 - `target_pages/` — page image assets used for preview.
@@ -71,13 +73,16 @@ This repository is intended to share and collaborate on the electronic ICD-9-CM-
 
 Then open `http://localhost:8765` in your browser.
 
-## 运行应用
+## ICD Web App (Flask)
+
+A mobile-first browser interface without Streamlit.
 
 ```bash
-.venv/bin/python -m streamlit run proofreading_app.py --server.headless true --server.port 8765
+pip install -r requirements-web.txt
+.venv/bin/python web_app.py
 ```
 
-然后在浏览器中打开 `http://localhost:8765`。
+Then open `http://localhost:8000` in your browser.
 
 ## Notes
 
