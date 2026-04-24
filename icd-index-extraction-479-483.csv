@@ -38,7 +38,19 @@ page,level,chinese,english,code
 479,4,"管或支架插入","insertion of tube or stent",09.44
 479,4,"扩张","dilation",09.43
 479,2,"泪管或囊","lacrimal duct or sac",09.43
-479,1,"抽出(摘出术)","Extraction",
+479,1,"抽出(引出)","Extraction",
+480,2,"马尔斯特姆","Malstrom's",72.79
+480,3,"伴外阴切开术","with episiotomy",72.71
+480,2,"臀(部分)","breech (partial)",72.52
+480,3,"全部的","total",72.54
+480,4,"用产钳对于头后出的","with forceps to aftercoming head",72.53
+480,3,"用产钳对于头后出的","with forceps to aftercoming head",72.51
+480,2,"月经的，月经","menstrual, menses",69.6
+480,2,"真空，胎儿","vacuum, fetus",72.79
+480,3,"伴外阴切开术","with episiotomy",72.71
+480,2,"脂肪为移植或库存","fat for graft or banking",86.90
+480,2,"自分泌乳汁的乳房(手法的)(泵)","milk from lactating breast (manual) (pump)",99.98
+480,1,"抽出(摘出书)","Extraction",
 480,2,"白内障","cataract",13.19
 480,3,"抽吸(单纯)(伴冲洗)","aspiration (simple) (with irrigation)",13.3
 480,3,"复发性白内障(经)","after cataract (by)",
@@ -50,7 +62,7 @@ page,level,chinese,english,code
 480,4,"囊切开术","capsulotomy",13.64
 480,4,"切除术","excision",13.65
 480,4,"针刺","needling",13.64
-480,4,"刮匙排空(囊外入路)","curette evacuation (extracapsular approach)",13.2
+480,3,"刮匙排空(囊外入路)","curette evacuation (extracapsular approach)",13.2
 480,3,"继发膜性(复发性白内障)(经)","secondary membranous (after cataract) (by)",
 480,4,"虹膜囊切除术","iridocapsulectomy",13.65
 480,4,"机械性碎裂","mechanical fragmentation",13.66
@@ -84,13 +96,13 @@ page,level,chinese,english,code
 481,6,"特指入路NEC","specified route NEC",13.43
 481,5,"超声(伴吸引)","ultrasonic (with aspiration)",13.41
 481,4,"晶状体乳化(超声)(伴抽吸)","phacoemulsification (ultrasonic) (with aspiration)",13.41
-481,5,"经颞下入路(存在大疱瘘)","by temporal inferior route (in presence of fistulization bleb)",13.51
+481,4,"经颞下入路(存在大疱瘘)","by temporal inferior route (in presence of fistulization bleb)",13.51
 481,4,"乳化(和抽吸)","emulsification (and aspiration)",13.41
 481,4,"线形抽吸术","linear extraction",13.2
 481,4,"旋转摘出(机械性)伴抽吸,经","rotoextraction (mechanical) with aspiration by",
 481,5,"后入路","posterior route",13.42
 481,5,"特指入路NEC","specified route NEC",13.43
-481,4,"乳化(和抽吸)","emulsification (and aspiration)",13.41
+481,3,"乳化(和抽吸)","emulsification (and aspiration)",13.41
 482,3,"线性抽吸术(囊外入路)","linear extraction (extracapsular approach)",13.2
 482,3,"旋转摘出(机械性)","rotoextraction (mechanical)",
 482,4,"伴抽吸,经","with aspiration by",
@@ -117,6 +129,15 @@ page,level,chinese,english,code
 482,4,"晶状体乳化","phacoemulsification",13.41
 482,4,"晶状体碎裂","phacofragmentation",13.43
 482,5,"后入路","posterior route",13.42
+482,2,"鼻窦","nasal sinus",22.00
+482,3,"经穿刺","by puncture",22.01
+482,3,"经自然腔口","through natural ostium",22.02
+482,2,"鼻气管","nasotracheal",96.04
+482,3,"伴灌洗","with lavage",96.56
+482,2,"玻璃体(和置换)","vitreous (and replacement)",14.72
+482,3,"诊断性","diagnostic",14.11
+482,2,"垂体腺","pituitary gland",07.72
+482,2,"胆囊(经皮)","gallbladder (percutaneous)",51.01
 483,2,"肺(经皮)(穿刺)(针吸)(套针)","lung (percutaneous) (puncture) (needle) (trocar)",33.93
 483,3,"胸腔镜的","thoracoscopic",33.20
 483,2,"腹水","ascites",54.91

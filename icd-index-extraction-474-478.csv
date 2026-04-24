@@ -16,7 +16,7 @@ page,level,chinese,english,code
 474,3,"妊娠","gravid",88.78
 474,1,"超声心动描记术","Echocardiography",88.72
 474,2,"经食管","transesophageal",88.72
-474,2,"监测(多普勒)(超声)","monitoring (Doppler) (ultrasound)",89.68
+474,3,"监测(多普勒)(超声)","monitoring (Doppler) (ultrasound)",89.68
 474,2,"心内的(心房)(ICE)","intracardiac (heart chambers) (ICE)",37.28
 474,2,"血管内(冠状血管)","intravascular (coronary vessels)",00.24
 474,1,"成形术-另见修补术,按部位","Plasty-see also Repair, by site",
@@ -97,7 +97,7 @@ page,level,chinese,english,code
 476,2,"脐","umbilicus",
 476,3,"腹腔镜的","laparoscopic",53.43
 476,4,"伴移植物或假体","with graft or prosthesis",53.42
-476,4,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
+476,3,"其他和开放伴有移植物或假体","other and open with graft or prosthesis",53.41
 476,3,"其他开放性","other open",53.49
 476,2,"气管(伴移植)","trachea (with graft)",31.75
 476,2,"乳房,全部,NOS","breast, total, NOS",85.70
@@ -139,7 +139,7 @@ page,level,chinese,english,code
 477,3,"伴移植物或假体","with graft or prosthesis",70.64
 477,2,"阴茎(肋骨移植物)(皮肤移植物)(肌皮瓣)","penis (rib graft) (skin graft) (myocutaneous flap)",64.44
 477,2,"阴囊(伴蒂带皮瓣)(伴旋转皮瓣)","scrotum (with pedicle flap) (with rotational flap)",61.49
-477,2,"龈,齿槽嵴(突)(峙)(伴移植或植入物)","alveolus, alveolar (process) (ridge) (with graft or implant)",24.5
+477,2,"龈,齿槽的(突)(嵴)(伴移植或植入物)","alveolus, alveolar (process) (ridge) (with graft or implant)",24.5
 477,2,"支气管","bronchus",33.48
 477,2,"眦(侧的)","canthus (lateral)",08.59
 477,2,"足和趾(伴固定装置)","foot and toes (with fixation device)",81.57

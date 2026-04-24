@@ -106,10 +106,10 @@ page,level,chinese,english,code
 486,2,"垂体腺","pituitary gland",07.72
 486,2,"动脉NEC","artery NEC",38.98
 486,3,"经皮血管关闭-省略编码","percutaneous vascular closure-omit code",
-486,4,"为了","for",
-486,5,"动脉造影术-另见动脉造影术","arteriography-see also Arteriography",88.40
-486,4,"用于","for",
-486,5,"冠状动脉造影术-另见动脉造影术,冠状","coronary arteriography-see also Arteriography, coronary",88.57
+486,3,"为了","for",
+486,4,"动脉造影术-另见动脉造影术","arteriography-see also Arteriography",88.40
+486,3,"用于","for",
+486,4,"冠状动脉造影术-另见动脉造影术,冠状","coronary arteriography-see also Arteriography, coronary",88.57
 486,2,"窦(鼻的)(双侧)(单侧)","antrum (nasal) (bilateral) (unilateral)",22.01
 487,2,"肺(用于抽吸)","lung (for aspiration)",33.93
 487,2,"关节","joint",81.91
@@ -119,7 +119,7 @@ page,level,chinese,english,code
 487,2,"静脉NEC","vein NEC",38.99
 487,3,"为了","for",
 487,4,"静脉造影术-另见静脉造影术","phlebography-see also Phlebography",88.60
-487,3,"输注-见输注","transfusion-see Transfusion",
+487,4,"输注-见输注","transfusion-see Transfusion",
 487,2,"腊特克凹","Rathke's pouch",07.72
 487,2,"颅的","cranial",01.09
 487,3,"伴对比介质","with contrast media",87.02

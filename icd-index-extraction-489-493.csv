@@ -34,7 +34,7 @@ page,level,chinese,english,code
 490,2,"经蝶窦入路(完全)(全部)","transsphenoidal approach (complete) (total)",07.65
 490,3,"部分的","partial",07.62
 490,2,"经前额入路(完全)(全部)","transfrontal approach (complete) (total)",07.64
-490,3,"一部分的","partial",07.61
+490,3,"部分的","partial",07.61
 490,2,"特指入路NEC","specified approach NEC",07.68
 490,1,"垂体切除术(完全的)(全部的)-另见垂体切除术","Pituitectomy (complete) (total)-see also Hypophysectomy",07.69
 490,1,"唇成形术","Cheiloplasty",27.59
@@ -61,7 +61,7 @@ page,level,chinese,english,code
 490,3,"眼,眼球NEC","eye, eyeball NEC",98.21
 490,4,"后节","posterior segment",14.01
 490,4,"前节","anterior segment",12.01
-490,4,"眼内的(前节)","intraocular (anterior segment)",12.01
+490,3,"眼内的(前节)","intraocular (anterior segment)",12.01
 490,1,"刺激(电的)-另见植入,电刺激器","Stimulation (electronic)-see also Implant, electronic stimulator",
 490,2,"CaverMap","CaverMap",89.58
 490,2,"除颤器","defibrillator",
@@ -121,7 +121,7 @@ page,level,chinese,english,code
 492,1,"Dennis-Barco手术-见修补术,疝,股的","Dennis-Barco operation-see Repair, hernia, femoral",
 492,1,"Denonvillier手术(限定性鼻成形术)","Denonvillier operation (limited rhinoplasty)",21.86
 492,1,"Derlacki手术(鼓室成形术)","Derlacki operation (tympanoplasty)",19.4
-492,1,"Dermabond","Dermabond",86.59
+492,1,"Dermabond(德美绊，组织胶。运用于拉皮、缩乳、腹部整形等手术)","Dermabond",86.59
 492,1,"Dickson手术(筋膜移植物)","Dickson operation (fascial transplant)",83.82
 492,1,"Dickson-Diveley手术(腱移植术和关节固定术,为矫正爪形趾)","Dickson-Diveley operation (tendon transfer and arthrodesis to correct claw toe)",77.57
 492,1,"Dieffenbach手术(髋关节离断)","Dieffenbach operation (hip disarticulation)",84.18

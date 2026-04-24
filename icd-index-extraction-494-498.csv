@@ -57,7 +57,7 @@ page,level,chinese,english,code
 495,1,"胆囊空肠吻合术(Y字型吻合)(伴空肠空肠吻合术)","Cholecystojejunostomy (Roux-en-Y) (with jejunojejunostomy)",51.32
 495,1,"胆囊盲肠吻合术","Cholecystocecostomy",51.32
 495,1,"胆囊切除术(全部)","Cholecystectomy (total)",51.22
-495,2,"一部分","partial",51.21
+495,2,"部分","partial",51.21
 495,3,"腹腔镜的","laparoscopic",51.24
 495,2,"全部","total",51.22
 495,3,"腹腔镜的","laparoscopic",51.23
@@ -98,7 +98,7 @@ page,level,chinese,english,code
 496,2,"肋间隙(伴水密封),用于引流","intercostal space (with water seal), for drainage",34.04
 496,3,"胸腔镜的","thoracoscopic",34.06
 496,3,"修复术(伴粘连松解术)","revision (with lysis of adhesions)",34.04
-496,3,"胸腔镜的","thoracoscopic",34.06
+496,4,"胸腔镜的","thoracoscopic",34.06
 496,2,"尿道,留置的","urethra, indwelling",57.94
 496,2,"膀胱,留置的","bladder, indwelling",57.94
 496,3,"耻骨上NEC","suprapubic NEC",57.18
@@ -124,7 +124,7 @@ page,level,chinese,english,code
 497,2,"胸","chest",34.04
 497,3,"胸腔镜的","thoracoscopic",34.06
 497,3,"修复术(伴粘连松解术)","revision (with lysis of adhesions)",34.04
-497,3,"胸腔镜的","thoracoscopic",34.06
+497,4,"胸腔镜的","thoracoscopic",34.06
 497,2,"咽鼓管","Eustachian tube",20.8
 497,2,"胰腺囊肿","pancreatic cyst",52.01
 497,2,"支气管","bronchus",96.05
@@ -138,8 +138,8 @@ page,level,chinese,english,code
 497,1,"德格兰德芒手术-见de Grandmont手术","德格兰德芒手术-see de Grandmont operation",
 497,1,"德怀尔手术-见Dwyer手术","德怀尔手术-see Dwyer operation",
 497,1,"德拉奇手术-见Derlacki手术","德拉奇手术-see Derlacki operation",
-497,1,"德马纽-见Dermabond手术","德马纽- see Dermabond operation",
-497,1,"德亥维利叶手术-见Denonvillier手术","德亥维利叶手术-see Denonvillier operation",
+497,1,"德马绷-见Dermabond手术","德马绷- see Dermabond operation",
+497,1,"德农维利叶手术-见Denonvillier手术","德农维利叶手术-see Denonvillier operation",
 497,1,"德翁布雷恩手术-见D'Ombrain手术","德翁布雷恩手术-see D'Ombrain operation",
 497,1,"登克尔手术-见Denker手术","登克尔手术-see Denker operation",
 497,1,"等响平衡","Equiloudness balance",95.43
@@ -147,7 +147,7 @@ page,level,chinese,english,code
 497,1,"镫骨底板穿孔(钉住)","Sacculotomy (tack)",20.79
 497,1,"镫骨固定术","Malleostapediopexy",19.19
 497,2,"伴砧骨置换","with incus replacement",19.11
-497,1,"镫骨撬动术","Stapediolysis",19.0
+497,1,"镫骨撼动术","Stapediolysis",19.0
 497,1,"镫骨切除术","Stapedectomy",19.19
 497,2,"伴砧骨置换(自体移植)(假体)","with incus replacement (homograft) (prosthesis)",19.11
 497,2,"修复术","revision",19.29

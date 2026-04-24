@@ -1,44 +1,44 @@
 page,level,chinese,english,code
-469,3,"分娩或流产后","after delivery or abortion",75.8
-469,2,"子宫","uterus",69.91
-469,1,"周围血管-见非冠状血管","peripheral blood vessel-see non-coronary",
-469,1,"肘假体(全部)","elbow prosthesis (total)",81.84
-469,2,"修复术","revision",81.97
-469,1,"装置","device",
-469,2,"CorCap™","CorCap™",37.41
-469,2,"Lap-Band™(可调节性胃绷带系统)","Lap-Band™",44.95
-469,2,"MitraClip®二尖瓣小叶钳","MitraClip® mitral leaflet clip",35.97
-469,2,"假体心脏支持装置","prosthetic cardiac support device",37.41
-469,2,"可调节的胃束带和端口","adjustable gastric band and port",44.95
-469,2,"心室支持装置","ventricular support device",37.41
-469,2,"心外膜支持装置","epicardial support device",37.41
-469,2,"心脏再同步化-见插入,心律再同步化装置","cardiac resynchronization-see Insertion, cardiac resynchronization device",
-469,2,"心脏支持装置(CSD)","cardiac support device (CSD)",37.41
-469,2,"胸骨固定装置伴有刚性板","sternal fixation device with rigid plates",84.94
-469,2,"血管通路","vascular access",86.07
-469,2,"支气管瓣膜","bronchial valve(s)",
-469,3,"单叶","single lobe",33.71
-469,3,"多叶","multiple lobes",33.73
-469,2,"支气管物质NOS","bronchial substance NOS",33.79
-469,2,"支气管装置NOS","bronchial device NOS",33.79
-469,2,"左心房附加装置","left atrial appendage",37.90
-469,2,"左心房过滤器","left atrial filter",37.90
-469,2,"左心房心导管闭合器","left atrial occluder",37.90
-469,1,"椎体脊椎融合装置","interbody spinal fusion device",84.51
-469,1,"子宫内","intrauterine",
-469,2,"避孕装置","contraceptive device",69.7
-469,2,"镭(腔内)","radium (intracavitary)",69.91
-469,2,"填塞(非产科)","tamponade (nonobstetric)",69.91
-469,1,"子宫托","pessary",
-469,2,"阴道","vagina",96.18
-469,2,"子宫颈","cervix",96.18
-469,3,"助产或引产","to assist delivery or induce labor",73.1
-469,1,"组织扩张器(皮肤)NEC","tissue expander (skin) NEC",86.93
-469,2,"乳房","breast",85.95
-469,1,"组织轴柄(周围血管)(涤纶)(斯帕克型)","tissue mandril (peripheral vessel) (Dacron) (Spark's type)",39.99
-469,2,"伴","with",
-470,3,"血管旁路或分流-见旁路,血管的","vascular bypass or shunt-see Bypass, vascular",
-470,2,"血管修补术","blood vessel repair",39.56
+469,4,"分娩或流产后","after delivery or abortion",75.8
+469,3,"子宫","uterus",69.91
+469,2,"周围血管-见非冠状血管","peripheral blood vessel-see non-coronary",
+469,2,"肘假体(全部)","elbow prosthesis (total)",81.84
+469,4,"修复术","revision",81.97
+469,2,"装置","device",
+469,3,"CorCap™","CorCap™",37.41
+469,3,"Lap-Band™(可调节性胃绷带系统)","Lap-Band™",44.95
+469,3,"MitraClip®二尖瓣小叶钳","MitraClip® mitral leaflet clip",35.97
+469,3,"假体心脏支持装置","prosthetic cardiac support device",37.41
+469,3,"可调节的胃束带和端口","adjustable gastric band and port",44.95
+469,3,"心室支持装置","ventricular support device",37.41
+469,3,"心外膜支持装置","epicardial support device",37.41
+469,3,"心脏再同步化-见插入,心律再同步化装置","cardiac resynchronization-see Insertion, cardiac resynchronization device",
+469,3,"心脏支持装置(CSD)","cardiac support device (CSD)",37.41
+469,3,"胸骨固定装置伴有刚性板","sternal fixation device with rigid plates",84.94
+469,3,"血管通路","vascular access",86.07
+469,3,"支气管瓣膜","bronchial valve(s)",
+469,4,"单叶","single lobe",33.71
+469,4,"多叶","multiple lobes",33.73
+469,3,"支气管物质NOS","bronchial substance NOS",33.79
+469,3,"支气管装置NOS","bronchial device NOS",33.79
+469,3,"左心房附加装置","left atrial appendage",37.90
+469,3,"左心房过滤器","left atrial filter",37.90
+469,3,"左心房心导管闭合器","left atrial occluder",37.90
+469,2,"椎体脊椎融合装置","interbody spinal fusion device",84.51
+469,2,"子宫内","intrauterine",
+469,3,"避孕装置","contraceptive device",69.7
+469,3,"镭(腔内)","radium (intracavitary)",69.91
+469,3,"填塞(非产科)","tamponade (nonobstetric)",69.91
+469,2,"子宫托","pessary",
+469,3,"阴道","vagina",96.18
+469,3,"子宫颈","cervix",96.18
+469,4,"助产或引产","to assist delivery or induce labor",73.1
+469,2,"组织扩张器(皮肤)NEC","tissue expander (skin) NEC",86.93
+469,3,"乳房","breast",85.95
+469,2,"组织轴柄(周围血管)(涤纶)(斯帕克型)","tissue mandril (peripheral vessel) (Dacron) (Spark's type)",39.99
+469,3,"伴","with",
+470,4,"血管旁路或分流-见旁路,血管的","vascular bypass or shunt-see Bypass, vascular",
+470,4,"血管修补术","blood vessel repair",39.56
 470,1,"查恩利手术-见Charnley手术","查恩利手术—see Charnley operation",
 470,1,"查尔斯手术-见Charles手术","查尔斯手术—see Charles operation",
 470,1,"拆除术","Take-down",
@@ -131,22 +131,22 @@ page,level,chinese,english,code
 472,2,"周围的","peripheral",99.15
 472,1,"肠造口术NEC","Enterostomy NEC",46.39
 472,2,"横结肠-另见结肠造口术","transverse colon-see also Colostomy",46.10
-472,3,"袢式","loop",46.03
+472,3,"襻式","loop",46.03
 472,2,"回肠(布鲁克)(德拉格施泰德)","ileum (Brooke) (Dragstedt)",46.20
-472,3,"袢式","loop",46.01
+472,3,"襻式","loop",46.01
 472,2,"结肠(横的)-另见结肠造口术","colon (transverse)-see also Colostomy",46.10
-472,3,"袢式","loop",46.03
+472,3,"襻式","loop",46.03
 472,2,"空肠(喂养)","jejunum (feeding)",46.39
 472,3,"经皮的(内镜)","percutaneous (endoscopic)",46.32
-472,3,"袢式","loop",46.01
+472,3,"襻式","loop",46.01
 472,2,"盲肠-另见结肠造口术","cecum-see also Colostomy",46.10
 472,2,"十二指肠","duodenum",46.39
-472,3,"袢式","loop",46.01
+472,3,"襻式","loop",46.01
 472,2,"喂养NEC","feeding NEC",46.39
 472,3,"经皮的(内镜的)","percutaneous (endoscopic)",46.32
 472,2,"延迟性切开","delayed opening",46.31
 472,2,"乙状结肠-另见结肠造口术","sigmoid colon-see also Colostomy",46.10
-472,3,"袢式","loop",46.03
+472,3,"襻式","loop",46.03
 472,1,"肠粘连松解术","Enterolysis",54.59
 472,2,"腹腔镜的","laparoscopic",54.51
 472,1,"常规","Routine",
@@ -154,11 +154,11 @@ page,level,chinese,english,code
 472,2,"胸X线检查","chest x-ray",87.44
 472,1,"超滤","Ultrafiltration",99.78
 472,2,"去除,血浆水分","removal, plasma water",99.78
-472,2,"血液透析(肾),血液滤过","hemodialysis (kidney), hemodiafiltration",39.95
+472,2,"血液透析(肾)","hemodialysis (kidney), hemodiafiltration",39.95
 472,2,"治疗性血浆除去法","therapeutic plasmapheresis",99.71
 472,1,"超声","Ultrasound",
 473,2,"VH™-IVUS[虚拟组织学血管内超声]-见超声,血管内的,按部位","VH™-IVUS-see Ultrasound, intravascular, by site",
-473,2,"治疗","therapy",93.35
+473,2,"疗法","therapy",93.35
 473,2,"内耳","inner ear",20.79
 473,2,"碎裂,破碎(...的)","fragmentation (of)",
 473,3,"白内障(伴抽吸)","cataract (with aspiration)",13.41

@@ -72,22 +72,22 @@ page,level,chinese,english,code
 845,6,"产科撕裂(近期)","obstetric laceration (current)",75.69
 845,7,"陈旧性","old",70.79
 845,5,"骨折-另见复位,骨折","fracture-see also Reduction, fracture",
-846,6,"骨联接不正或不连接(延迟的) NEC-见亚目","malunion or nonunion (delayed) NEC-see subcategory",78.4
-846,7,"伴","with",
-846,8,"插入","insertion (of)",
-846,9,"骨生长刺激器(侵入)-见亚目","bone growth stimulator (invasive)-see subcategory",78.9
-846,9,"内固定装置","internal fixation device",78.5
-846,9,"骨切开术","osteotomy",
-846,10,"伴","with",
-846,11,"正骨术","correction of alignment-see subcategory",77.3
-846,12,"伴内部固定装置-见亚目","with internal fixation device-see categories",77.3[78.5]
-846,12,"伴髓内棒","with intramedullary rod-see categories",77.3[78.5]
-846,9,"骨性联接技术-见关节固定术","synostosis technique-see Arthrodesis",
-846,9,"死骨切除术-见关节成形术","sequestrectomy-see subcategory",77.0
-846,9,"Sofield 型操作","Sofield type procedure-see categories",77.3[78.5]
-846,8,"推拿用于重新接骨-见复位,骨折,按部位,闭合的","manipulation for realignment-see Reduction, fracture, by site, closed",
-846,8,"移植-见移植物,骨","graft-see Graft, bone",
-846,8,"置换关节成形术-见关节成形术","replacement arthroplasty-see Arthroplasty",
+846,5,"骨联接不正或不连接(延迟的) NEC-见亚目","malunion or nonunion (delayed) NEC-see subcategory",78.4
+846,6,"伴","with",
+846,7,"插入","insertion (of)",
+846,8,"骨生长刺激器(侵入)-见亚目","bone growth stimulator (invasive)-see subcategory",78.9
+846,8,"内固定装置","internal fixation device",78.5
+846,8,"骨切开术","osteotomy",
+846,9,"伴","with",
+846,10,"正骨术","correction of alignment-see subcategory",77.3
+846,11,"伴内部固定装置-见亚目","with internal fixation device-see categories",77.3[78.5]
+846,11,"伴髓内棒","with intramedullary rod-see categories",77.3[78.5]
+846,8,"骨性联接技术-见关节固定术","synostosis technique-see Arthrodesis",
+846,8,"死骨切除术-见关节成形术","sequestrectomy-see subcategory",77.0
+846,8,"Sofield 型操作","Sofield type procedure-see categories",77.3[78.5]
+846,7,"推拿用于重新接骨-见复位,骨折,按部位,闭合的","manipulation for realignment-see Reduction, fracture, by site, closed",
+846,7,"移植-见移植物,骨","graft-see Graft, bone",
+846,7,"置换关节成形术-见关节成形术","replacement arthroplasty-see Arthroplasty",
 846,5,"喉","larynx",31.64
 846,5,"椎骨","vertebra",03.53
 846,5,"关节(囊)(软骨) NEC-另见关节成形术","joint (capsule) (cartilage) NEC-see also Arthroplasty",81.96

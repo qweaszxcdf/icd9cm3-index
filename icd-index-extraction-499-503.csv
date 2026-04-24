@@ -58,7 +58,7 @@ page,level,chinese,english,code
 500,2,"阴囊","scrotum",61.3
 500,2,"直肠","rectum",48.32
 500,3,"根治性","radical",48.31
-500,1,"电子绷腿","Electronic gaiter",93.59
+500,1,"电子绑腿","Electronic gaiter",93.59
 500,1,"雕刻,心脏瓣膜-见瓣膜成形术,心脏","Sculpturing, heart valve-see Valvuloplasty, heart",
 500,1,"蝶窦切除术","Sphenoidectomy",22.64
 500,1,"蝶窦切开术","Sphenoidotomy",22.52
@@ -78,97 +78,105 @@ page,level,chinese,english,code
 500,3,"桡骨","radius",78.23
 500,3,"特指的部位NEC","specified site NEC",78.29
 500,2,"静脉","vein",39.32
-501,4,"主动脉(弓)(升)(降胸)","aorta (arch) (ascending) (descending thoracic)",
-501,5,"腹","abdominal",38.44
-501,5,"胸","thoracic",38.45
-501,5,"胸腹","thoracoabdominal",38.45[38.44]
-501,2,"腹","abdominal",
-501,3,"动脉","artery",38.66
-501,3,"静脉","vein",38.67
-501,2,"颅内NEC","intracranial NEC",38.61
-501,2,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.63
-501,2,"头和颈NEC","head and neck NEC",38.62
-501,2,"瓦尔萨尔瓦窦(主动脉窦)","sinus of Valsalva",35.39
-501,2,"下肢","lower limb",
-501,3,"动脉","artery",38.68
-501,3,"静脉","vein",38.69
-501,2,"心房,心耳","atrial, auricular",37.32
-501,2,"心室(心肌)","ventricle (myocardium)",37.32
-501,2,"心脏","heart",37.32
-501,2,"胸NEC","thoracic NEC",38.65
-501,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.64
-501,1,"动脉瘤切开术-见动脉瘤切除术","Aneurysmotomy-see Aneurysmectomy",
-501,1,"动脉内膜切除术(气体)(伴补片移植)","Endarterectomy (gas) (with patch graft)",38.10
-501,2,"腹","abdominal",38.16
-501,2,"冠状动脉-见亚目","coronary artery-see subcategory",36.0
-501,3,"开放性胸入路","open chest approach",36.03
-501,2,"颅内的(开放性)NEC","intracranial (open) NEC",38.11
-501,3,"经皮入路,颅内血管","percutaneous approach, intracranial vessel(s)",00.62
-501,2,"上肢","upper limb",38.13
-501,2,"头和颈(开放)NEC","head and neck (open) NEC",38.12
-502,2,"经皮入路,颅外血管","percutaneous approach, extracranial vessel(s)",00.61
-502,2,"经皮入路,入脑前的(颅外)血管","percutaneous approach, intracranial vessel(s)",00.62
-502,2,"下肢","lower limb",38.18
-502,2,"胸的NEC","thoracic NEC",38.15
-502,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.14
-502,1,"动脉切除术","Arteriectomy",38.60
+501,2,"胃静脉曲张","gastric varices",44.91
+501,2,"移植-见移植物","graft-see Graft",
+501,2,"左心耳","left atrial appendage",37.36
+501,1,"钉入,髓内","Nailing, intramedullary",
+501,2,"伴骨折复位见复位,骨折伴内固定","with fracture reduction-see Reduction, fracture with internal fixation",
+501,2,"内的(不伴骨折复位)","internal (without fracture reduction)",78.50
+501,1,"定位,胎盘","Localization, placenta",88.78
+501,2,"经 RISA 注射","by RISA injection",92.17
+501,1,"动静脉吻合术","Arteriovenostomy",39.29
+501,2,"用于肾透析","for renal dialysis",39.27
+501,1,"动脉成形术-见修补术,动脉","Arterioplasty-see Repair, artery",
+501,1,"动脉缝合术","Arteriorrhaphy",39.31
+501,1,"动脉瘤成形术-见动脉瘤缝合术","Aneurysmoplasty-see Aneurysmorrhaphy",
+501,1,"动脉瘤缝合术 NEC","Aneurysmorrhaphy NEC",39.52
+501,2,"经或伴","by or with",
+501,3,"包裹术","wrapping",39.52
+501,3,"穿丝法","filipuncture",39.52
+501,3,"电凝术","electrocoagulation",39.52
+501,3,"缝合","suture",39.52
+501,3,"甲基丙烯酸甲酯","methyl methacrylate",39.52
+501,3,"凝固","coagulation",39.52
+501,3,"钳夹","clipping",39.51
+501,3,"切除术或部分切除术-另见动脉瘤切除术,按部位","excision or resection-see also Aneurysmectomy, by site",
+501,4,"伴","with",
+501,5,"吻合术-见动脉瘤切除术,伴吻合,按部位","anastomosis-see Aneurysmectomy, with anastomosis, by site",
+501,5,"移植物置换-见动脉瘤切除术,伴移植物置换,按部位","graft replacement-see Aneurysmectomy, with graft replacement, by site",
+501,3,"栓结术","wiring",39.52
+501,3,"吻合术-见动脉瘤切除术,伴吻合,按部位","anastomosis-see Aneurysmectomy, with anastomosis, by site",
+501,3,"血管内移植","endovascular graft",
+501,4,"腹主动脉","abdominal aorta",39.71
+501,5,"开窗(分支)移植","fenestrated (branching) graft",39.78
+501,4,"上肢动脉(多条)","upper extremity artery(s)",39.79
+501,4,"下肢动脉","lower extremity artery(s)",39.79
+501,4,"胸主动脉(多条)","thoracic aorta",39.73
+501,3,"移植物置换-见动脉瘤切除术,伴移植物置换,按部位","graft replacement-see Aneurysmectomy, with graft replacement, by site",
+501,3,"马塔斯","Matas'",39.52
+502,1,"动脉瘤内缝合术-另见动脉瘤缝合术","Endoaneurysmorrhaphy-see also Aneurysmorrhaphy",39.52
+502,2,"经或伴","by or with",
+502,3,"血管内移植","endovascular graft",
+502,4,"腹主动脉","abdominal aorta",39.71
+502,5,"开窗(分支)移植","fenestrated (branching) graft",39.78
+502,4,"上肢动脉","upper extremity artery(s)",39.79
+502,4,"下肢动脉","lower extremity artery(s)",39.79
+502,4,"胸主动脉","thoracic aorta",39.73
+502,1,"动脉瘤切除术","Aneurysmectomy",38.60
 502,2,"伴","with",
 502,3,"吻合术","anastomosis",38.30
-502,4,"腹","abdominal",38.36
-502,4,"颅内的NEC","intracranial NEC",38.31
-502,4,"上肢","upper limb",38.33
-502,4,"头和颈NEC","head and neck NEC",38.32
-502,4,"下肢","lower limb",38.38
-502,4,"胸的NEC","thoracic NEC",38.35
+502,4,"腹","abdominal",
+502,5,"动脉","artery",38.36
+502,5,"静脉","vein",38.37
+502,4,"颅内 NEC","intracranial NEC",38.31
+502,4,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.33
+502,4,"头和颈 NEC","head and neck NEC",38.32
+502,4,"下肢","lower limb",
+502,5,"动脉","artery",38.38
+502,5,"静脉","vein",38.39
+502,4,"胸 NEC","thoracic NEC",38.35
 502,4,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.34
 502,3,"移植物置换(插补)","graft replacement (interposition)",38.40
 502,4,"腹的","abdominal",
-502,5,"主动脉","aorta",38.44
+502,5,"动脉","artery",38.44
+502,5,"静脉","vein",38.47
+502,5,"主动脉","aorta",
+502,6,"切开入路","open approach",38.44
+502,6,"血管内入路","endovascular approach",39.71
+502,7,"开窗(分支)移植","fenestrated (branching) graft",39.78
+502,6,"Zenith® Renu™ AAA移植","Zenith® Renu™ AAA graft",39.71
 502,4,"颅内的NEC","intracranial NEC",38.41
-502,4,"上肢","upper limb",38.43
+502,4,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.43
 502,4,"头和颈NEC","head and neck NEC",38.42
-502,4,"下肢","lower limb",38.48
+502,4,"下肢","lower limb",
+502,5,"动脉","artery",38.48
+502,5,"静脉","vein",38.49
 502,4,"胸的NEC","thoracic NEC",38.45
-502,4,"主动脉(弓)(升)(降胸)","aorta (arch) (ascending) (descending thoracic)",
-502,5,"腹的","abdominal",38.44
-502,5,"胸的","thoracic",38.45
-502,5,"胸腹的","thoracoabdominal",38.45[38.44]
-502,2,"腹的","abdominal",38.66
-502,2,"颅内的NEC","intracranial NEC",38.61
-502,2,"上肢","upper limb",38.63
-502,2,"头和颈NEC","head and neck NEC",38.62
-503,2,"下肢","lower-limb",38.68
-503,2,"胸的NEC","thoracic NEC",38.65
+503,4,"主动脉(弓)(升)(降胸)","aorta (arch) (ascending) (descending thoracic)",
+503,5,"腹的","abdominal",38.44
+503,5,"胸的","thoracic",38.45
+503,5,"胸腹的","thoracoabdominal",38.45[38.44]
+503,2,"腹","abdominal",
+503,3,"动脉","artery",38.66
+503,3,"静脉","vein",38.67
+503,2,"颅内NEC","intracranial NEC",38.61
+503,2,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.63
+503,2,"头和颈NEC","head and neck NEC",38.62
+503,2,"瓦尔萨尔瓦窦(主动脉窦)","sinus of Valsalva",35.39
+503,2,"下肢","lower limb",
+503,3,"动脉","artery",38.68
+503,3,"静脉","vein",38.69
+503,2,"心房,心耳","atrial, auricular",37.32
+503,2,"心室(心肌)","ventricle (myocardium)",37.32
+503,2,"心脏","heart",37.32
+503,2,"胸NEC","thoracic NEC",38.65
 503,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.64
-503,1,"动脉切开术","Arteriotomy",38.00
-503,2,"腹的","abdominal",38.06
-503,2,"颅内的NEC","intracranial NEC",38.01
-503,2,"上肢","upper limb",38.03
-503,2,"头和颈NEC","head and neck NEC",38.02
-503,2,"下肢","lower limb",38.08
-503,2,"胸的NEC","thoracic NEC",38.05
-503,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
-503,1,"动脉圆锥切除术","Infundibulectomy",
-503,2,"垂体-另见垂体切除术,部分","hypophyseal-see also Hypophysectomy, partial",07.63
-503,2,"心室(心脏)(右)","ventricle (heart) (right)",35.34
-503,3,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
-503,1,"动脉造影术(对比)(荧光镜的)(逆行的)","Arteriography (contrast) (fluoroscopic) (retrograde)",88.40
-503,2,"SPY(术间造影系统),冠状动脉","SPY, coronary",88.59
-503,2,"臂的","brachial",88.49
-503,2,"肠系膜上动脉","superior mesenteric artery",88.47
-503,2,"超声-见超声波检查,按部位","ultrasound-see Ultrasonography, by site",
-503,2,"多普勒(超声)-见超声波检查,按部位","Doppler (ultrasonic)-see Ultrasonography, by site",
-503,2,"放射性核素-见扫描,放射性核素","radioisotope-see Scan, radioisotope",
-503,2,"肺动脉","pulmonary",88.43
-503,2,"腹内的NEC","intra-abdominal NEC",88.47
-503,2,"股动脉","femoral",88.48
-503,2,"冠状(直接)(选择性)NEC","coronary (direct) (selective) NEC",88.57
-503,3,"单导管技术(Sones)","single catheter technique (Sones)",88.55
-503,3,"手术中荧光血管的","intra-operative fluorescence vascular",88.59
-503,3,"双导管技术(贾金斯)(里基茨和艾布拉姆斯)","double catheter technique (Judkins) (Ricketts and Abrams)",88.56
-503,2,"基底","basilar",88.41
-503,2,"颈动脉(内的)","carotid (internal)",88.41
-503,2,"经股动脉","transfemoral",88.48
-503,2,"脑的(后循环)","cerebral (posterior circulation)",88.41
-503,2,"上肢","upper extremity",88.49
-503,2,"肾","renal",88.45
+503,1,"动脉瘤切开术-见动脉瘤切除术","Aneurysmotomy-see Aneurysmectomy",
+503,1,"动脉内膜切除术(气体)(伴补片移植)","Endarterectomy (gas) (with patch graft)",38.10
+503,2,"腹","abdominal",38.16
+503,2,"冠状动脉-见亚目","coronary artery-see subcategory",36.0
+503,3,"开放性胸入路","open chest approach",36.03
+503,2,"颅内的(开放性)NEC","intracranial (open) NEC",38.11
+503,3,"经皮入路,颅内血管","percutaneous approach, intracranial vessel(s)",00.62
+503,2,"上肢","upper limb",38.13
+503,2,"头和颈(开放)NEC","head and neck (open) NEC",38.12
