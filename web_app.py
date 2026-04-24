@@ -239,7 +239,7 @@ def search_dataframe(
     level_min: int,
     level_max: int,
     file_filters: List[str],
-) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]], List[Dict[str, Any]]]:
+) -> Tuple[List[Dict[str, Any]], List[Dict[str, Any]]]:
     df = load_dataset()
     query_text = query.strip()
     if page_min is not None:
@@ -256,7 +256,7 @@ def search_dataframe(
     if not query_text:
         browse_rows = df[df["level"] == 0].copy()
         result_rows = [row_to_json(row, has_children=has_descendants(int(idx), df)) for idx, row in browse_rows.iterrows()]
-        return result_rows, [], result_rows
+        return result_rows, result_rows
 
     is_code_query = bool(re.fullmatch(r"\d+(?:\.\d+)?", query_text))
     query_lower = query_text.lower()
@@ -289,35 +289,11 @@ def search_dataframe(
         else:
             results = df[text_values.str.contains(query_lower, regex=False)].copy()
 
-    reverse_hits: List[Dict[str, Any]] = []
-    if is_code_query:
-        exact_codes = df[df["code"].astype(str).str.lower() == query_lower].copy()
-        found_terms = set()
-        for _, row in exact_codes.iterrows():
-            chinese_text = normalize_text(row.get("chinese", "")).lower()
-            english_text = normalize_text(row.get("english", "")).lower()
-            if chinese_text:
-                found_terms.add(chinese_text)
-            if english_text:
-                found_terms.add(english_text)
-        if found_terms:
-            visited = set()
-            for _, row in df.iterrows():
-                refs = extract_references(normalize_text(row.get("chinese", "")), "zh")
-                refs += extract_references(normalize_text(row.get("english", "")), "en")
-                for ref in refs:
-                    if ref["target"].lower() in found_terms:
-                        key = (row["page"], row["level"], row["_source_file"], row["_source_line"])
-                        if key not in visited:
-                            visited.add(key)
-                            reverse_hits.append(row_to_json(row))
-                        break
-
     result_rows = [row_to_json(row, matched=True, has_children=has_descendants(int(idx), df)) for idx, row in results.iterrows()]
     tree_rows = collect_relevant_rows(results, df) if query_text else [row_to_json(row, matched=False, has_children=has_descendants(int(idx), df)) for idx, row in df.iterrows()]
     if query_text:
         tree_rows = [row for row in tree_rows if row.get("level", 0) != 0]
-    return result_rows, reverse_hits, tree_rows
+    return result_rows, tree_rows
 
 
 def get_row_id(row: pd.Series) -> str:
@@ -465,7 +441,7 @@ def api_search() -> Any:
     level_max = request.args.get("level_max", type=int)
     file_filters = request.args.getlist("file")
 
-    rows, reverse_hits, tree_rows = search_dataframe(
+    rows, tree_rows = search_dataframe(
         query=query,
         mode=mode,
         fields=fields,
@@ -483,7 +459,6 @@ def api_search() -> Any:
             "count": len(rows),
             "rows": rows,
             "tree": tree,
-            "reverse_hits": reverse_hits,
         }
     )
 

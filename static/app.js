@@ -46,7 +46,6 @@ function createRefAnchor(target) {
         return;
       }
       renderSummary(data);
-      renderReverseHits(data.reverse_hits || []);
       renderTree(data);
     } catch (err) {
       console.error('定位引用失败：', err);
@@ -245,56 +244,6 @@ function renderSummary(data) {
   summaryEl.innerHTML = `检索到 <strong>${data.count}</strong> 条结果`;
 }
 
-function renderReverseHits(rows) {
-  reverseContainer.innerHTML = "";
-  if (!rows || !rows.length) {
-    reverseContainer.style.display = "none";
-    return;
-  }
-  reverseContainer.style.display = "block";
-  reverseContainer.innerHTML = `<strong>反向索引（引用该代码的条目）：</strong> ${rows.length} 条`;
-  rows.forEach((row) => {
-    const item = document.createElement("div");
-    item.className = "list-item";
-
-    const title = document.createElement("div");
-    title.className = "item-label";
-    title.innerHTML = `<div class="item-title">${sanitize(row.chinese || row.english || "(无标题)")}</div>`;
-
-    const meta = document.createElement("div");
-    meta.className = "item-meta";
-    meta.textContent = `代码: ${sanitize(row.code || "-")} · 层级 ${row.level} · 页 ${row.page}`;
-    title.appendChild(meta);
-    item.appendChild(title);
-
-    const details = document.createElement("div");
-    details.className = "item-details";
-    details.innerHTML = `<div>${sanitize(row.chinese)}</div><div>${sanitize(row.english)}</div>`;
-    // Do not render reference texts in item details. Instead, embed all suitable
-    // '见'/'see' reference targets found in the item title.
-    if (row.references && row.references.length) {
-      const refs = row.references.filter((r) => {
-        const kl = (r.kind || '').toLowerCase();
-        const tgt = (r.target || '').trim();
-        return tgt && (kl.includes('见') || kl.includes('see')) && !(tgt.includes('亚目') || tgt.toLowerCase().includes('subcategory'));
-      });
-      if (refs.length) {
-        const rawTitle = (row.chinese || row.english || '(无标题)');
-        const itemTitleEl = title.querySelector('.item-title');
-        if (itemTitleEl) {
-          const embedded = embedRefTargetsInTitle(itemTitleEl, rawTitle, refs);
-          if (!embedded) {
-            const a = createRefAnchor((refs[0].target || '').trim());
-            itemTitleEl.appendChild(a);
-          }
-        }
-      }
-    }
-    item.appendChild(details);
-    reverseContainer.appendChild(item);
-  });
-}
-
 function renderTree(data) {
   treeContainer.innerHTML = "";
   if (!data.tree || !data.tree.length) {
@@ -317,7 +266,6 @@ async function performSearch() {
     const response = await fetch(url);
     const data = await response.json();
     renderSummary(data);
-    renderReverseHits(data.reverse_hits || []);
     renderTree(data);
   } catch (error) {
     summaryEl.textContent = "检索失败，请稍后重试。";

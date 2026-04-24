@@ -1,2 +1,3 @@
 streamlit>=1.30
 pandas>=2.0
+pypdfium2>=4.30

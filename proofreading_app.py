@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import base64
 import csv
+import io
 import re
 import uuid
 from datetime import datetime
@@ -17,7 +18,6 @@ INTERNAL_COLUMNS = ["_uid", "_source_file", "_source_line", "_order", "_deleted"
 CSV_NAME_PATTERN = re.compile(r"icd-index-extraction-(\d+)-(\d+)\.csv$")
 
 ROOT_DIR = Path(__file__).resolve().parent
-TARGET_PAGES_DIR = ROOT_DIR / "target_pages"
 TARGET_PDF_PATH = ROOT_DIR / "target.pdf"
 
 
@@ -175,12 +175,31 @@ def load_pdf_base64(pdf_path: str) -> str:
     return base64.b64encode(path.read_bytes()).decode("utf-8")
 
 
-def get_page_image_path(page: int) -> Optional[Path]:
-    image_name = f"target_page_{page:03d}.png"
-    image_path = TARGET_PAGES_DIR / image_name
-    if image_path.exists():
-        return image_path
-    return None
+@st.cache_data(show_spinner=False)
+def render_pdf_page_image(pdf_path: str, page: int, scale: float = 5.0) -> Optional[bytes]:
+    path = Path(pdf_path)
+    if not path.exists() or page < 1:
+        return None
+
+    try:
+        import pypdfium2 as pdfium
+    except ImportError:
+        return None
+
+    try:
+        document = pdfium.PdfDocument(str(path))
+        page_count = len(document)
+        if page > page_count:
+            return None
+
+        pdf_page = document[page - 1]
+        bitmap = pdf_page.render(scale=scale)
+        image = bitmap.to_pil()
+        buffer = io.BytesIO()
+        image.save(buffer, format="PNG")
+        return buffer.getvalue()
+    except Exception:
+        return None
 
 
 def init_state() -> None:
@@ -715,12 +734,12 @@ def render_main() -> None:
 
     with left_col:
         st.subheader("PDF 原文")
-        page_image_path = get_page_image_path(current_page)
-        if page_image_path is None:
-            st.error(f"未找到页面图像：{TARGET_PAGES_DIR / f'target_page_{current_page:03d}.png'}")
+        page_image_bytes = render_pdf_page_image(str(TARGET_PDF_PATH), current_page)
+        if page_image_bytes is None:
+            st.error(f"无法从 PDF 渲染页码 {current_page}：{TARGET_PDF_PATH}")
         else:
             st.image(
-                str(page_image_path),
+                page_image_bytes,
                 caption=f"Page {current_page}",
                 width="stretch",
             )
