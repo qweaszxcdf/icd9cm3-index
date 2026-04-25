@@ -34,23 +34,23 @@ page,level,chinese,english,code
 519,1,"分娩(伴)","Delivery (with)",
 519,2,"产钳","forceps",72.9
 519,3,"巴尔通","Barton's",72.4
-520,4,"出口(低)","outlet (low)",72.0
-520,5,"伴外阴切开术","with episiotomy",72.1
-520,4,"低位(出口)","low (outlet)",72.0
-520,5,"伴外阴切开术","with episiotomy",72.1
-520,4,"高的","high",72.39
-520,5,"伴外阴切开术","with episiotomy",72.31
-520,4,"器械NEC","instrumental NEC",72.9
-520,5,"特指的NEC","specified NEC",72.8
-520,4,"失败","failed",73.3
-520,4,"试用","trial",73.3
-520,4,"胎头旋转","rotation of fetal head",72.4
-520,4,"应用于头后出(派珀尔)","application to aftercoming head (Piper)",72.6
-520,4,"伴臀抽取术","with breech extraction",
+520,3,"出口(低)","outlet (low)",72.0
+520,4,"伴外阴切开术","with episiotomy",72.1
+520,3,"低位(出口)","low (outlet)",72.0
+520,4,"伴外阴切开术","with episiotomy",72.1
+520,3,"高的","high",72.39
+520,4,"伴外阴切开术","with episiotomy",72.31
+520,3,"器械NEC","instrumental NEC",72.9
+520,4,"特指的NEC","specified NEC",72.8
+520,3,"失败","failed",73.3
+520,3,"试用","trial",73.3
+520,3,"胎头旋转","rotation of fetal head",72.4
+520,3,"应用于头后出(派珀尔)","application to aftercoming head (Piper)",72.6
+520,4,"伴臀抽吸术","with breech extraction",
 520,5,"部分的","partial",72.51
 520,5,"全部的","total",72.53
-520,4,"中位","mid",72.29
-520,5,"伴外阴切开术","with episiotomy",72.21
+520,3,"中位","mid",72.29
+520,4,"伴外阴切开术","with episiotomy",72.21
 520,2,"德李手法操作","De Lee maneuver",72.4
 520,2,"辅助自然","assisted spontaneous",73.59
 520,2,"基耶兰德旋转","Kielland rotation",72.4
@@ -142,7 +142,7 @@ page,level,chinese,english,code
 522,2,"肛门","anus",49.71
 522,3,"产科撕裂伤(近期)","obstetric laceration (current)",75.62
 522,4,"陈旧性","old",49.79
-522,3,"肛门括约肌","sphincter ani",49.71
+522,2,"肛门括约肌","sphincter ani",49.71
 522,3,"产科撕裂伤(近期)","obstetric laceration (current)",75.62
 522,4,"陈旧性","old",49.79
 522,2,"睾丸","testis",62.61
@@ -185,12 +185,12 @@ page,level,chinese,english,code
 523,3,"冈上肌(旋转环带修补术)","supraspinatus (rotator cuff repair)",83.63
 523,3,"鞘","sheath",83.61
 523,4,"手","hand",82.41
-523,4,"手NEC","hand NEC",82.45
-523,5,"屈肌","flexors",82.44
-523,6,"延迟的(II期)","delayed (secondary)",82.42
-523,6,"延迟的(II期)","delayed (secondary)",82.43
-523,4,"旋转环带","rotator cuff",83.63
-523,5,"延迟的(II期)","delayed (secondary)",83.62
+523,3,"手NEC","hand NEC",82.45
+523,4,"屈肌","flexors",82.44
+523,5,"延迟的(II期)","delayed (secondary)",82.42
+523,4,"延迟的(II期)","delayed (secondary)",82.43
+523,3,"旋转环带","rotator cuff",83.63
+523,3,"延迟的(II期)","delayed (secondary)",83.62
 523,4,"手NEC","hand NEC",82.43
 523,5,"屈肌","flexors",82.42
 523,3,"眼的","ocular",15.7

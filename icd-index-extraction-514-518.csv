@@ -152,7 +152,7 @@ page,level,chinese,english,code
 517,2,"股腘的","femoropopliteal",39.29
 517,2,"海绵体-尿道海绵体","corpora cavernosa-corpus spongiosum",64.98
 517,2,"海绵体隐静脉的","corpora-saphenous",64.98
-517,2,"脊髓的(带)(伴有瓣)NEC","spinal (thecal) (with valve) NEC",03.79
+517,2,"脊髓的(鞘)(伴有瓣)NEC","spinal (thecal) (with valve) NEC",03.79
 517,3,"蛛网膜下腹膜的","subarachnoid-peritoneal",03.71
 517,3,"蛛网膜下输尿管的","subarachnoid-ureteral",03.72
 517,2,"降主动脉与肺动脉(波茨-史密斯)","descending aorta to pulmonary artery (Potts-Smith)",39.0
@@ -185,8 +185,8 @@ page,level,chinese,english,code
 518,2,"脑室鼻咽的","ventriculonasopharyngeal",02.31
 518,2,"脑室脑池的(伴有瓣)","ventriculocisternal (with valve)",02.22
 518,2,"脑室腔静脉的(伴有瓣)","ventriculocaval (with valve)",02.32
-518,2,"脑室乳突的(伴有瓣)","ventriculomastoid (with valve)",02.31
-518,2,"脑室胸膜的(伴有瓣)","ventriculopleural (with valve)",02.33
+518,2,"脑室腔乳突的(伴有瓣)","ventriculomastoid (with valve)",02.31
+518,2,"脑室腔胸膜的(伴有瓣)","ventriculopleural (with valve)",02.33
 518,2,"脑室心房的(伴有瓣)","ventriculoatrial (with valve)",02.32
 518,2,"脑室腰的(伴有瓣)","ventriculolumbar (with valve)",02.39
 518,2,"内淋巴-外淋巴","endolymph-perilymph",20.71

@@ -59,6 +59,7 @@ page,level,chinese,english,code
 510,1,"耳切除术","Auriculectomy",18.39
 510,1,"耳蜗电流描记术","Electrocochleography",20.31
 510,1,"二尖瓣固定术(二尖瓣)","Atriocommissuropexy (mitral valve)",35.12
+510,0,"F","F",
 510,1,"Farabeuf手术(坐骨耻骨切开术)","Farabeuf operation (ischiopubiotomy)",77.39
 510,1,"Fasanella-Servatt手术(睑下垂修补术)","Fasanella-Servatt operation (blepharoptosis repair)",08.35
 510,1,"Ferguson手术(疝修补术)","Ferguson operation (hernia repair)",53.00
@@ -75,7 +76,7 @@ page,level,chinese,english,code
 511,1,"Fox手术(睑内翻修补术伴楔形切除术)","Fox operation (entropion repair with wedge resection)",08.43
 511,1,"Franco手术(耻骨上膀胱造口术)","Franco operation (suprapubic cystotomy)",57.18
 511,1,"Frank手术(永久性胃造口术)","Frank operation (permanent gastrostomy)",43.19
-511,1,"Frazier(-Spiller)手术(颞下三叉神经经根切断术)","Frazier (-Spiller) operation (subtemporal trigeminal rhizotomy)",04.02
+511,1,"Frazier(-Spiller)手术(颞下三叉神经根切断术)","Frazier (-Spiller) operation (subtemporal trigeminal rhizotomy)",04.02
 511,1,"Fredet-Ramstedt手术(幽门肌切开术)(伴楔形切除术)","Fredet-Ramstedt operation (pyloromyotomy) (with wedge resection)",43.3
 511,1,"Frenckner手术(颞骨岩部内引流)","Frenckner operation (intrapetrosal drainage)",20.22
 511,1,"Frickman手术(腹直肠固定术)","Frickman operation (abdominal proctopexy)",48.75

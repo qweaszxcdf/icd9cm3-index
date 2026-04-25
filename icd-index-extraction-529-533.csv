@@ -1,194 +1,194 @@
 page,level,chinese,english,code
-529,3,"义耳装置的基座(螺丝)","abutment (screw) for prosthetic ear device",
-529,4,"经皮的","percutaneous",20.99
-529,2,"妇科超声造影","Echogynography",88.79
-529,2,"复苏","Resuscitation",
-529,3,"肺动脉","pulmonary",93.93
-529,3,"口对口","mouth-to-mouth",93.93
-529,3,"气管内插管","endotracheal intubation",96.04
-529,3,"人工呼吸","artificial respiration",93.93
-529,3,"手法的","manual",93.93
-529,3,"心的","cardiac",99.60
-529,4,"去除心脏纤颤","defibrillation",99.62
-529,4,"外部按摩","external massage",99.63
-529,5,"开胸","open chest",37.91
-529,4,"心复率术","cardioversion",99.62
-529,5,"心房的","atrial",99.61
-529,4,"心内注射","intracardiac injection",37.92
-529,3,"心肺","cardiopulmonary",99.60
-529,2,"复位","Reposition",
-529,3,"复律器/除颤器(自动的)","cardioverter/defibrillator (automatic)",
-529,4,"导联(感知)(起搏)(心外膜补片)","lead(s) (epicardial patch) (pacing) (sensing)",37.75
-529,4,"脉搏发生器","pulse generator",37.79
-529,4,"囊袋","pocket",37.79
-529,3,"虹膜","iris",12.39
-529,3,"甲状腺组织","thyroid tissue",06.94
-529,3,"睫毛底","cilia base",08.71
-529,3,"可植入的血流动力学感应器(导线)和监视装置","implantable hemodynamic sensor (lead) and monitor device",37.79
-529,3,"皮下装置囊袋 NEC","subcutaneous device pocket NEC",86.09
-529,3,"三尖瓣瓣膜(伴折叠术)","tricuspid valve (with plication)",35.14
-529,3,"神经刺激器","neurostimulator",
-529,4,"导联","leads",
-529,5,"骶神经内部或上面","within or over sacral nerve",04.92
-529,5,"脊柱内","within spine",03.93
-529,5,"脑内","within brain",02.93
-529,5,"皮下,不伴装置置换","subcutaneous, without device replacement",86.09
-529,5,"胃神经内部或上面","within or over gastric nerve",04.92
-529,5,"周围神经内部或上面","within or over peripheral nerve",04.92
-529,4,"脉搏发生器","pulse generator",
-529,5,"皮下,不伴装置置换","subcutaneous, without device replacement",86.09
-530,3,"肾血管,迷行","renal vessel, aberrant",39.55
-530,3,"心律再同步化除颤器(CRT-D)—见修复术,心律再同步化除颤器","cardiac resynchronization defibrillator (CRT-D)-see Revision, cardiac resynchronization defibrillator",
-530,3,"心律再同步化起搏器(CRT-P)—见修复术,心律再同步化起搏器","cardiac resynchronization pacemaker (CRT-P)-see Revision, cardiac resynchronization pacemaker",
-530,3,"心脏起搏器","cardiac pacemaker",
-530,4,"电极(心房)(经静脉)(心室)","electrode(s) (atrial) (transvenous) (ventricular)",37.75
-530,4,"囊袋","pocket",37.79
-530,2,"复位术,减缩术—另见切除术,按部位","Reduction-see also Excision, by site",
-530,3,"肠扭结的","volvulus",
-530,4,"肠","intestine",46.80
-530,5,"大的","large",46.82
-530,6,"内镜的(球囊)","endoscopic (balloon)",46.85
-530,5,"小的","small",46.81
-530,4,"胃","stomach",44.92
-530,3,"肠套叠","intussusception (open)",46.80
-530,4,"伴","with",
-530,5,"超声波检查引导","ultrasonography guidance",96.29
-530,5,"电离放射灌肠法","ionizing radiation enema",96.29
-530,5,"荧光镜透视检查法","fluoroscopy",96.29
-530,5,"充气的","pneumatic",96.29
-530,5,"大肠","large intestine",46.82
-530,6,"内镜的(球囊)","endoscopic (balloon)",46.85
-530,5,"流体静力学的","hydrostatic",96.29
-530,5,"小肠","small intestine",46.81
-530,3,"倒转,子宫经子宫托","retroversion, uterus by pessary",96.18
-530,3,"分离,骺(伴内固定)(闭合的)","separation, epiphysis (with internal fixation) (closed)",79.40
-530,4,"腓骨(闭合的)","fibula (closed)",79.46
-530,5,"开放性","open",79.56
-530,4,"肱骨(闭合的)","humerus (closed)",79.41
-530,5,"开放性","open",79.51
-530,4,"股骨(闭合的)","femur (closed)",79.45
-530,5,"开放性","open",79.55
-530,4,"胫骨(闭合的)","tibia (closed)",79.46
-530,5,"开放性","open",79.56
-530,4,"开放性","open",79.50
-530,4,"特指部位(闭合的) NEC—另见亚目","specified site (closed) NEC-see also subcategory",79.4
-531,5,"开放性—见亚目","open-see subcategory",79.5
-531,3,"骨折(骨)(伴石膏管型)(伴夹板)(伴牵引装置)(闭合的)","fracture (bone) (with cast) (with splint) (with traction device) (closed)",79.00
-531,4,"伴内固定","with internal fixation",79.10
-531,4,"鼻(闭合的)","nasal (closed)",21.71
-531,5,"开放性","open",21.72
-531,4,"臂(闭合的) NEC","arm (closed) NEC",79.02
-531,5,"伴内固定","with internal fixation",79.12
-531,5,"开放性","open",79.22
-531,6,"伴内固定","with internal fixation",79.32
-531,4,"髌骨(开放)(伴内固定)","patella (open) (with internal fixation)",79.36
-531,4,"齿槽突(伴牙齿稳定术)","alveolar process (with stabilization of teeth)",
+529,2,"义耳装置的基座(螺丝)","abutment (screw) for prosthetic ear device",
+529,3,"经皮的","percutaneous",20.99
+529,1,"妇科超声造影","Echogynography",88.79
+529,1,"复苏","Resuscitation",
+529,2,"肺动脉","pulmonary",93.93
+529,2,"口对口","mouth-to-mouth",93.93
+529,2,"气管内插管","endotracheal intubation",96.04
+529,2,"人工呼吸","artificial respiration",93.93
+529,2,"手法的","manual",93.93
+529,2,"心的","cardiac",99.60
+529,3,"去除心脏纤颤","defibrillation",99.62
+529,3,"外部按摩","external massage",99.63
+529,4,"开胸","open chest",37.91
+529,3,"心复率术","cardioversion",99.62
+529,4,"心房的","atrial",99.61
+529,3,"心内注射","intracardiac injection",37.92
+529,2,"心肺","cardiopulmonary",99.60
+529,1,"复位","Reposition",
+529,2,"复律器/除颤器(自动的)","cardioverter/defibrillator (automatic)",
+529,3,"导联(感知)(起搏)(心外膜补片)","lead(s) (epicardial patch) (pacing) (sensing)",37.75
+529,3,"脉搏发生器","pulse generator",37.79
+529,3,"囊袋","pocket",37.79
+529,2,"虹膜","iris",12.39
+529,2,"甲状腺组织","thyroid tissue",06.94
+529,2,"睫毛底","cilia base",08.71
+529,2,"可植入的血流动力学感应器(导线)和监视装置","implantable hemodynamic sensor (lead) and monitor device",37.79
+529,2,"皮下装置囊袋 NEC","subcutaneous device pocket NEC",86.09
+529,2,"三尖瓣瓣膜(伴折叠术)","tricuspid valve (with plication)",35.14
+529,2,"神经刺激器","neurostimulator",
+529,3,"导联","leads",
+529,4,"骶神经内部或上面","within or over sacral nerve",04.92
+529,4,"脊柱内","within spine",03.93
+529,4,"脑内","within brain",02.93
+529,4,"皮下,不伴装置置换","subcutaneous, without device replacement",86.09
+529,4,"胃神经内部或上面","within or over gastric nerve",04.92
+529,4,"周围神经内部或上面","within or over peripheral nerve",04.92
+529,3,"脉搏发生器","pulse generator",
+529,4,"皮下,不伴装置置换","subcutaneous, without device replacement",86.09
+530,2,"肾血管,迷行","renal vessel, aberrant",39.55
+530,2,"心律再同步化除颤器(CRT-D)—见修复术,心律再同步化除颤器","cardiac resynchronization defibrillator (CRT-D)-see Revision, cardiac resynchronization defibrillator",
+530,2,"心律再同步化起搏器(CRT-P)—见修复术,心律再同步化起搏器","cardiac resynchronization pacemaker (CRT-P)-see Revision, cardiac resynchronization pacemaker",
+530,2,"心脏起搏器","cardiac pacemaker",
+530,3,"电极(心房)(经静脉)(心室)","electrode(s) (atrial) (transvenous) (ventricular)",37.75
+530,3,"囊袋","pocket",37.79
+530,1,"复位术,减缩术—另见切除术,按部位","Reduction-see also Excision, by site",
+530,2,"肠扭结的","volvulus",
+530,3,"肠","intestine",46.80
+530,4,"大的","large",46.82
+530,5,"内镜的(球囊)","endoscopic (balloon)",46.85
+530,4,"小的","small",46.81
+530,3,"胃","stomach",44.92
+530,2,"肠套叠","intussusception (open)",46.80
+530,3,"伴","with",
+530,4,"超声波检查引导","ultrasonography guidance",96.29
+530,4,"电离放射灌肠法","ionizing radiation enema",96.29
+530,4,"荧光镜透视检查法","fluoroscopy",96.29
+530,3,"充气的","pneumatic",96.29
+530,3,"大肠","large intestine",46.82
+530,4,"内镜的(球囊)","endoscopic (balloon)",46.85
+530,3,"流体静力学的","hydrostatic",96.29
+530,3,"小肠","small intestine",46.81
+530,2,"倒转,子宫经子宫托","retroversion, uterus by pessary",96.18
+530,2,"分离,骺(伴内固定)(闭合的)","separation, epiphysis (with internal fixation) (closed)",79.40
+530,3,"腓骨(闭合的)","fibula (closed)",79.46
+530,4,"开放性","open",79.56
+530,3,"肱骨(闭合的)","humerus (closed)",79.41
+530,4,"开放性","open",79.51
+530,3,"股骨(闭合的)","femur (closed)",79.45
+530,4,"开放性","open",79.55
+530,3,"胫骨(闭合的)","tibia (closed)",79.46
+530,4,"开放性","open",79.56
+530,3,"开放性","open",79.50
+530,3,"特指部位(闭合的) NEC—另见亚目","specified site (closed) NEC-see also subcategory",79.4
+531,4,"开放性—见亚目","open-see subcategory",79.5
+531,2,"骨折(骨)(伴石膏管型)(伴夹板)(伴牵引装置)(闭合的)","fracture (bone) (with cast) (with splint) (with traction device) (closed)",79.00
+531,3,"伴内固定","with internal fixation",79.10
+531,3,"鼻(闭合的)","nasal (closed)",21.71
+531,4,"开放性","open",21.72
+531,3,"臂(闭合的) NEC","arm (closed) NEC",79.02
+531,4,"伴内固定","with internal fixation",79.12
+531,4,"开放性","open",79.22
+531,5,"伴内固定","with internal fixation",79.32
+531,3,"髌骨(开放)(伴内固定)","patella (open) (with internal fixation)",79.36
+531,3,"齿槽突(伴牙齿稳定术)","alveolar process (with stabilization of teeth)",
+531,4,"开放性","open",76.77
+531,4,"上颌骨(闭合的)","maxilla (closed)",76.73
 531,5,"开放性","open",76.77
-531,5,"上颌骨(闭合的)","maxilla (closed)",76.73
-531,6,"开放性","open",76.77
-531,5,"下颌骨(闭合的)","mandible (closed)",76.75
-531,6,"开放性","open",76.77
-531,4,"尺骨(闭合的)","ulna (closed)",79.02
-531,5,"伴内固定","with internal fixation",79.12
-531,5,"开放性","open",79.22
-531,6,"伴内固定","with internal fixation",79.32
-531,4,"腓骨(闭合的)","fibula (closed)",79.06
-531,5,"伴内固定","with internal fixation",79.16
-531,5,"开放性","open",79.26
-531,6,"伴内固定","with internal fixation",79.36
-531,4,"跗骨,跖骨(闭合的)","tarsal, metatarsal (closed)",79.07
-531,5,"伴内固定","with internal fixation",79.17
-531,5,"开放性","open",79.27
-531,6,"伴内固定","with internal fixation",79.37
-531,4,"肱骨(闭合的)","humerus (closed)",79.01
-531,5,"伴内固定","with internal fixation",79.11
-531,5,"开放性","open",79.21
-531,6,"伴内固定","with internal fixation",79.31
-531,4,"股骨(闭合的)","femur (closed)",79.05
-531,5,"伴内固定","with internal fixation",79.15
-531,5,"开放性","open",79.25
-531,6,"伴内固定","with internal fixation",79.35
-531,4,"颌骨(下的)—另见复位,骨折,下颌骨","jaw (lower)-see also Reduction, fracture, mandible",
-531,5,"上的—见复位,骨折,上颌骨","upper-see Reduction, fracture, maxilla",
-532,4,"骺—见复位,分离","epiphysis-see Reduction, separation",
-532,4,"喉","larynx",31.64
-532,4,"踝—见复位,骨折,腿","ankle-see Reduction, fracture, leg",
-532,4,"击出性—见复位,骨折,眶","blow-out-see Reduction, fracture, orbit",
-532,4,"脊柱","spine",03.53
-532,4,"胫骨(闭合的)","tibia (closed)",79.06
-532,5,"伴内固定","with internal fixation",79.16
-532,5,"开放性","open",79.26
-532,6,"伴内固定","with internal fixation",79.36
-532,4,"开放性","open",79.20
-532,5,"伴内固定","with internal fixation",79.30
+531,4,"下颌骨(闭合的)","mandible (closed)",76.75
+531,5,"开放性","open",76.77
+531,3,"尺骨(闭合的)","ulna (closed)",79.02
+531,4,"伴内固定","with internal fixation",79.12
+531,4,"开放性","open",79.22
+531,5,"伴内固定","with internal fixation",79.32
+531,3,"腓骨(闭合的)","fibula (closed)",79.06
+531,4,"伴内固定","with internal fixation",79.16
+531,4,"开放性","open",79.26
+531,5,"伴内固定","with internal fixation",79.36
+531,3,"跗骨,跖骨(闭合的)","tarsal, metatarsal (closed)",79.07
+531,4,"伴内固定","with internal fixation",79.17
+531,4,"开放性","open",79.27
+531,5,"伴内固定","with internal fixation",79.37
+531,3,"肱骨(闭合的)","humerus (closed)",79.01
+531,4,"伴内固定","with internal fixation",79.11
+531,4,"开放性","open",79.21
+531,5,"伴内固定","with internal fixation",79.31
+531,3,"股骨(闭合的)","femur (closed)",79.05
+531,4,"伴内固定","with internal fixation",79.15
+531,4,"开放性","open",79.25
+531,5,"伴内固定","with internal fixation",79.35
+531,3,"颌骨(下的)—另见复位,骨折,下颌骨","jaw (lower)-see also Reduction, fracture, mandible",
+531,4,"上的—见复位,骨折,上颌骨","upper-see Reduction, fracture, maxilla",
+532,3,"骺—见复位,分离","epiphysis-see Reduction, separation",
+532,3,"喉","larynx",31.64
+532,3,"踝—见复位,骨折,腿","ankle-see Reduction, fracture, leg",
+532,3,"击出性—见复位,骨折,眶","blow-out-see Reduction, fracture, orbit",
+532,3,"脊柱","spine",03.53
+532,3,"胫骨(闭合的)","tibia (closed)",79.06
+532,4,"伴内固定","with internal fixation",79.16
+532,4,"开放性","open",79.26
+532,5,"伴内固定","with internal fixation",79.36
+532,3,"开放性","open",79.20
+532,4,"伴内固定","with internal fixation",79.30
 532,4,"特指部位 NEC","specified site NEC",79.29
 532,5,"伴内固定","with internal fixation",79.39
-532,4,"眶(缘)(壁)(闭合的)","orbit (rim) (wall) (closed)",76.78
-532,5,"开放性","open",76.79
-532,4,"颅骨","skull",02.02
-532,4,"面的(骨) NEC","facial (bone) NEC",76.70
-532,5,"闭合性","closed",76.78
-532,5,"开放性","open",76.79
-532,4,"颧骨(闭合的)","malar (closed)",76.71
-532,5,"开放性","open",76.72
-532,4,"颧骨,颧弓(闭合的)","zygoma, zygomatic arch (closed)",76.71
-532,5,"开放性","open",76.72
-532,4,"桡骨(闭合的)","radius (closed)",79.02
-532,5,"伴内固定","with internal fixation",79.12
-532,5,"开放性","open",79.22
-532,6,"伴内固定","with internal fixation",79.32
-532,4,"上颌骨(伴牙齿拴结术)(闭合的)","maxilla (with dental wiring) (closed)",76.73
-532,5,"开放性","open",76.74
-532,4,"手(闭合) NEC","hand (closed) NEC",79.03
-532,5,"伴内固定","with internal fixation",79.13
-532,5,"开放性","open",79.23
-532,6,"伴内固定","with internal fixation",79.33
-532,4,"特指的部位(闭合的) NEC","specified site (closed) NEC",79.09
-532,5,"伴内固定","with internal fixation",79.19
-532,5,"开放性","open",79.29
-532,6,"伴内固定","with internal fixation",79.39
-532,4,"腿(闭合的) NEC","leg (closed) NEC",79.06
-532,5,"伴内固定","with internal fixation",79.16
-532,5,"开放性","open",79.26
-532,6,"伴内固定","with internal fixation",79.36
-533,4,"腕骨的,掌骨的(闭合的)","carpal, metacarpal (closed)",79.03
-533,5,"伴内固定","with internal fixation",79.13
-533,5,"开放性","open",79.23
-533,6,"伴内固定","with internal fixation",79.33
-533,4,"下颌骨(伴牙齿拴结术)(闭合的)","mandible (with dental wiring) (closed)",76.75
-533,5,"开放性","open",76.76
-533,4,"趾骨","phalanges",
-533,5,"手(闭合的)","hand (closed)",79.04
-533,6,"伴内固定","with internal fixation",79.14
-533,6,"开放性","open",79.24
-533,7,"伴内固定","with internal fixation",79.34
-533,5,"足(闭合的)","foot (closed)",79.08
-533,6,"伴内固定","with internal fixation",79.18
-533,6,"开放性","open",79.28
-533,7,"伴内固定","with internal fixation",79.38
-533,4,"椎骨","vertebra",03.53
-533,4,"足(闭合的) NEC","foot (closed) NEC",79.07
-533,5,"伴内固定","with internal fixation",79.17
-533,5,"开放性","open",79.27
-533,6,"伴内固定","with internal fixation",79.37
-533,3,"骨折脱位—见复位,骨折","fracture dislocation-see Reduction, fracture",
-533,3,"扭转","torsion",
-533,4,"肠(手法的)(外科的)","intestine (manual) (surgical)",46.80
-533,5,"大","large",46.82
-533,6,"内镜(球囊)","endoscopic (balloon)",46.85
-533,5,"小","small",46.81
-533,4,"睾丸","testis",63.52
-533,5,"伴睾丸固定术","with orchiopexy",62.5
-533,4,"精索","spermatic cord",63.52
-533,5,"伴睾丸固定术","with orchiopexy",62.5
-533,4,"妊娠","gravid",75.99
-533,4,"肾蒂","kidney pedicle",55.84
-533,4,"网膜","omentum",54.74
-533,4,"子宫 NEC","uterus NEC",69.98
-533,3,"脱垂","prolapse",
-533,4,"肠造口术(手法的)","enterostomy (manual)",96.28
-533,4,"肛门(手术的)","anus (operative)",49.94
-533,4,"回肠造口术(手法的)","ileostomy (manual)",96.28
-533,4,"结肠造口术(手法的)","colostomy (manual)",96.28
-533,4,"直肠(手法的)","rectum (manual)",96.26
-533,4,"子宫","uterus",
+532,3,"眶(缘)(壁)(闭合的)","orbit (rim) (wall) (closed)",76.78
+532,4,"开放性","open",76.79
+532,3,"颅骨","skull",02.02
+532,3,"面的(骨) NEC","facial (bone) NEC",76.70
+532,4,"闭合性","closed",76.78
+532,4,"开放性","open",76.79
+532,3,"颧骨(闭合的)","malar (closed)",76.71
+532,4,"开放性","open",76.72
+532,3,"颧骨,颧弓(闭合的)","zygoma, zygomatic arch (closed)",76.71
+532,4,"开放性","open",76.72
+532,3,"桡骨(闭合的)","radius (closed)",79.02
+532,4,"伴内固定","with internal fixation",79.12
+532,4,"开放性","open",79.22
+532,5,"伴内固定","with internal fixation",79.32
+532,3,"上颌骨(伴牙齿拴结术)(闭合的)","maxilla (with dental wiring) (closed)",76.73
+532,4,"开放性","open",76.74
+532,3,"手(闭合) NEC","hand (closed) NEC",79.03
+532,4,"伴内固定","with internal fixation",79.13
+532,4,"开放性","open",79.23
+532,5,"伴内固定","with internal fixation",79.33
+532,3,"特指的部位(闭合的) NEC","specified site (closed) NEC",79.09
+532,4,"伴内固定","with internal fixation",79.19
+532,4,"开放性","open",79.29
+532,5,"伴内固定","with internal fixation",79.39
+532,3,"腿(闭合的) NEC","leg (closed) NEC",79.06
+532,4,"伴内固定","with internal fixation",79.16
+532,4,"开放性","open",79.26
+532,5,"伴内固定","with internal fixation",79.36
+533,3,"腕骨的,掌骨的(闭合的)","carpal, metacarpal (closed)",79.03
+533,4,"伴内固定","with internal fixation",79.13
+533,4,"开放性","open",79.23
+533,5,"伴内固定","with internal fixation",79.33
+533,3,"下颌骨(伴牙齿拴结术)(闭合的)","mandible (with dental wiring) (closed)",76.75
+533,4,"开放性","open",76.76
+533,3,"趾骨","phalanges",
+533,4,"手(闭合的)","hand (closed)",79.04
+533,5,"伴内固定","with internal fixation",79.14
+533,5,"开放性","open",79.24
+533,6,"伴内固定","with internal fixation",79.34
+533,4,"足(闭合的)","foot (closed)",79.08
+533,5,"伴内固定","with internal fixation",79.18
+533,5,"开放性","open",79.28
+533,6,"伴内固定","with internal fixation",79.38
+533,3,"椎骨","vertebra",03.53
+533,3,"足(闭合的) NEC","foot (closed) NEC",79.07
+533,4,"伴内固定","with internal fixation",79.17
+533,4,"开放性","open",79.27
+533,5,"伴内固定","with internal fixation",79.37
+533,2,"骨折脱位—见复位,骨折","fracture dislocation-see Reduction, fracture",
+533,2,"扭转","torsion",
+533,3,"肠(手法的)(外科的)","intestine (manual) (surgical)",46.80
+533,4,"大","large",46.82
+533,5,"内镜(球囊)","endoscopic (balloon)",46.85
+533,4,"小","small",46.81
+533,3,"睾丸","testis",63.52
+533,4,"伴睾丸固定术","with orchiopexy",62.5
+533,3,"精索","spermatic cord",63.52
+533,4,"伴睾丸固定术","with orchiopexy",62.5
+533,3,"妊娠","gravid",75.99
+533,3,"肾蒂","kidney pedicle",55.84
+533,3,"网膜","omentum",54.74
+533,3,"子宫 NEC","uterus NEC",69.98
+533,2,"脱垂","prolapse",
+533,3,"肠造口术(手法的)","enterostomy (manual)",96.28
+533,3,"肛门(手术的)","anus (operative)",49.94
+533,3,"回肠造口术(手法的)","ileostomy (manual)",96.28
+533,3,"结肠造口术(手法的)","colostomy (manual)",96.28
+533,3,"直肠(手法的)","rectum (manual)",96.26
+533,3,"子宫","uterus",

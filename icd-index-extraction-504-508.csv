@@ -124,12 +124,12 @@ page,level,chinese,english,code
 507,4,"根治性(伴膜衬切除术)","radical (with removal of membrane lining)",22.31
 507,3,"外部的(考德威尔-卢克入路)","external (Caldwell-Luc approach)",22.39
 507,4,"伴膜衬切除术","with removal of membrane lining",22.31
-507,1,"杜菲埃手术—见 Tuffier 手术","Tuffier operation",
-507,1,"杜弗里斯手术—见 DuVries 手术","DuVries operation",
-507,1,"杜哈梅尔手术—见 Duhamel 手术","Duhamel operation",
-507,1,"杜拉邦德—see Durabond","Durabond",
-507,1,"杜普伊特伦手术—见 Dupuytren 手术","Dupuytren operation",
-507,1,"杜托伊特和鲁氏手术—见 DuToit 和 Roux 手术","DuToit and Roux operation",
+507,1,"杜菲埃手术—见 Tuffier 手术","杜菲埃手术-see Tuffier operation",
+507,1,"杜弗里斯手术—见 DuVries 手术","杜弗里斯手术-see DuVries operation",
+507,1,"杜哈梅尔手术—见 Duhamel 手术","杜哈梅尔手术-see Duhamel operation",
+507,1,"杜拉邦德—see Durabond","杜拉邦德-see Durabond",
+507,1,"杜普伊特伦手术—见 Dupuytren 手术","杜普伊特伦手术-see Dupuytren operation",
+507,1,"杜托伊特和鲁氏手术—见 DuToit 和 Roux 手术","杜托伊特和鲁氏手术-see DuToit and Roux operation",
 507,1,"毒物学—见检查,显微镜","Toxicology-see Examination, microscopic",
 507,1,"锻炼(物理疗法)NEC","Exercise (physical therapy) NEC",93.19
 507,2,"被动肌肉骨骼的NEC","passive musculoskeletal NEC",93.17
@@ -138,8 +138,8 @@ page,level,chinese,english,code
 507,3,"游泳池中的","in pool",93.31
 507,2,"呼吸的","breathing",93.18
 507,2,"肌肉骨骼的","musculoskeletal",
-508,2,"被动的NEC","passive NEC",93.17
-508,2,"主动的NEC","active NEC",93.12
+508,3,"被动的NEC","passive NEC",93.17
+508,3,"主动的NEC","active NEC",93.12
 508,2,"神经的","neurologic",89.13
 508,2,"主动肌肉骨骼NEC","active musculoskeletal NEC",93.12
 508,1,"对抗休克法,心的NEC","Countershock, cardiac NEC",99.62
@@ -152,8 +152,8 @@ page,level,chinese,english,code
 508,3,"腹腔镜的","laparoscopic",68.31
 508,1,"对向肌成形术(手)","Opponensplasty (hand)",82.56
 508,1,"多导睡眠(波动)描记","Polysomnogram",89.17
-508,1,"多兰斯手术—见 Dorrance 手术","Dorrance operation",
-508,1,"多累里手术—见 Doleris 手术","Doleris operation",
+508,1,"多兰斯手术—见 Dorrance 手术","多兰斯手术-see Dorrance operation",
+508,1,"多累里手术—见 Doleris 手术","多累里手术-see Doleris operation",
 508,1,"多普勒图,多普勒流图—见另见超声波检查","Dopplergram, Doppler flow mapping-see also Ultrasonography",
 508,2,"手术中经颅的","intraoperative transcranial",00.94
 508,2,"头和颈","head and neck",88.71
@@ -161,10 +161,11 @@ page,level,chinese,english,code
 508,2,"胸部NEC","thorax NEC",88.73
 508,2,"主动脉弓","aortic arch",88.73
 508,1,"多睡眠潜在试验(MSLT)","Multiple sleep latency test (MSLT)",89.18
-508,1,"多特手术—见 Dotter 手术","Dotter operation",
-508,1,"多亚手术—见 Doyle 手术","Doyle operation",
+508,1,"多特手术—见 Dotter 手术","多特手术-see Dotter operation",
+508,1,"多亚手术—见 Doyle 手术","多亚手术-see Doyle operation",
+508,0,"E","E",
 508,1,"E2F decoy(一种寡聚核苷酸,即短链DNA分子)","E2 F decoy",00.16
-508,1,"Eagleton手术(髂骨岩部外引流)","Eagleton operation (extrapetrosal drainage)",20.22
+508,1,"Eagleton手术(颞骨岩部外引流)","Eagleton operation (extrapetrosal drainage)",20.22
 508,1,"ECG—见心电图","ECG-see Electrocardiogram",
 508,1,"ECMO(体外膜氧化)","ECMO (extracorporeal membrane oxygenation)",39.65
 508,1,"EdenHybinette 手术(关节盂骨块)","Eden-Hybinette operation (glenoid bone block)",78.01
