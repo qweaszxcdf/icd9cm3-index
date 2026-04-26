@@ -212,6 +212,92 @@ body {
   margin-top: 8px;
 }
 
+.node-code-row {
+  margin-top: 8px;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.code-inline-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: #e0f2fe;
+  color: #0c4a6e;
+  font-weight: 700;
+  text-decoration: none;
+  border: 1px solid #bae6fd;
+}
+
+.code-inline-link:hover {
+  background: #bae6fd;
+}
+
+.tabular-panel {
+  display: grid;
+  gap: 10px;
+}
+
+.tabular-title {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+.tabular-path {
+  color: #64748b;
+  font-size: 0.86rem;
+  word-break: break-all;
+}
+
+.tabular-list {
+  margin: 0;
+  padding-left: 18px;
+}
+
+.tabular-list li {
+  line-height: 1.5;
+}
+
+.tabular-pdf-frame {
+  margin: 0;
+  width: 100%;
+  height: 65vh;
+  min-height: 420px;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  background: #fff;
+}
+
+.tabular-ios-fallback {
+  display: grid;
+  gap: 8px;
+}
+
+.tabular-pdf-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: fit-content;
+  padding: 8px 12px;
+  border-radius: 8px;
+  border: 1px solid #93c5fd;
+  background: #eff6ff;
+  color: #1d4ed8;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.tabular-pdf-link:hover {
+  background: #dbeafe;
+}
+
+.tabular-empty {
+  margin: 0;
+  color: #64748b;
+}
+
 .item-code {
   display: block;
   margin-top: 8px;

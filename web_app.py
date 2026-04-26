@@ -7,11 +7,16 @@ from pathlib import Path
 from typing import Any, Dict, List, Tuple
 
 import pandas as pd
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, jsonify, render_template, request, send_file
 
 ROOT_DIR = Path(__file__).resolve().parent
 CSV_NAME_PATTERN = re.compile(r"icd-index-extraction-(\d+)-(\d+)\.csv$")
 DATA_COLUMNS = ["page", "level", "chinese", "english", "code"]
+TABULAR_PAGE_MIN = 21
+TABULAR_PAGE_MAX = 415
+TABULAR_ROOT_DIR = (ROOT_DIR / ".." / "icd9tabular").resolve()
+TABULAR_INDEX_PATH = ROOT_DIR / "data" / "tabular_code_page_map.csv"
+TABULAR_PDF_PATH = ROOT_DIR / "target.pdf"
 
 app = Flask(__name__, template_folder="templates", static_folder="static")
 
@@ -88,6 +93,102 @@ def normalize_text(value: object) -> str:
     if text.lower() == "nan":
         return ""
     return text.strip()
+
+
+def normalize_code(value: object) -> str:
+    if value is None:
+        return ""
+    code = str(value).strip()
+    return re.sub(r"\s+", "", code).lower()
+
+
+def parse_code_key(code: str) -> Tuple[int, int] | None:
+    """Normalize ICD code to a comparable key: (major, minor_or_-1)."""
+    if not code:
+        return None
+
+    text = normalize_code(code)
+    if not text:
+        return None
+
+    if not re.fullmatch(r"\d{1,2}(?:\.\d{1,2})?", text):
+        return None
+
+    if "." not in text:
+        return (int(text), -1)
+
+    major_text, minor_text = text.split(".", 1)
+    # Treat one-decimal and two-decimal forms consistently (e.g., 00.4 == 00.40).
+    minor_scaled = int(minor_text.ljust(2, "0")[:2])
+    return (int(major_text), minor_scaled)
+
+
+@lru_cache(maxsize=1)
+def load_tabular_page_boundaries() -> List[Dict[str, Any]]:
+    df = load_tabular_index()
+    if df.empty:
+        return []
+
+    boundaries: List[Dict[str, Any]] = []
+    seen_pages: set[int] = set()
+    ordered = df.sort_values(["page", "code_norm"], kind="stable")
+    for _, row in ordered.iterrows():
+        page = parse_int(row.get("page", -1), -1)
+        if page in seen_pages:
+            continue
+
+        code = normalize_text(row.get("code", ""))
+        code_key = parse_code_key(code)
+        if code_key is None:
+            continue
+
+        seen_pages.add(page)
+        boundaries.append(
+            {
+                "page": page,
+                "code": code,
+                "code_norm": normalize_code(code),
+                "code_key": code_key,
+            }
+        )
+
+    return boundaries
+
+
+@lru_cache(maxsize=1)
+def load_tabular_index() -> pd.DataFrame:
+    if not TABULAR_INDEX_PATH.exists():
+        return pd.DataFrame(columns=["page", "code", "row_type", "code_norm"])
+
+    try:
+        df = pd.read_csv(
+            TABULAR_INDEX_PATH,
+            dtype={"code": str, "row_type": str},
+            keep_default_na=False,
+        )
+    except Exception:
+        return pd.DataFrame(columns=["page", "code", "row_type", "code_norm"])
+
+    if "page" not in df.columns or "code" not in df.columns:
+        return pd.DataFrame(columns=["page", "code", "row_type", "code_norm"])
+
+    if "row_type" not in df.columns:
+        df["row_type"] = ""
+
+    df = df.copy()
+    df["page"] = df["page"].apply(lambda value: parse_int(value, -1))
+    df["code"] = df["code"].astype(str).str.strip()
+    df["code_norm"] = df["code"].apply(normalize_code)
+    df = df[(df["page"] >= TABULAR_PAGE_MIN) & (df["page"] <= TABULAR_PAGE_MAX)]
+    df = df[df["code_norm"] != ""]
+    return df
+
+
+@lru_cache(maxsize=1)
+def get_tabular_pdf_path() -> Path | None:
+    if not TABULAR_PDF_PATH.exists():
+        return None
+    return TABULAR_PDF_PATH
 
 
 def extract_references(text: str, language: str) -> List[Dict[str, str]]:
@@ -544,6 +645,98 @@ def api_children() -> Any:
     descendants = collect_descendant_rows(start_index, df, query=query, mode=mode, fields=fields)
     children = build_hierarchy(descendants)
     return jsonify({"children": children})
+
+
+@app.route("/api/tabular")
+def api_tabular() -> Any:
+    query_code = request.args.get("code", "", type=str).strip()
+    if not query_code:
+        return jsonify({"query": query_code, "count": 0, "rows": [], "page": None})
+
+    code_norm = normalize_code(query_code)
+    if not code_norm:
+        return jsonify({"query": query_code, "count": 0, "rows": [], "page": None})
+
+    df = load_tabular_index()
+    if df.empty:
+        return jsonify(
+            {
+                "query": query_code,
+                "count": 0,
+                "rows": [],
+                "page": None,
+                "error": "tabular index not available",
+            }
+        )
+
+    matches = df[df["code_norm"] == code_norm].copy()
+    rows: List[Dict[str, Any]] = []
+
+    if not matches.empty:
+        matches = matches.sort_values(["page", "code_norm", "row_type"], kind="stable")
+        for _, row in matches.head(10).iterrows():
+            rows.append(
+                {
+                    "page": parse_int(row.get("page", -1), -1),
+                    "code": normalize_text(row.get("code", "")),
+                    "row_type": normalize_text(row.get("row_type", "")),
+                }
+            )
+    else:
+        query_key = parse_code_key(code_norm)
+        boundaries = load_tabular_page_boundaries()
+        selected_boundary: Dict[str, Any] | None = None
+
+        if query_key is not None:
+            # Pick the boundary with the largest code_key <= query_key.
+            # This is robust to occasional out-of-order/abnormal rows in the
+            # page->first-code map (e.g., a late page containing a small code).
+            for boundary in boundaries:
+                boundary_key = boundary["code_key"]
+                if boundary_key > query_key:
+                    continue
+                if selected_boundary is None or boundary_key > selected_boundary["code_key"]:
+                    selected_boundary = boundary
+                elif (
+                    selected_boundary is not None
+                    and boundary_key == selected_boundary["code_key"]
+                    and boundary["page"] < selected_boundary["page"]
+                ):
+                    # On identical boundary code, prefer earlier page.
+                    selected_boundary = boundary
+
+        if selected_boundary is None:
+            return jsonify({"query": query_code, "count": 0, "rows": [], "page": None})
+
+        rows.append(
+            {
+                "page": selected_boundary["page"],
+                "code": selected_boundary["code"],
+                "row_type": "page_boundary",
+            }
+        )
+
+    selected = rows[0]
+    page = parse_int(selected.get("page", -1), -1)
+    pdf_available = get_tabular_pdf_path() is not None
+
+    return jsonify(
+        {
+            "query": query_code,
+            "count": len(rows),
+            "rows": rows,
+            "page": page,
+            "pdf_url": "/tabular-pdf" if pdf_available else "",
+        }
+    )
+
+
+@app.route("/tabular-pdf")
+def tabular_pdf() -> Any:
+    pdf_path = get_tabular_pdf_path()
+    if pdf_path is None or not pdf_path.exists():
+        return ("Tabular PDF not found", 404)
+    return send_file(pdf_path, mimetype="application/pdf")
 
 
 def find_row_index_by_id(node_id: str, all_rows: pd.DataFrame) -> int:

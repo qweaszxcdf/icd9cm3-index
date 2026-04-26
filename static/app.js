@@ -55,6 +55,75 @@ function createRefAnchor(target) {
   return a;
 }
 
+function createCodeAnchor(code) {
+  const link = document.createElement("a");
+  link.href = "#";
+  link.className = "code-inline-link";
+  link.textContent = code;
+  link.addEventListener("click", async (event) => {
+    event.preventDefault();
+    await showTabularPageForCode(code);
+  });
+  return link;
+}
+
+function isIOSDevice() {
+  const ua = navigator.userAgent || "";
+  const iOSUA = /iPad|iPhone|iPod/i.test(ua);
+  // iPadOS 13+ may report as Mac; touch points help distinguish.
+  const iPadOS = navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1;
+  return iOSUA || iPadOS;
+}
+
+async function showTabularPageForCode(code) {
+  if (!code) return;
+  reverseContainer.style.display = "block";
+  reverseContainer.textContent = `正在查询类目表代码 ${code} ...`;
+  try {
+    const response = await fetch(`/api/tabular?code=${encodeURIComponent(code)}`);
+    const data = await response.json();
+    if (!data || !data.count || !data.page) {
+      reverseContainer.textContent = `未找到代码 ${code} 对应的类目表页面。`;
+      return;
+    }
+
+    const rowsHtml = (data.rows || [])
+      .slice(0, 5)
+      .map((row) => {
+        const titleZh = sanitize(row.title_zh || "");
+        const titleEn = sanitize(row.title_en || "");
+        const rowCode = sanitize(row.code || "");
+        const rowType = sanitize(row.row_type || "");
+        return `<li><strong>${rowCode}</strong> · 页 ${row.page} · ${rowType} ${titleZh}${titleZh && titleEn ? " / " : ""}${titleEn}</li>`;
+      })
+      .join("");
+
+    const pdfUrl = data.pdf_url ? `${data.pdf_url}#page=${data.page}` : "";
+    const preview = !pdfUrl
+      ? '<p class="tabular-empty">未找到类目表 PDF 文件。</p>'
+      : isIOSDevice()
+        ? `
+          <div class="tabular-ios-fallback">
+            <p class="tabular-empty">iOS 设备内嵌预览兼容性较差，请在新窗口打开 PDF。</p>
+            <a class="tabular-pdf-link" href="${sanitize(pdfUrl)}" target="_blank" rel="noopener noreferrer">打开第 ${data.page} 页 PDF</a>
+          </div>
+        `
+        : `<iframe class="tabular-pdf-frame" src="${sanitize(pdfUrl)}" title="ICD-9-CM-3 类目表 PDF 第 ${data.page} 页"></iframe>`;
+
+    reverseContainer.innerHTML = `
+      <div class="tabular-panel">
+        <div class="tabular-title">类目表定位：代码 ${sanitize(code)} → 第 ${data.page} 页（范围 21-415）</div>
+        <div class="tabular-path">PDF 第 ${data.page} 页</div>
+        <ul class="tabular-list">${rowsHtml}</ul>
+        ${preview}
+      </div>
+    `;
+  } catch (error) {
+    console.error("查询类目表失败：", error);
+    reverseContainer.textContent = `查询代码 ${code} 的类目表失败，请重试。`;
+  }
+}
+
 function embedRefTargetsInTitle(titleText, rawTitle, refs) {
   const rawLower = rawTitle.toLowerCase();
   const matches = [];
@@ -94,6 +163,14 @@ function embedRefTargetsInTitle(titleText, rawTitle, refs) {
   return true;
 }
 
+function appendInlineCodeToTitle(titleText, code) {
+  if (!code) return;
+  if (titleText.textContent && titleText.textContent.trim()) {
+    titleText.appendChild(document.createTextNode(" / "));
+  }
+  titleText.appendChild(createCodeAnchor(String(code)));
+}
+
 // Titles will be clickable when the node/item has references; separate reference-chip UI removed.
 
 function renderNode(node, asPath = false) {
@@ -121,7 +198,6 @@ function renderNode(node, asPath = false) {
   const parts = [];
   if (node.chinese) parts.push(sanitize(node.chinese));
   if (node.english) parts.push(sanitize(node.english));
-  if (node.code) parts.push(sanitize(node.code));
   titleText.textContent = parts.length ? parts.join(" / ") : "(无标题)";
   heading.appendChild(titleText);
 
@@ -144,7 +220,7 @@ function renderNode(node, asPath = false) {
       return tgt && (kl.includes('见') || kl.includes('see')) && !(tgt.includes('亚目') || tgt.toLowerCase().includes('subcategory'));
     });
     if (refs.length) {
-      const rawTitle = [node.chinese, node.english, node.code].filter(Boolean).join(' / ');
+      const rawTitle = [node.chinese, node.english].filter(Boolean).join(' / ');
       const embedded = embedRefTargetsInTitle(titleText, rawTitle, refs);
       if (!embedded) {
         const a = createRefAnchor((refs[0].target || '').trim());
@@ -152,6 +228,8 @@ function renderNode(node, asPath = false) {
       }
     }
   }
+
+  appendInlineCodeToTitle(titleText, node.code);
 
   if (hasChildren) {
     // If this node is part of the server-provided path, render its path-children
