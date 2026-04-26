@@ -1,192 +1,192 @@
 page,level,chinese,english,code
-549,3,"睑板腺囊肿","chalazion",08.25
-549,3,"腱","tendon",83.39
-549,4,"鞘","sheath",83.31
-549,5,"手","hand",82.21
-549,3,"角膜上皮","corneal epithelium",11.41
-549,4,"用于涂片或培养","for smear or culture",11.21
-549,3,"结膜(沙眼滤泡)","conjunctiva (trachoma follicles)",10.33
-549,3,"脑","brain",01.59
-549,3,"脑膜(脑的)","meninges (cerebral)",01.51
-549,4,"脊髓的","spinal",03.4
-549,3,"黏液囊","bursa",83.39
-549,4,"手","hand",82.29
-549,3,"膀胱","bladder",57.59
-549,4,"经尿道","transurethral",57.49
-549,3,"皮肤","skin",86.3
-549,3,"软骨—另见切除术,病损,关节","cartilage-see also Excision, lesion, joint",80.80
-549,3,"神经(周围的)","nerve (peripheral)",04.07
-549,4,"交感神经的","sympathetic",05.29
-549,3,"腺样增殖体","adenoids",28.6
-549,3,"牙龈下的","subgingival",24.31
-549,3,"眼睑","eyelid",08.25
-549,3,"子宫(伴扩张)","uterus (with dilation)",69.09
-549,4,"抽吸(诊断性)NEC","aspiration (diagnostic), NEC",69.59
-549,5,"流产或分娩后","after abortion or delivery",69.52
-549,5,"为了终止妊娠","to terminate pregnancy",69.51
-549,4,"分娩或流产后","following delivery or abortion",69.02
-549,2,"刮除与磨光,牙齿","Scaling and polishing, dental",96.54
-549,2,"关节成形术(伴固定装置)(伴牵引)","Arthroplasty (with fixation device) (with traction)",81.96
-549,3,"杯(部分髋)","cup (partial hip)",81.52
-549,3,"福勒(掌指关节)","Fowler (metacarpophalangeal joint)",81.72
-549,3,"股骨头NEC","femoral head NEC",81.40
-549,4,"伴假体植入","with prosthetic implant",81.52
-549,3,"踝","ankle",81.49
-549,3,"肩","shoulder",81.83
-549,4,"假体置换(部分)","prosthetic replacement (partial)",81.81
-549,5,"全部NEC","total, NEC",81.80
-549,6,"反向","reverse",81.88
-549,6,"其他","other",81.80
-549,5,"用于复发性脱臼","for recurrent dislocation",81.82
-550,3,"卡罗尔和泰伯(近端指(趾)间关节)","Carroll and Taber (proximal interphalangeal joint)",81.72
-550,3,"凯斯勒(腕掌关节)","Kessler (carpometacarpal joint)",81.74
-550,3,"柯蒂斯(指(趾)间关节)","Curtis (interphalangeal joint)",81.72
-550,3,"髋(伴骨移植)","hip (with bone graft)",81.40
-550,4,"杯(部分髋)","cup (partial hip)",81.52
-550,4,"部分置换","partial replacement",81.52
-550,4,"股骨头NEC","femoral head NEC",81.40
-550,5,"伴假体植入","with prosthetic implant",81.52
-550,6,"伴全部置换","with total replacement",81.51
-550,4,"全部置换","total replacement",81.51
-550,3,"颞下颌的","temporomandibular",76.5
-550,3,"手(掌指的)(指间关节)","hand (metacarpophalangeal) (interphalangeal)",81.72
-550,4,"伴假体植入","with prosthetic implant",81.71
-550,3,"手指(多个)","finger(s)",81.72
-550,4,"伴假体植入","with prosthetic implant",81.71
-550,3,"腕","wrist",81.75
-550,4,"伴假体植入","with prosthetic implant",81.74
-550,5,"全部置换","total replacement",81.73
-550,3,"腕骨","carpals",81.75
-550,4,"伴假体植入","with prosthetic implant",81.74
-550,3,"腕腕的,腕掌的","carpocarpal, carpometacarpal",81.75
-550,4,"伴假体植入","with prosthetic implant",81.74
-550,3,"膝—另见修补术,膝","knee-see also Repair, knee",81.47
-550,4,"假体置换(双间隔的)(半关节)(部分)(全部)(三间隔的)(单间隔的)","prosthetic replacement (bicompartmental) (hemijoint) (partial) (total) (tricompartmental) (unicompartmental)",81.54
-550,4,"修复术","revision",81.55
-550,3,"掌指关节","metacarpophalangeal joint",81.72
-550,4,"伴假体植入","with prosthetic implant",81.71
-550,3,"指间关节","interphalangeal joint",81.72
-550,4,"伴假体植入","with prosthetic implant",81.71
-550,3,"趾NEC","toe NEC",77.58
-550,4,"伴假体置换","with prosthetic replacement",81.57
-550,4,"用于踇趾外翻修补术","for hallux valgus repair",77.59
-550,3,"肘","elbow",81.85
-550,4,"伴假体置换(部分)(全部)","with prosthetic replacement (partial) (total)",81.84
-550,3,"足(跖的)伴关节置换","foot (metatarsal) with joint replacement",81.57
-550,2,"关节穿刺术","Arthrocentesis",81.91
-551,3,"为关节造影术—见关节造影术","for arthrography-see Arthrogram",
-551,2,"关节固定术(压迫)(关节外)(关节内)(伴骨移植)(伴固定装置)","Arthrodesis (compression) (extra-articular) (intra-articular) (with bone graft) (with fixation device)",81.20
-551,3,"骶髂的","sacroiliac",81.08
-551,3,"跗骨间的","midtarsal",81.14
-551,3,"跖跗的","tarsometatarsal",81.15
-551,3,"踝","ankle",81.11
-551,3,"环杓关节","cricoarytenoid",31.69
-551,3,"脊柱的—另见融合术,脊柱的","spinal-see also Fusion, spinal",81.00
-551,3,"肩","shoulder",81.23
-551,3,"胫距的","tibiotalar",81.11
-551,3,"距下的","subtalar",81.13
-551,3,"髋","hip",81.21
-551,3,"麦基弗(跖趾)","McKeever (metatarsophalangeal)",81.16
-551,3,"全距骨","pantalar",81.11
-551,3,"三关节","triple",81.12
-551,3,"手指","finger",81.28
-551,3,"特指关节NEC","specified joint NEC",81.29
-551,3,"腕","wrist",81.26
-551,3,"腕桡关节","carporadial",81.25
-551,3,"膝","knee",81.22
-551,3,"腰骶的,腰的NEC","lumbosacral, lumbar NEC",81.08
-551,4,"ALIF(前路腰椎体融合)","ALIF (anterior lumbar interbody fusion)",81.06
-551,4,"PLIF(后路腰椎体融合)","PLIF (posterior lumbar interbody fusion)",81.08
-551,4,"TLIF(经椎体孔入路腰椎体融合)","TLIF (transforaminal lumbar interbody fusion)",81.08
-551,4,"极外侧椎体融合(XLIF®)","extreme lateral interbody fusion (XLIF®)",81.06
-551,4,"前柱(椎体),前外侧路法","anterior column (interbody)",
-551,5,"后路法","posterior technique",81.08
-551,5,"前外侧(前路)法","anterolateral (anterior) technique",81.06
-551,4,"外侧横突法","lateral transverse process technique",81.07
-551,4,"直接外侧椎体融合术(DLIF)","direct lateral interbody fusion (DLIF)",81.06
-551,4,"轴向腰椎椎体融合术(AxiaLIF®)","axial lumbar interbody fusion (AxiaLIF®)",81.08
-551,4,"椎骨关节面","facet",81.07
-551,3,"掌腕的","metacarpocarpal",81.26
-552,3,"掌指的","metacarpophalangeal",81.27
-552,3,"跖趾","metatarsophalangeal",81.16
-552,3,"指(趾)间","interphalangeal",
-552,4,"手指","finger",81.28
-552,4,"趾NEC","toe NEC",77.58
-552,5,"锤状趾修补术","hammer toe repair",77.56
-552,5,"爪形趾修补术","claw toe repair",77.57
+549,2,"睑板腺囊肿","chalazion",08.25
+549,2,"腱","tendon",83.39
+549,3,"鞘","sheath",83.31
+549,4,"手","hand",82.21
+549,2,"角膜上皮","corneal epithelium",11.41
+549,3,"用于涂片或培养","for smear or culture",11.21
+549,2,"结膜(沙眼滤泡)","conjunctiva (trachoma follicles)",10.33
+549,2,"脑","brain",01.59
+549,2,"脑膜(脑的)","meninges (cerebral)",01.51
+549,3,"脊髓的","spinal",03.4
+549,2,"黏液囊","bursa",83.39
+549,3,"手","hand",82.29
+549,2,"膀胱","bladder",57.59
+549,3,"经尿道","transurethral",57.49
+549,2,"皮肤","skin",86.3
+549,2,"软骨—另见切除术,病损,关节","cartilage-see also Excision, lesion, joint",80.80
+549,2,"神经(周围的)","nerve (peripheral)",04.07
+549,3,"交感神经的","sympathetic",05.29
+549,2,"腺样增殖体","adenoids",28.6
+549,2,"牙龈下的","subgingival",24.31
+549,2,"眼睑","eyelid",08.25
+549,2,"子宫(伴扩张)","uterus (with dilation)",69.09
+549,3,"抽吸(诊断性)NEC","aspiration (diagnostic), NEC",69.59
+549,4,"流产或分娩后","after abortion or delivery",69.52
+549,4,"为了终止妊娠","to terminate pregnancy",69.51
+549,3,"分娩或流产后","following delivery or abortion",69.02
+549,1,"刮除与磨光,牙齿","Scaling and polishing, dental",96.54
+549,1,"关节成形术(伴固定装置)(伴牵引)","Arthroplasty (with fixation device) (with traction)",81.96
+549,2,"杯(部分髋)","cup (partial hip)",81.52
+549,2,"福勒(掌指关节)","Fowler (metacarpophalangeal joint)",81.72
+549,2,"股骨头NEC","femoral head NEC",81.40
+549,3,"伴假体植入","with prosthetic implant",81.52
+549,2,"踝","ankle",81.49
+549,2,"肩","shoulder",81.83
+549,3,"假体置换(部分)","prosthetic replacement (partial)",81.81
+549,4,"全部NEC","total, NEC",81.80
+549,5,"反向","reverse",81.88
+549,5,"其他","other",81.80
+549,3,"用于复发性脱臼","for recurrent dislocation",81.82
+550,2,"卡罗尔和泰伯(近端指(趾)间关节)","Carroll and Taber (proximal interphalangeal joint)",81.72
+550,2,"凯斯勒(腕掌关节)","Kessler (carpometacarpal joint)",81.74
+550,2,"柯蒂斯(指(趾)间关节)","Curtis (interphalangeal joint)",81.72
+550,2,"髋(伴骨移植)","hip (with bone graft)",81.40
+550,3,"杯(部分髋)","cup (partial hip)",81.52
+550,3,"部分置换","partial replacement",81.52
+550,3,"股骨头NEC","femoral head NEC",81.40
+550,4,"伴假体植入","with prosthetic implant",81.52
+550,5,"伴全部置换","with total replacement",81.51
+550,3,"全部置换","total replacement",81.51
+550,2,"颞下颌的","temporomandibular",76.5
+550,2,"手(掌指的)(指间关节)","hand (metacarpophalangeal) (interphalangeal)",81.72
+550,3,"伴假体植入","with prosthetic implant",81.71
+550,2,"手指(多个)","finger(s)",81.72
+550,3,"伴假体植入","with prosthetic implant",81.71
+550,2,"腕","wrist",81.75
+550,3,"伴假体植入","with prosthetic implant",81.74
+550,4,"全部置换","total replacement",81.73
+550,2,"腕骨","carpals",81.75
+550,3,"伴假体植入","with prosthetic implant",81.74
+550,2,"腕腕的,腕掌的","carpocarpal, carpometacarpal",81.75
+550,3,"伴假体植入","with prosthetic implant",81.74
+550,2,"膝—另见修补术,膝","knee-see also Repair, knee",81.47
+550,3,"假体置换(双间隔的)(半关节)(部分)(全部)(三间隔的)(单间隔的)","prosthetic replacement (bicompartmental) (hemijoint) (partial) (total) (tricompartmental) (unicompartmental)",81.54
+550,3,"修复术","revision",81.55
+550,2,"掌指关节","metacarpophalangeal joint",81.72
+550,3,"伴假体植入","with prosthetic implant",81.71
+550,2,"指间关节","interphalangeal joint",81.72
+550,3,"伴假体植入","with prosthetic implant",81.71
+550,2,"趾NEC","toe NEC",77.58
+550,3,"伴假体置换","with prosthetic replacement",81.57
+550,3,"用于踇趾外翻修补术","for hallux valgus repair",77.59
+550,2,"肘","elbow",81.85
+550,3,"伴假体置换(部分)(全部)","with prosthetic replacement (partial) (total)",81.84
+550,2,"足(跖的)伴关节置换","foot (metatarsal) with joint replacement",81.57
+550,1,"关节穿刺术","Arthrocentesis",81.91
+551,2,"为关节造影术—见关节造影术","for arthrography-see Arthrogram",
+551,1,"关节固定术(压迫)(关节外)(关节内)(伴骨移植)(伴固定装置)","Arthrodesis (compression) (extra-articular) (intra-articular) (with bone graft) (with fixation device)",81.20
+551,2,"骶髂的","sacroiliac",81.08
+551,2,"跗骨间的","midtarsal",81.14
+551,2,"跖跗的","tarsometatarsal",81.15
+551,2,"踝","ankle",81.11
+551,2,"环杓关节","cricoarytenoid",31.69
+551,2,"脊柱的—另见融合术,脊柱的","spinal-see also Fusion, spinal",81.00
+551,2,"肩","shoulder",81.23
+551,2,"胫距的","tibiotalar",81.11
+551,2,"距下的","subtalar",81.13
+551,2,"髋","hip",81.21
+551,2,"麦基弗(跖趾)","McKeever (metatarsophalangeal)",81.16
+551,2,"全距骨","pantalar",81.11
+551,2,"三关节","triple",81.12
+551,2,"手指","finger",81.28
+551,2,"特指关节NEC","specified joint NEC",81.29
+551,2,"腕","wrist",81.26
+551,2,"腕桡关节","carporadial",81.25
+551,2,"膝","knee",81.22
+551,2,"腰骶的,腰的NEC","lumbosacral, lumbar NEC",81.08
+551,3,"ALIF(前路腰椎体融合)","ALIF (anterior lumbar interbody fusion)",81.06
+551,3,"PLIF(后路腰椎体融合)","PLIF (posterior lumbar interbody fusion)",81.08
+551,3,"TLIF(经椎体孔入路腰椎体融合)","TLIF (transforaminal lumbar interbody fusion)",81.08
+551,3,"极外侧椎体融合(XLIF®)","extreme lateral interbody fusion (XLIF®)",81.06
+551,3,"前柱(椎体),前外侧路法","anterior column (interbody)",
+551,4,"后路法","posterior technique",81.08
+551,4,"前外侧(前路)法","anterolateral (anterior) technique",81.06
+551,3,"外侧横突法","lateral transverse process technique",81.07
+551,3,"直接外侧椎体融合术(DLIF)","direct lateral interbody fusion (DLIF)",81.06
+551,3,"轴向腰椎椎体融合术(AxiaLIF®)","axial lumbar interbody fusion (AxiaLIF®)",81.08
+551,3,"椎骨关节面","facet",81.07
+551,2,"掌腕的","metacarpocarpal",81.26
+552,2,"掌指的","metacarpophalangeal",81.27
+552,2,"跖趾","metatarsophalangeal",81.16
+552,2,"指(趾)间","interphalangeal",
+552,3,"手指","finger",81.28
 552,3,"趾NEC","toe NEC",77.58
 552,4,"锤状趾修补术","hammer toe repair",77.56
 552,4,"爪形趾修补术","claw toe repair",77.57
-552,3,"肘","elbow",81.24
-552,3,"足NEC","foot NEC",81.17
-552,3,"坐骨股骨的","ischiofemoral",81.21
-552,2,"关节软骨术","Arthrectomy",80.90
-552,3,"半月软骨","semilunar cartilage",80.6
-552,3,"踝","ankle",80.97
-552,3,"脊柱NEC","spine NEC",80.99
-552,3,"肩","shoulder",80.91
-552,3,"髋","hip",80.95
-552,3,"手和手指","hand and finger",80.94
-552,3,"特指部位NEC","specified site NEC",80.99
-552,3,"腕","wrist",80.93
-552,3,"膝","knee",80.96
-552,3,"肘","elbow",80.92
-552,3,"椎间盘—见亚目","intervertebral disc-see subcategory",80.5
-552,3,"足和趾","foot and toe",80.98
-552,2,"关节离断","Disarticulation",84.91
-552,3,"踝","ankle",84.13
-552,3,"肩","shoulder",84.08
-552,3,"髋","hip",84.18
+552,2,"趾NEC","toe NEC",77.58
+552,3,"锤状趾修补术","hammer toe repair",77.56
+552,3,"爪形趾修补术","claw toe repair",77.57
+552,2,"肘","elbow",81.24
+552,2,"足NEC","foot NEC",81.17
+552,2,"坐骨股骨的","ischiofemoral",81.21
+552,1,"关节软骨术","Arthrectomy",80.90
+552,2,"半月软骨","semilunar cartilage",80.6
+552,2,"踝","ankle",80.97
+552,2,"脊柱NEC","spine NEC",80.99
+552,2,"肩","shoulder",80.91
+552,2,"髋","hip",80.95
+552,2,"手和手指","hand and finger",80.94
+552,2,"特指部位NEC","specified site NEC",80.99
+552,2,"腕","wrist",80.93
+552,2,"膝","knee",80.96
+552,2,"肘","elbow",80.92
+552,2,"椎间盘—见亚目","intervertebral disc-see subcategory",80.5
+552,2,"足和趾","foot and toe",80.98
+552,1,"关节离断","Disarticulation",84.91
+552,2,"踝","ankle",84.13
+552,2,"肩","shoulder",84.08
+552,2,"髋","hip",84.18
+552,2,"拇指","thumb",84.02
+552,2,"手指,除拇指外","finger, except thumb",84.01
 552,3,"拇指","thumb",84.02
-552,3,"手指,除拇指外","finger, except thumb",84.01
-552,4,"拇指","thumb",84.02
-552,3,"腕关节","wrist",84.04
-552,3,"膝","knee",84.16
-552,3,"趾","toe",84.11
-552,3,"肘","elbow",84.06
-552,2,"关节囊成形术—见关节成形术","Capsuloplasty-see Arthroplasty",
-552,2,"关节囊缝合术","Capsulorrhaphy",81.96
-552,3,"伴关节成形术—见关节成形术","with arthroplasty-see Arthroplasty",
-552,3,"踝","ankle",81.94
-552,3,"上肢","upper extremity",81.93
-553,3,"下肢NEC","lower extremity NEC",81.95
-553,3,"足","foot",81.94
-553,2,"关节镜检查","Arthroscopy",80.20
-553,3,"踝","ankle",80.27
-553,3,"肩","shoulder",80.21
-553,3,"髋","hip",80.25
-553,3,"手","hand",80.24
-553,3,"手指","finger",80.24
-553,3,"特指部位NEC","specified site NEC",80.29
-553,3,"腕","wrist",80.23
-553,3,"膝","knee",80.26
-553,3,"趾","toe",80.28
-553,3,"肘","elbow",80.22
-553,3,"足","foot",80.28
-553,2,"关节内腔镜检查—见关节内镜检查","Arthroendoscopy-see Arthroscopy",
-553,2,"关节强硬,产生—见关节固定术","Ankylosis, production of-see Arthrodesis",
-553,2,"关节切开术","Arthrotomy",80.10
-553,3,"伴","with",
-553,4,"关节内镜检查—见关节内镜检查","arthroscopy-see Arthroscopy",
-553,4,"关节造影术—见关节造影术","arthrography-see Arthrogram",
-553,4,"假体去除不伴置换—见去除,假体,关节结构","removal of prosthesis without replacement-see Removal, prosthesis, joint structures",
-553,4,"药物注射","injection of drug",81.92
-553,3,"踝","ankle",80.17
-553,3,"脊柱","spine",80.19
-553,3,"肩","shoulder",80.11
-553,3,"髋","hip",80.15
-553,3,"手和手指","hand and finger",80.14
-553,3,"特指部位NEC","specified site NEC",80.19
-553,3,"腕","wrist",80.13
-553,3,"膝","knee",80.16
-553,3,"肘","elbow",80.12
-553,3,"足和趾","foot and toe",80.18
-553,3,"作为手术入路-省略编码","as operative approach-omit code",
-553,2,"关节松解术","Arthrolysis",93.26
-553,2,"关节盂成形术,肩","Glenoplasty, shoulder",81.83
-553,3,"伴","with",
-553,4,"部分置换","partial replacement",81.81
-553,4,"全部置换,NEC","total replacement, NEC",81.80
-553,5,"反向","reverse",81.88
-553,5,"其他","other",81.80
-553,3,"用于复发性脱臼","for recurrent dislocation",81.82
+552,2,"腕关节","wrist",84.04
+552,2,"膝","knee",84.16
+552,2,"趾","toe",84.11
+552,2,"肘","elbow",84.06
+552,1,"关节囊成形术—见关节成形术","Capsuloplasty-see Arthroplasty",
+552,1,"关节囊缝合术","Capsulorrhaphy",81.96
+552,2,"伴关节成形术—见关节成形术","with arthroplasty-see Arthroplasty",
+552,2,"踝","ankle",81.94
+552,2,"上肢","upper extremity",81.93
+553,2,"下肢NEC","lower extremity NEC",81.95
+553,2,"足","foot",81.94
+553,1,"关节镜检查","Arthroscopy",80.20
+553,2,"踝","ankle",80.27
+553,2,"肩","shoulder",80.21
+553,2,"髋","hip",80.25
+553,2,"手","hand",80.24
+553,2,"手指","finger",80.24
+553,2,"特指部位NEC","specified site NEC",80.29
+553,2,"腕","wrist",80.23
+553,2,"膝","knee",80.26
+553,2,"趾","toe",80.28
+553,2,"肘","elbow",80.22
+553,2,"足","foot",80.28
+553,1,"关节内腔镜检查—见关节内镜检查","Arthroendoscopy-see Arthroscopy",
+553,1,"关节强硬,产生—见关节固定术","Ankylosis, production of-see Arthrodesis",
+553,1,"关节切开术","Arthrotomy",80.10
+553,2,"伴","with",
+553,3,"关节内镜检查—见关节内镜检查","arthroscopy-see Arthroscopy",
+553,3,"关节造影术—见关节造影术","arthrography-see Arthrogram",
+553,3,"假体去除不伴置换—见去除,假体,关节结构","removal of prosthesis without replacement-see Removal, prosthesis, joint structures",
+553,3,"药物注射","injection of drug",81.92
+553,2,"踝","ankle",80.17
+553,2,"脊柱","spine",80.19
+553,2,"肩","shoulder",80.11
+553,2,"髋","hip",80.15
+553,2,"手和手指","hand and finger",80.14
+553,2,"特指部位NEC","specified site NEC",80.19
+553,2,"腕","wrist",80.13
+553,2,"膝","knee",80.16
+553,2,"肘","elbow",80.12
+553,2,"足和趾","foot and toe",80.18
+553,2,"作为手术入路-省略编码","as operative approach-omit code",
+553,1,"关节松解术","Arthrolysis",93.26
+553,1,"关节盂成形术,肩","Glenoplasty, shoulder",81.83
+553,2,"伴","with",
+553,3,"部分置换","partial replacement",81.81
+553,3,"全部置换,NEC","total replacement, NEC",81.80
+553,4,"反向","reverse",81.88
+553,4,"其他","other",81.80
+553,2,"用于复发性脱臼","for recurrent dislocation",81.82

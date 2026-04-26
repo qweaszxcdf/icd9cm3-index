@@ -1,208 +1,208 @@
-"page","level","chinese","english","code"
-564,2,"经口(人工的)","through stoma (artificial)","45.12"
-564,1,"回肠盲肠吻合术","Ileocecostomy","45.93"
-564,1,"回肠襻造影术","Ileoloopogram","87.78"
-564,1,"回肠膀胱成形术(分离段吻合术)(开放襻)","Ileocystoplasty (isolated segment anastomosis) (open loop)","57.87[45.51]"
-564,1,"回肠切除术(部分)","Ileoectomy (partial)","45.62"
-564,2,"伴盲肠切除术","with cecectomy",""
-564,3,"腹腔镜的","laparoscopic","17.32"
-564,3,"开放和其他","open and other","45.72"
-564,1,"回肠切开术","Ileotomy","45.02"
-564,1,"回肠十二指肠切开术","Ileoduodenotomy","45.01"
-564,1,"回肠食管吻合术","Ileoesophagostomy","42.54"
-564,1,"回肠输尿管吻合术(布里克)(回肠膀胱)","Ileoureterostomy (Bricker’s) (ileal bladder)","56.51"
-564,1,"回肠胰腺吻合术","Ileopancreatostomy","52.96"
-564,1,"回肠乙状结肠吻合术","Ileosigmoidostomy","45.93"
-564,1,"回肠造口术","Ileostomy","46.20"
-564,2,"保罗(暂时性)","Paul (temporary)","46.21"
-564,2,"管(暂时性)","tube (temporary)","46.21"
-564,2,"亨登(暂时性)","Hendon (temporary)","46.21"
-564,2,"节制性(永久性)","continent (permanent)","46.22"
-564,3,"用于泌尿系转流术","for urinary diversion","56.51"
-564,2,"襻式","loop","46.01"
-564,2,"迁移至新位置","transplantation to new site","46.23"
-564,2,"输尿管的","ureteral",""
-564,3,"内的","internal","56.71"
-564,3,"外部","external","56.51"
-564,2,"修补术","repair","46.41"
-564,2,"修复术","revision","46.41"
-564,2,"延迟切开","delayed opening","46.24"
-564,2,"永久性","permanent","46.23"
-564,3,"节制性","continent","46.22"
-564,2,"暂时性","temporary","46.21"
-564,2,"正切的(暂时性)","tangential (temporary)","46.21"
-564,1,"回肠造影","Conduitogram, ileum","87.78"
-564,1,"回肠直肠吻合术","Ileoproctostomy, Ileorectostomy","45.95"
-564,1,"惠勒手术-见 Wheeler 手术","惠勒手术-see Wheeler operation",""
-564,1,"惠普尔手术-见 Whipple 手术","惠普尔手术-see Whipple operation",""
-564,1,"惠特曼手术-见 Whitman 手术","惠特曼手术-see Whitman operation",""
-564,1,"会谈(评估)(诊断性)","Interview (evaluation) (diagnostic)",""
-564,2,"精神病学的 NEC","psychiatric NEC","94.19"
-564,3,"初始的","initial","94.19"
-565,3,"看管前的","pre-commitment","94.13"
-565,3,"随诊","follow-up","94.19"
-565,2,"医学的,除外精神病学的","medical, except psychiatric","89.05"
-565,3,"简单的(简单病史)","brief (abbreviated history)","89.01"
-565,3,"特指类型 NEC","specified type NEC","89.04"
-565,3,"限定性(间隔病史)","limited (interval history)","89.02"
-565,3,"综合性(新问题的病史和评估)","comprehensive (history and evaluation of new problem)","89.03"
-565,1,"会厌切除术","Epiglottidectomy","30.21"
-565,1,"会阴成形术","Perineoplasty","71.79"
-565,1,"会阴缝合术","Perineorrhaphy","71.71"
-565,2,"产科撕裂(近期)","obstetrical laceration (current)","75.69"
-565,1,"会阴切开术(非产科的)","Perineotomy (nonobstetrical)","71.09"
-565,2,"帮助分娩-见外阴切开术","to assist delivery-see Episiotomy",""
-565,1,"活组织检查","Biopsy",""
-565,2,"奥狄括约肌","sphincter of Oddi","51.14"
-565,3,"闭合性(内镜)","closed (endoscopic)","51.14"
-565,3,"开放性","open","51.13"
-565,2,"贲门食管的(连接处)","cardoesophageal (junction)","44.14"
-565,3,"闭合性(内镜)","closed (endoscopic)","44.14"
-565,3,"开放性","open","44.15"
-565,2,"鼻,鼻的","nose, nasal","21.22"
-565,3,"窦","sinus","22.11"
-565,4,"闭合性(内镜)(针吸)","closed (endoscopic) (needle)","22.11"
-565,4,"开放性","open","22.12"
-565,2,"鼻窦","sinus, nasal","22.11"
-565,3,"闭合性(内镜)(针吸)","closed (endoscopic) (needle)","22.11"
-565,3,"开放性","open","22.12"
-565,2,"鼻咽","nasopharynx","29.12"
-565,2,"扁桃体","tonsil","28.11"
-565,2,"肠-见活组织检查,肠","bowel-see Biopsy, intestine",""
-565,2,"肠 NEC","intestine NEC","45.27"
-565,3,"大的","large","45.25"
-565,4,"闭合性(内镜)","closed (endoscopic)","45.25"
-565,4,"开放性","open","45.26"
-565,4,"刷洗","brush","45.25"
-565,3,"小的","small","45.14"
-565,4,"闭合性(内镜)","closed (endoscopic)","45.14"
-565,4,"开放性","open","45.15"
-565,4,"刷洗","brush","45.14"
-565,2,"肠系膜","mesentery","54.23"
-565,2,"齿龈","gum","24.11"
-566,1,"抽吸-见活组织检查,按部位","aspiration-see Biopsy, by site",""
-566,2,"垂体腺","pituitary gland","07.15"
-566,3,"经蝶窦入路","transsphenoidal approach","07.14"
-566,3,"经前额入路","transfrontal approach","07.13"
-566,2,"唇","lip","27.23"
-566,2,"胆管","bile ducts","51.14"
-566,3,"闭合性","closed (endoscopic)","51.14"
-566,3,"经皮(针吸)","percutaneous (needle)","51.12"
-566,3,"开放性","open","51.13"
-566,2,"胆囊","gallbladder","51.12"
-566,3,"闭合性(内镜)","closed (endoscopic)","51.14"
-566,3,"经皮(针吸)","percutaneous (needle)","51.12"
-566,3,"开放性","open","51.13"
-566,2,"动脉(任何部位)","artery (any site)","38.21"
-566,2,"腭(骨性)","palate (bony)","27.21"
-566,3,"软","soft","27.22"
-566,2,"耳(外)","ear (external)","18.12"
-566,3,"中或内","middle or inner","20.32"
-566,2,"肺 NEC","lung NEC","33.27"
-566,3,"闭合性(经皮)(针吸)","closed (percutaneous) (needle)","33.26"
-566,4,"内镜","endoscopic","33.27"
-566,4,"刷洗","brush","33.24"
-566,3,"刷洗","brush","33.24"
-566,3,"经胸的","transthoracic","33.26"
-566,3,"经支气管","transbronchial","33.27"
-566,3,"开放性","open","33.28"
-566,3,"内镜","endoscopic","33.27"
-566,4,"刷洗","brush","33.24"
-566,3,"刷洗","brush","33.24"
-566,2,"胸腔镜的","thoracoscopic","33.20"
-566,2,"附睾","epididymis","63.01"
-566,2,"腹壁","abdominal wall","54.22"
-566,2,"腹膜","peritoneum",""
-566,3,"闭合性","closed","54.24"
-566,3,"经皮(针吸)","percutaneous (needle)","54.24"
-566,3,"开放性","open","54.23"
-566,2,"腹膜后组织","retroperitoneal tissue","54.24"
-566,2,"腹膜植入","peritoneal implant",""
-566,3,"闭合性","closed","54.24"
-566,3,"经皮(针吸)","percutaneous (needle)","54.24"
-566,3,"开放","open","54.23"
-566,2,"腹内肿块","intra-abdominal mass","54.24"
-567,3,"闭合性","closed","54.24"
-567,3,"经皮的(针吸)","percutaneous (needle)","54.24"
-567,2,"肝","liver","50.11"
-567,3,"闭合性","closed","50.11"
-567,3,"腹腔镜","laparoscopic","50.14"
-567,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)","50.11"
-567,4,"经颈静脉的","transjugular","50.13"
-567,4,"经静脉的","transvenous","50.13"
-567,3,"开放","open","50.12"
-567,2,"肛门","anus","49.23"
-567,2,"肛周组织","perianal tissue","49.22"
-567,2,"睾丸 NEC","testis NEC","62.11"
-567,3,"闭合性","closed","62.11"
-567,3,"经皮的(针吸)","percutaneous (needle)","62.11"
-567,3,"开放性","open","62.12"
-567,2,"睾丸鞘膜","tunica vaginalis","61.11"
-567,2,"骨","bone","77.40"
-567,3,"髌骨","patella","77.46"
-567,3,"尺骨","ulna","77.43"
-567,3,"腓骨","fibula","77.47"
-567,3,"跗骨,跖骨","tarsal, metatarsal","77.48"
-567,3,"肱骨","humerus","77.42"
-567,3,"股骨","femur","77.45"
-567,3,"骨盆","pelvic","77.49"
-567,3,"骨髓","marrow","41.31"
-567,3,"肩胛骨","scapula","77.41"
-567,3,"胫骨","tibia","77.47"
-567,3,"面","facial","76.11"
-567,3,"桡骨","radius","77.43"
-567,3,"锁骨","clavicle","77.41"
-567,3,"特指部位 NEC","specified site NEC","77.49"
-567,3,"腕骨,掌骨","carpal, metacarpal","77.44"
-567,3,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)","77.41"
-567,3,"趾(指)骨(足)(手)","phalanges (foot) (hand)","77.49"
-567,3,"椎骨","vertebrae","77.49"
-567,2,"关节结构(抽吸)","joint structure (aspiration)","80.30"
-567,3,"踝","ankle","80.37"
-567,3,"脊柱","spine","80.39"
-567,3,"肩","shoulder","80.31"
-567,3,"髋","hip","80.35"
-567,3,"手和手指","hand and finger","80.34"
-567,3,"特指部位 NEC","specified site NEC","80.39"
-568,3,"腕","wrist","80.33"
-568,3,"膝","knee","80.36"
-568,3,"肘","elbow","80.32"
-568,3,"足和趾","foot and toe","80.38"
-568,2,"横膈","diaphragm","34.27"
-568,2,"虹膜","iris","12.22"
-568,2,"喉","larynx","31.43"
-568,3,"闭合性(内镜)","closed (endoscopic)","31.43"
-568,3,"开放性","open","31.45"
-568,3,"刷洗","brush","31.43"
-568,2,"回肠","ileum","45.14"
-568,3,"闭合性(内镜)","closed (endoscopic)","45.14"
-568,3,"开放性","open","45.15"
-568,3,"刷洗","brush","45.14"
-568,2,"肌肉","muscle","83.21"
-568,3,"眼","ocular","15.01"
-568,3,"眼外","extraocular","15.01"
-568,2,"脊索(脑膜)","spinal cord (meninges)","03.32"
-568,2,"甲状旁腺","parathyroid gland","06.13"
-568,2,"甲状腺 NEC","thyroid gland NEC","06.11"
-568,3,"闭合性","closed","06.11"
-568,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)","06.11"
-568,3,"开放","open","06.12"
-568,2,"腱","tendon","83.21"
-568,3,"眼的","ocular","15.01"
-568,3,"眼外的","extraocular","15.01"
-568,2,"交感神经","sympathetic nerve","05.11"
-568,2,"角膜","cornea","11.22"
-568,2,"结肠","colon","45.25"
-568,3,"闭合性(内镜)","closed (endoscopic)","45.25"
-568,3,"开放性","open","45.26"
-568,3,"刷洗","brush","45.25"
-568,2,"结膜","conjunctiva","10.21"
-568,2,"筋膜","fascia","83.21"
-568,2,"精囊 NEC","seminal vesicle NEC","60.13"
-568,3,"闭合性","closed","60.13"
-568,3,"经皮的(针吸)","percutaneous (needle)","60.13"
-568,3,"开放性","open","60.14"
-568,2,"精索","spermatic cord","63.01"
-568,2,"静脉(任何部位)","vein (any site)","38.21"
-568,2,"空肠","jejunum","45.14"
-568,3,"闭合性(内镜)","closed (endoscopic)","45.14"
+page,level,chinese,english,code
+564,2,"经口(人工的)","through stoma (artificial)",45.12
+564,1,"回肠盲肠吻合术","Ileocecostomy",45.93
+564,1,"回肠襻造影术","Ileoloopogram",87.78
+564,1,"回肠膀胱成形术(分离段吻合术)(开放襻)","Ileocystoplasty (isolated segment anastomosis) (open loop)",57.87[45.51]
+564,1,"回肠切除术(部分)","Ileoectomy (partial)",45.62
+564,2,"伴盲肠切除术","with cecectomy",
+564,3,"腹腔镜的","laparoscopic",17.32
+564,3,"开放和其他","open and other",45.72
+564,1,"回肠切开术","Ileotomy",45.02
+564,1,"回肠十二指肠切开术","Ileoduodenotomy",45.01
+564,1,"回肠食管吻合术","Ileoesophagostomy",42.54
+564,1,"回肠输尿管吻合术(布里克)(回肠膀胱)","Ileoureterostomy (Bricker’s) (ileal bladder)",56.51
+564,1,"回肠胰腺吻合术","Ileopancreatostomy",52.96
+564,1,"回肠乙状结肠吻合术","Ileosigmoidostomy",45.93
+564,1,"回肠造口术","Ileostomy",46.20
+564,2,"保罗(暂时性)","Paul (temporary)",46.21
+564,2,"管(暂时性)","tube (temporary)",46.21
+564,2,"亨登(暂时性)","Hendon (temporary)",46.21
+564,2,"节制性(永久性)","continent (permanent)",46.22
+564,3,"用于泌尿系转流术","for urinary diversion",56.51
+564,2,"襻式","loop",46.01
+564,2,"迁移至新位置","transplantation to new site",46.23
+564,2,"输尿管的","ureteral",
+564,3,"内的","internal",56.71
+564,3,"外部","external",56.51
+564,2,"修补术","repair",46.41
+564,2,"修复术","revision",46.41
+564,2,"延迟切开","delayed opening",46.24
+564,2,"永久性","permanent",46.23
+564,3,"节制性","continent",46.22
+564,2,"暂时性","temporary",46.21
+564,2,"正切的(暂时性)","tangential (temporary)",46.21
+564,1,"回肠造影","Conduitogram, ileum",87.78
+564,1,"回肠直肠吻合术","Ileoproctostomy, Ileorectostomy",45.95
+564,1,"惠勒手术-见 Wheeler 手术","惠勒手术-see Wheeler operation",
+564,1,"惠普尔手术-见 Whipple 手术","惠普尔手术-see Whipple operation",
+564,1,"惠特曼手术-见 Whitman 手术","惠特曼手术-see Whitman operation",
+564,1,"会谈(评估)(诊断性)","Interview (evaluation) (diagnostic)",
+564,2,"精神病学的 NEC","psychiatric NEC",94.19
+564,3,"初始的","initial",94.19
+565,3,"看管前的","pre-commitment",94.13
+565,3,"随诊","follow-up",94.19
+565,2,"医学的,除外精神病学的","medical, except psychiatric",89.05
+565,3,"简单的(简单病史)","brief (abbreviated history)",89.01
+565,3,"特指类型 NEC","specified type NEC",89.04
+565,3,"限定性(间隔病史)","limited (interval history)",89.02
+565,3,"综合性(新问题的病史和评估)","comprehensive (history and evaluation of new problem)",89.03
+565,1,"会厌切除术","Epiglottidectomy",30.21
+565,1,"会阴成形术","Perineoplasty",71.79
+565,1,"会阴缝合术","Perineorrhaphy",71.71
+565,2,"产科撕裂(近期)","obstetrical laceration (current)",75.69
+565,1,"会阴切开术(非产科的)","Perineotomy (nonobstetrical)",71.09
+565,2,"帮助分娩-见外阴切开术","to assist delivery-see Episiotomy",
+565,1,"活组织检查","Biopsy",
+565,2,"奥狄括约肌","sphincter of Oddi",51.14
+565,3,"闭合性(内镜)","closed (endoscopic)",51.14
+565,3,"开放性","open",51.13
+565,2,"贲门食管的(连接处)","cardoesophageal (junction)",44.14
+565,3,"闭合性(内镜)","closed (endoscopic)",44.14
+565,4,"开放性","open",44.15
+565,2,"鼻,鼻的","nose, nasal",21.22
+565,3,"窦","sinus",22.11
+565,4,"闭合性(内镜)(针吸)","closed (endoscopic) (needle)",22.11
+565,3,"开放性","open",22.12
+565,2,"鼻窦","sinus, nasal",22.11
+565,3,"闭合性(内镜)(针吸)","closed (endoscopic) (needle)",22.11
+565,3,"开放性","open",22.12
+565,2,"鼻咽","nasopharynx",29.12
+565,2,"扁桃体","tonsil",28.11
+565,2,"肠-见活组织检查,肠","bowel-see Biopsy, intestine",
+565,2,"肠 NEC","intestine NEC",45.27
+565,3,"大的","large",45.25
+565,4,"闭合性(内镜)","closed (endoscopic)",45.25
+565,4,"开放性","open",45.26
+565,4,"刷洗","brush",45.25
+565,3,"小的","small",45.14
+565,4,"闭合性(内镜)","closed (endoscopic)",45.14
+565,4,"开放性","open",45.15
+565,4,"刷洗","brush",45.14
+565,2,"肠系膜","mesentery",54.23
+565,2,"齿龈","gum",24.11
+566,2,"抽吸-见活组织检查,按部位","aspiration-see Biopsy, by site",
+566,2,"垂体腺","pituitary gland",07.15
+566,3,"经蝶窦入路","transsphenoidal approach",07.14
+566,3,"经前额入路","transfrontal approach",07.13
+566,2,"唇","lip",27.23
+566,2,"胆管","bile ducts",51.14
+566,3,"闭合性","closed (endoscopic)",51.14
+566,3,"经皮(针吸)","percutaneous (needle)",51.12
+566,3,"开放性","open",51.13
+566,2,"胆囊","gallbladder",51.12
+566,3,"闭合性(内镜)","closed (endoscopic)",51.14
+566,3,"经皮(针吸)","percutaneous (needle)",51.12
+566,3,"开放性","open",51.13
+566,2,"动脉(任何部位)","artery (any site)",38.21
+566,2,"腭(骨性)","palate (bony)",27.21
+566,3,"软","soft",27.22
+566,2,"耳(外)","ear (external)",18.12
+566,3,"中或内","middle or inner",20.32
+566,2,"肺 NEC","lung NEC",33.27
+566,3,"闭合性(经皮)(针吸)","closed (percutaneous) (needle)",33.26
+566,4,"内镜","endoscopic",33.27
+566,5,"刷洗","brush",33.24
+566,4,"刷洗","brush",33.24
+566,3,"经胸的","transthoracic",33.26
+566,3,"经支气管","transbronchial",33.27
+566,3,"开放性","open",33.28
+566,3,"内镜","endoscopic",33.27
+566,4,"刷洗","brush",33.24
+566,3,"刷洗","brush",33.24
+566,3,"胸腔镜的","thoracoscopic",33.20
+566,2,"附睾","epididymis",63.01
+566,2,"腹壁","abdominal wall",54.22
+566,2,"腹膜","peritoneum",
+566,3,"闭合性","closed",54.24
+566,3,"经皮(针吸)","percutaneous (needle)",54.24
+566,3,"开放性","open",54.23
+566,2,"腹膜后组织","retroperitoneal tissue",54.24
+566,2,"腹膜植入","peritoneal implant",
+566,3,"闭合性","closed",54.24
+566,3,"经皮(针吸)","percutaneous (needle)",54.24
+566,3,"开放","open",54.23
+566,2,"腹内肿块","intra-abdominal mass",54.24
+567,3,"闭合性","closed",54.24
+567,3,"经皮的(针吸)","percutaneous (needle)",54.24
+567,2,"肝","liver",50.11
+567,3,"闭合性","closed",50.11
+567,3,"腹腔镜","laparoscopic",50.14
+567,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)",50.11
+567,4,"经颈静脉的","transjugular",50.13
+567,4,"经静脉的","transvenous",50.13
+567,3,"开放","open",50.12
+567,2,"肛门","anus",49.23
+567,2,"肛周组织","perianal tissue",49.22
+567,2,"睾丸 NEC","testis NEC",62.11
+567,3,"闭合性","closed",62.11
+567,3,"经皮的(针吸)","percutaneous (needle)",62.11
+567,3,"开放性","open",62.12
+567,2,"睾丸鞘膜","tunica vaginalis",61.11
+567,2,"骨","bone",77.40
+567,3,"髌骨","patella",77.46
+567,3,"尺骨","ulna",77.43
+567,3,"腓骨","fibula",77.47
+567,3,"跗骨,跖骨","tarsal, metatarsal",77.48
+567,3,"肱骨","humerus",77.42
+567,3,"股骨","femur",77.45
+567,3,"骨盆","pelvic",77.49
+567,3,"骨髓","marrow",41.31
+567,3,"肩胛骨","scapula",77.41
+567,3,"胫骨","tibia",77.47
+567,3,"面","facial",76.11
+567,3,"桡骨","radius",77.43
+567,3,"锁骨","clavicle",77.41
+567,3,"特指部位 NEC","specified site NEC",77.49
+567,3,"腕骨,掌骨","carpal, metacarpal",77.44
+567,3,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",77.41
+567,3,"趾(指)骨(足)(手)","phalanges (foot) (hand)",77.49
+567,3,"椎骨","vertebrae",77.49
+567,2,"关节结构(抽吸)","joint structure (aspiration)",80.30
+567,3,"踝","ankle",80.37
+567,3,"脊柱","spine",80.39
+567,3,"肩","shoulder",80.31
+567,3,"髋","hip",80.35
+567,3,"手和手指","hand and finger",80.34
+567,3,"特指部位 NEC","specified site NEC",80.39
+568,3,"腕","wrist",80.33
+568,3,"膝","knee",80.36
+568,3,"肘","elbow",80.32
+568,3,"足和趾","foot and toe",80.38
+568,2,"横膈","diaphragm",34.27
+568,2,"虹膜","iris",12.22
+568,2,"喉","larynx",31.43
+568,3,"闭合性(内镜)","closed (endoscopic)",31.43
+568,3,"开放性","open",31.45
+568,3,"刷洗","brush",31.43
+568,2,"回肠","ileum",45.14
+568,3,"闭合性(内镜)","closed (endoscopic)",45.14
+568,3,"开放性","open",45.15
+568,3,"刷洗","brush",45.14
+568,2,"肌肉","muscle",83.21
+568,3,"眼","ocular",15.01
+568,3,"眼外","extraocular",15.01
+568,2,"脊索(脑膜)","spinal cord (meninges)",03.32
+568,2,"甲状旁腺","parathyroid gland",06.13
+568,2,"甲状腺 NEC","thyroid gland NEC",06.11
+568,3,"闭合性","closed",06.11
+568,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)",06.11
+568,3,"开放","open",06.12
+568,2,"腱","tendon",83.21
+568,3,"眼的","ocular",15.01
+568,3,"眼外的","extraocular",15.01
+568,2,"交感神经","sympathetic nerve",05.11
+568,2,"角膜","cornea",11.22
+568,2,"结肠","colon",45.25
+568,3,"闭合性(内镜)","closed (endoscopic)",45.25
+568,3,"开放性","open",45.26
+568,3,"刷洗","brush",45.25
+568,2,"结膜","conjunctiva",10.21
+568,2,"筋膜","fascia",83.21
+568,2,"精囊 NEC","seminal vesicle NEC",60.13
+568,3,"闭合性","closed",60.13
+568,3,"经皮的(针吸)","percutaneous (needle)",60.13
+568,3,"开放性","open",60.14
+568,2,"精索","spermatic cord",63.01
+568,2,"静脉(任何部位)","vein (any site)",38.21
+568,2,"空肠","jejunum",45.14
+568,3,"闭合性(内镜)","closed (endoscopic)",45.14

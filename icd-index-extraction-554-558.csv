@@ -8,7 +8,7 @@ page,level,chinese,english,code
 554,1,"冠,牙齿(陶瓷的)(金的)","Crown, dental (ceramic) (gold)",23.41
 554,1,"灌肠法(经肛门)NEC","Enema (transanal) NEC",96.39
 554,2,"为了去除嵌塞的粪便","for removal of impacted feces",96.38
-554,1,"灌肠疗法(小肠)","Enteroclysis (small bowel)",96.43
+554,1,"灌肠法(小肠)","Enteroclysis (small bowel)",96.43
 554,1,"灌输","Instillation",
 554,2,"放射性核素(腔内)(静脉内)","radioisotope (intracavitary) (intravenous)",92.28
 554,2,"膀胱","bladder",96.49
@@ -71,6 +71,7 @@ page,level,chinese,english,code
 555,2,"经人工造口","through artificial stoma",57.31
 555,2,"特指部位,除膀胱外-见内镜检查,按部位","specified site, other than bladder-see Endoscopy, by site",
 555,1,"龟头成形术","Balanoplasty",64.69
+555,0,"H","H",
 555,1,"Hagner 手术(附睾切开术)","Hagner operation (epididymotomy)",63.92
 555,1,"Halsted 手术—见修补术,疝,腹股沟的","Halsted operation-see Repair, hernia, inguinal",
 556,1,"Hampton 手术(吻合术小肠与直肠残端)","Hampton operation (anastomosis small intestine to rectal stump)",45.92

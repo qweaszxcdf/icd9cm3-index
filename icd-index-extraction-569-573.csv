@@ -1,195 +1,197 @@
-"page","level","chinese","english","code"
-569,3,"开放性","open","45.15"
-569,3,"刷洗","brush","45.14"
-569,2,"口 NEC","mouth NEC","27.24"
-569,2,"眶","orbit","16.23"
-569,3,"经抽吸","by aspiration","16.22"
-569,2,"阑尾","appendix","45.26"
-569,2,"泪的","lacrimal",""
-569,3,"囊","sac","09.12"
-569,3,"腺","gland","09.11"
-569,2,"淋巴结构(隙)(结)(管)","lymphatic structure (channel) (node) (vessel)","40.11"
-569,2,"颅骨","skull","01.15"
-569,2,"卵巢","ovary","65.12"
-569,3,"腹腔镜","laparoscopic","65.13"
-569,3,"经抽吸","by aspiration","65.11"
-569,2,"盲肠","cecum","45.25"
-569,3,"闭合性(内镜)","closed(endoscopic)","45.25"
-569,3,"开放性","open","45.26"
-569,3,"刷洗","brush","45.25"
-569,2,"脑 NEC","brain NEC","01.13"
-569,3,"闭合性","closed","01.13"
-569,3,"经皮的(针吸)","percutaneous (needle)","01.13"
-569,3,"开放性","open","01.14"
-569,2,"脑垂体-另见活组织检查,垂体腺","hypophysis-see also Biopsy, pituitary gland","07.15"
-569,2,"脑膜(脑的) NEC","meninges (cerebral) NEC","01.11"
-569,3,"闭合性","closed","01.11"
-569,3,"脊髓的","spinal","03.32"
-569,3,"经皮的(针吸)","percutaneous (needle)","01.11"
-569,3,"开放性","open","01.12"
-569,2,"黏液囊","bursa","83.21"
-569,2,"尿道","urethra","58.23"
-569,2,"尿道周围组织","periurethral tissue","58.24"
-569,2,"膀胱","bladder","57.33"
-569,3,"闭合性","closed","57.33"
-569,3,"经尿道的","transurethral","57.33"
-569,3,"开放性","open","57.34"
-569,2,"膀胱周围组织","perivesical tissue","59.21"
-569,2,"脾","spleen","41.32"
-569,3,"闭合性","closed","41.32"
-569,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)","41.32"
-569,3,"开放性","open","41.33"
-570,2,"皮肤(钻孔)","skin (punch)","86.11"
-570,2,"皮下组织(钻孔)","subcutaneous tissue (punch)","86.11"
-570,2,"脐","umbilicus","54.22"
-570,2,"气管","trachea","31.44"
-570,3,"闭合性(内镜)","closed (endoscopic)","31.44"
-570,3,"开放性","open","31.45"
-570,3,"刷洗","brush","31.44"
-570,2,"前列腺 NEC","prostate NEC","60.11"
-570,3,"闭合性(经尿道)","closed (transurethral)","60.11"
-570,3,"经皮的(针吸)","percutaneous (needle)","60.11"
-570,3,"经直肠","transrectal","60.11"
-570,3,"开放性","open","60.12"
-570,2,"前列腺周围的","periprostatic","60.15"
-570,2,"乳房","breast","85.11"
-570,3,"闭合性","closed","85.11"
-570,3,"经皮(针吸)(维姆-斯利文曼)","percutaneous (needle) (Vimm-Silverman)","85.11"
-570,3,"开放性","open","85.12"
-570,3,"盲目的","blind","85.11"
-570,2,"软腭","soft palate","27.22"
-570,2,"软组织 NEC","soft tissue NEC","86.11"
-570,3,"闭合性(针穿)(打孔)","closed (needle) (punch)","86.11"
-570,3,"开放性","open","83.21"
-570,2,"舌","tongue","25.01"
-570,3,"闭合性(针吸)","closed (needle)","25.01"
-570,3,"开放性","open","25.02"
-570,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC","04.11"
-570,3,"闭合性","closed","04.11"
-570,3,"交感神经","sympathetic","05.11"
-570,3,"经皮的(针吸)","percutaneous (needle)","04.11"
-570,3,"开放性","open","04.12"
-570,2,"神经节(颅的)(周围的) NEC","ganglion (cranial) (peripheral) NEC","04.11"
-570,3,"闭合性","closed","04.11"
-570,3,"交感神经","sympathetic nerve","05.11"
-570,3,"经皮的(针吸)","percutaneous (needle)","04.11"
-570,3,"开放性","open","04.12"
-570,2,"肾","kidney","55.23"
-570,3,"闭合性","closed","55.23"
-570,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)","55.23"
-570,3,"开放性","open","55.24"
-570,2,"肾上腺 NEC","adrenal gland NEC","07.11"
-570,3,"闭合性","closed","07.11"
-571,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)","07.11"
-571,3,"开放性","open","07.12"
-571,2,"肾周围组织","perirenal tissue","59.21"
-571,2,"声门上肿块","supraglottic mass","29.12"
-571,2,"十二指肠","duodenum","45.14"
-571,3,"闭合性(内镜)","closed (endoscopic)","45.14"
-571,3,"开放性","open","45.15"
-571,3,"刷洗","brush","45.14"
-571,2,"食管","esophagus","42.24"
-571,3,"闭合性(内镜)","closed (endoscopic)","42.24"
-571,3,"开放性","open","42.25"
-571,2,"输精管","vas deferens","63.01"
-571,2,"输卵管","fallopian tube","66.11"
-571,2,"输尿管","ureter","56.33"
-571,3,"闭合的(经皮)","closed (percutaneous)","56.32"
-571,4,"内镜的","endoscopic","56.33"
-571,3,"经尿道的","transurethral","56.33"
-571,3,"开放性","open","56.34"
-571,2,"松果腺","pineal gland","07.17"
-571,2,"胎儿","fetus","75.33"
-571,2,"外阴","vulva","71.11"
-571,2,"网膜","omentum",""
-571,3,"闭合性","closed","54.24"
-571,3,"经皮(针吸)","percutaneous (needle)","54.24"
-571,3,"开放性","open","54.23"
-571,2,"胃","stomach","44.14"
-571,3,"闭合性(内镜)","closed (endoscopic)","44.14"
-571,3,"开放性","open","44.15"
-571,3,"刷洗","brush","44.14"
-571,2,"涎腺或管","salivary gland or duct","26.11"
-571,3,"闭合性(针吸)","closed (needle)","26.11"
-571,3,"开放性","open","26.12"
-571,2,"腺样增殖体","adenoid","28.11"
-571,2,"心包","pericardium","37.24"
-571,2,"心脏","heart","37.25"
-571,2,"胸壁","chest wall","34.23"
-571,2,"胸膜,胸膜的","pleura, pleural","34.24"
-571,3,"胸腔镜的","thoracoscopic","34.20"
-571,2,"胸腺","thymus","07.16"
-571,2,"悬雍垂","uvula","27.22"
-571,2,"血管(任何部位)","blood vessel (any site)","38.21"
-571,2,"眼","eye","16.23"
-572,3,"肌(斜肌)(直肌)","muscle (oblique) (rectus)","15.01"
-572,2,"眼肌或腱","ocular muscle or tendon","15.01"
-572,2,"眼睑","eyelid","08.11"
-572,2,"眼外肌或腱","extraocular muscle or tendon","15.01"
-572,2,"咽,咽的","pharynx, pharyngeal","29.12"
-572,2,"胰","pancreas","52.11"
-572,3,"闭合性(内镜)","closed (endoscopic)","52.11"
-572,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)","52.11"
-572,3,"开放性","open","52.12"
-572,2,"胰腺管","pancreatic duct","52.14"
-572,3,"闭合性(内镜)","closed (endoscopic)","52.14"
-572,2,"乙状结肠","sigmoid colon","45.25"
-572,3,"闭合性(内镜)","closed (endoscopic)","45.25"
-572,3,"开放性","open","45.26"
-572,3,"刷洗","brush","45.25"
-572,2,"阴唇","labia","71.11"
-572,2,"阴道","vagina","70.24"
-572,2,"阴蒂","clitoris","71.11"
-572,2,"阴茎","penis","64.11"
-572,2,"阴囊","scrotum","61.11"
-572,2,"龈的","alveolus","24.12"
-572,2,"支气管 NEC","bronchus NEC","33.24"
-572,3,"闭合性(内镜)","closed (endoscopic)","33.24"
-572,3,"冲洗","washings","33.24"
-572,3,"经支气管镜穿刺抽吸(TBNA)","transbronchoscopic needle aspiration (TBNA)","33.24"
-572,3,"开放性","open","33.25"
-572,3,"刷洗","brush","33.24"
-572,3,"王针(经支气管镜的)","Wang needle (transbronchoscopic)","33.24"
-572,2,"直肠","rectum","48.24"
-572,3,"闭合性(内镜)","closed (endoscopic)","48.24"
-572,3,"开放性","open","48.25"
-572,3,"刷洗","brush","48.24"
-572,2,"直肠周围组织","perirectal tissue","48.26"
-572,2,"直肠子宫陷凹","cul-de-sac","70.23"
-572,2,"子宫,子宫的(子宫内膜)","uterus, uterine (endometrial)","68.16"
-572,3,"闭合的(内镜)","closed (endoscopic)","68.16"
-572,3,"经","by",""
-572,4,"抽吸刮宫","aspiration curettage","69.59"
-572,4,"扩宫和刮宫","dilation and curettage","69.09"
-572,3,"开放性","open","68.13"
-572,3,"韧带","ligaments","68.15"
-573,3,"闭合的(内镜)","closed (endoscopic)","68.15"
-573,3,"开放性","open","68.14"
-573,2,"子宫颈(钻孔)","cervix (punch)","67.12"
-573,3,"锥形切除术(尖的)","conization (sharp)","67.2"
-573,2,"子宫颈内膜","endocervix","67.11"
-573,2,"子宫内膜 NEC","endometrium NEC","68.16"
-573,3,"闭合性(内镜)","closed (endoscopic)","68.16"
-573,3,"经","by",""
-573,4,"抽吸刮宫","aspiration curettage","69.59"
-573,4,"扩宫和刮宫","dilation and curettage","69.09"
-573,3,"开放性","open","68.13"
-573,2,"纵隔 NEC","mediastinum NEC","34.25"
-573,3,"闭合性","closed","34.25"
-573,3,"经皮的(针吸)","percutaneous (needle)","34.25"
-573,3,"开放性","open","34.26"
-573,1,"火山口状切除术,骨-另见切除术,病损,骨","Craterization, bone-see also Excision, lesion, bone","77.60"
-573,1,"霍尔思手术-见 Holth 手术","霍尔思手术-see Holth operation",""
-573,1,"霍尔斯特德手术-见 Halsted 手术","霍尔斯特德手术-see Halsted operation",""
-573,1,"霍夫迈斯特手术-见 Hofmeister 手术","霍夫迈斯特手术-see Hofmeister operation",""
-573,1,"霍克手术-见 Hoke 手术","霍克手术-see Hoke operation",""
-573,1,"霍曼手术-见 Homan 手术","霍曼手术-see Homan operation",""
-573,1,"IAEMT (手术中麻醉效果监测和滴定法)","IAEMT ( intraoperative anesthetic effect monitoring and titration)","00.94 [89.14]"
-573,1,"ICCE (囊内白内障摘除)","ICCE ( intracapsular cataract extraction)","13.19"
-573,1,"Impella®经皮外部心脏辅助装置","Impella® percutaneous external heart assist device","37.68"
-573,1,"IOERT (手术中电子放射治疗)","IOERT ( intra-operative electron radiation therapy)","92.41"
-573,1,"IOM (手术中神经生理监测)","IOM (intra-operative neurophysiologic monitoring)","00.94"
-573,1,"Irving 手术(输卵管结扎)","Irving operation (tubal ligation)","66.32"
-573,1,"Irwin 手术-另见骨切开术","Irwin operation-see also Osteotomy","77.30"
-573,1,"IVUS (虚拟组织学血管内超声)-见超声,血管内,按部位","IVUS-see Ultrasound, intravascular, by site",""
-573,1,"Jaboulay 手术(胃十二指肠吻合术)","Jaboulay operation ( gastroduodenostomy )","44.39"
+page,level,chinese,english,code
+569,3,"开放性","open",45.15
+569,3,"刷洗","brush",45.14
+569,2,"口 NEC","mouth NEC",27.24
+569,2,"眶","orbit",16.23
+569,3,"经抽吸","by aspiration",16.22
+569,2,"阑尾","appendix",45.26
+569,2,"泪的","lacrimal",
+569,3,"囊","sac",09.12
+569,3,"腺","gland",09.11
+569,2,"淋巴结构(隙)(结)(管)","lymphatic structure (channel) (node) (vessel)",40.11
+569,2,"颅骨","skull",01.15
+569,2,"卵巢","ovary",65.12
+569,3,"腹腔镜","laparoscopic",65.13
+569,3,"经抽吸","by aspiration",65.11
+569,2,"盲肠","cecum",45.25
+569,3,"闭合性(内镜)","closed(endoscopic)",45.25
+569,3,"开放性","open",45.26
+569,3,"刷洗","brush",45.25
+569,2,"脑 NEC","brain NEC",01.13
+569,3,"闭合性","closed",01.13
+569,3,"经皮的(针吸)","percutaneous (needle)",01.13
+569,3,"开放性","open",01.14
+569,2,"脑垂体-另见活组织检查,垂体腺","hypophysis-see also Biopsy, pituitary gland",07.15
+569,2,"脑膜(脑的) NEC","meninges (cerebral) NEC",01.11
+569,3,"闭合性","closed",01.11
+569,3,"脊髓的","spinal",03.32
+569,3,"经皮的(针吸)","percutaneous (needle)",01.11
+569,3,"开放性","open",01.12
+569,2,"黏液囊","bursa",83.21
+569,2,"尿道","urethra",58.23
+569,2,"尿道周围组织","periurethral tissue",58.24
+569,2,"膀胱","bladder",57.33
+569,3,"闭合性","closed",57.33
+569,3,"经尿道的","transurethral",57.33
+569,3,"开放性","open",57.34
+569,2,"膀胱周围组织","perivesical tissue",59.21
+569,2,"脾","spleen",41.32
+569,3,"闭合性","closed",41.32
+569,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)",41.32
+569,3,"开放性","open",41.33
+570,2,"皮肤(钻孔)","skin (punch)",86.11
+570,2,"皮下组织(钻孔)","subcutaneous tissue (punch)",86.11
+570,2,"脐","umbilicus",54.22
+570,2,"气管","trachea",31.44
+570,3,"闭合性(内镜)","closed (endoscopic)",31.44
+570,3,"开放性","open",31.45
+570,3,"刷洗","brush",31.44
+570,2,"前列腺 NEC","prostate NEC",60.11
+570,3,"闭合性(经尿道)","closed (transurethral)",60.11
+570,3,"经皮的(针吸)","percutaneous (needle)",60.11
+570,3,"经直肠","transrectal",60.11
+570,3,"开放性","open",60.12
+570,2,"前列腺周围的","periprostatic",60.15
+570,2,"乳房","breast",85.11
+570,3,"闭合性","closed",85.11
+570,3,"经皮(针吸)(维姆-斯利文曼)","percutaneous (needle) (Vimm-Silverman)",85.11
+570,3,"开放性","open",85.12
+570,3,"盲目的","blind",85.11
+570,2,"软腭","soft palate",27.22
+570,2,"软组织 NEC","soft tissue NEC",86.11
+570,3,"闭合性(针穿)(打孔)","closed (needle) (punch)",86.11
+570,3,"开放性","open",83.21
+570,2,"舌","tongue",25.01
+570,3,"闭合性(针吸)","closed (needle)",25.01
+570,3,"开放性","open",25.02
+570,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.11
+570,3,"闭合性","closed",04.11
+570,3,"交感神经","sympathetic",05.11
+570,3,"经皮的(针吸)","percutaneous (needle)",04.11
+570,3,"开放性","open",04.12
+570,2,"神经节(颅的)(周围的) NEC","ganglion (cranial) (peripheral) NEC",04.11
+570,3,"闭合性","closed",04.11
+570,3,"交感神经","sympathetic nerve",05.11
+570,3,"经皮的(针吸)","percutaneous (needle)",04.11
+570,3,"开放性","open",04.12
+570,2,"肾","kidney",55.23
+570,3,"闭合性","closed",55.23
+570,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)",55.23
+570,3,"开放性","open",55.24
+570,2,"肾上腺 NEC","adrenal gland NEC",07.11
+570,3,"闭合性","closed",07.11
+571,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)",07.11
+571,3,"开放性","open",07.12
+571,2,"肾周围组织","perirenal tissue",59.21
+571,2,"声门上肿块","supraglottic mass",29.12
+571,2,"十二指肠","duodenum",45.14
+571,3,"闭合性(内镜)","closed (endoscopic)",45.14
+571,3,"开放性","open",45.15
+571,3,"刷洗","brush",45.14
+571,2,"食管","esophagus",42.24
+571,3,"闭合性(内镜)","closed (endoscopic)",42.24
+571,3,"开放性","open",42.25
+571,2,"输精管","vas deferens",63.01
+571,2,"输卵管","fallopian tube",66.11
+571,2,"输尿管","ureter",56.33
+571,3,"闭合的(经皮)","closed (percutaneous)",56.32
+571,4,"内镜的","endoscopic",56.33
+571,3,"经尿道的","transurethral",56.33
+571,3,"开放性","open",56.34
+571,2,"松果腺","pineal gland",07.17
+571,2,"胎儿","fetus",75.33
+571,2,"外阴","vulva",71.11
+571,2,"网膜","omentum",
+571,3,"闭合性","closed",54.24
+571,3,"经皮(针吸)","percutaneous (needle)",54.24
+571,3,"开放性","open",54.23
+571,2,"胃","stomach",44.14
+571,3,"闭合性(内镜)","closed (endoscopic)",44.14
+571,3,"开放性","open",44.15
+571,3,"刷洗","brush",44.14
+571,2,"涎腺或管","salivary gland or duct",26.11
+571,3,"闭合性(针吸)","closed (needle)",26.11
+571,3,"开放性","open",26.12
+571,2,"腺样增殖体","adenoid",28.11
+571,2,"心包","pericardium",37.24
+571,2,"心脏","heart",37.25
+571,2,"胸壁","chest wall",34.23
+571,2,"胸膜,胸膜的","pleura, pleural",34.24
+571,3,"胸腔镜的","thoracoscopic",34.20
+571,2,"胸腺","thymus",07.16
+571,2,"悬雍垂","uvula",27.22
+571,2,"血管(任何部位)","blood vessel (any site)",38.21
+571,2,"眼","eye",16.23
+572,3,"肌(斜肌)(直肌)","muscle (oblique) (rectus)",15.01
+572,2,"眼肌或腱","ocular muscle or tendon",15.01
+572,2,"眼睑","eyelid",08.11
+572,2,"眼外肌或腱","extraocular muscle or tendon",15.01
+572,2,"咽,咽的","pharynx, pharyngeal",29.12
+572,2,"胰","pancreas",52.11
+572,3,"闭合性(内镜)","closed (endoscopic)",52.11
+572,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)",52.11
+572,3,"开放性","open",52.12
+572,2,"胰腺管","pancreatic duct",52.14
+572,3,"闭合性(内镜)","closed (endoscopic)",52.14
+572,2,"乙状结肠","sigmoid colon",45.25
+572,3,"闭合性(内镜)","closed (endoscopic)",45.25
+572,3,"开放性","open",45.26
+572,3,"刷洗","brush",45.25
+572,2,"阴唇","labia",71.11
+572,2,"阴道","vagina",70.24
+572,2,"阴蒂","clitoris",71.11
+572,2,"阴茎","penis",64.11
+572,2,"阴囊","scrotum",61.11
+572,2,"龈的","alveolus",24.12
+572,2,"支气管 NEC","bronchus NEC",33.24
+572,3,"闭合性(内镜)","closed (endoscopic)",33.24
+572,3,"冲洗","washings",33.24
+572,3,"经支气管镜穿刺抽吸(TBNA)","transbronchoscopic needle aspiration (TBNA)",33.24
+572,3,"开放性","open",33.25
+572,3,"刷洗","brush",33.24
+572,3,"王针(经支气管镜的)","Wang needle (transbronchoscopic)",33.24
+572,2,"直肠","rectum",48.24
+572,3,"闭合性(内镜)","closed (endoscopic)",48.24
+572,3,"开放性","open",48.25
+572,3,"刷洗","brush",48.24
+572,2,"直肠周围组织","perirectal tissue",48.26
+572,2,"直肠子宫陷凹","cul-de-sac",70.23
+572,2,"子宫,子宫的(子宫内膜)","uterus, uterine (endometrial)",68.16
+572,3,"闭合的(内镜)","closed (endoscopic)",68.16
+572,3,"经","by",
+572,4,"抽吸刮宫","aspiration curettage",69.59
+572,4,"扩宫和刮宫","dilation and curettage",69.09
+572,3,"开放性","open",68.13
+572,3,"韧带","ligaments",68.15
+573,4,"闭合的(内镜)","closed (endoscopic)",68.15
+573,4,"开放性","open",68.14
+573,2,"子宫颈(钻孔)","cervix (punch)",67.12
+573,3,"锥形切除术(尖的)","conization (sharp)",67.2
+573,2,"子宫颈内膜","endocervix",67.11
+573,2,"子宫内膜 NEC","endometrium NEC",68.16
+573,3,"闭合性(内镜)","closed (endoscopic)",68.16
+573,3,"经","by",
+573,4,"抽吸刮宫","aspiration curettage",69.59
+573,4,"扩宫和刮宫","dilation and curettage",69.09
+573,3,"开放性","open",68.13
+573,2,"纵隔 NEC","mediastinum NEC",34.25
+573,3,"闭合性","closed",34.25
+573,3,"经皮的(针吸)","percutaneous (needle)",34.25
+573,3,"开放性","open",34.26
+573,1,"火山口状切除术,骨-另见切除术,病损,骨","Craterization, bone-see also Excision, lesion, bone",77.60
+573,1,"霍尔思手术-见 Holth 手术","霍尔思手术-see Holth operation",
+573,1,"霍尔斯特德手术-见 Halsted 手术","霍尔斯特德手术-see Halsted operation",
+573,1,"霍夫迈斯特手术-见 Hofmeister 手术","霍夫迈斯特手术-see Hofmeister operation",
+573,1,"霍克手术-见 Hoke 手术","霍克手术-see Hoke operation",
+573,1,"霍曼手术-见 Homan 手术","霍曼手术-see Homan operation",
+573,0,"I","I",
+573,1,"IAEMT (手术中麻醉效果监测和滴定法)","IAEMT ( intraoperative anesthetic effect monitoring and titration)",00.94 [89.14]
+573,1,"ICCE (囊内白内障摘除)","ICCE ( intracapsular cataract extraction)",13.19
+573,1,"Impella®经皮外部心脏辅助装置","Impella® percutaneous external heart assist device",37.68
+573,1,"IOERT (手术中电子放射治疗)","IOERT ( intra-operative electron radiation therapy)",92.41
+573,1,"IOM (手术中神经生理监测)","IOM (intra-operative neurophysiologic monitoring)",00.94
+573,1,"Irving 手术(输卵管结扎)","Irving operation (tubal ligation)",66.32
+573,1,"Irwin 手术-另见骨切开术","Irwin operation-see also Osteotomy",77.30
+573,1,"IVUS (虚拟组织学血管内超声)-见超声,血管内,按部位","IVUS-see Ultrasound, intravascular, by site",
+573,0,"J","J",
+573,1,"Jaboulay 手术(胃十二指肠吻合术)","Jaboulay operation ( gastroduodenostomy )",44.39

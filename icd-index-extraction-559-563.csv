@@ -39,9 +39,9 @@ page,level,chinese,english,code
 560,1,"喉切除术","Laryngectomy",
 560,2,"伴根治颈清扫术(同时伴甲状腺切除术)(同时伴气管造口)","with radical neck dissection (with synchronous thyroidectomy) (with synchronous tracheostomy)",30.4
 560,2,"部分的(额侧的)(声门声门上)(外侧的)(黏膜下)(声门上)(垂直的)","partial (frontolateral) (glottosupraglottic) (lateral) (submucous) (supraglottic) (vertical)",30.29
-560,3,"侧的部分","lateral partial",30.29
-560,3,"垂直部分的","vertical partial",30.29
-560,3,"额侧部分的(扩大)","frontolateral partial (extended)",30.29
+560,2,"侧的部分","lateral partial",30.29
+560,2,"垂直部分的","vertical partial",30.29
+560,2,"额侧部分的(扩大)","frontolateral partial (extended)",30.29
 560,2,"根治性(同时伴甲状腺切除术)(同时伴气管造口)","radical (with synchronous thyroidectomy) (with synchronous tracheostomy)",30.4
 560,2,"广泛区域","wide field",30.3
 560,2,"全部(伴部分咽切除术)(同时伴气管造口)","total (with partial pharyngectomy) (with synchronous tracheostomy)",30.3
@@ -78,13 +78,14 @@ page,level,chinese,english,code
 561,2,"心包","pericardium",36.39
 561,2,"胸膜","pleura",34.6
 561,3,"化学的","chemical",34.92
-561,4,"四环素","tetracycline",34.92[99.21]
+561,4,"用癌瘤化疗物质","with cancer chemotherapy substance",34.92[99.25]
+561,5,"四环素","tetracycline",34.92[99.21]
 561,1,"滑膜切除术(关节)(完全)(部分)","Synovectomy, Villusectomy (joint) (complete) (partial)",80.70
 561,2,"踝","ankle",80.77
 561,2,"脊柱","spine",80.79
 561,2,"肩","shoulder",80.71
 561,2,"腱鞘","tendon sheath",83.42
-561,2,"手","hand",82.33
+561,3,"手","hand",82.33
 561,2,"髋","hip",80.75
 561,2,"手和手指","hand and finger",80.74
 561,2,"特指部位 NEC","specified site NEC",80.79
@@ -100,12 +101,12 @@ page,level,chinese,english,code
 561,2,"戒酒硫(用于治疗慢性醇中毒)","Antabuse",94.25
 561,2,"锂","lithium",94.22
 561,2,"美沙酮","methadone",94.25
-562,2,"用于癌痛 NEC","for cancer NEC",99.25
+562,2,"用于癌瘤 NEC","for cancer NEC",99.25
 562,3,"CLO","CLO",17.70
 562,3,"CLOLAR®(氯法拉滨)","CLOLAR®",17.70
 562,3,"化疗物质植入","implantation of chemotherapeutic agent",00.10
-562,4,"晶片化学疗法","wafer chemotherapy",00.10
-562,4,"空隙植入","interstitial implantation",00.10
+562,3,"晶片化学疗法","wafer chemotherapy",00.10
+562,3,"空隙植入","interstitial implantation",00.10
 562,3,"氯法拉滨","clofarabine",17.70
 562,3,"脑晶片植入","brain wafer implantation",00.10
 562,3,"腔内植入","intracavitary implantation",00.10
