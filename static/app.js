@@ -9,6 +9,7 @@ const treeContainer = document.getElementById("treeContainer");
 let currentQuery = "";
 let currentMode = "auto";
 let currentFields = "chinese,english,code";
+let currentSearchController = null;
 
 function buildSearchUrl(query, mode = "auto") {
   const params = new URLSearchParams();
@@ -277,6 +278,11 @@ function renderNode(node, asPath = false) {
     const toggleNode = async () => {
       const isCollapsed = wrapper.classList.contains("collapsed");
       if (isCollapsed) {
+        if (!node.has_children && pathContainer) {
+          wrapper.classList.remove("collapsed");
+          updateIcon();
+          return;
+        }
         if (node.has_children && !loaded) {
           await loadChildren();
         }
@@ -305,6 +311,18 @@ function renderNode(node, asPath = false) {
       updateIcon();
     };
 
+    wrapper.__toggleNode = toggleNode;
+    wrapper.__expandNode = async () => {
+      if (wrapper.classList.contains("collapsed")) {
+        await toggleNode();
+      }
+    };
+    wrapper.__collapseNode = async () => {
+      if (!wrapper.classList.contains("collapsed")) {
+        await toggleNode();
+      }
+    };
+
     toggleIcon.addEventListener("click", (event) => {
       event.preventDefault();
       event.stopPropagation();
@@ -328,7 +346,9 @@ function renderTree(data) {
     treeContainer.innerHTML = "<p>暂无分级索引结果。</p>";
     return;
   }
-  data.tree.forEach((node) => treeContainer.appendChild(renderNode(node, true)));
+  const fragment = document.createDocumentFragment();
+  data.tree.forEach((node) => fragment.appendChild(renderNode(node, true)));
+  treeContainer.appendChild(fragment);
 }
 
 async function performSearch() {
@@ -336,18 +356,34 @@ async function performSearch() {
   currentQuery = query;
   currentMode = document.querySelector("input[name='searchMode']:checked").value;
   const url = buildSearchUrl(query, currentMode);
+
+  if (currentSearchController) {
+    currentSearchController.abort();
+  }
+  currentSearchController = new AbortController();
+
   summaryEl.textContent = "加载中...";
   reverseContainer.innerHTML = "";
   treeContainer.innerHTML = "";
 
   try {
-    const response = await fetch(url);
+    const response = await fetch(url, { signal: currentSearchController.signal });
     const data = await response.json();
+    if (currentSearchController.signal.aborted) {
+      return;
+    }
     renderSummary(data);
     renderTree(data);
   } catch (error) {
+    if (error && error.name === "AbortError") {
+      return;
+    }
     summaryEl.textContent = "检索失败，请稍后重试。";
     console.error(error);
+  } finally {
+    if (currentSearchController && !currentSearchController.signal.aborted) {
+      currentSearchController = null;
+    }
   }
 }
 
@@ -356,8 +392,12 @@ browseRootButton.addEventListener("click", () => {
   queryInput.value = "";
   performSearch();
 });
-expandAllButton.addEventListener("click", () => toggleAllNodes(false));
-collapseAllButton.addEventListener("click", () => toggleAllNodes(true));
+expandAllButton.addEventListener("click", async () => {
+  await toggleAllNodes(false);
+});
+collapseAllButton.addEventListener("click", async () => {
+  await toggleAllNodes(true);
+});
 queryInput.addEventListener("keydown", (event) => {
   if (event.key === "Enter") {
     event.preventDefault();
@@ -369,13 +409,37 @@ window.addEventListener("load", () => {
   performSearch();
 });
 
-function toggleAllNodes(collapse) {
-  const nodes = treeContainer.querySelectorAll(".tree-node.has-children");
-  nodes.forEach((node) => {
-    if (collapse) {
-      node.classList.add("collapsed");
-    } else {
-      node.classList.remove("collapsed");
+async function toggleAllNodes(collapse) {
+  if (collapse) {
+    const expandedNodes = Array.from(treeContainer.querySelectorAll(".tree-node.has-children")).filter(
+      (node) => !node.classList.contains("collapsed")
+    );
+    for (const node of expandedNodes.reverse()) {
+      if (typeof node.__collapseNode === "function") {
+        await node.__collapseNode();
+      } else {
+        node.classList.add("collapsed");
+      }
     }
-  });
+    return;
+  }
+
+  // Expand recursively so lazily loaded descendants are included.
+  const maxPasses = 64;
+  for (let pass = 0; pass < maxPasses; pass += 1) {
+    const collapsedNodes = Array.from(treeContainer.querySelectorAll(".tree-node.has-children.collapsed"));
+    if (!collapsedNodes.length) {
+      break;
+    }
+
+    const frontier = collapsedNodes.filter((node) => !node.parentElement?.closest(".tree-node.has-children.collapsed"));
+    const targets = frontier.length ? frontier : collapsedNodes;
+    for (const node of targets) {
+      if (typeof node.__expandNode === "function") {
+        await node.__expandNode();
+      } else {
+        node.classList.remove("collapsed");
+      }
+    }
+  }
 }

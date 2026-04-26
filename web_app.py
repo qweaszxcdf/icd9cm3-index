@@ -83,7 +83,24 @@ def load_dataset() -> pd.DataFrame:
     df = pd.DataFrame(rows)
     df["page"] = df["page"].astype(int)
     df["level"] = df["level"].astype(int)
+    df["chinese"] = df["chinese"].astype(str)
+    df["english"] = df["english"].astype(str)
+    df["code"] = df["code"].astype(str)
+    df["_chinese_lower"] = df["chinese"].str.lower()
+    df["_english_lower"] = df["english"].str.lower()
+    df["_code_lower"] = df["code"].str.lower()
+    df["_search_blob"] = (df["_chinese_lower"] + " " + df["_english_lower"] + " " + df["_code_lower"]).str.strip()
+    df = df.reset_index(drop=True)
     return df
+
+
+@lru_cache(maxsize=1)
+def get_row_id_index_map() -> Dict[str, int]:
+    df = load_dataset()
+    id_map: Dict[str, int] = {}
+    for idx, row in df.iterrows():
+        id_map[get_row_id(row)] = int(idx)
+    return id_map
 
 
 def normalize_text(value: object) -> str:
@@ -100,6 +117,24 @@ def normalize_code(value: object) -> str:
         return ""
     code = str(value).strip()
     return re.sub(r"\s+", "", code).lower()
+
+
+@lru_cache(maxsize=20000)
+def _extract_references_cached(text: str, language: str) -> Tuple[Tuple[str, str], ...]:
+    refs: List[Tuple[str, str]] = []
+    if language == "zh":
+        pattern = re.compile(r"(?:[-（(]?\s*)(另见|见)\s*([^；;\n]+)", flags=re.IGNORECASE)
+        for match in pattern.finditer(text):
+            target = match.group(2).strip()
+            if target:
+                refs.append((match.group(1), target))
+    else:
+        pattern = re.compile(r"\b(see also|see)\s+([^;\n]+)", flags=re.IGNORECASE)
+        for match in pattern.finditer(text):
+            target = match.group(2).strip()
+            if target:
+                refs.append((match.group(1).lower(), target))
+    return tuple(refs)
 
 
 def parse_code_key(code: str) -> Tuple[int, int] | None:
@@ -194,28 +229,7 @@ def get_tabular_pdf_path() -> Path | None:
 def extract_references(text: str, language: str) -> List[Dict[str, str]]:
     if not text:
         return []
-
-    refs: List[Dict[str, str]] = []
-    if language == "zh":
-        # Capture the target after '见' or '另见' including comma-separated phrases
-        # (stop at semicolon or newline). Previously this stopped at the first
-        # comma which made only the first token clickable; capturing the whole
-        # phrase allows titles like '修补术,疝,腹股沟的 / Repair, hernia, inguinal' to
-        # be treated as a single reference target.
-        pattern = re.compile(r"(?:[-（(]?\s*)(另见|见)\s*([^；;\n]+)", flags=re.IGNORECASE)
-        for match in pattern.finditer(text):
-            target = match.group(2).strip()
-            if target:
-                refs.append({"kind": match.group(1), "target": target})
-    else:
-        # Likewise capture the English 'see' target including comma-separated
-        # terms until a semicolon or end-of-line.
-        pattern = re.compile(r"\b(see also|see)\s+([^;\n]+)", flags=re.IGNORECASE)
-        for match in pattern.finditer(text):
-            target = match.group(2).strip()
-            if target:
-                refs.append({"kind": match.group(1).lower(), "target": target})
-    return refs
+    return [{"kind": kind, "target": target} for kind, target in _extract_references_cached(text, language)]
 
 
 def build_hierarchy(rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
@@ -230,26 +244,31 @@ def build_hierarchy(rows: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
     tree: List[Dict[str, Any]] = []
     stack: List[Dict[str, Any]] = []
 
-    for row in ordered:
-        level = parse_int(row.get("level", 0), 0)
+    for node in ordered:
+        level = parse_int(node.get("level", 0), 0)
         if level < 0:
             level = 0
 
-        node = {
-            "id": row.get("id", f"{row.get('page', 0)}-{level}-{row.get('source_file', '')}-{row.get('source_line', 0)}"),
-            "page": row.get("page", 0),
-            "level": level,
-            "code": row.get("code", ""),
-            "chinese": row.get("chinese", ""),
-            "english": row.get("english", ""),
-            "source_file": row.get("source_file", ""),
-            "source_line": row.get("source_line", 0),
-            "references": extract_references(normalize_text(row.get("chinese", "")), "zh")
-            + extract_references(normalize_text(row.get("english", "")), "en"),
-            "has_children": row.get("has_children", False),
-            "matched": row.get("matched", False),
-            "children": [],
-        }
+        # Reuse the existing row object and only normalize missing fields to
+        # avoid rebuilding an equivalent dict for large result sets.
+        node["level"] = level
+        node.setdefault(
+            "id",
+            f"{node.get('page', 0)}-{level}-{node.get('source_file', '')}-{node.get('source_line', 0)}",
+        )
+        node.setdefault("page", 0)
+        node.setdefault("code", "")
+        node.setdefault("chinese", "")
+        node.setdefault("english", "")
+        node.setdefault("source_file", "")
+        node.setdefault("source_line", 0)
+        if "references" not in node:
+            chinese = normalize_text(node.get("chinese", ""))
+            english = normalize_text(node.get("english", ""))
+            node["references"] = extract_references(chinese, "zh") + extract_references(english, "en")
+        node["has_children"] = bool(node.get("has_children", False))
+        node["matched"] = bool(node.get("matched", False))
+        node["children"] = []
 
         while stack and stack[-1]["level"] >= level:
             stack.pop()
@@ -280,24 +299,107 @@ def has_descendants(index: int, all_rows: pd.DataFrame) -> bool:
     return parse_int(all_rows.at[index + 1, "level"], 0) > parse_int(all_rows.at[index, "level"], 0)
 
 
-def collect_relevant_rows(results: pd.DataFrame, all_rows: pd.DataFrame) -> List[Dict[str, Any]]:
-    matched_indices = set(results.index)
-    ancestor_indices = set()
+def has_descendants_from_levels(index: int, levels: List[int]) -> bool:
+    if index + 1 >= len(levels):
+        return False
+    return parse_int(levels[index + 1], 0) > parse_int(levels[index], 0)
 
-    for result_idx, result_row in results.iterrows():
-        row_index = int(result_idx)
-        current_level = parse_int(result_row.get("level", 0), 0)
+
+def row_index_to_json(all_rows: pd.DataFrame, index: int, matched: bool = False, has_children: bool = False) -> Dict[str, Any]:
+    chinese = normalize_text(all_rows.at[index, "chinese"])
+    english = normalize_text(all_rows.at[index, "english"])
+    source_file = normalize_text(all_rows.at[index, "_source_file"])
+    source_line = parse_int(all_rows.at[index, "_source_line"], 0)
+    level = parse_int(all_rows.at[index, "level"], 0)
+    page = parse_int(all_rows.at[index, "page"], 0)
+    code = normalize_text(all_rows.at[index, "code"])
+    references = extract_references(chinese, "zh") + extract_references(english, "en")
+    return {
+        "id": f"{page}-{level}-{source_file}-{source_line}",
+        "page": page,
+        "level": level,
+        "code": code,
+        "chinese": chinese,
+        "english": english,
+        "source_file": source_file,
+        "source_line": source_line,
+        "references": references,
+        "matched": matched,
+        "has_children": has_children,
+    }
+
+
+def collect_relevant_rows(results: pd.DataFrame, all_rows: pd.DataFrame) -> List[Dict[str, Any]]:
+    matched_indices = {int(idx) for idx in results.index}
+    if not matched_indices:
+        return []
+
+    ancestor_indices = set()
+    levels = list(all_rows["level"])
+
+    for row_index in matched_indices:
+        current_level = parse_int(levels[row_index], 0)
         search_idx = row_index
         while search_idx > 0 and current_level > 0:
             search_idx -= 1
-            prior_level = parse_int(all_rows.at[search_idx, "level"], 0)
+            prior_level = parse_int(levels[search_idx], 0)
             if prior_level < current_level:
                 if prior_level > 0:
                     ancestor_indices.add(search_idx)
                 current_level = prior_level
 
     combined_indices = sorted(matched_indices | ancestor_indices)
-    return [row_to_json(all_rows.loc[index], matched=(index in matched_indices), has_children=has_descendants(index, all_rows)) for index in combined_indices]
+    return [
+        row_index_to_json(
+            all_rows,
+            index,
+            matched=(index in matched_indices),
+            has_children=has_descendants_from_levels(index, levels),
+        )
+        for index in combined_indices
+    ]
+
+
+@lru_cache(maxsize=256)
+def get_cached_search_payload(
+    query: str,
+    mode: str,
+    fields_key: Tuple[str, ...],
+    page_min: int | None,
+    page_max: int | None,
+    level_min: int | None,
+    level_max: int | None,
+    file_filters_key: Tuple[str, ...],
+) -> Dict[str, Any]:
+    rows, tree_rows = search_dataframe(
+        query=query,
+        mode=mode,
+        fields=list(fields_key),
+        page_min=page_min,
+        page_max=page_max,
+        level_min=level_min,
+        level_max=level_max,
+        file_filters=list(file_filters_key),
+    )
+
+    return {
+        "query": query,
+        "count": len(rows),
+        "rows": rows,
+        "tree": build_hierarchy(tree_rows),
+    }
+
+
+@lru_cache(maxsize=1024)
+def get_cached_children_payload(node_id: str, query: str, mode: str, fields_key: Tuple[str, ...]) -> Dict[str, Any]:
+    df = load_dataset()
+    try:
+        start_index = find_row_index_by_id(node_id, df)
+    except ValueError:
+        return {"children": []}
+
+    descendants = collect_descendant_rows(start_index, df, query=query, mode=mode, fields=list(fields_key))
+    return {"children": build_hierarchy(descendants)}
 
 
 def collect_descendant_rows(start_index: int, all_rows: pd.DataFrame, query: str = "", mode: str = "auto", fields: List[str] = None) -> List[Dict[str, Any]]:
@@ -354,6 +456,9 @@ def search_dataframe(
     if file_filters:
         df = df[df["_source_file"].isin(file_filters)]
 
+    if not df.empty:
+        df = df.reset_index(drop=True)
+
     if not query_text:
         browse_rows = df[df["level"] == 0].copy()
         result_rows = [row_to_json(row, has_children=has_descendants(int(idx), df)) for idx, row in browse_rows.iterrows()]
@@ -362,7 +467,7 @@ def search_dataframe(
     is_code_query = bool(re.fullmatch(r"\d+(?:\.\d+)?", query_text))
     query_lower = query_text.lower()
     results: pd.DataFrame
-    code_series = df["code"].astype(str).str.lower()
+    code_series = df["_code_lower"]
 
     if is_code_query or mode == "code":
         exact_results = df[code_series == query_lower].copy()
@@ -375,7 +480,19 @@ def search_dataframe(
         else:
             results = df[code_series.str.startswith(query_lower)].copy()
     else:
-        text_values = df[fields].astype(str).fillna("").agg(" ".join, axis=1).str.lower()
+        if fields == ["chinese", "english", "code"]:
+            text_values = df["_search_blob"]
+        else:
+            field_to_lower_col = {
+                "chinese": "_chinese_lower",
+                "english": "_english_lower",
+                "code": "_code_lower",
+            }
+            selected_cols = [field_to_lower_col[field] for field in fields if field in field_to_lower_col]
+            if selected_cols:
+                text_values = df[selected_cols].fillna("").agg(" ".join, axis=1).str.strip()
+            else:
+                text_values = pd.Series("", index=df.index)
         if mode == "phrase":
             results = df[text_values.str.contains(query_lower, regex=False)].copy()
         elif mode == "any":
@@ -541,27 +658,17 @@ def api_search() -> Any:
     level_min = request.args.get("level_min", type=int)
     level_max = request.args.get("level_max", type=int)
     file_filters = request.args.getlist("file")
-
-    rows, tree_rows = search_dataframe(
+    payload = get_cached_search_payload(
         query=query,
         mode=mode,
-        fields=fields,
+        fields_key=tuple(fields),
         page_min=page_min,
         page_max=page_max,
         level_min=level_min,
         level_max=level_max,
-        file_filters=file_filters,
+        file_filters_key=tuple(sorted(file_filters)),
     )
-
-    tree = build_hierarchy(tree_rows)
-    return jsonify(
-        {
-            "query": query,
-            "count": len(rows),
-            "rows": rows,
-            "tree": tree,
-        }
-    )
+    return jsonify(payload)
 
 
 @app.route("/api/locate")
@@ -584,17 +691,17 @@ def api_locate() -> Any:
 
     # Exact code match?
     if re.fullmatch(r"\d+(?:\.\d+)?", target_lower):
-        results = df[df["code"].astype(str).str.lower() == target_lower].copy()
+        results = df[df["_code_lower"] == target_lower].copy()
     else:
         # Exact text match against chinese or english columns first
-        mask_cn = df["chinese"].astype(str).fillna("").str.strip().str.lower() == target_lower
-        mask_en = df["english"].astype(str).fillna("").str.strip().str.lower() == target_lower
+        mask_cn = df["_chinese_lower"].str.strip() == target_lower
+        mask_en = df["_english_lower"].str.strip() == target_lower
         results = df[mask_cn | mask_en].copy()
 
         # If not found, try exact-leading-token match (e.g., reference 'Buckling' -> 'Buckling, scleral')
         if results.empty:
-            starts_cn = df["chinese"].astype(str).fillna("").str.strip().str.lower().str.startswith(target_lower)
-            starts_en = df["english"].astype(str).fillna("").str.strip().str.lower().str.startswith(target_lower)
+            starts_cn = df["_chinese_lower"].str.strip().str.startswith(target_lower)
+            starts_en = df["_english_lower"].str.strip().str.startswith(target_lower)
             if starts_cn.any() or starts_en.any():
                 results = df[starts_cn | starts_en].copy()
             elif "," in target_lower:
@@ -608,7 +715,7 @@ def api_locate() -> Any:
                 m = re.search(r"(\d+(?:\.\d+)?)$", target_lower)
                 if m:
                     code = m.group(1)
-                    results = df[df["code"].astype(str).str.lower() == code].copy()
+                    results = df[df["_code_lower"] == code].copy()
 
     result_rows = [row_to_json(row, matched=mark, has_children=has_descendants(int(idx), df)) for idx, row in results.iterrows()]
     tree_rows = collect_relevant_rows(results, df) if not results.empty else []
@@ -635,16 +742,7 @@ def api_children() -> Any:
     fields = [field for field in field_list.split(",") if field in DATA_COLUMNS]
     if not fields:
         fields = ["chinese", "english", "code"]
-
-    df = load_dataset()
-    try:
-        start_index = find_row_index_by_id(node_id, df)
-    except ValueError:
-        return jsonify({"children": []})
-
-    descendants = collect_descendant_rows(start_index, df, query=query, mode=mode, fields=fields)
-    children = build_hierarchy(descendants)
-    return jsonify({"children": children})
+    return jsonify(get_cached_children_payload(node_id=node_id, query=query, mode=mode, fields_key=tuple(fields)))
 
 
 @app.route("/api/tabular")
@@ -736,10 +834,23 @@ def tabular_pdf() -> Any:
     pdf_path = get_tabular_pdf_path()
     if pdf_path is None or not pdf_path.exists():
         return ("Tabular PDF not found", 404)
-    return send_file(pdf_path, mimetype="application/pdf")
+    # Allow browser PDF viewers to request byte ranges instead of pulling the
+    # whole file in one response.
+    return send_file(
+        pdf_path,
+        mimetype="application/pdf",
+        conditional=True,
+        etag=True,
+        max_age=3600,
+    )
 
 
 def find_row_index_by_id(node_id: str, all_rows: pd.DataFrame) -> int:
+    if all_rows is load_dataset():
+        mapped = get_row_id_index_map().get(node_id)
+        if mapped is not None:
+            return mapped
+
     for index, row in all_rows.iterrows():
         if get_row_id(row) == node_id:
             return int(index)
