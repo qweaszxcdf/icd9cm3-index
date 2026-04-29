@@ -1,201 +1,201 @@
-"page","level","chinese","english","code"
-609,4,"颈外动脉","external carotid","21.06"
-609,3,"凝固(伴填塞)","coagulation (with packing)","21.03"
-609,3,"筛的","ethmoidal","21.04"
-609,3,"上颌(经鼻窦的)","maxillary (transantral)","21.05"
-609,3,"烧灼(和填塞)","cauterization (and packing)","21.03"
-609,3,"特指方法 NEC","specified means NEC","21.09"
-609,2,"填塞(鼻的)(前的)","packing (nasal) (anterior)","21.01"
-609,3,"后的(和前的)","posterior (and anterior)","21.02"
-609,1,"出血","hemorrhage","39.98"
-609,2,"鼻-另见控制,鼻出血","nose-see also Control, epistaxis","21.00"
-609,2,"扁桃腺(手术后)","tonsils (postoperative)","28.7"
-609,2,"腹腔","abdominal cavity","54.19"
-609,2,"肛门(手术后)","anus (postoperative)","49.95"
-609,2,"甲状腺(手术后)","thyroid (postoperative)","06.02"
-609,2,"结肠","colon","45.49"
-609,3,"内镜的","endoscopic","45.43"
-609,2,"膀胱(手术后)","bladder (postoperative)","57.93"
-609,2,"剖腹手术部位","laparotomy site","54.12"
-609,2,"前列腺","prostate","60.94"
-609,2,"十二指肠(溃疡)","duadenum (ulcer)","44.49"
-609,3,"经","by",""
-609,4,"缝合(结扎)","suture (ligation)","44.42"
-609,4,"栓塞(经导管)","embolization (transcatheter)","44.44"
-609,4,"内镜的","endoscopic","44.43"
-609,2,"食管","esophagus","42.39"
-609,3,"内镜的","endoscopic","42.33"
-609,2,"手术后 NEC","postoperative NEC","39.98"
-609,2,"特指的部位 NEC","specified site NEC","39.98"
-609,2,"胃-见控制,出血,胃","stomach-see Control, hemorrhage, gastric",""
-609,2,"胃(溃疡)","gastric (ulcer)","44.49"
-609,3,"经","by",""
-609,4,"缝合(结扎)","suture (ligation)","44.41"
-609,4,"栓塞(经导管)","embolization (transcatheter)","44.44"
-609,4,"内镜的","endoscopic","44.43"
-609,2,"腺样增殖体(手术后)","adenoids (postoperative)","28.7"
-609,2,"消化性(溃疡)","peptic (ulcer)","44.49"
-609,3,"经","by",""
-609,4,"缝合(结扎)","suture (ligation)","44.40"
-609,4,"栓塞(经导管)","embolization (transcatheter)","44.44"
-609,4,"内镜","endoscopic","44.43"
-609,2,"胸 NEC","thorax NEC","34.09"
-609,3,"手术后(复发性)","postoperative (recurrent)","34.03"
-610,2,"胸","chest","34.09"
-610,2,"胸膜,胸膜腔","pleura, pleural cavity","34.09"
-610,3,"手术后(复发性)","postoperative (recurrent)","34.03"
-610,2,"胸膜内","intrapleural","34.09"
-610,3,"手术后(复发性)","postoperative (recurrent)","34.03"
-610,2,"血管外科术后","postvascular surgery","39.41"
-610,1,"大气压力和大气成分 NEC","atmospheric pressure and composition NEC","93.98"
-610,2,"减压仓","decompression chamber","93.97"
-610,2,"山区疗养院","mountain sanatorium","93.98"
-610,2,"无抗原空调机","antigen-free air conditioning","93.98"
-610,1,"口成形术","Stomatoplasty","27.59"
-610,1,"对口复苏","Mouth-to-mouth resuscitation","93.93"
-610,1,"口缝合术","Stomatorrhaphy","27.52"
-610,1,"腔前庭成形术(唇颊沟)(舌沟)","Vestibuloplasty (buccolabial) (lingual)","24.91"
-610,1,"扣带回切开术(脑)(经皮的射频)","Cingulumotomy (brain) (percutaneous radiofrequency)","01.32"
-610,1,"髋臼成形术 NEC","Acetabuloplasty NEC","81.40"
-610,2,"伴假体植入","with prosthetic implant","81.52"
-610,1,"髋臼切除术","Acetabulectomy","77.85"
-610,1,"髋悬吊手术(肌肉松解术)","Hanging hip operation (muscle release)","83.19"
-610,1,"眶内容上颌骨切除术,根治","Orbitomaxillectomy, radical","16.51"
-610,1,"眶切开术(前的)(额的)(颞额的)(经额的) NEC","Orbitotomy (anterior) (frontal) (temporofrontal) (transfrontal) NEC","16.09"
-610,2,"伴","with",""
-610,3,"骨皮瓣","bone flap","16.01"
-610,3,"植入物插入","insertion of implant","16.02"
-610,2,"侧的","lateral","16.01"
-610,2,"克伦莱茵(侧的)","Kroenlein (lateral)","16.01"
-610,1,"旷置术[隔绝术]","Exclusion",""
-610,2,"LAA(左心耳)","LAA","37.36"
-610,2,"幽门的","pyloric",""
-610,3,"腹腔镜","laparoscopic","44.38"
-610,3,"开放的","open","44.39"
-610,2,"左心耳","left atrial appendage","37.36"
-610,3,"TigerPaw™系统","TigerPaw™ System","37.36"
-610,3,"经皮的","percutaneous","37.36"
-610,1,"昆特-济马诺夫斯基手术-见 Kuhnt-Szymanowski 手术","昆特-济马诺夫斯基手术— see Kuhnt-Szymanowski operation",""
-610,1,"扩大","Enlargement",""
-611,2,"肠口","intestinal stoma","46.40"
-611,3,"大肠","large intestine","46.43"
-611,3,"小肠","small intestine","46.41"
-611,2,"点","punctum","09.41"
-611,2,"窦管道(皮肤)","sinus tract (skin)","86.89"
-611,2,"房间隔缺损(先前存在的)","atrial septal defect (pre-existing)","35.41"
-611,3,"于全部异常肺静脉连接的修补术","in repair of total anomalous pulmonary venous connection","35.82"
-611,2,"睑裂","palpebral fissure","08.51"
-611,2,"眶(眼)","orbit (eye)","16.64"
-611,2,"卵圆孔(先前存在的)","foramen ovale (pre-existing)","35.41"
-611,3,"于全部异常肺静脉连接的修补术","in repair of total anomalous pulmonary venous connection","35.82"
-611,2,"胸主动脉腔","aortic lumen, thoracic","38.14"
-611,2,"眼窝","eye socket","16.64"
-611,2,"阴道入口","introitus","96.16"
-611,1,"扩宫和刮宫,子宫(诊断性)","Dilation and curettage, uterus (diagnostic)","69.09"
-611,2,"之后","after",""
-611,3,"分娩","delivery","69.02"
-611,3,"流产","abortion","69.02"
-611,2,"终止妊娠","to terminate pregnancy","69.01"
-611,1,"括约肌成形术","Sphincteroplasty",""
-611,2,"奥狄括约肌","sphincter of Oddi","51.83"
-611,2,"肛门的","anal","49.79"
-611,3,"产科撕裂(近期)","obstetrical laceration (current)","75.62"
-611,4,"陈旧性","old","49.79"
-611,2,"膀胱颈","bladder neck","57.85"
-611,2,"胰","pancreas","51.83"
-611,1,"括约肌缝合术,肛门的","Sphincterorrhaphy, anal","49.71"
-611,2,"产科撕裂(近期)","obstetrical laceration (current)","75.62"
-611,3,"陈旧性","old","49.79"
-611,1,"括约肌切除术,肛门的","Sphincterectomy, anal","49.6"
-611,1,"括约肌切开术","Sphincterotomy",""
-611,2,"奥狄括约肌","sphincter of Oddi","51.82"
-611,3,"内镜的","endoscopic","51.85"
-611,2,"肛门的(外部的)(内的)","anal (external) (internal)","49.59"
-611,3,"后的","posterior","49.52"
-611,3,"左侧的","left lateral","49.51"
-611,2,"虹膜","iris","12.12"
-611,2,"经十二指肠壶腹","transduodenal ampullary","51.82"
-611,3,"内镜的","endoscopic","51.85"
-612,2,"膀胱(颈)(经尿道)","bladder (neck) (transurethral)","57.91"
-612,2,"胰","pancreatic","51.82"
-612,3,"内镜的","endoscopic","51.85"
-612,2,"胆总管的","choledochal","51.82"
-612,3,"内镜的","endoscopic","51.85"
-612,1,"扩张","Dilation",""
-612,2,"包皮(新生儿)","foreskin (newborn)","99.95"
-612,2,"鼻后孔(鼻咽的)","choanae (nasopharynx)","29.91"
-612,2,"鼻孔","nares","21.99"
-612,2,"鼻泪管(逆行性)","nasolacrimal duct (retrograde)","09.43"
-612,2,"伴管或支架插入","with insertion of tube or stent","09.44"
-612,2,"鼻咽的","nasopharynx","29.91"
-612,2,"肠(内镜)(球囊)","intestine (endoscopic) (balloon)","46.85"
-612,3,"伴有结肠支架的置入","with insertion of colonic stent",""
-612,4,"内镜的","endoscopic","46.86"
-612,4,"其他","other","46.87"
-612,2,"肠造口(人工的)","intestinal stoma (artificial)","96.24"
-612,2,"肠造口","enterostomy stoma","96.24"
-612,2,"弛缓不能(贲门括约肌)","achalasia","42.92"
-612,2,"胆管","biliary duct",""
-612,3,"经皮(内镜检查)","percutaneous (endoscopy)","51.98"
-612,3,"括约肌","sphincter",""
-612,4,"奥狄","of Oddi","51.81"
-612,5,"内镜","endoscopic","51.84"
-612,4,"胰腺","pancreatic","51.82"
-612,5,"内镜","endoscopic","51.85"
-612,3,"内镜的","endoscopic","51.84"
-612,3,"胰腺管","pancreatic duct","52.99"
-612,4,"内镜的","endoscopic","52.98"
-612,2,"蝶骨孔","sphenoid ostia","22.52"
-612,2,"额鼻管","frontonasal duct","96.21"
-612,2,"法特壶腹","ampulla of Vater","51.81"
-612,3,"内镜的","endoscopic","51.84"
-612,2,"肛门,肛门的(括约肌)","anus, anal (sphincter)","96.23"
-612,2,"喉","larynx","31.98"
-612,2,"华顿管","Wharton's duct","26.91"
-612,2,"回肠(内镜)(球囊)","ileum (endoscopic) (balloon)","46.85"
-612,3,"伴有结肠支架的置入","with insertion of colonic stent",""
-612,4,"内镜的","endoscopic","46.86"
-612,4,"其他","other","46.87"
-612,2,"回肠造口","ileostomy stoma","96.24"
-612,2,"结肠(内镜)(球囊)","colon (endoscopic) (balloon)","46.85"
-613,3,"伴结肠支架置入","with Insertion of colonic stent",""
-613,4,"内镜的","endoscopic","46.86"
-613,4,"其他","other","46.87"
-613,2,"结肠造口","colostomy stoma","96.24"
-613,2,"空肠(内镜)(球囊)","jejunum (endoscopic) (balloon)","46.85"
-613,3,"伴有结肠支架的置入","with insertion of colonic stent",""
-613,4,"内镜的","endoscopic","46.86"
-613,4,"其他","other","46.87"
-613,2,"括约肌","sphincter",""
-613,3,"奥狄","of Oddi","51.81"
-613,4,"内镜","endoscopic","51.84"
-613,3,"贲门的","cardiac","42.92"
-613,3,"肛门的","anal","96.23"
-613,3,"胰腺","pancreatic","51.82"
-613,4,"内镜","endoscopic","51.85"
-613,3,"幽门,内镜","pylorus, endoscopic","44.22"
-613,4,"经切开","by incision","44.21"
-613,2,"泪的","lacrimal",""
-613,3,"点","punctum","09.41"
-613,3,"管","duct","09.42"
-613,2,"泪乳头点","punctum, lacrimal papilla","09.41"
-613,2,"淋巴结构(周围的)","lymphatic structure(s) (peripheral)","40.9"
-613,2,"内镜-见扩张,按部位","endoscopic-see Dilation, by site",""
-613,2,"尿道","urethra","58.6"
-613,3,"前列腺(经尿道)(球囊)","prostatic (transurethral) (balloon)","60.95"
-613,2,"尿道膀胱连接处","urethrovesical junction","58.6"
-613,2,"膀胱","bladder","96.25"
-613,3,"颈","neck","57.92"
-613,2,"膀胱颈","vesical neck","57.92"
-613,2,"气管","trachea","31.99"
-613,2,"前列腺尿道(经尿道)(球囊)","prostatic urethra (transurethral) (balloon)","60.95"
-613,2,"十二指肠(内镜)(球囊)","duodenum (endoscopic) (balloon)","46.85"
-613,3,"伴有结肠支架的置入","with insertion of colonic stent",""
-613,4,"内镜的","endoscopic","46.86"
-613,4,"其他","other","46.87"
-613,2,"食管(经探针)(经探子)","esophagus (by bougie) (by sound)","42.92"
-613,2,"输卵管","fallopian tube","66.96"
-613,2,"输尿管","ureter","59.8"
-613,3,"口","meatus","56.91"
-613,2,"输尿管膀胱口","ureterovesical orifice","59.8"
-613,2,"斯滕森管","Stenson's duct","26.91"
+page,level,chinese,english,code
+609,4,"颈外动脉","external carotid",21.06
+609,4,"凝固(伴填塞)","coagulation (with packing)",21.03
+609,4,"筛的","ethmoidal",21.04
+609,4,"上颌(经鼻窦的)","maxillary (transantral)",21.05
+609,4,"烧灼(和填塞)","cauterization (and packing)",21.03
+609,3,"特指方法 NEC","specified means NEC",21.09
+609,3,"填塞(鼻的)(前的)","packing (nasal) (anterior)",21.01
+609,4,"后的(和前的)","posterior (and anterior)",21.02
+609,2,"出血","hemorrhage",39.98
+609,3,"鼻-另见控制,鼻出血","nose-see also Control, epistaxis",21.00
+609,3,"扁桃腺(手术后)","tonsils (postoperative)",28.7
+609,3,"腹腔","abdominal cavity",54.19
+609,3,"肛门(手术后)","anus (postoperative)",49.95
+609,3,"甲状腺(手术后)","thyroid (postoperative)",06.02
+609,3,"结肠","colon",45.49
+609,4,"内镜的","endoscopic",45.43
+609,3,"膀胱(手术后)","bladder (postoperative)",57.93
+609,3,"剖宫手术部位","laparotomy site",54.12
+609,3,"前列腺","prostate",60.94
+609,3,"十二指肠(溃疡)","duadenum (ulcer)",44.49
+609,4,"经","by",
+609,5,"缝合(结扎)","suture (ligation)",44.42
+609,5,"栓塞(经导管)","embolization (transcatheter)",44.44
+609,4,"内镜的","endoscopic",44.43
+609,3,"食管","esophagus",42.39
+609,4,"内镜的","endoscopic",42.33
+609,3,"手术后 NEC","postoperative NEC",39.98
+609,3,"特指的部位 NEC","specified site NEC",39.98
+609,3,"胃-见控制,出血,胃","stomach-see Control, hemorrhage, gastric",
+609,3,"胃(溃疡)","gastric (ulcer)",44.49
+609,4,"经","by",
+609,5,"缝合(结扎)","suture (ligation)",44.41
+609,5,"栓塞(经导管)","embolization (transcatheter)",44.44
+609,4,"内镜的","endoscopic",44.43
+609,3,"腺样增殖体(手术后)","adenoids (postoperative)",28.7
+609,3,"消化性(溃疡)","peptic (ulcer)",44.49
+609,4,"经","by",
+609,5,"缝合(结扎)","suture (ligation)",44.40
+609,5,"栓塞(经导管)","embolization (transcatheter)",44.44
+609,4,"内镜","endoscopic",44.43
+609,3,"胸 NEC","thorax NEC",34.09
+609,4,"手术后(复发性)","postoperative (recurrent)",34.03
+610,3,"胸","chest",34.09
+610,3,"胸膜,胸膜腔","pleura, pleural cavity",34.09
+610,4,"手术后(复发性)","postoperative (recurrent)",34.03
+610,3,"胸膜内","intrapleural",34.09
+610,4,"手术后(复发性)","postoperative (recurrent)",34.03
+610,3,"血管外科术后","postvascular surgery",39.41
+610,2,"大气压力和大气成分 NEC","atmospheric pressure and composition NEC",93.98
+610,3,"减压仓","decompression chamber",93.97
+610,3,"山区疗养院","mountain sanatorium",93.98
+610,3,"无抗原空调机","antigen-free air conditioning",93.98
+610,1,"口成形术","Stomatoplasty",27.59
+610,1,"口对口复苏","Mouth-to-mouth resuscitation",93.93
+610,1,"口缝合术","Stomatorrhaphy",27.52
+610,1,"口腔前庭成形术(唇颊沟)(舌沟)","Vestibuloplasty (buccolabial) (lingual)",24.91
+610,1,"扣带回切开术(脑)(经皮的射频)","Cingulumotomy (brain) (percutaneous radiofrequency)",01.32
+610,1,"髋臼成形术 NEC","Acetabuloplasty NEC",81.40
+610,2,"伴假体植入","with prosthetic implant",81.52
+610,1,"髋臼切除术","Acetabulectomy",77.85
+610,1,"髋悬吊手术(肌肉松解术)","Hanging hip operation (muscle release)",83.19
+610,1,"眶内容上颌骨切除术,根治","Orbitomaxillectomy, radical",16.51
+610,1,"眶切开术(前的)(额的)(颞额的)(经额的) NEC","Orbitotomy (anterior) (frontal) (temporofrontal) (transfrontal) NEC",16.09
+610,2,"伴","with",
+610,3,"骨皮瓣","bone flap",16.01
+610,3,"植入物插入","insertion of implant",16.02
+610,2,"侧的","lateral",16.01
+610,2,"克伦莱茵(侧的)","Kroenlein (lateral)",16.01
+610,1,"旷置术[隔绝术]","Exclusion",
+610,2,"LAA(左心耳)","LAA",37.36
+610,2,"幽门的","pyloric",
+610,3,"腹腔镜","laparoscopic",44.38
+610,3,"开放的","open",44.39
+610,2,"左心耳","left atrial appendage",37.36
+610,3,"TigerPaw™系统","TigerPaw™ System",37.36
+610,3,"经皮的","percutaneous",37.36
+610,1,"昆特-济马诺夫斯基手术-见 Kuhnt-Szymanowski 手术","昆特-济马诺夫斯基手术— see Kuhnt-Szymanowski operation",
+610,1,"扩大","Enlargement",
+611,2,"肠口","intestinal stoma",46.40
+611,3,"大肠","large intestine",46.43
+611,3,"小肠","small intestine",46.41
+611,2,"点","punctum",09.41
+611,2,"窦管道(皮肤)","sinus tract (skin)",86.89
+611,2,"房间隔缺损(先前存在的)","atrial septal defect (pre-existing)",35.41
+611,3,"于全部异常肺静脉连接的修补术","in repair of total anomalous pulmonary venous connection",35.82
+611,2,"睑裂","palpebral fissure",08.51
+611,2,"眶(眼)","orbit (eye)",16.64
+611,2,"卵圆孔(先前存在的)","foramen ovale (pre-existing)",35.41
+611,3,"于全部异常肺静脉连接的修补术","in repair of total anomalous pulmonary venous connection",35.82
+611,2,"胸主动脉腔","aortic lumen, thoracic",38.14
+611,2,"眼窝","eye socket",16.64
+611,2,"阴道入口","introitus",96.16
+611,1,"扩宫和刮宫,子宫(诊断性)","Dilation and curettage, uterus (diagnostic)",69.09
+611,2,"之后","after",
+611,3,"分娩","delivery",69.02
+611,3,"流产","abortion",69.02
+611,2,"终止妊娠","to terminate pregnancy",69.01
+611,1,"括约肌成形术","Sphincteroplasty",
+611,2,"奥狄括约肌","sphincter of Oddi",51.83
+611,2,"肛门的","anal",49.79
+611,3,"产科撕裂(近期)","obstetrical laceration (current)",75.62
+611,4,"陈旧性","old",49.79
+611,2,"膀胱颈","bladder neck",57.85
+611,2,"胰","pancreas",51.83
+611,1,"括约肌缝合术,肛门的","Sphincterorrhaphy, anal",49.71
+611,2,"产科撕裂(近期)","obstetrical laceration (current)",75.62
+611,3,"陈旧性","old",49.79
+611,1,"括约肌切除术,肛门的","Sphincterectomy, anal",49.6
+611,1,"括约肌切开术","Sphincterotomy",
+611,2,"奥狄括约肌","sphincter of Oddi",51.82
+611,3,"内镜的","endoscopic",51.85
+611,2,"肛门的(外部的)(内的)","anal (external) (internal)",49.59
+611,3,"后的","posterior",49.52
+611,3,"左侧的","left lateral",49.51
+611,2,"虹膜","iris",12.12
+611,2,"经十二指肠壶腹","transduodenal ampullary",51.82
+611,3,"内镜的","endoscopic",51.85
+612,2,"膀胱(颈)(经尿道)","bladder (neck) (transurethral)",57.91
+612,2,"胰腺","pancreatic",51.82
+612,3,"内镜的","endoscopic",51.85
+612,2,"胆总管的","choledochal",51.82
+612,3,"内镜的","endoscopic",51.85
+612,1,"扩张","Dilation",
+612,2,"包皮(新生儿)","foreskin (newborn)",99.95
+612,2,"鼻后孔(鼻咽的)","choanae (nasopharynx)",29.91
+612,2,"鼻孔","nares",21.99
+612,2,"鼻泪管(逆行性)","nasolacrimal duct (retrograde)",09.43
+612,3,"伴管或支架插入","with insertion of tube or stent",09.44
+612,2,"鼻咽的","nasopharynx",29.91
+612,2,"肠(内镜)(球囊)","intestine (endoscopic) (balloon)",46.85
+612,3,"伴有结肠支架的置入","with insertion of colonic stent",
+612,4,"内镜的","endoscopic",46.86
+612,4,"其他","other",46.87
+612,2,"肠造口(人工的)","intestinal stoma (artificial)",96.24
+612,2,"肠造口","enterostomy stoma",96.24
+612,2,"弛缓不能(贲门括约肌)","achalasia",42.92
+612,2,"胆管","biliary duct",
+612,3,"经皮(内镜检查)","percutaneous (endoscopy)",51.98
+612,3,"括约肌","sphincter",
+612,4,"奥狄","of Oddi",51.81
+612,5,"内镜","endoscopic",51.84
+612,4,"胰腺","pancreatic",51.82
+612,5,"内镜","endoscopic",51.85
+612,3,"内镜的","endoscopic",51.84
+612,3,"胰腺管","pancreatic duct",52.99
+612,4,"内镜的","endoscopic",52.98
+612,2,"蝶骨孔","sphenoid ostia",22.52
+612,2,"额鼻管","frontonasal duct",96.21
+612,2,"法特壶腹","ampulla of Vater",51.81
+612,3,"内镜的","endoscopic",51.84
+612,2,"肛门,肛门的(括约肌)","anus, anal (sphincter)",96.23
+612,2,"喉","larynx",31.98
+612,2,"华顿管","Wharton's duct",26.91
+612,2,"回肠(内镜)(球囊)","ileum (endoscopic) (balloon)",46.85
+612,3,"伴有结肠支架的置入","with insertion of colonic stent",
+612,4,"内镜的","endoscopic",46.86
+612,4,"其他","other",46.87
+612,2,"回肠造口","ileostomy stoma",96.24
+612,2,"结肠(内镜)(球囊)","colon (endoscopic) (balloon)",46.85
+613,3,"伴结肠支架置入","with Insertion of colonic stent",
+613,4,"内镜的","endoscopic",46.86
+613,4,"其他","other",46.87
+613,2,"结肠造口","colostomy stoma",96.24
+613,2,"空肠(内镜)(球囊)","jejunum (endoscopic) (balloon)",46.85
+613,3,"伴有结肠支架的置入","with insertion of colonic stent",
+613,4,"内镜的","endoscopic",46.86
+613,4,"其他","other",46.87
+613,2,"括约肌","sphincter",
+613,3,"奥狄","of Oddi",51.81
+613,4,"内镜","endoscopic",51.84
+613,3,"贲门的","cardiac",42.92
+613,3,"肛门的","anal",96.23
+613,3,"胰腺","pancreatic",51.82
+613,4,"内镜","endoscopic",51.85
+613,3,"幽门,内镜","pylorus, endoscopic",44.22
+613,4,"经切开","by incision",44.21
+613,2,"泪的","lacrimal",
+613,3,"点","punctum",09.41
+613,3,"管","duct",09.42
+613,2,"泪乳头点","punctum, lacrimal papilla",09.41
+613,2,"淋巴结构(周围的)","lymphatic structure(s) (peripheral)",40.9
+613,2,"内镜-见扩张,按部位","endoscopic-see Dilation, by site",
+613,2,"尿道","urethra",58.6
+613,3,"前列腺(经尿道)(球囊)","prostatic (transurethral) (balloon)",60.95
+613,2,"尿道膀胱连接处","urethrovesical junction",58.6
+613,2,"膀胱","bladder",96.25
+613,3,"颈","neck",57.92
+613,2,"膀胱颈","vesical neck",57.92
+613,2,"气管","trachea",31.99
+613,2,"前列腺尿道(经尿道)(球囊)","prostatic urethra (transurethral) (balloon)",60.95
+613,2,"十二指肠(内镜)(球囊)","duodenum (endoscopic) (balloon)",46.85
+613,3,"伴有结肠支架的置入","with insertion of colonic stent",
+613,4,"内镜的","endoscopic",46.86
+613,4,"其他","other",46.87
+613,2,"食管(经探针)(经探子)","esophagus (by bougie) (by sound)",42.92
+613,2,"输卵管","fallopian tube",66.96
+613,2,"输尿管","ureter",59.8
+613,3,"口","meatus",56.91
+613,2,"输尿管膀胱口","ureterovesical orifice",59.8
+613,2,"斯滕森管","Stenson's duct",26.91

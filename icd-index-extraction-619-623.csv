@@ -115,16 +115,16 @@ page,level,chinese,english,code
 622,3,"电的","electric",94.27
 622,4,"亚抽搐","subconvulsive",94.26
 622,3,"化学的","chemical",94.24
-622,4,"胰岛素","insulin",94.24
-622,3,"训练,精神病学的","conditioning, psychiatric",94.33
+622,3,"胰岛素","insulin",94.24
+622,2,"训练,精神病学的","conditioning, psychiatric",94.33
 622,2,"氧","oxygen",93.96
 622,3,"催化性","catalytic",93.96
-622,4,"高压","hyperbaric",93.95
-622,5,"伤口","wound",93.59
-622,4,"过饱和","SuperSaturated",00.49
-622,4,"伤口(高压的)","wound (hyperbaric)",93.59
-622,4,"水的","aqueous",00.49
-622,3,"氧化氮","nitric oxide",00.12
+622,3,"高压","hyperbaric",93.95
+622,4,"伤口","wound",93.59
+622,3,"过饱和","SuperSaturated",00.49
+622,3,"伤口(高压的)","wound (hyperbaric)",93.59
+622,3,"水的","aqueous",00.49
+622,2,"一氧化氮","nitric oxide",00.12
 622,2,"胰岛素休克","insulin shock",94.24
 622,2,"艺术","art",93.89
 622,2,"音乐","music",93.84

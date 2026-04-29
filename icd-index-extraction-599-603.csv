@@ -1,194 +1,194 @@
-"page","level","chinese","english","code"
-599,3,"趾(跖骨头)","toe (metatarsal head)","84.11"
-599,3,"足","foot","84.11"
-599,2,"手","hand","84.03"
-599,2,"手指,除拇指外","finger, except thumb","84.01"
-599,2,"拇指","thumb","84.02"
-599,2,"索朗多弗雷(后肢)","Sorondo-Ferre (hindquarter)","84.19"
-599,1,"腿 NEC","leg NEC","84.10"
-599,2,"经","through",""
-599,3,"股骨(AK)","femur (AK)","84.17"
-599,3,"踝(关节离断)","ankle (disarticulation)","84.13"
-599,3,"胫腓骨(BK)","tibia and fibula (BK)","84.15"
-599,3,"髋(关节离断)","hip (disarticulation)","84.18"
-599,3,"足","foot","84.12"
-599,2,"膝上(AK)","above knee (AK)","84.17"
-599,2,"膝下(BK)","below knee (BK)","84.15"
-599,1,"腕骨","carpals","84.03"
-599,1,"腕关节(关节离断)","wrist (disarticulation)","84.04"
-599,1,"膝(关节离断)","knee (disarticulation)","84.16"
-599,1,"膝上(AK)","above-knee (AK)","84.17"
-599,1,"膝下(BK) NEC","below-knee (BK) NEC","84.15"
-599,2,"膝下截断术转为膝上截断术","conversion into above-knee amputation","84.17"
-599,1,"下肢 NEC-另见截断术,腿","lower limb NEC-see also Amputation, leg","84.10"
-599,1,"肖帕尔(跖骨间的)","Chopart's (midtarsal)","84.12"
-599,1,"胸肩胛间","interthoracoscapular","84.09"
-599,1,"阴蒂","clitoris","71.4"
-599,1,"阴茎(环形)(完全)(皮瓣)(部分)(根治)","penis (circle) (complete) (flap) (partial) (radical)","64.3"
-599,1,"掌骨","metacarpal","84.03"
-599,1,"跖骨","metatarsal","84.11"
-599,2,"头(踇囊肿切除术)","head (bunionectomy)","77.59"
-599,1,"跖趾(关节)","metatarsophalangeal (joint)","84.11"
-599,1,"趾(经跖趾关节)","toe (through metatarsophalangeal joint)","84.11"
-599,1,"肘(关节离断)","elbow (disarticulation)","84.06"
-599,1,"肘上","above-elbow","84.07"
-599,1,"子宫颈","cervix","67.4"
-599,1,"足(中间)","foot (middle)","84.12"
-599,1,"足前部","forefoot","84.12"
-599,1,"接种","Inoculation",""
-599,2,"抗毒素-见处理(管理),抗毒素","antitoxins-see Administration, antitoxins",""
-600,2,"类毒素-见处理(管理),类毒素","toxoids-see Administration, toxoids",""
-600,2,"疫苗-见处理(管理),疫苗","vaccine-see Administration, vaccine",""
-600,1,"接种疫苗(预防性)(对抗)","Vaccination (prophylactic) (against)","99.59"
-600,2,"百日咳","pertussis","99.37"
-600,2,"斑疹伤寒","typhus","99.55"
-600,2,"病 NEC","disease NEC","99.55"
-600,3,"节肢动物传播的病毒 NEC","arthropod-borne viral NEC","99.54"
-600,2,"波状热","undulant fever","99.55"
-600,2,"传染性腮腺炎","infectious parotitis","99.46"
-600,2,"风疹","German-measles, rubella","99.47"
-600,2,"副伤寒","paratyphoid fever","99.32"
-600,2,"感冒","common cold","99.51"
-600,2,"黄热病","yellow fever","99.43"
-600,2,"霍乱","cholera","99.31"
-600,2,"脊髓灰质炎","poliomyelitis","99.41"
-600,2,"结核病","tuberculosis","99.33"
-600,2,"狂犬病","hydrophobia, rabies","99.44"
-600,2,"链球菌","Streptococcus","99.55"
-600,2,"瘤","tumor","99.28"
-600,2,"流行性感冒","influenza","99.52"
-600,2,"洛杉矶斑疹热","Rocky Mountain spotted fever","99.55"
-600,2,"麻疹","measles, rubeola","99.45"
-600,2,"脑炎,节肢动物传播的病毒","encephalitis, arthropod-borne viral","99.53"
-600,2,"葡萄球菌","Staphylococcus","99.55"
-600,2,"普鲁菌病","brucellosis","99.55"
-600,2,"腮腺炎","mumps","99.46"
-600,2,"伤寒","typhoid","99.32"
-600,2,"鼠疫","plague","99.34"
-600,2,"炭疽热","anthrax","99.55"
-600,2,"天花","smallpox","99.42"
-600,2,"土拉菌病","tularemia","99.35"
-600,1,"捷特尼手术-见 Jatene 手术","捷特尼手术— see Jatene operation",""
-600,1,"睫状肌切开术","Cyclicotomy","12.55"
-600,1,"睫状体电解术","Cycloelectrolysis","12.71"
-600,1,"睫状体分离术(初始的)(随后的)","Cyclodialysis (initial) (subsequent)","12.55"
-600,1,"睫状体光凝术","Cyclophotocoagulation","12.73"
-600,1,"睫状体肌切开术","Cyclotomy","12.55"
-600,1,"睫状体冷冻疗法","Cyclocryotherapy","12.72"
-600,1,"睫状体贫血术","Cycloanemization","12.74"
-600,1,"睫状体切除术(睫状体)","Cyclectomy, Ciliectomy (ciliary body)","12.44"
-600,2,"眼睑缘","eyelid margin","08.20"
-601,1,"睫状体切开术","Ciliarotomy","12.55"
-601,1,"睫状体透热凝固术(穿透性的)(表浅)","Cyclodiathermy (penetrating) (surface)","12.71"
-601,1,"睫状小带松解法(伴晶状体抽吸术)-另见抽吸术,白内障,囊内的","Zonulolysis (with lens extraction)-see also Extraction, cataract, intracapsular","13.19"
-601,1,"解除","Freeing",""
-601,2,"肠段用于间置术","intestinal segment for interposition","45.50"
-601,3,"大的","large","45.52"
-601,3,"小的","small","45.51"
-601,2,"动脉静脉神经束","artery-vein-nerve bundle","39.91"
-601,2,"虹膜前房角粘连(伴空气或液体注射)","goniosynechiae (with injection of air or liquid)","12.31"
-601,2,"虹膜前粘连(伴空气或液体注射)","anterior synechiae (with injection of air or liquid)","12.32"
-601,2,"后粘连","posterior synechiae","12.33"
-601,2,"血管","vessel","39.91"
-601,2,"血管束","vascular bundle","39.91"
-601,2,"眼外肌,被夹的","extraocular muscle, entrapped","15.7"
-601,2,"粘连-见松解术,粘连","adhesions-see Lysis, adhesions",""
-601,2,"粘连(后的)","synechiae (posterior)","12.33"
-601,3,"前的(伴空气或液体注射)","anterior (with injection of air or liquid)","12.32"
-601,1,"解除-见松解术","Relief-see Release",""
-601,1,"筋膜成形术-另见修补术,筋膜","Fascioplasty-see also Repair, fascia","83.89"
-601,2,"手-另见修补术,筋膜,手","hand-see also Repair, fascia, hand","82.89"
-601,1,"筋膜缝合术-见缝合,筋膜","Fasciorrhaphy-see Suture, fascia",""
-601,1,"筋膜固定术","Fasciodesis","83.89"
-601,2,"手","hand","82.89"
-601,1,"筋膜切除术","Fasciectomy","83.44"
-601,2,"手","hand","82.35"
-601,3,"用于移植","for graft","82.34"
-601,2,"手掌(杜普伊特伦缩窄松解术)","palmar (release of Dupuytren's contracture)","82.35"
-601,2,"用于移植","for graft","83.43"
-601,3,"手","hand","82.34"
-601,1,"筋膜切开术","Fasciotomy","83.14"
-601,2,"奥伯杨特","Ober-Yount","83.14"
-601,2,"德怀尔","Dwyer","83.14"
-601,2,"杜普伊特伦","Dupuytren's","82.12"
-601,3,"伴切除术","with excision","82.35"
-601,2,"眶的-另见眶切开术","orbital-see also Orbitotomy","16.09"
-601,2,"手","hand","82.12"
-602,2,"手掌(杜普伊特伦缩窄松解术)","palmar (release of Dupuytren's contracture)","82.12"
-602,3,"伴切除术","with excision","82.35"
-602,1,"筋膜悬吊手术-见手术,悬带","Fascia sling operation-see Operation, sling",""
-602,1,"金斯蒂奎斯特手术-见 KingSteelquist 手术","金-斯蒂奎斯特手术— see King-Steelquist operation",""
-602,1,"近距(放射)疗法","Brachytherapy",""
-602,2,"血管内的","intravascular","92.27"
-602,1,"精囊切除术","Vesiculectomy, Spermatocystectomy","60.73"
-602,2,"伴根治前列腺切除术","with radical prostatectomy","60.5"
-602,1,"精囊切开术","Spermatocystotomy, Vesiculotomy","60.72"
-602,1,"精囊造影","Vesiculogram, seminal","87.92"
-602,2,"对比剂","contrast","87.91"
-602,1,"精神分析","Psychoanalysis","94.31"
-602,1,"精神疗法 NEC","Psychotherapy NEC","94.39"
-602,2,"精神性功能不良","psychosexual dysfunctions","94.34"
-602,2,"生物反馈","biofeedback","94.39"
-602,2,"团组","group","94.44"
-602,3,"用于精神性功能不良","for psychosexual dysfunctions","94.41"
-602,2,"研究性语言","exploratory verbal","94.37"
-602,2,"游戏","play","94.36"
-602,2,"支持性语言","supportive verbal","94.38"
-602,1,"精索静脉曲张切除术","Varicocelectomy, spermatic cord","63.1"
-602,1,"精液囊肿切除术","Spermatocelectomy","63.2"
-602,1,"经输尿管输尿管吻合术","Transureteroureterostomy","56.75"
-602,1,"经腰主动脉造影术","Translumbar aortogram","88.42"
-602,1,"经……拖出切除术","Pull-through",""
-602,2,"腹肛门的","abdomino-anal","48.49"
-602,2,"腹会阴的","abdominoperineal","48.49"
-602,3,"杜哈梅尔型","Duhamel type","48.65"
-602,2,"直肠内","endorectal","48.41"
-602,1,"晶状体乳化(超声)(伴抽吸)","Phacoemulsification (ultrasonic) (with aspiration)","13.41"
-602,1,"晶状体碎裂(机械性)(伴抽吸)","Phacofragmentation (mechanical) (with aspiration)","13.43"
-602,2,"超声","ultrasonic","13.41"
-602,2,"后入路","posterior route","13.42"
-602,1,"颈动脉脉波描记法伴 ECG 导联","Carotid pulse tracing with ECG lead","89.56"
-602,1,"静脉穿刺 NEC","Venipuncture NEC","38.99"
-602,2,"用于对比材料注射-见静脉造影术","for injection of contrast material-see Phlebography",""
-602,1,"静脉缝合术","Phleborrhaphy, Venorrhaphy","39.32"
-603,1,"静-静脉吻合术","Venovenostomy","39.29"
-603,1,"静脉切除术","Phlebectomy, Venectomy","38.60"
-603,2,"伴","with",""
-603,3,"吻合术","anastomosis","38.30"
-603,4,"腹的","abdominal","38.37"
-603,4,"颅内的 NEC","intracranial NEC","38.31"
-603,4,"上肢","upper limb","38.33"
-603,4,"头和颈 NEC","head and neck NEC","38.32"
-603,4,"下肢","lower limb","38.39"
-603,4,"胸的 NEC","thoracic NEC","38.35"
-603,3,"移植物置换","graft replacement","38.40"
-603,4,"腹的","abdominal","38.47"
-603,4,"颅内的 NEC","intracranial NEC","38.41"
-603,4,"上肢","upper limb","38.43"
-603,4,"头和颈 NEC","head and neck NEC","38.42"
-603,4,"下肢","lower limb","38.49"
-603,4,"胸的 NEC","thoracic NEC","38.45"
-603,2,"腹的","abdominal","38.67"
-603,2,"静脉曲张","varicose","38.50"
-603,3,"腹的","abdominal","38.57"
-603,3,"颅内的 NEC","intracranial NEC","38.51"
-603,3,"上肢","upper limb","38.53"
-603,3,"头和颈 NEC","head and neck NEC","38.52"
-603,3,"下肢","lower limb","38.59"
-603,3,"胸的 NEC","thoracic NEC","38.55"
-603,2,"颅内的 NEC","intracranial NEC","38.61"
-603,2,"上肢","upper limb","38.63"
-603,2,"头和颈 NEC","head and neck NEC","38.62"
-603,2,"下肢","lower limb","38.69"
-603,2,"胸的 NEC","thoracic NEC","38.65"
-603,1,"静脉切开(穿刺)术","Phlebotomy","38.99"
-603,1,"静脉切开术","Venotomy","38.00"
-603,2,"腹","abdominal","38.07"
-603,2,"颅内 NEC","intracranial NEC","38.01"
-603,2,"上肢","upper limb","38.03"
-603,2,"头和颈 NEC","head and neck NEC","38.02"
-603,2,"下肢","lower limb","38.09"
-603,2,"胸 NEC","thoracic NEC","38.05"
-603,1,"静脉曲张切开术,周围血管(下肢)","Varicotomy, peripheral vessels (lower limb)","38.59"
-603,2,"上肢","upper limb","38.53"
-603,1,"静脉压轧术","Venotripsy","39.98"
+page,level,chinese,english,code
+599,3,"趾(跖骨头)","toe (metatarsal head)",84.11
+599,3,"足","foot",84.11
+599,2,"手","hand",84.03
+599,2,"手指,除拇指外","finger, except thumb",84.01
+599,3,"拇指","thumb",84.02
+599,2,"索朗多弗雷(后肢)","Sorondo-Ferre (hindquarter)",84.19
+599,2,"腿 NEC","leg NEC",84.10
+599,3,"经","through",
+599,4,"股骨(AK)","femur (AK)",84.17
+599,4,"踝(关节离断)","ankle (disarticulation)",84.13
+599,4,"胫腓骨(BK)","tibia and fibula (BK)",84.15
+599,4,"髋(关节离断)","hip (disarticulation)",84.18
+599,4,"足","foot",84.12
+599,3,"膝上(AK)","above knee (AK)",84.17
+599,3,"膝下(BK)","below knee (BK)",84.15
+599,2,"腕骨","carpals",84.03
+599,2,"腕关节(关节离断)","wrist (disarticulation)",84.04
+599,2,"膝(关节离断)","knee (disarticulation)",84.16
+599,2,"膝上(AK)","above-knee (AK)",84.17
+599,2,"膝下(BK) NEC","below-knee (BK) NEC",84.15
+599,3,"膝下截断术转为膝上截断术","conversion into above-knee amputation",84.17
+599,2,"下肢 NEC-另见截断术,腿","lower limb NEC-see also Amputation, leg",84.10
+599,2,"肖帕尔(跗骨间的)","Chopart's (midtarsal)",84.12
+599,2,"胸肩胛间","interthoracoscapular",84.09
+599,2,"阴蒂","clitoris",71.4
+599,2,"阴茎(环形)(完全)(皮瓣)(部分)(根治)","penis (circle) (complete) (flap) (partial) (radical)",64.3
+599,2,"掌骨","metacarpal",84.03
+599,2,"跖骨","metatarsal",84.11
+599,3,"头(踇囊肿切除术)","head (bunionectomy)",77.59
+599,2,"跖趾(关节)","metatarsophalangeal (joint)",84.11
+599,2,"趾(经跖趾关节)","toe (through metatarsophalangeal joint)",84.11
+599,2,"肘(关节离断)","elbow (disarticulation)",84.06
+599,2,"肘上","above-elbow",84.07
+599,2,"子宫颈","cervix",67.4
+599,2,"足(中间)","foot (middle)",84.12
+599,2,"足前部","forefoot",84.12
+599,1,"接种","Inoculation",
+599,2,"抗毒素-见处理(管理),抗毒素","antitoxins-see Administration, antitoxins",
+600,2,"类毒素-见处理(管理),类毒素","toxoids-see Administration, toxoids",
+600,2,"疫苗-见处理(管理),疫苗","vaccine-see Administration, vaccine",
+600,1,"接种疫苗(预防性)(对抗)","Vaccination (prophylactic) (against)",99.59
+600,2,"百日咳","pertussis",99.37
+600,2,"斑疹伤寒","typhus",99.55
+600,2,"病 NEC","disease NEC",99.55
+600,3,"节肢动物传播的病毒 NEC","arthropod-borne viral NEC",99.54
+600,2,"波状热","undulant fever",99.55
+600,2,"传染性腮腺炎","infectious parotitis",99.46
+600,2,"风疹","German-measles, rubella",99.47
+600,2,"副伤寒","paratyphoid fever",99.32
+600,2,"感冒","common cold",99.51
+600,2,"黄热病","yellow fever",99.43
+600,2,"霍乱","cholera",99.31
+600,2,"脊髓灰质炎","poliomyelitis",99.41
+600,2,"结核病","tuberculosis",99.33
+600,2,"狂犬病","hydrophobia, rabies",99.44
+600,2,"链球菌","Streptococcus",99.55
+600,2,"瘤","tumor",99.28
+600,2,"流行性感冒","influenza",99.52
+600,2,"洛杉矶斑疹热","Rocky Mountain spotted fever",99.55
+600,2,"麻疹","measles, rubeola",99.45
+600,2,"脑炎,节肢动物传播的病毒","encephalitis, arthropod-borne viral",99.53
+600,2,"葡萄球菌","Staphylococcus",99.55
+600,2,"普鲁菌病","brucellosis",99.55
+600,2,"腮腺炎","mumps",99.46
+600,2,"伤寒","typhoid",99.32
+600,2,"鼠疫","plague",99.34
+600,2,"炭疽热","anthrax",99.55
+600,2,"天花","smallpox",99.42
+600,2,"土拉菌病","tularemia",99.35
+600,1,"捷特尼手术-见 Jatene 手术","捷特尼手术— see Jatene operation",
+600,1,"睫状肌切开术","Cyclicotomy",12.55
+600,1,"睫状体电解术","Cycloelectrolysis",12.71
+600,1,"睫状体分离术(初始的)(随后的)","Cyclodialysis (initial) (subsequent)",12.55
+600,1,"睫状体光凝术","Cyclophotocoagulation",12.73
+600,1,"睫状体肌切开术","Cyclotomy",12.55
+600,1,"睫状体冷冻疗法","Cyclocryotherapy",12.72
+600,1,"睫状体贫血术","Cycloanemization",12.74
+600,1,"睫状体切除术(睫状体)","Cyclectomy, Ciliectomy (ciliary body)",12.44
+600,2,"眼睑缘","eyelid margin",08.20
+601,1,"睫状体切开术","Ciliarotomy",12.55
+601,1,"睫状体透热凝固术(穿透性的)(表浅)","Cyclodiathermy (penetrating) (surface)",12.71
+601,1,"睫状小带松解法(伴晶状体抽吸术)-另见抽吸术,白内障,囊内的","Zonulolysis (with lens extraction)-see also Extraction, cataract, intracapsular",13.19
+601,1,"解除","Freeing",
+601,2,"肠段用于间置术","intestinal segment for interposition",45.50
+601,3,"大的","large",45.52
+601,3,"小的","small",45.51
+601,2,"动脉静脉神经束","artery-vein-nerve bundle",39.91
+601,2,"虹膜前房角粘连(伴空气或液体注射)","goniosynechiae (with injection of air or liquid)",12.31
+601,2,"虹膜前粘连(伴空气或液体注射)","anterior synechiae (with injection of air or liquid)",12.32
+601,2,"后粘连","posterior synechiae",12.33
+601,2,"血管","vessel",39.91
+601,2,"血管束","vascular bundle",39.91
+601,2,"眼外肌,被夹的","extraocular muscle, entrapped",15.7
+601,2,"粘连-见松解术,粘连","adhesions-see Lysis, adhesions",
+601,2,"粘连(后的)","synechiae (posterior)",12.33
+601,3,"前的(伴空气或液体注射)","anterior (with injection of air or liquid)",12.32
+601,1,"解除-见松解术","Relief-see Release",
+601,1,"筋膜成形术-另见修补术,筋膜","Fascioplasty-see also Repair, fascia",83.89
+601,2,"手-另见修补术,筋膜,手","hand-see also Repair, fascia, hand",82.89
+601,1,"筋膜缝合术-见缝合,筋膜","Fasciorrhaphy-see Suture, fascia",
+601,1,"筋膜固定术","Fasciodesis",83.89
+601,2,"手","hand",82.89
+601,1,"筋膜切除术","Fasciectomy",83.44
+601,2,"手","hand",82.35
+601,3,"用于移植","for graft",82.34
+601,2,"手掌(杜普伊特伦缩窄松解术)","palmar (release of Dupuytren's contracture)",82.35
+601,2,"用于移植","for graft",83.43
+601,3,"手","hand",82.34
+601,1,"筋膜切开术","Fasciotomy",83.14
+601,2,"奥伯杨特","Ober-Yount",83.14
+601,2,"德怀尔","Dwyer",83.14
+601,2,"杜普伊特伦","Dupuytren's",82.12
+601,3,"伴切除术","with excision",82.35
+601,2,"眶的-另见眶切开术","orbital-see also Orbitotomy",16.09
+601,2,"手","hand",82.12
+602,2,"手掌(杜普伊特伦缩窄松解术)","palmar (release of Dupuytren's contracture)",82.12
+602,3,"伴切除术","with excision",82.35
+602,1,"筋膜悬吊手术-见手术,悬带","Fascia sling operation-see Operation, sling",
+602,1,"金斯蒂奎斯特手术-见 KingSteelquist 手术","金-斯蒂奎斯特手术— see King-Steelquist operation",
+602,1,"近距(放射)疗法","Brachytherapy",
+602,2,"血管内的","intravascular",92.27
+602,1,"精囊切除术","Vesiculectomy, Spermatocystectomy",60.73
+602,2,"伴根治前列腺切除术","with radical prostatectomy",60.5
+602,1,"精囊切开术","Spermatocystotomy, Vesiculotomy",60.72
+602,1,"精囊造影","Vesiculogram, seminal",87.92
+602,2,"对比剂","contrast",87.91
+602,1,"精神分析","Psychoanalysis",94.31
+602,1,"精神疗法 NEC","Psychotherapy NEC",94.39
+602,2,"精神性功能不良","psychosexual dysfunctions",94.34
+602,2,"生物反馈","biofeedback",94.39
+602,2,"团组","group",94.44
+602,3,"用于精神性功能不良","for psychosexual dysfunctions",94.41
+602,2,"研究性语言","exploratory verbal",94.37
+602,2,"游戏","play",94.36
+602,2,"支持性语言","supportive verbal",94.38
+602,1,"精索静脉曲张切除术","Varicocelectomy, spermatic cord",63.1
+602,1,"精液囊肿切除术","Spermatocelectomy",63.2
+602,1,"经输尿管输尿管吻合术","Transureteroureterostomy",56.75
+602,1,"经腰主动脉造影术","Translumbar aortogram",88.42
+602,1,"经……拖出切除术","Pull-through",
+602,2,"腹肛门的","abdomino-anal",48.49
+602,2,"腹会阴的","abdominoperineal",48.49
+602,3,"杜哈梅尔型","Duhamel type",48.65
+602,2,"直肠内","endorectal",48.41
+602,1,"晶状体乳化(超声)(伴抽吸)","Phacoemulsification (ultrasonic) (with aspiration)",13.41
+602,1,"晶状体碎裂(机械性)(伴抽吸)","Phacofragmentation (mechanical) (with aspiration)",13.43
+602,2,"超声","ultrasonic",13.41
+602,2,"后入路","posterior route",13.42
+602,1,"颈动脉脉波描记法伴 ECG 导联","Carotid pulse tracing with ECG lead",89.56
+602,1,"静脉穿刺 NEC","Venipuncture NEC",38.99
+602,2,"用于对比材料注射-见静脉造影术","for injection of contrast material-see Phlebography",
+602,1,"静脉缝合术","Phleborrhaphy, Venorrhaphy",39.32
+603,1,"静-静脉吻合术","Venovenostomy",39.29
+603,1,"静脉切除术","Phlebectomy, Venectomy",38.60
+603,2,"伴","with",
+603,3,"吻合术","anastomosis",38.30
+603,4,"腹的","abdominal",38.37
+603,4,"颅内的 NEC","intracranial NEC",38.31
+603,4,"上肢","upper limb",38.33
+603,4,"头和颈 NEC","head and neck NEC",38.32
+603,4,"下肢","lower limb",38.39
+603,4,"胸的 NEC","thoracic NEC",38.35
+603,3,"移植物置换","graft replacement",38.40
+603,4,"腹的","abdominal",38.47
+603,4,"颅内的 NEC","intracranial NEC",38.41
+603,4,"上肢","upper limb",38.43
+603,4,"头和颈 NEC","head and neck NEC",38.42
+603,4,"下肢","lower limb",38.49
+603,4,"胸的 NEC","thoracic NEC",38.45
+603,2,"腹的","abdominal",38.67
+603,2,"静脉曲张","varicose",38.50
+603,3,"腹的","abdominal",38.57
+603,3,"颅内的 NEC","intracranial NEC",38.51
+603,3,"上肢","upper limb",38.53
+603,3,"头和颈 NEC","head and neck NEC",38.52
+603,3,"下肢","lower limb",38.59
+603,3,"胸的 NEC","thoracic NEC",38.55
+603,2,"颅内的 NEC","intracranial NEC",38.61
+603,2,"上肢","upper limb",38.63
+603,2,"头和颈 NEC","head and neck NEC",38.62
+603,2,"下肢","lower limb",38.69
+603,2,"胸的 NEC","thoracic NEC",38.65
+603,1,"静脉切开(穿刺)术","Phlebotomy",38.99
+603,1,"静脉切开术","Venotomy",38.00
+603,2,"腹","abdominal",38.07
+603,2,"颅内 NEC","intracranial NEC",38.01
+603,2,"上肢","upper limb",38.03
+603,2,"头和颈 NEC","head and neck NEC",38.02
+603,2,"下肢","lower limb",38.09
+603,2,"胸 NEC","thoracic NEC",38.05
+603,1,"静脉曲张切开术,周围血管(下肢)","Varicotomy, peripheral vessels (lower limb)",38.59
+603,2,"上肢","upper limb",38.53
+603,1,"静脉压轧术","Venotripsy",39.98

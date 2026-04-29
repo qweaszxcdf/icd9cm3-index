@@ -1,177 +1,177 @@
-"page","level","chinese","english","code"
-584,2,"心室","ventricular","37.35"
-584,2,"心脏容量","heart volume","37.35"
-584,2,"脂肪组织","adipose tissue","86.83"
-584,1,"减压","Decompression",""
-584,2,"仓","chamber","93.97"
-584,2,"肠","intestine","96.08"
-584,3,"经切开","by incision","45.00"
-584,3,"内镜的(球囊)","endoscopic (balloon)","46.85"
-584,2,"胆道","biliary tract","51.49"
-584,2,"胆总管","common bile duct","51.42"
-584,3,"经插管法","by intubation","51.43"
-584,4,"经皮的","percutaneous","51.98"
-584,4,"内镜的","endoscopic","51.87"
-584,2,"跗管","tarsal tunnel","04.44"
-584,2,"肛门(不通的)","anus (imperforate)","48.0"
-584,2,"肌","muscle","83.02"
-584,3,"手","hand","82.02"
-584,2,"脊索(管)","spinal cord (canal)","03.09"
-584,2,"腱(鞘)","tendon (sheath)","83.01"
-584,3,"手","hand","82.01"
-584,2,"结肠","colon","96.08"
-584,3,"经切开","by incision","45.03"
-584,3,"内镜的(球囊)","endoscopic (balloon)","46.85"
-584,2,"眶-另见眶切开术","orbit-see also Orbitotomy","16.09"
-584,2,"颅的","cranial","01.24"
-584,3,"用于颅骨骨折","for skull fracture","02.02"
-584,2,"颅骨骨折","skull fracture","02.02"
-584,2,"颅内的","intracranial","01.24"
-584,2,"马尾","cauda equina","03.09"
-584,2,"迷路","labyrinth","20.79"
-584,2,"脑","brain","01.24"
-584,2,"内淋巴囊","endolymphatic sac","20.79"
-584,2,"三叉(神经根)","trigeminal (nerve root)","04.41"
-584,2,"神经(周围的) NEC","nerve (peripheral) NEC","04.49"
-584,3,"耳的","auditory","04.42"
-584,3,"颅的 NEC","cranial NEC","04.42"
-584,3,"三叉(根)","trigeminal (root)","04.41"
-584,3,"正中","median","04.43"
-584,2,"神经节(周围) NEC","ganglion (peripheral) NEC","04.49"
-584,3,"颅的 NEC","cranial NEC","04.42"
-584,2,"腕管","carpal tunnel","04.43"
-584,2,"胃的","gastric","96.07"
-585,2,"心包","pericardium","37.0"
-585,2,"心脏","heart","37.0"
-585,2,"胸出口","thoracic outlet",""
-585,3,"经","by",""
-585,4,"肌切开术(前斜角肌切断)","myotomy (division of scalenus anticus muscle)","83.19"
-585,4,"腱切断术","tenotomy","83.13"
-585,2,"胰腺管","pancreatic duct","52.92"
-585,3,"内镜的","endoscopic","52.93"
-585,2,"正中神经","median nerve","04.43"
-585,2,"直肠","rectum","48.0"
-585,2,"椎板切除术","laminectomy","03.09"
-585,2,"椎板切开术","laminotomy","03.09"
-585,3,"经插管法","by intubation","51.43"
-585,4,"经皮的","percutaneous","51.98"
-585,4,"内镜的","endoscopic","51.87"
-585,1,"监测","Monitoring",""
-585,2,"BIS(双频指数)监测","BIS (bispectral index) monitoring","00.94[89.14]"
-585,2,"IAEMT[手术中麻醉效果监测和滴定法]","IAEMT [intraoperative anesthetic effect monitoring and titration]","00.94[89.14]"
-585,2,"动脉瘤囊内压力","intra-aneurysm sac pressure","00.58"
-585,2,"肺动脉","pulmonary artery",""
-585,3,"楔形","wedge","89.64"
-585,3,"压力","pressure","89.63"
-585,2,"冠状血流(重合计数技术)","coronary blood flow (coincidence counting technique)","89.69"
-585,3,"血管内压力测量","intravascular pressure measurement","00.59"
-585,3,"血流储备分数(FFR)","fractional flow reserve (FFR)","00.59"
-585,2,"霍尔特尔型装置(心的)","Holter-type device (cardiac)","89.50"
-585,2,"经食管心的排血量(多普勒)","transesophageal cardiac output (Doppler)","89.68"
-585,2,"连续性动脉内血气","continuous intra-arterial blood gas","89.60"
-585,2,"颅内压","intracranial pressure","01.10"
-585,2,"颅内氧","intracranial oxygen","01.16"
-585,2,"脑电图","electroencephalographic","89.19"
-585,3,"电波遥测","radio-telemetered","89.19"
-585,3,"视频的","video","89.19"
-585,3,"手术中","intraoperative","00.94"
-585,2,"脑温度","brain temperature","01.17"
-586,2,"脑组织氧分压(PbtO₂)","partial pressure of brain oxygen (PbtO₂)","01.16"
-586,2,"神经生理的","neurophysiologic",""
-586,3,"手术中的","intra-operative","00.94"
-586,2,"肾的","renal","00.69"
-586,2,"手术中","intraoperative",""
-586,3,"肠系膜的","mesenteric","00.69"
-586,3,"腹腔内","intra-abdominal","00.69"
-586,3,"冠状动脉","coronary","00.59"
-586,3,"麻醉效果监测和滴定法(IAEMT)","anesthetic effect monitoring and titration (IAEMT)","00.94[89.14]"
-586,3,"髂的","iliac","00.69"
-586,3,"神经生理学(BAEP 脑干听觉诱发电位)(EEG 脑电图)(EMG 肌电图)(MEP 运动诱发电位)(神经传导检测)(SSEP 体感诱发电位)(经颅多普勒)","neurophysiologic (BAEP) (EEG) (electromyogram) (EMG) (MEP) (nerve conduction study) (somatosensory evoked potentials) (SSEP) (transcranial Doppler)","00.94"
-586,3,"胸腔内","intrathoracic","00.67"
-586,4,"颈动脉的","carotid","00.67"
-586,4,"主动脉","aorta","00.67"
-586,4,"主动脉弓","aortic arch","00.67"
-586,3,"血管内压力","intravascular pressure","00.69"
-586,3,"周围的","peripheral","00.68"
-586,2,"睡眠(记录)-见细目","sleep (recording)-see categories","89.17"
-586,2,"胎儿(胎心)","fetus (fetal heart)",""
-586,3,"产间(分娩时)(子宫外)(外部)","intrapartum (during labor) (extrauterine) (external)","75.34"
-586,4,"宫内(直接)(ECG)","intrauterine (direct) (ECG)","75.32"
-586,4,"经子宫颈胎儿 SpO₂ 监测","transcervical fetal SpO₂ monitoring","75.38"
-586,4,"经子宫颈胎儿氧饱和度监测","transcervical fetal oxygen saturation monitoring","75.38"
-586,4,"脉冲超声(多普勒)","pulsed ultrasound (Doppler)","88.78"
-586,4,"内的(伴宫缩测验)(ECG)","internal (with contraction measurements) (ECG)","75.32"
-586,4,"听诊的(听诊)-省略编码","ausculatory (stethoscopy)-omit code",""
-586,4,"心音描记法的(子宫外)","phonocardiographic (extrauterine)","75.34"
-586,3,"产前","antepartum",""
-586,4,"超声波检查(早期妊娠)(多普勒)","ultrasonography (early pregnancy) (Doppler)","88.78"
-587,4,"催产素激惹(宫缩应激测验)","oxytocin challenge (contraction stress test)","75.35"
-587,4,"无激惹(胎儿活动加速试验)","nonstress (fetal activity acceleration determinations)","75.34"
-587,2,"体动脉压","systemic arterial pressure","89.61"
-587,2,"动脉瘤囊内压力","intra-aneurysm sac pressure","00.58"
-587,2,"心室压(心的)","ventricular pressure (cardiac)","89.62"
-587,2,"心排血量(经)","cardiac output (by)",""
-587,3,"Fick 方法","Fick method","89.67"
-587,3,"电图","electrographic","89.54"
-587,3,"手术期间-省略编码","during surgery-omit code",""
-587,3,"霍尔特尔型装置","Holter-type device","89.50"
-587,3,"经食管(多普勒)(超声)","transesophageal (Doppler) (ultrasound)","89.68"
-587,3,"流动的(ACM)","ambulatory (ACM)","89.50"
-587,3,"热稀释指示剂","thermodilution indicator","89.68"
-587,3,"特指技术 NEC","specified technique NEC","89.68"
-587,3,"心内血流动力学的","intracardiac or great vessel hemodynamic",""
-587,4,"传感器(导线)","sensor with lead","00.56"
-587,4,"传感器(无线线)","sensor without lead","38.26"
-587,4,"皮下装置","subcutaneous device","00.57"
-587,3,"氧消耗技术","oxygen consumption technique","89.67"
-587,3,"指示剂稀释技术","indicator dilution technique","89.68"
-587,3,"自动测量记录传导","telemetry (cardiac)","89.54"
-587,2,"循环的 NEC","circulatory NEC","89.69"
-587,2,"中心静脉压","central venous pressure","89.62"
-587,2,"自动测量记录传导(心的)","telemetry (cardiac)","89.54"
-587,1,"间隔切除术","Septectomy",""
-587,2,"心房(闭合的)","atrial (closed)","35.41"
-587,3,"经静脉方法(球囊)","transvenous method (balloon)","35.41"
-587,3,"开放","open","35.42"
-587,1,"黏膜下(鼻的)","submucous (nasal)","21.5"
-587,1,"间歇性正压呼吸(IPPB)","Intermittent positive pressure breathing (IPPB)","93.91"
-587,1,"间置术","Interposition operation",""
-587,2,"食管再建造术(胸内)(胸骨后 NEC)-另见吻合术,食管,伴,间置","esophageal reconstruction (intrathoracic) (retrosternal) NEC-see also Anastomosis, esophagus, with, interposition","42.58"
-587,2,"胸骨前或胸前 NEC-另见吻合术,食管,胸骨前,伴,间置","antesternal or antethoracic NEC-see also Anastomosis, esophagus, antesternal, with, interposition","42.68"
-587,2,"子宫悬吊术","uterine suspension","69.21"
-588,1,"腱成形术-见修补术,腱","Tendinoplasty, Tendoplasty, Tenontoplasty-see Repair, tendon",""
-588,1,"腱成形术-另见修补术,腱","Tenoplasty-see also Repair, tendon","83.88"
-588,2,"手-另见修补术,腱,手","hand-see also Repair, tendon, hand","82.86"
-588,1,"腱缝合术-另见缝合,腱","Tenorrhaphy-see also Suture, tendon","83.64"
-588,2,"手-另见缝合,腱,手","hand-see also Suture, tendon, hand","82.45"
-588,2,"与骨骼附着处","to skeletal attachment","83.88"
-588,3,"手","hand","82.85"
-588,1,"腱缝合术(即刻的)(原发的)-另见缝合,腱","Tendinosuture (immediate) (primary)-see also Suture, tendon","83.64"
-588,2,"手-另见缝合,腱,手","hand-see also Suture, tendon, hand","82.45"
-588,1,"腱固定术(腱固定至骨骼)","Tenodesis (tendon fixation to skeletal attachment)","83.88"
-588,2,"Fowler","Fowler","82.85"
-588,2,"手","hand","82.85"
-588,1,"腱肌成形术-见修补术,腱","Tenontomyoplasty-see Repair, tendon",""
-588,1,"腱肌成形术-另见修补术,腱","Tenomyoplasty-see also Repair, tendon","83.88"
-588,2,"手-另见修补术,腱,手","hand-see also Repair, tendon, hand","82.86"
-588,1,"腱肌切开术-见腱切除术","Tenomyotomy-see Tenonectomy",""
-588,1,"腱膜缝合术-另见缝合,腱","Aponeurorrhaphy-see also Suture, tendon","83.64"
-588,2,"手-另见缝合,腱,手","hand-see also Suture, tendon, hand","82.45"
-588,1,"腱膜切除术","Aponeurectomy, Tenosynovectomy","83.42"
-588,2,"手","hand","82.33"
-588,1,"腱膜切开术","Aponeurotomy","83.13"
-588,2,"手","hand","82.11"
-588,1,"腱切除术","Tenonectomy","83.42"
-588,2,"手","hand","82.33"
-588,3,"用于移植","for graft","82.32"
-588,2,"用于移植","for graft","83.41"
-588,3,"手","hand","82.32"
-588,1,"腱切断术","Tenotomy","83.13"
-588,2,"镫骨肌","stapedius","19.0"
-588,2,"跟腱","Achilles tendon","83.11"
-588,2,"鼓膜张肌","tensor tympani","19.0"
-588,2,"内收肌(髋)(皮下)","adductor (hip) (subcutaneous)","83.12"
-588,2,"手","hand","82.11"
-588,2,"提上睑肌","levator palpebrae","08.38"
-588,2,"胸小肌肌腱(胸出口减压)","pectoralis minor tendon (decompression thoracic outlet)","83.13"
-588,2,"眼","eye","15.12"
+page,level,chinese,english,code
+584,2,"心室","ventricular",37.35
+584,2,"心脏容量","heart volume",37.35
+584,2,"脂肪组织","adipose tissue",86.83
+584,1,"减压","Decompression",
+584,2,"仓","chamber",93.97
+584,2,"肠","intestine",96.08
+584,3,"经切开","by incision",45.00
+584,3,"内镜的(球囊)","endoscopic (balloon)",46.85
+584,2,"胆道","biliary tract",51.49
+584,2,"胆总管","common bile duct",51.42
+584,3,"经插管法","by intubation",51.43
+584,4,"经皮的","percutaneous",51.98
+584,4,"内镜的","endoscopic",51.87
+584,2,"跗管","tarsal tunnel",04.44
+584,2,"肛门(不通的)","anus (imperforate)",48.0
+584,2,"肌","muscle",83.02
+584,3,"手","hand",82.02
+584,2,"脊索(管)","spinal cord (canal)",03.09
+584,2,"腱(鞘)","tendon (sheath)",83.01
+584,3,"手","hand",82.01
+584,2,"结肠","colon",96.08
+584,3,"经切开","by incision",45.03
+584,3,"内镜的(球囊)","endoscopic (balloon)",46.85
+584,2,"眶-另见眶切开术","orbit-see also Orbitotomy",16.09
+584,2,"颅的","cranial",01.24
+584,3,"用于颅骨骨折","for skull fracture",02.02
+584,2,"颅骨骨折","skull fracture",02.02
+584,2,"颅内的","intracranial",01.24
+584,2,"马尾","cauda equina",03.09
+584,2,"迷路","labyrinth",20.79
+584,2,"脑","brain",01.24
+584,2,"内淋巴囊","endolymphatic sac",20.79
+584,2,"三叉(神经根)","trigeminal (nerve root)",04.41
+584,2,"神经(周围的) NEC","nerve (peripheral) NEC",04.49
+584,3,"耳的","auditory",04.42
+584,3,"颅的 NEC","cranial NEC",04.42
+584,3,"三叉(根)","trigeminal (root)",04.41
+584,3,"正中","median",04.43
+584,2,"神经节(周围) NEC","ganglion (peripheral) NEC",04.49
+584,3,"颅的 NEC","cranial NEC",04.42
+584,2,"腕管","carpal tunnel",04.43
+584,2,"胃的","gastric",96.07
+585,2,"心包","pericardium",37.0
+585,2,"心脏","heart",37.0
+585,2,"胸出口","thoracic outlet",
+585,3,"经","by",
+585,4,"肌切开术(前斜角肌切断)","myotomy (division of scalenus anticus muscle)",83.19
+585,4,"腱切断术","tenotomy",83.13
+585,2,"胰腺管","pancreatic duct",52.92
+585,3,"内镜的","endoscopic",52.93
+585,2,"正中神经","median nerve",04.43
+585,2,"直肠","rectum",48.0
+585,2,"椎板切除术","laminectomy",03.09
+585,2,"椎板切开术","laminotomy",03.09
+585,3,"经插管法","by intubation",51.43
+585,4,"经皮的","percutaneous",51.98
+585,4,"内镜的","endoscopic",51.87
+585,1,"监测","Monitoring",
+585,2,"BIS(双频指数)监测","BIS (bispectral index) monitoring",00.94[89.14]
+585,2,"IAEMT[手术中麻醉效果监测和滴定法]","IAEMT [intraoperative anesthetic effect monitoring and titration]",00.94[89.14]
+585,2,"动脉瘤囊内压力","intra-aneurysm sac pressure",00.58
+585,2,"肺动脉","pulmonary artery",
+585,3,"楔形","wedge",89.64
+585,3,"压力","pressure",89.63
+585,2,"冠状血流(重合计数技术)","coronary blood flow (coincidence counting technique)",89.69
+585,3,"血管内压力测量","intravascular pressure measurement",00.59
+585,3,"血流储备分数(FFR)","fractional flow reserve (FFR)",00.59
+585,2,"霍尔特尔型装置(心的)","Holter-type device (cardiac)",89.50
+585,2,"经食管心的排血量(多普勒)","transesophageal cardiac output (Doppler)",89.68
+585,2,"连续性动脉内血气","continuous intra-arterial blood gas",89.60
+585,2,"颅内压","intracranial pressure",01.10
+585,2,"颅内氧","intracranial oxygen",01.16
+585,2,"脑电图","electroencephalographic",89.19
+585,3,"电波遥测","radio-telemetered",89.19
+585,3,"视频的","video",89.19
+585,3,"手术中","intraoperative",00.94
+585,2,"脑温度","brain temperature",01.17
+586,2,"脑组织氧分压(PbtO₂)","partial pressure of brain oxygen (PbtO₂)",01.16
+586,2,"神经生理的","neurophysiologic",
+586,3,"手术中的","intra-operative",00.94
+586,2,"肾的","renal",00.69
+586,2,"手术中","intraoperative",
+586,3,"肠系膜的","mesenteric",00.69
+586,3,"腹腔内","intra-abdominal",00.69
+586,3,"冠状动脉","coronary",00.59
+586,3,"麻醉效果监测和滴定法(IAEMT)","anesthetic effect monitoring and titration (IAEMT)",00.94[89.14]
+586,3,"髂的","iliac",00.69
+586,3,"神经生理学(BAEP 脑干听觉诱发电位)(EEG 脑电图)(EMG 肌电图)(MEP 运动诱发电位)(神经传导检测)(SSEP 体感诱发电位)(经颅多普勒)","neurophysiologic (BAEP) (EEG) (electromyogram) (EMG) (MEP) (nerve conduction study) (somatosensory evoked potentials) (SSEP) (transcranial Doppler)",00.94
+586,3,"胸腔内","intrathoracic",00.67
+586,4,"颈动脉的","carotid",00.67
+586,4,"主动脉","aorta",00.67
+586,4,"主动脉弓","aortic arch",00.67
+586,3,"血管内压力","intravascular pressure",00.69
+586,3,"周围的","peripheral",00.68
+586,2,"睡眠(记录)-见细目","sleep (recording)-see categories",89.17
+586,2,"胎儿(胎心)","fetus (fetal heart)",
+586,3,"产间(分娩时)(子宫外)(外部)","intrapartum (during labor) (extrauterine) (external)",75.34
+586,4,"宫内(直接)(ECG)","intrauterine (direct) (ECG)",75.32
+586,4,"经子宫颈胎儿 SpO₂ 监测","transcervical fetal SpO₂ monitoring",75.38
+586,4,"经子宫颈胎儿氧饱和度监测","transcervical fetal oxygen saturation monitoring",75.38
+586,4,"脉冲超声(多普勒)","pulsed ultrasound (Doppler)",88.78
+586,4,"内的(伴宫缩测验)(ECG)","internal (with contraction measurements) (ECG)",75.32
+586,4,"听诊的(听诊)-省略编码","ausculatory (stethoscopy)-omit code",
+586,4,"心音描记法的(子宫外)","phonocardiographic (extrauterine)",75.34
+586,3,"产前","antepartum",
+586,4,"超声波检查(早期妊娠)(多普勒)","ultrasonography (early pregnancy) (Doppler)",88.78
+587,4,"催产素激惹(宫缩应激测验)","oxytocin challenge (contraction stress test)",75.35
+587,4,"无激惹(胎儿活动加速试验)","nonstress (fetal activity acceleration determinations)",75.34
+587,2,"体动脉压","systemic arterial pressure",89.61
+587,3,"动脉瘤囊内压力","intra-aneurysm sac pressure",00.58
+587,2,"心室压(心的)","ventricular pressure (cardiac)",89.62
+587,2,"心排血量(经)","cardiac output (by)",
+587,3,"Fick 方法","Fick method",89.67
+587,3,"电图","electrographic",89.54
+587,4,"手术期间-省略编码","during surgery-omit code",
+587,3,"霍尔特尔型装置","Holter-type device",89.50
+587,3,"经食管(多普勒)(超声)","transesophageal (Doppler) (ultrasound)",89.68
+587,3,"流动的(ACM)","ambulatory (ACM)",89.50
+587,3,"热稀释指示剂","thermodilution indicator",89.68
+587,3,"特指技术 NEC","specified technique NEC",89.68
+587,3,"心内血流动力学的","intracardiac or great vessel hemodynamic",
+587,4,"传感器(导线)","sensor with lead",00.56
+587,4,"传感器(无线线)","sensor without lead",38.26
+587,4,"皮下装置","subcutaneous device",00.57
+587,3,"氧消耗技术","oxygen consumption technique",89.67
+587,3,"指示剂稀释技术","indicator dilution technique",89.68
+587,3,"自动测量记录传导","telemetry (cardiac)",89.54
+587,2,"循环的 NEC","circulatory NEC",89.69
+587,2,"中心静脉压","central venous pressure",89.62
+587,2,"自动测量记录传导(心的)","telemetry (cardiac)",89.54
+587,1,"间隔切除术","Septectomy",
+587,2,"心房(闭合的)","atrial (closed)",35.41
+587,3,"经静脉方法(球囊)","transvenous method (balloon)",35.41
+587,3,"开放","open",35.42
+587,2,"黏膜下(鼻的)","submucous (nasal)",21.5
+587,1,"间歇性正压呼吸(IPPB)","Intermittent positive pressure breathing (IPPB)",93.91
+587,1,"间置术","Interposition operation",
+587,2,"食管再建造术(胸内)(胸骨后 NEC)-另见吻合术,食管,伴,间置","esophageal reconstruction (intrathoracic) (retrosternal) NEC-see also Anastomosis, esophagus, with, interposition",42.58
+587,2,"胸骨前或胸前 NEC-另见吻合术,食管,胸骨前,伴,间置","antesternal or antethoracic NEC-see also Anastomosis, esophagus, antesternal, with, interposition",42.68
+587,2,"子宫悬吊术","uterine suspension",69.21
+588,1,"腱成形术-见修补术,腱","Tendinoplasty, Tendoplasty, Tenontoplasty-see Repair, tendon",
+588,1,"腱成形术-另见修补术,腱","Tenoplasty-see also Repair, tendon",83.88
+588,2,"手-另见修补术,腱,手","hand-see also Repair, tendon, hand",82.86
+588,1,"腱缝合术-另见缝合,腱","Tenorrhaphy-see also Suture, tendon",83.64
+588,2,"手-另见缝合,腱,手","hand-see also Suture, tendon, hand",82.45
+588,2,"与骨骼附着处","to skeletal attachment",83.88
+588,3,"手","hand",82.85
+588,1,"腱缝合术(即刻的)(原发的)-另见缝合,腱","Tendinosuture (immediate) (primary)-see also Suture, tendon",83.64
+588,2,"手-另见缝合,腱,手","hand-see also Suture, tendon, hand",82.45
+588,1,"腱固定术(腱固定至骨骼)","Tenodesis (tendon fixation to skeletal attachment)",83.88
+588,2,"Fowler","Fowler",82.85
+588,2,"手","hand",82.85
+588,1,"腱肌成形术-见修补术,腱","Tenontomyoplasty-see Repair, tendon",
+588,1,"腱肌成形术-另见修补术,腱","Tenomyoplasty-see also Repair, tendon",83.88
+588,2,"手-另见修补术,腱,手","hand-see also Repair, tendon, hand",82.86
+588,1,"腱肌切开术-见腱切除术","Tenomyotomy-see Tenonectomy",
+588,1,"腱膜缝合术-另见缝合,腱","Aponeurorrhaphy-see also Suture, tendon",83.64
+588,2,"手-另见缝合,腱,手","hand-see also Suture, tendon, hand",82.45
+588,1,"腱膜切除术","Aponeurectomy, Tenosynovectomy",83.42
+588,2,"手","hand",82.33
+588,1,"腱膜切开术","Aponeurotomy",83.13
+588,2,"手","hand",82.11
+588,1,"腱切除术","Tenonectomy",83.42
+588,2,"手","hand",82.33
+588,3,"用于移植","for graft",82.32
+588,2,"用于移植","for graft",83.41
+588,3,"手","hand",82.32
+588,1,"腱切断术","Tenotomy",83.13
+588,2,"镫骨肌","stapedius",19.0
+588,2,"跟腱","Achilles tendon",83.11
+588,2,"鼓膜张肌","tensor tympani",19.0
+588,2,"内收肌(髋)(皮下)","adductor (hip) (subcutaneous)",83.12
+588,2,"手","hand",82.11
+588,2,"提上睑肌","levator palpebrae",08.38
+588,2,"胸小肌肌腱(胸出口减压)","pectoralis minor tendon (decompression thoracic outlet)",83.13
+588,2,"眼","eye",15.12
