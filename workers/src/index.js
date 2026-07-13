@@ -382,7 +382,7 @@ async function getPdfManifest(env) {
   if (!pdfManifestPromise) {
     pdfManifestPromise = env.ASSETS.fetch(new Request(PDF_MANIFEST_URL)).then(async (response) => {
       if (!response.ok) {
-        return { available: false, total_size: 0, chunk_size: 0, chunks: [] };
+        return { available: false, storage: "r2", key: TABULAR_PDF_KEY, total_size: 0 };
       }
       return response.json();
     });
@@ -658,12 +658,13 @@ async function handleTabularPdf(request, env) {
     return new Response("Tabular PDF not found", { status: 404 });
   }
 
-  const objectInfo = await env.TABULAR_PDF.head(TABULAR_PDF_KEY);
-  if (!objectInfo) {
+  const pdfManifest = await getPdfManifest(env);
+  const pdfKey = normalizeText(pdfManifest.key) || TABULAR_PDF_KEY;
+  const totalSize = parseIntSafe(pdfManifest.total_size, 0);
+  if (!pdfManifest.available || totalSize <= 0) {
     return new Response("Tabular PDF not found", { status: 404 });
   }
 
-  const totalSize = parseIntSafe(objectInfo.size, 0);
   const rangeHeader = request.headers.get("range") || "";
   const parsedRange = parseRangeHeader(rangeHeader, totalSize);
   if (parsedRange && !parsedRange.valid) {
@@ -671,13 +672,13 @@ async function handleTabularPdf(request, env) {
   }
 
   const object = parsedRange
-    ? await env.TABULAR_PDF.get(TABULAR_PDF_KEY, {
+    ? await env.TABULAR_PDF.get(pdfKey, {
         range: {
           offset: parsedRange.start,
           length: parsedRange.end - parsedRange.start + 1,
         },
       })
-    : await env.TABULAR_PDF.get(TABULAR_PDF_KEY);
+    : await env.TABULAR_PDF.get(pdfKey);
 
   if (!object || !object.body) {
     return new Response("Tabular PDF not found", { status: 404 });
