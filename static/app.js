@@ -95,7 +95,9 @@ async function showTabularPageForCode(code) {
         const titleEn = sanitize(row.title_en || "");
         const rowCode = sanitize(row.code || "");
         const rowType = sanitize(row.row_type || "");
-        return `<li><strong>${rowCode}</strong> · 页 ${row.page} · ${rowType} ${titleZh}${titleZh && titleEn ? " / " : ""}${titleEn}</li>`;
+        const titleText = [titleZh, titleEn].filter(Boolean).join(titleZh && titleEn ? " / " : "");
+        const label = titleText || rowType || "条目";
+        return `<li><strong>${rowCode}</strong> · 页 ${row.page} · ${label}</li>`;
       })
       .join("");
 

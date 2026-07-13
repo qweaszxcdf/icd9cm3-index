@@ -1,0 +1,16 @@
+{
+  "name": "icd9cm3-index-worker",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python3 scripts/build.py",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "r2:create": "wrangler r2 bucket create icd9cm3-index-pdf",
+    "r2:upload-pdf": "wrangler r2 object put icd9cm3-index-pdf/target.pdf --file ../target.pdf --content-type application/pdf --remote",
+    "r2:upload-pdf:local": "wrangler r2 object put icd9cm3-index-pdf/target.pdf --file ../target.pdf --content-type application/pdf --local"
+  },
+  "devDependencies": {
+    "wrangler": "^4.0.0"
+  }
+}

@@ -27,10 +27,12 @@ This repository is intended to share and collaborate on the electronic ICD-9-CM-
 ## Files
 
 - `proofreading_app.py` — main Streamlit proofreading app.
-- `search_app.py` — independent Streamlit ICD 索引检索系统。
+- `web_app.py` — Flask ICD index search/browse web app.
+- `workers/` — Cloudflare Worker version of the read-only web app.
 - `requirements-proofreading.txt` — Python dependencies for the proofreading app.
-- `requirements-search.txt` — Python dependencies for the search app.
+- `requirements-web.txt` — Python dependencies for the Flask web app.
 - `icd-index-extraction-*.csv` — original extracted CSVs.
+- `data/tabular_code_page_map.csv` — tabular code-to-PDF page map.
 - `target.pdf` — optional PDF source file (ignored from Git).
 - `target_pages/` — page image assets used for preview.
 - `.gitignore` — ignores generated assets and editor/cache files.
@@ -84,16 +86,62 @@ pip install -r requirements-web.txt
 
 Then open `http://localhost:8000` in your browser.
 
+## Cloudflare Deployment
+
+The Cloudflare-ready version lives under `workers/` and serves the same read-only search and browse UI through a Worker with static assets.
+
+The Worker uses:
+
+- Workers Assets for the generated HTML, CSS, JS, and JSON search dataset.
+- R2 bucket `icd9cm3-index-pdf` for `target.pdf`.
+- Worker cache enabled in `wrangler.jsonc`.
+- API response caching by full request URL for 1 day.
+- PDF response caching for 7 days while preserving byte-range requests.
+
+```bash
+cd workers
+npm install
+npm run build
+npx wrangler dev
+```
+
+Then open the Wrangler local URL in your browser.
+
+For local PDF testing, seed Wrangler's local R2 bucket:
+
+```bash
+cd workers
+npm run r2:upload-pdf:local
+```
+
+To deploy:
+
+```bash
+cd workers
+npm run build
+npm run r2:create
+npm run r2:upload-pdf
+npm run deploy
+```
+
+If the R2 bucket already exists, `npm run r2:create` can be skipped.
+
+The build step packages the CSV sources into `workers/public/data/dataset.json`, writes `workers/public/data/pdf-manifest.json`, and copies the UI assets into `workers/public/` so the Worker can run without Flask or pandas at runtime. `workers/public/` is generated output and should not be committed.
+
+Routes and custom domains are intentionally not documented here. Keep route details in the Cloudflare Dashboard or in a private local Wrangler config, not in committed files.
+
 ## Notes
 
 - The app uses page images from `target_pages/` rather than embedding the PDF directly.
 - The images in `target_pages/` were extracted from the PDF through a separate preprocessing step.
-- `.gitignore` excludes `target.pdf`, the `target_pages/` folder, `.vscode/`, `__pycache__/`, and `.DS_Store`.
+- The Cloudflare Worker serves the tabular PDF from R2 at `/tabular-pdf`.
+- `.gitignore` excludes local/generated artifacts such as `.venv/`, `node_modules/`, `.wrangler/`, `workers/public/`, `target.pdf`, and `target_pages/`.
 - Edits are persisted directly into the original `icd-index-extraction-*.csv` files.
 
 ## 说明
 
 - 应用使用 `target_pages/` 中的页面图像，而不是直接嵌入 PDF。
 - `target_pages/` 中的图像来自对 PDF 的独立提取处理。
-- `.gitignore` 忽略了 `target.pdf`、`target_pages/` 文件夹、`.vscode/`、`__pycache__/` 和 `.DS_Store`。
+- Cloudflare Worker 版本通过 R2 在 `/tabular-pdf` 提供类目表 PDF。
+- `.gitignore` 忽略 `.venv/`、`node_modules/`、`.wrangler/`、`workers/public/`、`target.pdf`、`target_pages/` 等本地或生成文件。
 - 编辑结果会直接保存到原始 `icd-index-extraction-*.csv` 文件中。
