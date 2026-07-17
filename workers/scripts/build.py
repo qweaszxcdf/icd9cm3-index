@@ -18,6 +18,11 @@ TABULAR_PAGE_MIN = 21
 TABULAR_PAGE_MAX = 415
 TABULAR_PDF_KEY = "target.pdf"
 
+# Compact row layout consumed by workers/src/index.js:
+# page, level, chinese, english, code, source_file_index, search_blob,
+# normalized_code, parent_index, subtree_end
+ROW_SUBTREE_END = 9
+
 
 def normalize_row(raw_row: list[str]) -> list[str]:
     row = [str(value).strip() for value in raw_row]
@@ -54,8 +59,8 @@ def copy_tree(source: Path, destination: Path) -> None:
         shutil.copy2(source, destination)
 
 
-def build_dataset() -> dict[str, object]:
-    rows: list[dict[str, object]] = []
+def build_dataset() -> tuple[dict[str, object], dict[str, object]]:
+    raw_rows: list[dict[str, object]] = []
 
     for path in sorted(ROOT_DIR.glob("icd-index-extraction-*.csv")):
         with path.open("r", encoding="utf-8", newline="") as fp:
@@ -75,7 +80,7 @@ def build_dataset() -> dict[str, object]:
                 chinese = row[2].strip()
                 english = row[3].strip()
                 code = row[4].strip()
-                rows.append(
+                raw_rows.append(
                     {
                         "page": page,
                         "level": parse_int(row[1], 0),
@@ -83,15 +88,48 @@ def build_dataset() -> dict[str, object]:
                         "english": english,
                         "code": code,
                         "_source_file": path.name,
-                        "_source_line": line_no,
-                        "_chinese_lower": chinese.lower(),
-                        "_english_lower": english.lower(),
                         "_code_lower": normalize_code(code),
                         "_search_blob": " ".join(
                             part for part in [chinese.lower(), english.lower(), normalize_code(code)] if part
                         ).strip(),
                     }
                 )
+
+    source_files = sorted({str(row["_source_file"]) for row in raw_rows})
+    source_file_indices = {name: index for index, name in enumerate(source_files)}
+    rows: list[list[object]] = []
+    stack: list[int] = []
+
+    for row in raw_rows:
+        level = parse_int(row["level"], 0)
+        while stack and parse_int(rows[stack[-1]][1], 0) >= level:
+            rows[stack.pop()][ROW_SUBTREE_END] = len(rows)
+
+        parent_index = stack[-1] if stack else -1
+        rows.append(
+            [
+                row["page"],
+                level,
+                row["chinese"],
+                row["english"],
+                row["code"],
+                source_file_indices[str(row["_source_file"])],
+                row["_search_blob"],
+                row["_code_lower"],
+                parent_index,
+                -1,
+            ]
+        )
+        stack.append(len(rows) - 1)
+
+    while stack:
+        rows[stack.pop()][ROW_SUBTREE_END] = len(rows)
+
+    code_index: dict[str, list[int]] = {}
+    for index, row in enumerate(rows):
+        code_norm = str(row[7])
+        if code_norm:
+            code_index.setdefault(code_norm, []).append(index)
 
     tabular_rows: list[dict[str, object]] = []
     tabular_path = ROOT_DIR / "data" / "tabular_code_page_map.csv"
@@ -113,14 +151,31 @@ def build_dataset() -> dict[str, object]:
                     }
                 )
 
-    return {
+    dataset = {
         "meta": {
             "row_count": len(rows),
-            "tabular_row_count": len(tabular_rows),
+            "row_schema": [
+                "page",
+                "level",
+                "chinese",
+                "english",
+                "code",
+                "source_file_index",
+                "search_blob",
+                "normalized_code",
+                "parent_index",
+                "subtree_end",
+            ],
         },
+        "source_files": source_files,
         "rows": rows,
-        "tabular": tabular_rows,
+        "code_index": code_index,
     }
+    tabular_dataset = {
+        "meta": {"row_count": len(tabular_rows)},
+        "rows": tabular_rows,
+    }
+    return dataset, tabular_dataset
 
 
 def main() -> None:
@@ -133,8 +188,11 @@ def main() -> None:
     copy_tree(ROOT_DIR / "templates" / "index.html", PUBLIC_DIR / "index.html")
     copy_tree(ROOT_DIR / "static", STATIC_DIR)
 
-    dataset = build_dataset()
+    dataset, tabular_dataset = build_dataset()
     (DATA_DIR / "dataset.json").write_text(json.dumps(dataset, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    (DATA_DIR / "tabular.json").write_text(
+        json.dumps(tabular_dataset, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
+    )
 
     pdf_path = ROOT_DIR / "target.pdf"
     pdf_manifest = {

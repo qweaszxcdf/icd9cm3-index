@@ -25,6 +25,22 @@ function sanitize(text) {
   return div.innerHTML;
 }
 
+function extractNodeReferences(node) {
+  const references = [];
+  const chinesePattern = /(?:[-（(]?\s*)(另见|见)\s*([^；;\n]+)/gi;
+  const englishPattern = /\b(see also|see)\s+([^;\n]+)/gi;
+
+  for (const match of String(node.chinese || "").matchAll(chinesePattern)) {
+    const target = match[2].trim();
+    if (target) references.push({ kind: match[1], target });
+  }
+  for (const match of String(node.english || "").matchAll(englishPattern)) {
+    const target = match[2].trim();
+    if (target) references.push({ kind: match[1].toLowerCase(), target });
+  }
+  return references;
+}
+
 function createRefAnchor(target) {
   const a = document.createElement('a');
   a.href = '#';
@@ -216,8 +232,9 @@ function renderNode(node, asPath = false) {
   details.className = "node-details";
   details.innerHTML = "";
 
-  if (node.references && node.references.length) {
-    const refs = node.references.filter((r) => {
+  const nodeReferences = Array.isArray(node.references) ? node.references : extractNodeReferences(node);
+  if (nodeReferences.length) {
+    const refs = nodeReferences.filter((r) => {
       const kl = (r.kind || '').toLowerCase();
       const tgt = (r.target || '').trim();
       return tgt && (kl.includes('见') || kl.includes('see')) && !(tgt.includes('亚目') || tgt.toLowerCase().includes('subcategory'));

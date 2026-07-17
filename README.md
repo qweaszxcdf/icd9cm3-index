@@ -88,14 +88,14 @@ Then open `http://localhost:8000` in your browser.
 
 ## Cloudflare Deployment
 
-The Cloudflare-ready version lives under `workers/` and serves the same read-only search and browse UI through a Worker with static assets.
+The Cloudflare-ready version lives under `workers/` and serves the read-only search and browse UI through a Worker with static assets. Its runtime data layout is optimized independently from the Flask app.
 
 The Worker uses:
 
 - Workers Assets for the generated HTML, CSS, JS, and JSON search dataset.
 - R2 bucket `icd9cm3-index-pdf` for `target.pdf`.
 - Worker cache enabled in `wrangler.jsonc`.
-- API response caching by full request URL for 1 day.
+- Workers Caching for successful API responses by full request URL for 1 day.
 - PDF response caching for 7 days while preserving byte-range requests.
 
 ```bash
@@ -126,7 +126,7 @@ npm run deploy
 
 If the R2 bucket already exists, `npm run r2:create` can be skipped.
 
-The build step packages the CSV sources into `workers/public/data/dataset.json`, writes `workers/public/data/pdf-manifest.json`, and copies the UI assets into `workers/public/` so the Worker can run without Flask or pandas at runtime. `workers/public/` is generated output and should not be committed.
+The build step packages the CSV sources into a compact `workers/public/data/dataset.json`, writes the small tabular lookup to `workers/public/data/tabular.json`, writes `workers/public/data/pdf-manifest.json`, and copies the UI assets into `workers/public/` so the Worker can run without Flask or pandas at runtime. Search responses still include every match; hierarchy metadata and code indexes are prepared during the build to reduce Worker CPU time. `workers/public/` is generated output and should not be committed.
 
 Routes and custom domains are intentionally not documented here. Keep route details in the Cloudflare Dashboard or in a private local Wrangler config, not in committed files.
 

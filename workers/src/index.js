@@ -1,5 +1,7 @@
-const DATASET_PATH = "/data/dataset.json";
-const PDF_MANIFEST_PATH = "/data/pdf-manifest.json";
+import searchDataset from "../public/data/dataset.json";
+import tabularDataset from "../public/data/tabular.json";
+import pdfManifestData from "../public/data/pdf-manifest.json";
+
 const DATA_COLUMNS = ["page", "level", "chinese", "english", "code"];
 const TABULAR_PAGE_MIN = 21;
 const TABULAR_PAGE_MAX = 415;
@@ -7,8 +9,16 @@ const TABULAR_PDF_KEY = "target.pdf";
 const API_CACHE_SECONDS = 24 * 60 * 60;
 const PDF_CACHE_SECONDS = 7 * 24 * 60 * 60;
 
-let datasetPromise = null;
-let pdfManifestPromise = null;
+const ROW_PAGE = 0;
+const ROW_LEVEL = 1;
+const ROW_CHINESE = 2;
+const ROW_ENGLISH = 3;
+const ROW_CODE = 4;
+const ROW_SOURCE_FILE = 5;
+const ROW_SEARCH_BLOB = 6;
+const ROW_CODE_NORM = 7;
+const ROW_PARENT = 8;
+const ROW_SUBTREE_END = 9;
 
 function normalizeText(value) {
   if (value === null || value === undefined) return "";
@@ -51,93 +61,34 @@ function compareText(left, right) {
   return 0;
 }
 
-function extractReferences(text, language) {
-  if (!text) return [];
-  const refs = [];
-  if (language === "zh") {
-    const pattern = /(?:[-（(]?\s*)(另见|见)\s*([^；;\n]+)/gi;
-    for (const match of text.matchAll(pattern)) {
-      const target = match[2].trim();
-      if (target) refs.push({ kind: match[1], target });
-    }
-  } else {
-    const pattern = /\b(see also|see)\s+([^;\n]+)/gi;
-    for (const match of text.matchAll(pattern)) {
-      const target = match[2].trim();
-      if (target) refs.push({ kind: match[1].toLowerCase(), target });
-    }
-  }
-  return refs;
-}
-
-function getRowId(row) {
-  return `${parseIntSafe(row.page, 0)}-${parseIntSafe(row.level, 0)}-${normalizeText(row._source_file)}-${parseIntSafe(row._source_line, 0)}`;
-}
-
 function hasPdfBucket(env) {
   return Boolean(env && env.TABULAR_PDF);
 }
 
-function rowToJson(row, matched = false, hasChildren = false) {
-  const chinese = normalizeText(row.chinese);
-  const english = normalizeText(row.english);
+function rowToJson(dataset, index, matched = false) {
+  const row = dataset.rows[index];
+  const chinese = normalizeText(row[ROW_CHINESE]);
+  const english = normalizeText(row[ROW_ENGLISH]);
   return {
-    id: getRowId(row),
-    page: parseIntSafe(row.page, 0),
-    level: parseIntSafe(row.level, 0),
-    code: normalizeText(row.code),
+    id: `r${index}`,
+    page: row[ROW_PAGE],
+    level: row[ROW_LEVEL],
+    code: normalizeText(row[ROW_CODE]),
     chinese,
     english,
-    source_file: normalizeText(row._source_file),
-    source_line: parseIntSafe(row._source_line, 0),
-    references: extractReferences(chinese, "zh").concat(extractReferences(english, "en")),
     matched,
-    has_children: hasChildren,
+    has_children: row[ROW_SUBTREE_END] > index + 1,
   };
 }
 
-function hasDescendants(index, allRows) {
-  if (index + 1 >= allRows.length) return false;
-  return parseIntSafe(allRows[index + 1].level, 0) > parseIntSafe(allRows[index].level, 0);
-}
-
-function hasDescendantsFromLevels(index, levels) {
-  if (index + 1 >= levels.length) return false;
-  return parseIntSafe(levels[index + 1], 0) > parseIntSafe(levels[index], 0);
-}
-
 function buildHierarchy(rows) {
-  const ordered = [...rows].sort((left, right) => {
-    const pageDelta = parseIntSafe(left.page, 0) - parseIntSafe(right.page, 0);
-    if (pageDelta !== 0) return pageDelta;
-    const sourceFileDelta = compareText(left.source_file, right.source_file);
-    if (sourceFileDelta !== 0) return sourceFileDelta;
-    return parseIntSafe(left.source_line, 0) - parseIntSafe(right.source_line, 0);
-  });
-
   const tree = [];
   const stack = [];
 
-  for (const node of ordered) {
-    let level = parseIntSafe(node.level, 0);
-    if (level < 0) level = 0;
-
-    node.level = level;
-    node.id ||= `${node.page ?? 0}-${level}-${node.source_file ?? ""}-${node.source_line ?? 0}`;
-    node.page ||= 0;
-    node.code ||= "";
-    node.chinese ||= "";
-    node.english ||= "";
-    node.source_file ||= "";
-    node.source_line ||= 0;
-    if (!node.references) {
-      node.references = extractReferences(normalizeText(node.chinese), "zh").concat(extractReferences(normalizeText(node.english), "en"));
-    }
-    node.has_children = Boolean(node.has_children);
-    node.matched = Boolean(node.matched);
+  for (const node of rows) {
     node.children = [];
 
-    while (stack.length && stack[stack.length - 1].level >= level) {
+    while (stack.length && stack[stack.length - 1].level >= node.level) {
       stack.pop();
     }
 
@@ -153,252 +104,128 @@ function buildHierarchy(rows) {
   return tree;
 }
 
-function uniqueRows(rows) {
-  const seen = new Set();
-  const unique = [];
-  for (const row of rows) {
-    const id = getRowId(row);
-    if (seen.has(id)) continue;
-    seen.add(id);
-    unique.push(row);
-  }
-  return unique;
-}
-
-function buildRowIndexMap(rows) {
-  const rowIndexMap = new Map();
-  rows.forEach((row, index) => rowIndexMap.set(row, index));
-  return rowIndexMap;
-}
-
-function collectRelevantRows(results, allRows, rowIndexMap = buildRowIndexMap(allRows)) {
-  const matchedIndices = new Set(results.map((row) => rowIndexMap.get(row)).filter((index) => index !== undefined));
+function collectRelevantRows(dataset, resultIndices, markMatches = true) {
+  const matchedIndices = new Set(resultIndices);
   if (!matchedIndices.size) return [];
 
-  const ancestorIndices = new Set();
-  const levels = allRows.map((row) => row.level);
-
-  for (const rowIndex of matchedIndices) {
-    let currentLevel = parseIntSafe(levels[rowIndex], 0);
-    let searchIndex = rowIndex;
-    while (searchIndex > 0 && currentLevel > 0) {
-      searchIndex -= 1;
-      const priorLevel = parseIntSafe(levels[searchIndex], 0);
-      if (priorLevel < currentLevel) {
-        if (priorLevel > 0) {
-          ancestorIndices.add(searchIndex);
-        }
-        currentLevel = priorLevel;
-      }
+  const includedIndices = new Set();
+  for (const resultIndex of matchedIndices) {
+    let index = resultIndex;
+    while (index >= 0) {
+      if (dataset.rows[index][ROW_LEVEL] > 0) includedIndices.add(index);
+      index = dataset.rows[index][ROW_PARENT];
     }
   }
 
-  return [...matchedIndices, ...ancestorIndices]
+  return [...includedIndices]
     .sort((left, right) => left - right)
-    .map((index) => rowToJson(allRows[index], matchedIndices.has(index), hasDescendantsFromLevels(index, levels)))
-    .filter((row, index, array) => array.findIndex((candidate) => candidate.id === row.id) === index);
+    .map((index) => rowToJson(dataset, index, markMatches && matchedIndices.has(index)));
 }
 
-function rowMatchesTarget(row, targetLower, strictPrefix = false) {
-  for (const key of ["english", "chinese"]) {
-    const text = normalizeText(row[key]).toLowerCase();
-    if (!text) continue;
-    if (strictPrefix) {
-      if (text === targetLower) return true;
-      if (text.startsWith(targetLower)) {
-        const remainder = text.slice(targetLower.length);
-        if (remainder && [" ", ",", "-", "/", "(", ")", "—"].includes(remainder[0])) {
-          return true;
-        }
-      }
-    } else if (text === targetLower || text.startsWith(targetLower) || text.includes(targetLower)) {
-      return true;
-    }
-  }
-  return false;
+function rowMatchesFilters(dataset, row, pageMin, pageMax, levelMin, levelMax, fileFilters) {
+  if (pageMin !== null && row[ROW_PAGE] < pageMin) return false;
+  if (pageMax !== null && row[ROW_PAGE] > pageMax) return false;
+  if (levelMin !== null && row[ROW_LEVEL] < levelMin) return false;
+  if (levelMax !== null && row[ROW_LEVEL] > levelMax) return false;
+  if (fileFilters.length && !fileFilters.includes(dataset.source_files[row[ROW_SOURCE_FILE]])) return false;
+  return true;
 }
 
-function findOrderedTargetRows(rows, parts) {
-  const scored = [];
-  rows.forEach((row, index) => {
-    const english = normalizeText(row.english).toLowerCase();
-    const chinese = normalizeText(row.chinese).toLowerCase();
-    const combined = [english, chinese].filter(Boolean).join(" / ");
-    let cursor = 0;
-    let ok = true;
-    const positions = [];
-
-    for (const part of parts) {
-      const pos = combined.indexOf(part, cursor);
-      if (pos === -1) {
-        ok = false;
-        break;
-      }
-      positions.push(pos);
-      cursor = pos + part.length;
-    }
-
-    if (!ok) return;
-
-    let score = 0;
-    let seeIndex = combined.indexOf(" see ");
-    if (seeIndex === -1) seeIndex = combined.indexOf(" see also ");
-    if (seeIndex === -1) seeIndex = combined.length;
-
-    const finalPos = positions[positions.length - 1];
-    if (finalPos < seeIndex) score += 100;
-    if (finalPos === 0) score += 50;
-    if (combined.startsWith(parts[0])) score += 30;
-    if (combined.startsWith(parts[parts.length - 1])) score += 20;
-    if (finalPos <= combined.indexOf(parts[0]) + parts[0].length + 20) score += 10;
-
-    scored.push([score, index]);
-  });
-
-  if (!scored.length) return rows.slice(0, 0);
-  scored.sort((left, right) => right[0] - left[0] || left[1] - right[1]);
-  return [rows[scored[0][1]]];
-}
-
-function findHierarchicalTargetRows(rows, parts) {
-  if (!parts.length) return rows.slice(0, 0);
-
-  for (let index = 0; index < rows.length; index += 1) {
-    if (!rowMatchesTarget(rows[index], parts[0], true)) continue;
-
-    let currentIndex = index;
-    let success = true;
-    for (const part of parts.slice(1)) {
-      const targetLower = part.toLowerCase();
-      const startLevel = parseIntSafe(rows[currentIndex].level, 0);
-      let foundIndex = null;
-      let cursor = currentIndex;
-      while (cursor + 1 < rows.length) {
-        cursor += 1;
-        const nextLevel = parseIntSafe(rows[cursor].level, 0);
-        if (nextLevel <= startLevel) break;
-        if (rowMatchesTarget(rows[cursor], targetLower)) {
-          foundIndex = cursor;
-          break;
-        }
-      }
-
-      if (foundIndex === null) {
-        if (rowMatchesTarget(rows[currentIndex], targetLower)) continue;
-        success = false;
-        break;
-      }
-      currentIndex = foundIndex;
-    }
-
-    if (success) return [rows[currentIndex]];
+function rowSearchText(row, fields) {
+  if (fields.length === DATA_COLUMNS.length && fields.every((field, index) => field === DATA_COLUMNS[index])) {
+    return row[ROW_SEARCH_BLOB];
   }
 
-  return rows.slice(0, 0);
+  const values = [];
+  for (const field of fields) {
+    if (field === "page") values.push(String(row[ROW_PAGE]));
+    else if (field === "level") values.push(String(row[ROW_LEVEL]));
+    else if (field === "chinese") values.push(normalizeText(row[ROW_CHINESE]).toLowerCase());
+    else if (field === "english") values.push(normalizeText(row[ROW_ENGLISH]).toLowerCase());
+    else if (field === "code") values.push(row[ROW_CODE_NORM]);
+  }
+  return values.join(" ");
 }
 
-function filterRows(rows, pageMin, pageMax, levelMin, levelMax, fileFilters) {
-  return rows.filter((row) => {
-    const page = parseIntSafe(row.page, -1);
-    const level = parseIntSafe(row.level, -1);
-    if (pageMin !== null && page < pageMin) return false;
-    if (pageMax !== null && page > pageMax) return false;
-    if (levelMin !== null && level < levelMin) return false;
-    if (levelMax !== null && level > levelMax) return false;
-    if (fileFilters.length && !fileFilters.includes(row._source_file)) return false;
-    return true;
-  });
+function rowMatchesSearch(row, queryLower, mode, fields, isCodeQuery = false) {
+  if (!queryLower) return false;
+  if (isCodeQuery || mode === "code") return row[ROW_CODE_NORM].startsWith(normalizeCode(queryLower));
+
+  const text = rowSearchText(row, fields);
+  if (mode === "any") {
+    const tokens = queryLower.split(/\s+/).filter(Boolean);
+    return tokens.some((token) => text.includes(token));
+  }
+  return text.includes(queryLower);
 }
 
-function searchRows(rows, query, mode, fields) {
+function searchRows(dataset, query, mode, fields, filters) {
+  const rows = dataset.rows;
   const queryText = query.trim();
-  const rowIndexMap = buildRowIndexMap(rows);
   if (!queryText) {
-    const browseRows = rows.filter((row) => parseIntSafe(row.level, 0) === 0);
-    const resultRows = browseRows.map((row) => {
-      const rowIndex = rowIndexMap.get(row);
-      return rowToJson(row, false, rowIndex >= 0 ? hasDescendants(rowIndex, rows) : false);
-    });
-    return { resultRows, treeRows: resultRows };
+    const rootIndices = [];
+    for (let index = 0; index < rows.length; index += 1) {
+      const row = rows[index];
+      if (row[ROW_LEVEL] === 0 && rowMatchesFilters(dataset, row, ...filters)) rootIndices.push(index);
+    }
+    return {
+      count: rootIndices.length,
+      limited: false,
+      shown: rootIndices.length,
+      treeRows: rootIndices.map((index) => rowToJson(dataset, index)),
+    };
   }
 
   const isCodeQuery = /^\d+(?:\.\d+)?$/.test(queryText);
   const queryLower = queryText.toLowerCase();
-  let results = [];
+  const resultIndices = [];
+  let count = 0;
+  const hasFilters = filters.some((value, index) => index < 4 ? value !== null : value.length > 0);
 
   if (isCodeQuery || mode === "code") {
-    const exactResults = rows.filter((row) => row._code_lower === queryLower);
-    if (exactResults.length) {
-      results = [...exactResults].sort((left, right) => {
-        const pageDelta = parseIntSafe(left.page, 0) - parseIntSafe(right.page, 0);
-        if (pageDelta !== 0) return pageDelta;
-        const levelDelta = parseIntSafe(left.level, 0) - parseIntSafe(right.level, 0);
-        if (levelDelta !== 0) return levelDelta;
-        const fileDelta = compareText(left._source_file, right._source_file);
-        if (fileDelta !== 0) return fileDelta;
-        return parseIntSafe(left._source_line, 0) - parseIntSafe(right._source_line, 0);
-      });
+    const codeNorm = normalizeCode(queryLower);
+    const exactIndices = dataset.code_index[codeNorm] || [];
+    if (exactIndices.length) {
+      for (const index of exactIndices) {
+        if (hasFilters && !rowMatchesFilters(dataset, rows[index], ...filters)) continue;
+        count += 1;
+        resultIndices.push(index);
+      }
     } else {
-      results = rows.filter((row) => row._code_lower.startsWith(queryLower));
+      for (let index = 0; index < rows.length; index += 1) {
+        const row = rows[index];
+        if (!row[ROW_CODE_NORM].startsWith(codeNorm) || !rowMatchesFilters(dataset, row, ...filters)) continue;
+        count += 1;
+        resultIndices.push(index);
+      }
     }
   } else {
-    let textValues;
-    if (fields.join(",") === DATA_COLUMNS.join(",")) {
-      textValues = rows.map((row) => row._search_blob);
-    } else {
-      textValues = rows.map((row) => {
-        const selected = fields.map((field) => row[`_${field}_lower`] || "").filter(Boolean);
-        return selected.join(" ").trim();
-      });
-    }
-
-    if (mode === "phrase") {
-      results = rows.filter((row, index) => textValues[index].includes(queryLower));
-    } else if (mode === "any") {
-      const tokens = queryLower.split(/\s+/).filter(Boolean);
-      results = tokens.length ? rows.filter((row, index) => tokens.some((token) => textValues[index].includes(token))) : rows.slice();
-    } else {
-      results = rows.filter((row, index) => textValues[index].includes(queryLower));
+    for (let index = 0; index < rows.length; index += 1) {
+      const row = rows[index];
+      if (!rowMatchesFilters(dataset, row, ...filters) || !rowMatchesSearch(row, queryLower, mode, fields)) continue;
+      count += 1;
+      resultIndices.push(index);
     }
   }
 
-  const resultRows = results.map((row) => {
-    const rowIndex = rowIndexMap.get(row);
-    return rowToJson(row, true, rowIndex >= 0 ? hasDescendants(rowIndex, rows) : false);
-  });
-  const treeRows = queryText
-    ? collectRelevantRows(results, rows, rowIndexMap).filter((row) => row.level !== 0)
-    : rows.map((row, index) => rowToJson(row, false, hasDescendants(index, rows)));
-
-  return { resultRows, treeRows };
+  return {
+    count,
+    limited: false,
+    shown: resultIndices.length,
+    treeRows: collectRelevantRows(dataset, resultIndices),
+  };
 }
 
-function assetRequest(request, path) {
-  return new Request(new URL(path, request.url).toString(), request);
+function getDataset() {
+  return searchDataset;
 }
 
-async function getDataset(env, request) {
-  if (!datasetPromise) {
-    datasetPromise = env.ASSETS.fetch(assetRequest(request, DATASET_PATH)).then(async (response) => {
-      if (!response.ok) {
-        throw new Error(`Dataset asset unavailable: ${response.status}`);
-      }
-      return response.json();
-    });
-  }
-  return datasetPromise;
+function getTabularData() {
+  return tabularDataset;
 }
 
-async function getPdfManifest(env, request) {
-  if (!pdfManifestPromise) {
-    pdfManifestPromise = env.ASSETS.fetch(assetRequest(request, PDF_MANIFEST_PATH)).then(async (response) => {
-      if (!response.ok) {
-        return { available: false, storage: "r2", key: TABULAR_PDF_KEY, total_size: 0 };
-      }
-      return response.json();
-    });
-  }
-  return pdfManifestPromise;
+function getPdfManifest() {
+  return pdfManifestData;
 }
 
 function jsonResponse(payload, init = {}) {
@@ -423,22 +250,9 @@ function addCacheHeaders(response, seconds, extra = {}) {
 }
 
 async function cachedJsonResponse(request, seconds, createResponse) {
-  if (request.method !== "GET") {
-    return createResponse();
-  }
-
-  const cache = caches.default;
-  const cacheKey = new Request(request.url, { method: "GET" });
-  const cached = await cache.match(cacheKey);
-  if (cached) {
-    return addCacheHeaders(cached, seconds, { "x-cache": "HIT" });
-  }
-
-  const response = addCacheHeaders(await createResponse(), seconds, { "x-cache": "MISS" });
-  if (response.ok) {
-    await cache.put(cacheKey, response.clone());
-  }
-  return response;
+  const response = await createResponse();
+  if (request.method !== "GET" || !response.ok) return response;
+  return addCacheHeaders(response, seconds);
 }
 
 async function handleSearch(request, env) {
@@ -455,14 +269,20 @@ async function handleSearch(request, env) {
   const levelMax = url.searchParams.has("level_max") ? parseIntSafe(url.searchParams.get("level_max"), null) : null;
   const fileFilters = url.searchParams.getAll("file");
 
-  const dataset = await getDataset(env, request);
-  const filteredRows = filterRows(dataset.rows, pageMin, pageMax, levelMin, levelMax, fileFilters);
-  const { resultRows, treeRows } = searchRows(filteredRows, query, mode, fields);
+  const dataset = getDataset();
+  const { count, limited, shown, treeRows } = searchRows(dataset, query, mode, fields, [
+    pageMin,
+    pageMax,
+    levelMin,
+    levelMax,
+    fileFilters,
+  ]);
 
   return jsonResponse({
     query,
-    count: resultRows.length,
-    rows: resultRows,
+    count,
+    limited,
+    shown,
     tree: buildHierarchy(treeRows),
   });
 }
@@ -481,56 +301,62 @@ async function handleLocate(request, env) {
     return jsonResponse({ query: target, count: 0, rows: [], tree: [], ignored: true });
   }
 
-  const dataset = await getDataset(env, request);
+  const dataset = getDataset();
   const rows = dataset.rows;
-  const rowIndexMap = buildRowIndexMap(rows);
-  let results = [];
+  let resultIndices = [];
+  let count = 0;
 
   if (/^\d+(?:\.\d+)?$/.test(lowerTarget)) {
-    results = rows.filter((row) => row._code_lower === lowerTarget);
+    const exactIndices = dataset.code_index[normalizeCode(lowerTarget)] || [];
+    count = exactIndices.length;
+    resultIndices = exactIndices;
   } else {
-    const maskCn = rows.filter((row) => row._chinese_lower.trim() === lowerTarget);
-    const maskEn = rows.filter((row) => row._english_lower.trim() === lowerTarget);
-    results = uniqueRows(maskCn.concat(maskEn));
+    const exact = [];
+    const prefix = [];
+    const contains = [];
+    for (let index = 0; index < rows.length; index += 1) {
+      const row = rows[index];
+      const chinese = normalizeText(row[ROW_CHINESE]).toLowerCase();
+      const english = normalizeText(row[ROW_ENGLISH]).toLowerCase();
+      if (chinese === lowerTarget || english === lowerTarget) {
+        exact.push(index);
+      } else if (chinese.startsWith(lowerTarget) || english.startsWith(lowerTarget)) {
+        prefix.push(index);
+      } else if (chinese.includes(lowerTarget) || english.includes(lowerTarget)) {
+        contains.push(index);
+      }
+    }
 
-    if (!results.length) {
-      const startsCn = rows.filter((row) => row._chinese_lower.trim().startsWith(lowerTarget));
-      const startsEn = rows.filter((row) => row._english_lower.trim().startsWith(lowerTarget));
-      if (startsCn.length || startsEn.length) {
-        results = uniqueRows(startsCn.concat(startsEn));
-      } else if (lowerTarget.includes(",")) {
-        const parts = lowerTarget.split(/[，,]/).map((part) => part.trim()).filter(Boolean);
-        if (parts.length > 1) {
-          results = findHierarchicalTargetRows(rows, parts);
-          if (!results.length) {
-            results = findOrderedTargetRows(rows, parts);
-          }
-        }
-      } else {
-        const match = lowerTarget.match(/(\d+(?:\.\d+)?)$/);
-        if (match) {
-          const code = match[1];
-          results = rows.filter((row) => row._code_lower === code);
-        }
+    if (exact.length) {
+      count = exact.length;
+      resultIndices = exact;
+    } else if (prefix.length) {
+      count = prefix.length;
+      resultIndices = prefix;
+    } else if (contains.length) {
+      count = contains.length;
+      resultIndices = contains;
+    } else {
+      const codeMatch = lowerTarget.match(/(\d+(?:\.\d+)?)$/);
+      if (codeMatch) {
+        const exactIndices = dataset.code_index[normalizeCode(codeMatch[1])] || [];
+        count = exactIndices.length;
+        resultIndices = exactIndices;
       }
     }
   }
 
-  const resultRows = results.map((row) => {
-    const rowIndex = rowIndexMap.get(row);
-    return rowToJson(row, mark, rowIndex >= 0 ? hasDescendants(rowIndex, rows) : false);
+  const resultRows = resultIndices.map((index) => rowToJson(dataset, index, mark));
+  const treeRows = collectRelevantRows(dataset, resultIndices, mark);
+
+  return jsonResponse({
+    query: target,
+    count,
+    limited: false,
+    shown: resultIndices.length,
+    rows: resultRows,
+    tree: buildHierarchy(treeRows),
   });
-  let treeRows = results.length ? collectRelevantRows(results, rows, rowIndexMap) : [];
-  if (treeRows.length) {
-    treeRows = treeRows.filter((row) => row.level !== 0);
-  }
-
-  if (!mark) {
-    for (const row of resultRows) row.matched = false;
-    for (const row of treeRows) row.matched = false;
-  }
-
-  return jsonResponse({ query: target, count: resultRows.length, rows: resultRows, tree: buildHierarchy(treeRows) });
 }
 
 async function handleChildren(request, env) {
@@ -542,44 +368,27 @@ async function handleChildren(request, env) {
   let fields = fieldList.split(",").filter((field) => DATA_COLUMNS.includes(field));
   if (!fields.length) fields = ["chinese", "english", "code"];
 
-  const dataset = await getDataset(env, request);
+  const dataset = getDataset();
   const rows = dataset.rows;
-  const startIndex = rows.findIndex((row) => getRowId(row) === nodeId);
-  if (startIndex === -1) {
+  const idMatch = nodeId.match(/^r(\d+)$/);
+  const startIndex = idMatch ? Number.parseInt(idMatch[1], 10) : -1;
+  if (startIndex < 0 || startIndex >= rows.length) {
     return jsonResponse({ children: [] });
   }
 
-  const descendants = [];
-  const startLevel = parseIntSafe(rows[startIndex].level, 0);
+  const children = [];
   const queryLower = query.trim().toLowerCase();
   const isCodeQuery = /^\d+(?:\.\d+)?$/.test(queryLower);
+  const subtreeEnd = rows[startIndex][ROW_SUBTREE_END];
 
-  for (let cursor = startIndex + 1; cursor < rows.length; cursor += 1) {
-    const nextLevel = parseIntSafe(rows[cursor].level, 0);
-    if (nextLevel <= startLevel) break;
-
+  for (let cursor = startIndex + 1; cursor < subtreeEnd; cursor += 1) {
     const row = rows[cursor];
-    let matched = false;
-    if (queryLower) {
-      if (isCodeQuery || mode === "code") {
-        matched = normalizeCode(row.code).startsWith(queryLower);
-      } else {
-        const textValues = fields.map((field) => normalizeText(row[field]).toLowerCase()).join(" ").trim();
-        if (mode === "phrase") {
-          matched = textValues.includes(queryLower);
-        } else if (mode === "any") {
-          const tokens = queryLower.split(/\s+/).filter(Boolean);
-          matched = tokens.length ? tokens.some((token) => textValues.includes(token)) : false;
-        } else {
-          matched = textValues.includes(queryLower);
-        }
-      }
-    }
-
-    descendants.push(rowToJson(row, matched, hasDescendants(cursor, rows)));
+    if (row[ROW_PARENT] !== startIndex) continue;
+    const matched = rowMatchesSearch(row, queryLower, mode, fields, isCodeQuery);
+    children.push(rowToJson(dataset, cursor, matched));
   }
 
-  return jsonResponse({ children: buildHierarchy(descendants) });
+  return jsonResponse({ children });
 }
 
 async function handleTabular(request, env) {
@@ -594,8 +403,8 @@ async function handleTabular(request, env) {
     return jsonResponse({ query: queryCode, count: 0, rows: [], page: null });
   }
 
-  const dataset = await getDataset(env, request);
-  const tabularRows = dataset.tabular || [];
+  const tabularData = getTabularData();
+  const tabularRows = tabularData.rows || [];
   const pdfAvailable = hasPdfBucket(env);
   let rows = [];
 
@@ -670,7 +479,7 @@ async function handleTabularPdf(request, env) {
     return new Response("Tabular PDF not found", { status: 404 });
   }
 
-  const pdfManifest = await getPdfManifest(env, request);
+  const pdfManifest = getPdfManifest();
   const pdfKey = normalizeText(pdfManifest.key) || TABULAR_PDF_KEY;
   const totalSize = parseIntSafe(pdfManifest.total_size, 0);
   if (!pdfManifest.available || totalSize <= 0) {
