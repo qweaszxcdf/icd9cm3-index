@@ -1,5 +1,5 @@
-const DATASET_URL = "https://assets.local/data/dataset.json";
-const PDF_MANIFEST_URL = "https://assets.local/data/pdf-manifest.json";
+const DATASET_PATH = "/data/dataset.json";
+const PDF_MANIFEST_PATH = "/data/pdf-manifest.json";
 const DATA_COLUMNS = ["page", "level", "chinese", "english", "code"];
 const TABULAR_PAGE_MIN = 21;
 const TABULAR_PAGE_MAX = 415;
@@ -165,8 +165,14 @@ function uniqueRows(rows) {
   return unique;
 }
 
-function collectRelevantRows(results, allRows) {
-  const matchedIndices = new Set(results.map((row) => allRows.indexOf(row)).filter((index) => index >= 0));
+function buildRowIndexMap(rows) {
+  const rowIndexMap = new Map();
+  rows.forEach((row, index) => rowIndexMap.set(row, index));
+  return rowIndexMap;
+}
+
+function collectRelevantRows(results, allRows, rowIndexMap = buildRowIndexMap(allRows)) {
+  const matchedIndices = new Set(results.map((row) => rowIndexMap.get(row)).filter((index) => index !== undefined));
   if (!matchedIndices.size) return [];
 
   const ancestorIndices = new Set();
@@ -306,10 +312,11 @@ function filterRows(rows, pageMin, pageMax, levelMin, levelMax, fileFilters) {
 
 function searchRows(rows, query, mode, fields) {
   const queryText = query.trim();
+  const rowIndexMap = buildRowIndexMap(rows);
   if (!queryText) {
     const browseRows = rows.filter((row) => parseIntSafe(row.level, 0) === 0);
     const resultRows = browseRows.map((row) => {
-      const rowIndex = rows.indexOf(row);
+      const rowIndex = rowIndexMap.get(row);
       return rowToJson(row, false, rowIndex >= 0 ? hasDescendants(rowIndex, rows) : false);
     });
     return { resultRows, treeRows: resultRows };
@@ -356,19 +363,23 @@ function searchRows(rows, query, mode, fields) {
   }
 
   const resultRows = results.map((row) => {
-    const rowIndex = rows.indexOf(row);
+    const rowIndex = rowIndexMap.get(row);
     return rowToJson(row, true, rowIndex >= 0 ? hasDescendants(rowIndex, rows) : false);
   });
   const treeRows = queryText
-    ? collectRelevantRows(results, rows).filter((row) => row.level !== 0)
+    ? collectRelevantRows(results, rows, rowIndexMap).filter((row) => row.level !== 0)
     : rows.map((row, index) => rowToJson(row, false, hasDescendants(index, rows)));
 
   return { resultRows, treeRows };
 }
 
-async function getDataset(env) {
+function assetRequest(request, path) {
+  return new Request(new URL(path, request.url).toString(), request);
+}
+
+async function getDataset(env, request) {
   if (!datasetPromise) {
-    datasetPromise = env.ASSETS.fetch(new Request(DATASET_URL)).then(async (response) => {
+    datasetPromise = env.ASSETS.fetch(assetRequest(request, DATASET_PATH)).then(async (response) => {
       if (!response.ok) {
         throw new Error(`Dataset asset unavailable: ${response.status}`);
       }
@@ -378,9 +389,9 @@ async function getDataset(env) {
   return datasetPromise;
 }
 
-async function getPdfManifest(env) {
+async function getPdfManifest(env, request) {
   if (!pdfManifestPromise) {
-    pdfManifestPromise = env.ASSETS.fetch(new Request(PDF_MANIFEST_URL)).then(async (response) => {
+    pdfManifestPromise = env.ASSETS.fetch(assetRequest(request, PDF_MANIFEST_PATH)).then(async (response) => {
       if (!response.ok) {
         return { available: false, storage: "r2", key: TABULAR_PDF_KEY, total_size: 0 };
       }
@@ -444,7 +455,7 @@ async function handleSearch(request, env) {
   const levelMax = url.searchParams.has("level_max") ? parseIntSafe(url.searchParams.get("level_max"), null) : null;
   const fileFilters = url.searchParams.getAll("file");
 
-  const dataset = await getDataset(env);
+  const dataset = await getDataset(env, request);
   const filteredRows = filterRows(dataset.rows, pageMin, pageMax, levelMin, levelMax, fileFilters);
   const { resultRows, treeRows } = searchRows(filteredRows, query, mode, fields);
 
@@ -470,8 +481,9 @@ async function handleLocate(request, env) {
     return jsonResponse({ query: target, count: 0, rows: [], tree: [], ignored: true });
   }
 
-  const dataset = await getDataset(env);
+  const dataset = await getDataset(env, request);
   const rows = dataset.rows;
+  const rowIndexMap = buildRowIndexMap(rows);
   let results = [];
 
   if (/^\d+(?:\.\d+)?$/.test(lowerTarget)) {
@@ -505,10 +517,10 @@ async function handleLocate(request, env) {
   }
 
   const resultRows = results.map((row) => {
-    const rowIndex = rows.indexOf(row);
+    const rowIndex = rowIndexMap.get(row);
     return rowToJson(row, mark, rowIndex >= 0 ? hasDescendants(rowIndex, rows) : false);
   });
-  let treeRows = results.length ? collectRelevantRows(results, rows) : [];
+  let treeRows = results.length ? collectRelevantRows(results, rows, rowIndexMap) : [];
   if (treeRows.length) {
     treeRows = treeRows.filter((row) => row.level !== 0);
   }
@@ -530,7 +542,7 @@ async function handleChildren(request, env) {
   let fields = fieldList.split(",").filter((field) => DATA_COLUMNS.includes(field));
   if (!fields.length) fields = ["chinese", "english", "code"];
 
-  const dataset = await getDataset(env);
+  const dataset = await getDataset(env, request);
   const rows = dataset.rows;
   const startIndex = rows.findIndex((row) => getRowId(row) === nodeId);
   if (startIndex === -1) {
@@ -582,7 +594,7 @@ async function handleTabular(request, env) {
     return jsonResponse({ query: queryCode, count: 0, rows: [], page: null });
   }
 
-  const dataset = await getDataset(env);
+  const dataset = await getDataset(env, request);
   const tabularRows = dataset.tabular || [];
   const pdfAvailable = hasPdfBucket(env);
   let rows = [];
@@ -658,7 +670,7 @@ async function handleTabularPdf(request, env) {
     return new Response("Tabular PDF not found", { status: 404 });
   }
 
-  const pdfManifest = await getPdfManifest(env);
+  const pdfManifest = await getPdfManifest(env, request);
   const pdfKey = normalizeText(pdfManifest.key) || TABULAR_PDF_KEY;
   const totalSize = parseIntSafe(pdfManifest.total_size, 0);
   if (!pdfManifest.available || totalSize <= 0) {
