@@ -150,7 +150,17 @@ function embedRefTargetsInTitle(titleText, rawTitle, refs) {
     const target = (ref.target || '').trim();
     if (!target) return;
     const targetLower = target.toLowerCase();
-    const index = rawLower.indexOf(targetLower);
+    const candidateIndexes = [];
+    let searchStart = 0;
+    while (true) {
+      const index = rawLower.indexOf(targetLower, searchStart);
+      if (index === -1) break;
+      candidateIndexes.push(index);
+      searchStart = index + targetLower.length;
+    }
+    const markerPattern = /(?:另见|见|see\s+also|see)\s*$/i;
+    const index = candidateIndexes.find((candidate) => markerPattern.test(rawTitle.slice(0, candidate)))
+      ?? candidateIndexes[0];
     if (index !== -1) {
       matches.push({start: index, end: index + target.length, target});
     }

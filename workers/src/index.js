@@ -122,6 +122,113 @@ function collectRelevantRows(dataset, resultIndices, markMatches = true) {
     .map((index) => rowToJson(dataset, index, markMatches && matchedIndices.has(index)));
 }
 
+function rowMatchesTarget(row, target, strictPrefix = false) {
+  const targetText = normalizeText(target).toLowerCase();
+  const chinese = normalizeText(row[ROW_CHINESE]).toLowerCase();
+  const english = normalizeText(row[ROW_ENGLISH]).toLowerCase();
+  if (strictPrefix) {
+    return chinese.startsWith(targetText) || english.startsWith(targetText);
+  }
+  return chinese === targetText || english === targetText;
+}
+
+function findHierarchicalTargetRows(dataset, parts) {
+  if (!parts.length) return [];
+
+  const rows = dataset.rows;
+  const candidates = [];
+  for (let index = 0; index < rows.length; index += 1) {
+    if (!rowMatchesTarget(rows[index], parts[0], true)) continue;
+
+    let currentIndex = index;
+    let success = true;
+    for (const part of parts.slice(1)) {
+      const startLevel = parseIntSafe(rows[currentIndex][ROW_LEVEL], 0);
+      let foundIndex = -1;
+
+      // Prefer a direct child. Without this pass, a matching descendant
+      // under an earlier sibling (for example spermatic -> vein) can steal
+      // a path that should resolve to the current node's direct child.
+      for (let cursor = currentIndex + 1; cursor < rows.length; cursor += 1) {
+        const nextLevel = parseIntSafe(rows[cursor][ROW_LEVEL], 0);
+        if (nextLevel <= startLevel) break;
+        if (rows[cursor][ROW_PARENT] !== currentIndex) continue;
+        if (rowMatchesTarget(rows[cursor], part, true)) {
+          foundIndex = cursor;
+          break;
+        }
+      }
+
+      // If there is no direct child, allow a deeper descendant for paths
+      // such as Repair -> hernia NEC -> inguinal (unilateral).
+      if (foundIndex === -1) {
+        for (let cursor = currentIndex + 1; cursor < rows.length; cursor += 1) {
+          const nextLevel = parseIntSafe(rows[cursor][ROW_LEVEL], 0);
+          if (nextLevel <= startLevel) break;
+          if (rowMatchesTarget(rows[cursor], part, true)) {
+            foundIndex = cursor;
+            break;
+          }
+        }
+      }
+      if (foundIndex === -1) {
+        if (!rowMatchesTarget(rows[currentIndex], part, true)) {
+          success = false;
+          break;
+        }
+      } else {
+        currentIndex = foundIndex;
+      }
+    }
+    if (success) {
+      // The same textual path can occur in multiple index sections. Prefer
+      // the shallowest matching parent, which is the canonical category
+      // entry rather than a deeper cross-reference section.
+      candidates.push({
+        index: currentIndex,
+        firstExact: rowMatchesTarget(rows[index], parts[0]),
+        parentLevel: parseIntSafe(rows[index][ROW_LEVEL], 0),
+      });
+    }
+  }
+  candidates.sort(
+    (left, right) => Number(right.firstExact) - Number(left.firstExact)
+      || left.parentLevel - right.parentLevel
+      || left.index - right.index,
+  );
+  return candidates.length ? [candidates[0].index] : [];
+}
+
+function findOrderedTargetRows(dataset, parts) {
+  if (!parts.length) return [];
+  const rows = dataset.rows;
+  const firstPart = parts[0].toLowerCase();
+  for (let index = 0; index < rows.length; index += 1) {
+    if (!rowMatchesTarget(rows[index], firstPart, true)) continue;
+    let currentIndex = index;
+    let partIndex = 1;
+    for (let cursor = index + 1; cursor < rows.length && partIndex < parts.length; cursor += 1) {
+      if (rowMatchesTarget(rows[cursor], parts[partIndex], true)) {
+        currentIndex = cursor;
+        partIndex += 1;
+      }
+    }
+    if (partIndex === parts.length) return [currentIndex];
+  }
+  return [];
+}
+
+function getLocatePathVariants(parts) {
+  const variants = [parts];
+  if (parts.length > 1) {
+    const qualifier = parts[parts.length - 1].trim().toLowerCase();
+    if (qualifier === "by site" || qualifier === "按部位") {
+      variants.push(parts.slice(0, -1));
+    }
+  }
+  return variants;
+}
+
 function rowMatchesFilters(dataset, row, pageMin, pageMax, levelMin, levelMax, fileFilters) {
   if (pageMin !== null && row[ROW_PAGE] < pageMin) return false;
   if (pageMax !== null && row[ROW_PAGE] > pageMax) return false;
@@ -313,7 +420,6 @@ async function handleLocate(request, env) {
   } else {
     const exact = [];
     const prefix = [];
-    const contains = [];
     for (let index = 0; index < rows.length; index += 1) {
       const row = rows[index];
       const chinese = normalizeText(row[ROW_CHINESE]).toLowerCase();
@@ -322,8 +428,6 @@ async function handleLocate(request, env) {
         exact.push(index);
       } else if (chinese.startsWith(lowerTarget) || english.startsWith(lowerTarget)) {
         prefix.push(index);
-      } else if (chinese.includes(lowerTarget) || english.includes(lowerTarget)) {
-        contains.push(index);
       }
     }
 
@@ -333,9 +437,16 @@ async function handleLocate(request, env) {
     } else if (prefix.length) {
       count = prefix.length;
       resultIndices = prefix;
-    } else if (contains.length) {
-      count = contains.length;
-      resultIndices = contains;
+    } else if (lowerTarget.includes(",") || lowerTarget.includes("，")) {
+      const parts = lowerTarget.split(/[，,]/).map((part) => part.trim()).filter(Boolean);
+      if (parts.length > 1) {
+        for (const pathVariant of getLocatePathVariants(parts)) {
+          resultIndices = findHierarchicalTargetRows(dataset, pathVariant);
+          if (!resultIndices.length) resultIndices = findOrderedTargetRows(dataset, pathVariant);
+          if (resultIndices.length) break;
+        }
+        count = resultIndices.length;
+      }
     } else {
       const codeMatch = lowerTarget.match(/(\d+(?:\.\d+)?)$/);
       if (codeMatch) {
