@@ -19,6 +19,39 @@ CSV_NAME_PATTERN = re.compile(r"icd-index-extraction-(\d+)-(\d+)\.csv$")
 
 ROOT_DIR = Path(__file__).resolve().parent
 TARGET_PDF_PATH = ROOT_DIR / "target.pdf"
+VALIDATION_REPORT_PATH = ROOT_DIR / "validation_report.csv"
+
+
+def get_validation_report_signature(root_dir: str) -> Tuple[str, float, int]:
+    path = Path(root_dir) / "validation_report.csv"
+    if not path.exists():
+        return (str(path), 0.0, 0)
+    stat = path.stat()
+    return (str(path), stat.st_mtime, stat.st_size)
+
+
+@st.cache_data(show_spinner=False)
+def load_validation_lookup(
+    report_signature: Tuple[str, float, int]
+) -> Dict[Tuple[str, int], Dict[str, str]]:
+    path = Path(report_signature[0])
+    if not path.exists() or report_signature[2] == 0:
+        return {}
+    lookup: Dict[Tuple[str, int], Dict[str, str]] = {}
+    with path.open("r", encoding="utf-8-sig", newline="") as fp:
+        for row in csv.DictReader(fp):
+            source_file = parse_text(row.get("source_file", ""))
+            source_line = parse_int(row.get("source_line", ""), -1)
+            if not source_file or source_line < 1:
+                continue
+            lookup[(source_file, source_line)] = {
+                "severity": parse_text(row.get("severity", "")),
+                "status": parse_text(row.get("status", "")),
+                "official_hierarchy": parse_text(row.get("official_hierarchy", "")),
+                "suggestion": parse_text(row.get("suggestion", "")),
+                "details": parse_text(row.get("details", "")),
+            }
+    return lookup
 
 
 def get_csv_file_signatures(root_dir: str) -> Tuple[Tuple[str, float], ...]:
@@ -208,11 +241,14 @@ def init_state() -> None:
 
     file_signatures = get_csv_file_signatures(str(ROOT_DIR))
     data_df, batch_files = load_dataset(str(ROOT_DIR), file_signatures)
+    validation_signature = get_validation_report_signature(str(ROOT_DIR))
 
     st.session_state.data_df = data_df
     st.session_state.batch_files = batch_files
     st.session_state.page_to_file = build_page_to_file_map(batch_files)
     st.session_state.file_lookup = {str(item["name"]): item for item in batch_files}
+    st.session_state.validation_lookup = load_validation_lookup(validation_signature)
+    st.session_state.validation_report_signature = validation_signature
     st.session_state.modified_files = set()
     st.session_state.editor_nonce = 0
     st.session_state.editor_row_uids = {}
@@ -234,6 +270,8 @@ def reset_from_disk() -> None:
         "batch_files",
         "page_to_file",
         "file_lookup",
+        "validation_lookup",
+        "validation_report_signature",
         "modified_files",
         "editor_nonce",
         "current_page",
@@ -302,6 +340,30 @@ def get_active_page_df(page: int) -> pd.DataFrame:
     if page_df.empty:
         return page_df
     return page_df.sort_values(by=["_order", "_uid"], ascending=[True, True])
+
+
+def add_validation_columns(page_df: pd.DataFrame) -> pd.DataFrame:
+    enriched = page_df.copy()
+    lookup: Dict[Tuple[str, int], Dict[str, str]] = st.session_state.get(
+        "validation_lookup", {}
+    )
+    proofreading: List[str] = []
+    official_hierarchies: List[str] = []
+    suggestions: List[str] = []
+    for _, row in enriched.iterrows():
+        key = (parse_text(row.get("_source_file", "")), parse_int(row.get("_source_line", -1), -1))
+        validation = lookup.get(key, {})
+        severity = parse_text(validation.get("severity", ""))
+        status = parse_text(validation.get("status", ""))
+        proofreading.append(" · ".join(value for value in (severity, status) if value))
+        official_hierarchies.append(parse_text(validation.get("official_hierarchy", "")))
+        suggestion = parse_text(validation.get("suggestion", ""))
+        details = parse_text(validation.get("details", ""))
+        suggestions.append("；".join(value for value in (suggestion, details) if value))
+    enriched["proofreading"] = proofreading
+    enriched["official_hierarchy"] = official_hierarchies
+    enriched["validation_suggestion"] = suggestions
+    return enriched
 
 
 def get_next_order(page: int) -> float:
@@ -724,7 +786,42 @@ def render_main() -> None:
         st.info(st.session_state.last_action_message)
 
     current_page = int(st.session_state.current_page)
-    page_df = get_active_page_df(current_page)
+    page_df = add_validation_columns(get_active_page_df(current_page))
+
+    issue_mask = (
+        page_df["proofreading"].fillna("").astype(str).str.startswith(
+            ("错误", "警告", "人工复核")
+        )
+        if not page_df.empty
+        else pd.Series(dtype=bool)
+    )
+    page_issues = page_df[issue_mask] if not page_df.empty else page_df
+    if not page_issues.empty:
+        messages: List[str] = []
+        for _, issue in page_issues.iterrows():
+            source_line = parse_int(issue.get("_source_line", -1), -1)
+            chinese = parse_text(issue.get("chinese", ""))
+            english = parse_text(issue.get("english", ""))
+            parts = [f"第 {source_line} 行" if source_line > 0 else "新增行"]
+            if chinese or english:
+                parts.append(f"{chinese} / {english}".strip(" /"))
+            proofreading = parse_text(issue.get("proofreading", ""))
+            if proofreading:
+                parts.append(proofreading)
+            official_hierarchy = parse_text(issue.get("official_hierarchy", ""))
+            if official_hierarchy:
+                parts.append(f"官方层级：{official_hierarchy}")
+            suggestion = parse_text(issue.get("validation_suggestion", ""))
+            if suggestion:
+                parts.append(suggestion)
+            messages.append("；".join(parts))
+        banner = (
+            f"validation_report.csv：本页有 {len(page_issues)} 条需要关注的校验记录。\n\n"
+            + "\n\n".join(f"- {message}" for message in messages)
+        )
+        st.warning(banner)
+    else:
+        st.success("validation_report.csv：本页未发现需要关注的校验记录。")
 
     hint = detect_header_hint(page_df)
     if hint:

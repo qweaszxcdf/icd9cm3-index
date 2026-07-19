@@ -4,6 +4,7 @@
 
 # Python local environment and caches
 .venv/
+.cache/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -28,3 +29,5 @@ target_pages/
 
 # Generated tabular source PDFs should live in R2, not Git
 workers/public/pdf/
+validation_report.csv
+tmp/
