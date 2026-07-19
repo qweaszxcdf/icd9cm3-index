@@ -1,5 +1,5 @@
 page,level,chinese,english,code
-439,1,"CISH（标准子宫颈筋膜内子宫切除术）","CISH [classic intrafascial SEMM hysterectomy]",68.31
+439,1,"CISH（标准子宫颈筋膜内子宫切除术）","CISH [classic infrafascial SEMM hysterectomy]",68.31
 439,1,"Cockett 手术（静脉曲张）","Cockett operation (varicose vein)",
 439,2,"上肢","upper limb",38.53
 439,2,"下肢","lower limb",38.59
@@ -70,8 +70,8 @@ page,level,chinese,english,code
 440,4,"窦","sinus",22.19
 440,3,"鼻咽","nasopharynx",29.19
 440,3,"扁桃腺","tonsils",28.19
-441,4,"玻璃体","vitreous",14.19
-441,4,"苍白球","globus pallidus",01.18
+441,3,"玻璃体","vitreous",14.19
+441,3,"苍白球","globus pallidus",01.18
 441,3,"肠","intestine",45.29
 441,4,"大的","large",45.28
 441,4,"小的","small",45.19

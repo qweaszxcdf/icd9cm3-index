@@ -57,11 +57,11 @@ page,level,chinese,english,code
 435,2,"腔静脉(外科手术的)","vena cava (surgical)",38.7
 435,2,"输卵管—见结扎,输卵管","fallopian tube-see Ligation, fallopian tube",
 435,1,"闭塞术","Obliteration",
-435,2,"骶脊膜膨出","sacral meningocoele",03.51
+435,2,"骶脊膜膨出","sacral meningocele",03.51
 435,2,"额窦(伴脂肪)","frontal sinus (with fat)",22.42
 435,2,"骨腔—另见骨成形术","bone cavity-see also Osteoplasty",78.40
 435,2,"鼓室乳突腔","tympanomastoid cavity",19.9
-435,2,"脊膜膨出(骶骨)","meningocoele (sacral)",03.51
+435,2,"脊膜膨出(骶骨)","meningocele (sacral)",03.51
 435,2,"泪点","lacrimal punctum",09.91
 435,2,"泪小管","canaliculi",09.6
 435,2,"淋巴结构(周围的)","lymphatic structure(s) (peripheral)",40.9
@@ -118,7 +118,7 @@ page,level,chinese,english,code
 436,2,"声带","vocal cords",30.09
 436,2,"隐静脉,静脉曲张","saphenous vein, varicose",38.59
 437,2,"硬膜下的(脑的)","subdural membrane (cerebral)",01.51
-437,2,"脊髓的","spinal",03.4
+437,3,"脊髓的","spinal",03.4
 437,1,"博阿里手术—见 Boari 手术","博阿里手术—see Boari operation",
 437,1,"博斯特手术—见 Bost 手术","博斯特手术—see Bost operation",
 437,1,"博斯沃斯手术—见 Bosworth 手术","博斯沃斯手术—see Bosworth operation",

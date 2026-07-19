@@ -113,7 +113,7 @@ page,level,chinese,english,code
 501,4,"下肢动脉","lower extremity artery(s)",39.79
 501,4,"胸主动脉(多条)","thoracic aorta",39.73
 501,3,"移植物置换-见动脉瘤切除术,伴移植物置换,按部位","graft replacement-see Aneurysmectomy, with graft replacement, by site",
-501,3,"马塔斯","Matas'",39.52
+501,2,"马塔斯","Matas'",39.52
 502,1,"动脉瘤内缝合术-另见动脉瘤缝合术","Endoaneurysmorrhaphy-see also Aneurysmorrhaphy",39.52
 502,2,"经或伴","by or with",
 502,3,"血管内移植","endovascular graft",
@@ -138,7 +138,7 @@ page,level,chinese,english,code
 502,4,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.34
 502,3,"移植物置换(插补)","graft replacement (interposition)",38.40
 502,4,"腹的","abdominal",
-502,5,"动脉","artery",38.44
+502,5,"动脉","artery",38.46
 502,5,"静脉","vein",38.47
 502,5,"主动脉","aorta",
 502,6,"切开入路","open approach",38.44

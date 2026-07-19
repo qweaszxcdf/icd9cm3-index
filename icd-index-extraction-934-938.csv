@@ -1,145 +1,173 @@
 page,level,chinese,english,code
-934,8,"胫骨成分","tibial component",00.81
-934,8,"全部的（所有组成）","total (all components)",00.80
-934,4,"心房间隔伞状装置","atrial septal umbrella",35.52
-934,4,"心律再同步化装置","cardiac resynchronization device",
-934,5,"除颤器（双心室除颤器）（BiV ICD）（BiV 起搏器伴除颤器）（CRT-D）（装置和一个或多个导联）（全系统）","defibrillator (biventricular defibrillator) (BiV ICD) (BiV pacemaker with defibrillator) (CRT-D) (device and one or more leads) (total system)",00.51
-934,6,"仅脉搏发生器","pulse generator only",00.54
-934,6,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
-934,5,"起搏器（双心室起搏器）（BiV 起搏器）（CRT-P）（装置和一个或多个导联）（全系统）","pacemaker (biventricular pacemaker) (BiV pacemaker) (CRT-P) (device and one or more leads) (total system)",00.50
-934,6,"仅脉搏发生器","pulse generator only",00.53
-934,6,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
-934,4,"心脏","heart",
-934,5,"CorCap™","CorCap™",37.41
-934,5,"Impella®","Impella®",37.68
-934,5,"瓣膜—见置换，心脏瓣膜","valve-see Replacement, heart valve",
-934,5,"泵（康特洛维兹）","pump (Kantrowitz)",37.62
-934,5,"辅助系统—见植入，心脏辅助系统","assist system-see Implant, heart assist system",
-934,5,"假体心脏支持装置","prosthetic cardiac support device",37.41
-934,5,"起搏器—见插入，起搏器，心的","pacemaker-see Insertion, pacemaker, cardiac",
-934,5,"心室支持装置","ventricular support device",37.41
-934,5,"心外膜支持装置","epicardial support device",37.41
-934,5,"心脏支持装置（CSD）","cardiac support device (CSD)",37.41
-934,5,"循环的辅助系统—见植入，心脏辅助系统","circulatory assist system-see Implant, heart assist system",
-934,4,"心脏支持装置（CSD）（CorCap™）","cardiac support device (CSD) (CorCap™)",37.41
-934,4,"胸骨固定装置伴有刚性板","sternal fixation device with rigid plates",84.94
-934,4,"胸管","chest tube",34.04
-934,5,"胸腔镜的","thoracoscopic",34.06
-934,4,"血管通路装置，完全可植入的","vascular access device, totally implantable",86.07
-934,4,"循环记录器","loop recorder",37.79
-935,4,"循环支持装置","circulatory support device",
-935,5,"CentriMag®（体外血泵系统）","CentriMag®",37.62
-935,5,"pVAD（经皮心室辅助装置）","pVAD (percutaneous ventricular assist device)",37.68
-935,5,"TandemHeart®","TandemHeart®",37.68
-935,5,"非植入性的","non-implantable",37.62
-935,6,"外部心脏辅助装置","external heart assist device",
-935,7,"Impella®","Impella®",37.68
-935,7,"经皮的","percutaneous",37.68
-935,7,"双心室的","biventricular",37.60
-935,7,"暂时性","temporary",37.62
-935,4,"暂时性非植入型循环辅助装置","temporary non-implantable circulatory assist device",37.62
-935,4,"牙托（全部）","denture (total)",99.97
-935,4,"牙周夹（齿矫形）","peridontal splint (orthodontic)",24.7
-935,4,"眼阀植入","eye valve implant",12.67
-935,4,"眼球，进入眼窝","globe, into eye socket",16.69
-935,4,"眼植入","ocular implant",
-935,5,"随后或二期","following or secondary to",
-935,6,"内容物取出术","evisceration",16.61
-935,6,"剜出术","enucleation",16.61
-935,5,"同时伴","with synchronous",
-935,6,"内容物剜出术","evisceration",16.31
-935,6,"剜出术","enucleation",16.42
-935,7,"伴肌附着于植入物","with muscle attachment to implant",16.41
-935,4,"咽瓣膜，人工","pharyngeal valve, artificial",31.75
-935,4,"阴道，人造的","vagina, synthetic",70.95
-935,4,"阴道隔","diaphragm, vagina",96.17
-935,4,"阴道模型","vaginal mold",96.15
-935,4,"阴茎假体（非可膨胀的）（内的）","penile prosthesis (non-inflatable) (internal)",64.95
-935,5,"可膨胀的（内的）","inflatable (internal)",64.97
-935,4,"引流管","drainage tube",
-935,5,"肾","kidney",55.02
-935,5,"肾盂","renal pelvis",55.12
-935,4,"硬膜外钉","epidural pegs",02.93
-935,4,"硬膜下的","subdural",
-935,5,"条带状","strips",02.93
-935,5,"网状","grids",02.93
-935,4,"折板，心脏（心房）（心房间）（心房内）","baffle, heart (atrial) (interatrial) (intra-atrial)",35.91
-936,3,"支架（支架植入）","stent(s) (stent graft)",
-936,4,"肠系膜的","mesenteric",39.90
-936,5,"裸，药物涂层","bare, drug-coated",39.90
-936,5,"药物洗脱","drug-eluting",00.55
-936,4,"胆管","bile duct",51.43
-936,5,"经皮的经肝的","percutaneous transhepatic",51.98
-936,6,"内镜的","endoscopic",51.87
-936,4,"动脉（裸）（结合的）（药物涂层）（非药物洗脱）","artery (bare) (bonded) (drug coated) (non-drug-eluting)",
-936,5,"非冠状血管","non-coronary vessel",
-936,6,"股动脉，表浅的","femoral artery, superficial",39.90
-936,7,"非药物洗脱","non-drug-eluting",39.90
-936,7,"药物洗脱","drug-eluting",00.60
-936,6,"基底","basilar",00.64
-936,6,"脊椎的","vertebral",00.64
-936,6,"颈动脉","carotid",00.63
-936,6,"颅内的","intracranial",00.65
-936,6,"颅外的","extracranial",00.64
-936,6,"周围的","peripheral",39.90
-936,7,"裸，药物涂层","bare, drug-coated",39.90
-936,7,"药物洗脱","drug-eluting",00.55
-936,6,"股动脉，表浅的","femoral artery, superficial",39.90
-936,7,"非药物洗脱","non-drug-eluting",39.90
-936,7,"药物洗脱","drug-eluting",00.60
-936,5,"冠状（裸）（结合的）（药物涂层）（非药物洗脱）","coronary (bare) (bonded) (drug coated) (non-drug-eluting)",36.06
-936,6,"药物洗脱","drug-eluting",36.07
-936,6,"基底动脉","basilar",00.64
-936,6,"颈动脉","carotid",00.63
-936,6,"颅内","intracranial",00.65
-936,6,"颅外","extracranial",00.64
-936,6,"颈动脉","carotid",00.63
-936,6,"脑血管的","cerebrovascular",
-936,7,"脑的（颅内）","cerebral (intracranial)",00.65
-936,7,"入脑前的（颅外）","precerebral (extracranial)",00.64
-936,8,"颈动脉","carotid",00.63
-937,4,"房水引流","aqueous drainage",12.67
-937,4,"非冠状血管","non-coronary vessel",
-937,5,"伴旁路—省略编码","with bypass-omit code",
-937,5,"伴血管成形术或动脉粥样硬化切除术","with angioplasty or atherectomy",39.50
-937,6,"肠系膜的","mesenteric",39.90
-937,7,"裸，药物涂层","bare, drug-coated",39.90
-937,7,"药物洗脱","drug-eluting",00.55
-937,6,"基底","basilar",00.64
-937,6,"脊椎的","vertebral",00.64
-937,6,"颈动脉","carotid",00.63
-937,6,"颅内的","intracranial",00.65
-937,6,"颅外的","extracranial",00.64
-937,6,"肾的","renal",39.90
-937,7,"裸，药物涂层","bare, drug-coated",39.90
-937,7,"药物洗脱","drug-eluting",00.55
-937,6,"周围的","peripheral",39.90
-937,7,"裸，药物涂层","bare, drug-coated",39.90
-937,7,"药物洗脱","drug-eluting",00.55
-937,5,"冠状（动脉）（裸）（结合的）（药物涂层）（非药物洗脱）","coronary (artery) (bare) (bonded) (drug coated) (non-drug-eluting)",36.06
-937,6,"药物洗脱","drug-eluting",36.07
-937,6,"脊椎的","vertebral",00.64
-937,4,"结肠","colon",
-937,5,"内镜的（荧光镜引导）","endoscopic (fluoroscopic guidance)",46.86
-938,5,"其他","other",46.87
-938,4,"气管支气管的","tracheobronchial",96.05
-938,4,"入脑前的","precerebral",00.64
-938,5,"肾的","renal",39.90
-938,6,"裸，药物涂层","bare, drug-coated",39.90
-938,6,"药物洗脱","drug-eluting",00.55
-938,5,"食管（内镜）（荧光镜的）","esophagus (endoscopic) (fluoroscopic)",42.81
-938,5,"锁骨下","subclavian",39.90
-938,5,"裸，药物涂层","bare, drug-coated",39.90
-938,6,"药物洗脱","drug-eluting",00.55
-938,5,"胰腺管","pancreatic duct",52.92
-938,6,"内镜的","endoscopic",52.93
-938,5,"周围的","peripheral",39.90
-938,6,"股动脉，表浅的，药物洗脱的","femoral artery, superficial, drug-eluting",00.60
-938,5,"裸，药物涂层","bare, drug-coated",39.90
-938,6,"药物洗脱","drug-eluting",00.55
-938,4,"肢体延长装置，内的，NOS","limb lengthening device, internal, NOS",84.54
-938,5,"伴动力分离术","with kinetic distraction",84.53
-938,3,"植入物—见插入，假体","implant-see Insertion, prosthesis",
-938,3,"止血垫","tampon",
-938,4,"食管","esophagus",96.06
-938,4,"阴道","vagina",96.14
+934,2,"CRT-P（心律再同步化起搏器）（双心室起搏器）（BiV 起搏器）（心律再同步起搏器）（装置和一个或多个导联）","CRT-P (biventricular pacemaker) (BiV pacemaker) (cardiac resynchronization pacemaker) (device and one or more leads)",00.50
+934,3,"仅脉搏发生器","pulse generator only",00.53
+934,3,"仅左心室冠状动脉导联","left ventricular coronary venous lead only",00.52
+934,2,"巴尔通钳（颅骨）","Barton's tongs (skull)",02.94
+934,2,"瓣膜","valve",
+934,3,"脑室（脑的）","ventricular (cerebral)",02.42
+934,3,"心脏一另见置换，心脏瓣膜阀（假体）","heart-see also Replacement, heart valve poppet (prosthetic)",35.95
+934,2,"玻璃体（硅）","vitreous (silicone)",14.75
+934,3,"用于视网膜再附着","for retinal reattachment",14.59
+934,2,"肠造口术装置（管）","enterostomy device (tube)",
+934,3,"大肠","large intestine",97.04
+934,3,"小肠","small intestine",97.03
+934,2,"传感器（导线）","sensor (lead)",
+934,3,"心内血流动力学监测","intracardiac or great vessel hemodynamic monitoring",00.56
+934,3,"刺激接收器—见植入，刺激接收器，按部位","stimoeiver-see Implant, stimoeiver, by site",
+934,2,"刺激器","stimulator",
+934,3,"电极","electrode(s)",
+934,3,"颈动脉窦","carotid sinus",39.82
+934,4,"伴同步脉冲发生器置换（全系统）","with synchronous pulse generator replacement (total system)",39.81
+934,3,"脉冲发生器","pulse generator",
+934,4,"颈动脉窦","carotid sinus",39.83
+934,5,"伴同步电极置换（全系统）","with synchronous electrode(s) replacement (total system)",39.81
+934,2,"袋一见置换，塞子或袋","bag-see Replacement, pack or bag",
+934,2,"导管","catheter",
+934,3,"脑室分流（脑的）","ventricular shunt (cerebral)",02.42
+934,3,"脑室外引流","external ventricular drain",02.21
+934,3,"膀胱（留置的）","bladder (indwelling)",57.95
+934,3,"膀胱造口术","cystostomy",59.94
+934,3,"伤口","wound",97.15
+934,3,"导联（电极）一见置换，起搏器，电极，心的","leads (electrode)(s)-see Replacement, electrode(s)",
+934,3,"电刺激器一见植入，电刺激器，按部位","electrostimulator-see Implant, electronic stimulator, by site",
+934,2,"电的","electronic",
+935,3,"刺激器—另见植入，电刺激器，按部位","stimulator-see also Implant, electronic stimulator, by site",
+935,4,"肌肉（骨骼）","muscle (skeletal)",83.92
+935,4,"膀胱","bladder",57.97
+935,4,"输尿管","ureter",56.93
+935,3,"导联（电极）—见置换，起搏器，电极，心的","leads (electrode) (s)-see Replacement, electrode(s)",
+935,3,"复律器/除颤器—见置换，复律器/除颤器","cardioverter/defibrillator-see Replacement, cardioverter/defibrillator",
+935,2,"电极—见植入，电极或导联经部位或装置名称","electrode(s)-see Implant, electrode or lead by site or name of device",
+935,3,"骶神经","sacral nerve",04.92
+935,3,"蝶的","sphenoidal",02.96
+935,3,"脊柱","spine",03.93
+935,3,"颈动脉窦","carotid sinus",39.82
+935,4,"伴同步脉冲发生器置换（全系统）","with synchronous pulse generator replacement (total system)",39.81
+935,3,"颅内的","intracranial",02.93
+935,3,"卵圆孔","foramen ovale",02.93
+935,3,"脑","brain",
+935,3,"蝶的","sphenoidal",02.96
+935,3,"卵圆孔","foramen ovale",02.93
+935,3,"深部","depth",02.93
+935,3,"起搏器—见置换，起搏器，电极","pacemaker-see Replacement, pacemaker, electrode(s)",
+935,3,"深部","depth",02.93
+935,3,"胃的","gastric",04.92
+935,3,"周围神经","peripheral nerve",04.92
+935,2,"动脉—见移植物，动脉","artery-see Graft, artery",
+935,2,"耳（假体）","ear (prosthetic)",18.71
+935,2,"二尖瓣NOS","mitral valve, NOS",35.24
+935,3,"伴有","with",
+935,3,"假体","prosthesis",35.24
+935,3,"组织移植","tissue graft",35.23
+935,2,"肺动脉瓣膜，NOS","pulmonary valve, NOS",35.26
+935,3,"伴有","with",
+935,3,"假体","prosthesis",35.26
+935,3,"组织移植","tissue graft",35.25
+935,3,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
+935,3,"经心尖（肋间的）（经导管）（经胸腔）（经心室）","transapical (intercostal) (transcatheter) (transthoracic) (transventricular)",35.08
+935,3,"肾盂造口术管","pyelostomy tube",55.94
+936,3,"管)(经股的)(经静脉)","endovascular (percutaneous) (PPVI) (TPVR) (transcatheter) (transfemoral) (transvenous)",35.07
+936,2,"复律器/除颤器(全系统)","cardioverter/defibrillator (total system)",37.94
+936,3,"仅导联(电极)(感知)(起搏)","leads only (electrodes) (sensing) (pacing)",37.97
+936,3,"仅脉搏发生器","pulse generator only:",37.98
+936,2,"股骨头，经假体","femoral head, by prosthesis",81.52
+936,3,"修复术","revision",81.53
+936,2,"管","tube",
+936,3,"鼻胃","nasogastric",97.01
+936,3,"大肠","large intestine",97.04
+936,3,"胆管","bile duct",97.05
+936,3,"脑室(脑的)","ventricular (cerebral)",02.42
+936,3,"膀胱","bladder",57.95
+936,3,"膀胱造口术","cystostomy",59.94
+936,3,"气管造口术","tracheostomy",97.23
+936,3,"肾盂造口术","pyelostomy",55.94
+936,3,"肾造口术","nephrostomy",55.93
+936,3,"食管造口术","esophagostomy",97.01
+936,3,"输尿管造口术","ureterostomy",59.93
+936,3,"胃造口术","gastrostomy",97.02
+936,3,"小肠","small intestine",97.03
+936,3,"胰腺管","pancreatic duct",97.05
+936,3,"直肠","rectal",96.09
+936,2,"哈林顿棒(伴脊柱再融合术)一见再融合术，脊柱的","Harrington rod (with refusion of spine)-see Refusion, spinal",
+936,2,"横膈，阴道","diaphragm, vagina",97.24
+936,2,"虹膜 NEC","iris NEC",12.39
+936,2,"喉支架","laryngeal stent",31.93
+936,2,"踝，全部","ankle, total",81.56
+936,3,"修复术","revision",81.59
+936,2,"环钳牵引装置(颅骨)","halo traction device (skull)",02.94
+936,2,"肌肉刺激器(骨骼)","muscle stimulator (skeletal)",83.92
+936,2,"机械性肾","mechanical kidney",55.97
+936,2,"脊柱运动保护装置","spinal motion preservation device",
+936,3,"棘突装置","interspinous process device(s)",84.80
+936,3,"椎弓根动力稳定装置","pedicle-based dynamic stabilization device (s)",84.82
+936,3,"椎骨关节面置换装置","facet replacement device(s)",84.84
+936,2,"夹板","splint",97.14
+937,2,"加德纳维尔斯钳（颅骨）","Gardner Wells tongs (skull)",02.94
+937,2,"假体","prosthesis",
+937,3,"臂（生物电的）（运动成型性）（运动成型性）","arm (bioelectric) (cineplastic) (kineplastic)",84.44
+937,3,"胆道","biliary tract",51.99
+937,3,"耳蜗","cochlear",20.96
+937,3,"股骨","femur",81.53
+937,3,"管道（单）","channel (single)",20.97
+937,4,"多","multiple",20.98
+937,3,"髋臼","acetabulum",81.53
+937,3,"输卵管（马利根罩）（支架）","fallopian tube (Mulligan hood) (stent)",66.93
+937,3,"腿（生物电的）（运动成型性）（运动成型性）","leg (bioelectric) (cineplastic) (kineplastic)",84.48
+937,3,"阴茎（内的）（非可膨胀的）","penis (internal) (non-inflatable)",64.95
+937,4,"膨胀（内的）","inflatable (internal)",64.97
+937,3,"肢（生物电的）（运动成型性）（运动成型性）","extremity (bioelectric) (cineplastic) (kineplastic)",84.40
+937,4,"上的","upper",84.44
+937,4,"下的","lower",84.48
+937,3,"肘","elbow",81.97
+937,2,"肩 NEC","shoulder NEC",81.83
+937,3,"部分的","partial",81.81
+937,3,"全部的，NEC","total, NEC",81.80
+937,4,"反向","reverse",81.88
+937,4,"其他","other",81.80
+937,2,"颈动脉压力反射激活装置","Rheos™ carotid sinus baroreflex activation device",39.81
+937,2,"卡钳（颅骨）","caliper tongs (skull)",02.94
+937,2,"克拉奇菲尔德钳（颅骨）","Crutchfield tongs (skull)",02.94
+937,2,"髋（部分）（伴固定装置）（伴假体）（伴牵引）","hip (partial) (with fixation device) (with prosthesis) (with traction)",81.52
+937,3,"股骨头","femoral head",81.52
+937,4,"修复术","revision",81.53
+937,3,"髋臼","acetabulum",81.52
+937,4,"修复术","revision",81.53
+937,3,"全部","total",81.51
+937,4,"修复术 NOS","revision NOS",81.53
+937,2,"髋臼（伴假体）","acetabulum (with prosthesis)",81.52
+937,2,"颅骨","skull",
+937,3,"金属板","plate",02.05
+937,3,"钳","tongs",02.94
+938,2,"马利根罩，输卵管","Mulligan hood, fallopian tube",66.93
+938,2,"泌尿系括约肌，人工","urinary sphincter, artificial",58.93
+938,2,"脑电图接收器（脑）（颅内）","electroencephalographic receiver (brain) (intracranial)",02.93
+938,2,"脑室分流（导管）（瓣膜）","ventricular shunt (valve)",02.42
+938,2,"内翻子宫一见修补术，内翻子宫","inverted uterus-see Repair, inverted uterus",
+938,2,"尿道括约肌，人工","urethral sphincter, artificial",58.93
+938,2,"盘一见置换，椎间盘","disc-see Replacement, intervertebral disc",
+938,2,"膀胱","bladder",
+938,3,"括约肌，人工的","sphincter, artificial",58.93
+938,3,"用","with",
+938,4,"回肠","ileal loop",57.87[45.51]
+938,4,"乙状结肠","sigmoid",57.87[45.52]
+938,2,"膀胱造瘘管（导管）","cystostomy tube (catheter)",59.94
+938,2,"脐带，脱垂","umbilical cord, prolapsed",73.92
+938,2,"起搏器","pacemaker",
+938,3,"骶神经一见植入，神经刺激器，骶神经","sacral nerve-see Implant, neurostimulator, sacral nerve",
+938,3,"电极，心的（心房）（经静脉）（心室）","electrode (s), cardiac (atrial) (trans- venous) (ventricular)",37.76
+938,4,"心外膜（心肌）","epicardium（myocardium）",37.74
+938,4,"左心室冠状静脉系统","left ventricular coronary venous system",00.52
+938,3,"脊柱一见植入，神经刺激器，脊柱","spine-see Implant, neurostimulator, spine",
+938,3,"颅内一见植入，神经刺激器，颅内的","intracranial-see Implant, neurostimulator, intracranial",
+938,3,"脑一见植入，神经刺激器，脑","brain-see Implant, neurostimulator, brain",
+938,3,"神经一见植入，神经刺激器，按部位","neural-see Implant, neurostimulator, by site",
+938,3,"胃的一见植入，神经刺激器，胃的","gastric-see Implant, neurostimulator, gastric",
+938,3,"心脏装置（初始的）（永久性）","cardiac device (initial) (permanent)",
+938,4,"单室装置","single-chamber device",37.85
+938,5,"节律反应","rate responsive",37.86
+938,4,"双室装置","dual-chamber device",37.87
+938,4,"再同步化一见置换，CRT-P","resynchronization-see Replacement, CRT-P",
+938,3,"暂时性经静脉起搏器系统","temporary transvenous pacemaker system",37.78
+938,3,"周围神经一见植入，神经刺激器，周围神经","peripheral nerve-see Implant, neurostimulator, peripheral nerve",
+938,2,"气管支架","tracheal stent",31.93
+938,2,"钳，颅骨","tongs, skull",02.94

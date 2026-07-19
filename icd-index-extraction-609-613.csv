@@ -1,12 +1,12 @@
 page,level,chinese,english,code
-609,4,"颈外动脉","external carotid",21.06
+609,5,"颈外动脉","external carotid",21.06
+609,5,"筛的","ethmoidal",21.04
+609,5,"上颌(经鼻窦的)","maxillary (transantral)",21.05
 609,4,"凝固(伴填塞)","coagulation (with packing)",21.03
-609,4,"筛的","ethmoidal",21.04
-609,4,"上颌(经鼻窦的)","maxillary (transantral)",21.05
 609,4,"烧灼(和填塞)","cauterization (and packing)",21.03
-609,3,"特指方法 NEC","specified means NEC",21.09
-609,3,"填塞(鼻的)(前的)","packing (nasal) (anterior)",21.01
-609,4,"后的(和前的)","posterior (and anterior)",21.02
+609,4,"特指方法 NEC","specified means NEC",21.09
+609,4,"填塞(鼻的)(前的)","packing (nasal) (anterior)",21.01
+609,5,"后的(和前的)","posterior (and anterior)",21.02
 609,2,"出血","hemorrhage",39.98
 609,3,"鼻-另见控制,鼻出血","nose-see also Control, epistaxis",21.00
 609,3,"扁桃腺(手术后)","tonsils (postoperative)",28.7
@@ -18,7 +18,7 @@ page,level,chinese,english,code
 609,3,"膀胱(手术后)","bladder (postoperative)",57.93
 609,3,"剖宫手术部位","laparotomy site",54.12
 609,3,"前列腺","prostate",60.94
-609,3,"十二指肠(溃疡)","duadenum (ulcer)",44.49
+609,3,"十二指肠(溃疡)","duodenum (ulcer)",44.49
 609,4,"经","by",
 609,5,"缝合(结扎)","suture (ligation)",44.42
 609,5,"栓塞(经导管)","embolization (transcatheter)",44.44

@@ -23,7 +23,7 @@
 419,3,"会阴的","perineal",60.62
 419,2,"圆韧带缩短","shortening of round ligaments",69.22
 419,1,"Alexander-Adams 手术(圆韧带缩短)","Alexander-Adams operation (shortening of round ligaments)",69.22
-419,1,"Almoor 手术(颞骨岩部外引流)","Almoor operation (extraperatosal drainage)",20.22
+419,1,"Almoor 手术(颞骨岩部外引流)","Almoor operation (extrapetrosal drainage)",20.22
 419,1,"Altemeier 手术(会阴直肠拖出)","Altemeier operation (perineal rectal pull-through)",48.49
 419,1,"Ammon 手术(泪囊切开术)","Ammon operation (dacryocystotomy)",09.53
 419,1,"Anderson 手术(胫骨延长)","Anderson operation (tibial lengthening)",78.37
@@ -61,7 +61,7 @@
 420,3,"填塞器","obturator",24.7
 420,2,"弓形杆(正牙的)","arch bars (orthodontic)",24.7
 420,3,"用于固定(骨折)","for immobilization (fracture)",93.55
-420,2,"假体，假体装置","prothesis, prosthetic device",
+420,2,"假体，假体装置","prosthesis, prosthetic device",
 420,3,"臂","arm",84.43
 420,4,"上的(和肩)","upper (and shoulder)",84.41
 420,4,"下的(和手)","lower (and hand)",84.42
@@ -105,7 +105,7 @@
 422,2,"肛周下部切开","undercutting",40.92
 422,2,"疝缝合术—见修补术,疝,腹股沟的","herniorrhaphy-see Repair, hernia, inguinal",
 422,1,"Bankhart 手术(进入关节盂的囊修补术,用于肩脱位)","Bankhart operation (capsular repair into glenoid, for shoulder dislocation)",81.82
-422,1,"Bardenheuer 手术(无名动脉结扎)","Bardenheuer operation (ligation of innominate artery)",38.85
+422,1,"Bardenheurer 手术(无名动脉结扎)","Bardenheurer operation (ligation of innominate artery)",38.85
 422,1,"Barkan 手术(前房角切开术)","Barkan operation (goniotomy)",12.52
 422,2,"伴前房角穿刺术","with goniopuncture",12.53
 422,1,"Barr 手术(胫后腱移植术)","Barr operation (transfer of tibialis posterior tendon)",83.75
@@ -126,24 +126,24 @@
 422,1,"Biesenberger 手术(乳房缩小,双侧)","Biesenberger operation (size reduction of breast, bilateral)",85.32
 422,2,"单侧","unilateral",85.31
 422,1,"Bigelow 手术(碎石洗出术)","Bigelow operation (litholapaxy)",57.0
-422,1,"Billilite 疗法(紫外线的)","Billilite therapy (ultraviolet)",99.82
+422,1,"Bililite 疗法(紫外线的)","Bililite therapy (ultraviolet)",99.82
 423,1,"Billroth I 型手术(部分胃切除术伴胃十二指肠吻合术)","Billroth I operation (partial gastrectomy with gastroduodenostomy)",43.6
 423,1,"Billroth II 型手术(部分胃切除术伴胃空肠吻合术)","Billroth II operation (partial gastrectomy with gastrojejunostomy)",43.7
 423,1,"Binnie 手术(肝固定术)","Binnie operation (hepatopexy)",50.69
 423,1,"Bischoff 手术(输尿管肾囊肿吻合术)","Bischoff operation (ureteroneocystostomy)",56.74
 423,1,"Bischoff 手术(脊髓切开术)","Bischoff operation (spinal myelotomy)",03.29
-423,1,"Bialock 手术(体动脉肺动脉吻合术)","Bialock operation (systemic-pulmonary anastomosis)",39.0
-423,1,"Bialock-Hanlon 手术(房间隔缺损制造)","Bialock-Hanlon operation (creation of atrial septal defect)",35.42
-423,1,"Bialock-Taussig 手术(锁骨下肺动脉吻合术)","Bialock-Taussig operation (subclavian-pulmonary anastomosis)",39.0
-423,1,"Blascowic 手术(上睑提肌切除术伴前徙术)","Blascowic operation (resection and advancement of levator palpebrae superioris)",08.33
+423,1,"Blalock 手术(体动脉肺动脉吻合术)","Blalock operation (systemic-pulmonary anastomosis)",39.0
+423,1,"Blalock-Hanlon 手术(房间隔缺损制造)","Blalock-Hanlon operation (creation of atrial septal defect)",35.42
+423,1,"Blalock-Taussig 手术(锁骨下肺动脉吻合术)","Blalock-Taussig operation (subclavian-pulmonary anastomosis)",39.0
+423,1,"Blascovic 手术(上睑提肌切除术伴前徙术)","Blascovic operation (resection and advancement of levator palpebrae superioris)",08.33
 423,1,"Blount 手术","Blount operation",
 423,2,"股骨缩短(伴页板)","femoral shortening (with blade plate)",78.25
-423,2,"经骨骺钉合术","by epiphyseal stapling",78.25
+423,3,"经骨骺钉合术","by epiphyseal stapling",78.25
 423,1,"Boari 手术(膀胱皮瓣)","Boari operation (bladder flap)",56.74
 423,1,"Bobb 手术(胆石切除术)","Bobb operation (cholelithotomy)",51.04
 423,1,"Bonney 手术(腹子宫切除术)","Bonney operation (abdominal hysterectomy)",68.49
 423,2,"腹腔镜的","laparoscopic",68.41
-423,1,"Borthen 手术(虹膜展开术)","Borthen operation (iridotomy)",12.63
+423,1,"Borthen 手术(虹膜展开术)","Borthen operation (iridotasis)",12.63
 423,1,"Bost 手术","Bost operation",
 423,2,"桡腕融合术","radiocarpal fusion",81.26
 423,2,"足底清扫术","plantar dissection",80.48

@@ -7,7 +7,7 @@ page,level,chinese,english,code
 834,1,"心冲击描记法","Ballistocardiography",89.59
 834,1,"心的","Cardiac",
 834,2,"按摩(外)(闭合性胸)","massage (external) (closed chest)",99.63
-834,2,"开胸","open chest",37.91
+834,3,"开胸","open chest",37.91
 834,2,"标测图","mapping",37.27
 834,2,"再训练","retraining",93.36
 834,1,"心电图(具有12个或更多个导联)","Electrocardiogram (with 12 or more leads)",89.52
@@ -74,24 +74,24 @@ page,level,chinese,english,code
 835,3,"腹腔血管的","peritoneo-vascular",54.94
 836,3,"经颈静脉肝内门体分流术(TIPS)","transjugular intrahepatic portosystemic (TIPS)",39.1
 836,3,"胸膜腹膜的","pleuroperitoneal",34.05
-836,3,"肛门,人工—另见结肠造口术","anus, artificial-see Colostomy",
+836,2,"肛门,人工—另见结肠造口术","anus, artificial-see Colostomy",
 836,3,"回肠造口术—另见回肠造口术","ileostomy-see Ileostomy",
 836,3,"空肠造口术","jejunostomy",46.39
 836,4,"经皮(内镜)(PEJ)","percutaneous (endoscopic) (PEJ)",46.32
 836,3,"十二指肠造口术","duodenostomy",46.39
-836,3,"骨皮瓣,颅的","bone flap, cranial",02.03
-836,3,"管瓣的(贝克加努)(弗兰克)(詹韦)(斯皮瓦克)(萨-弗)","tubulovalvular fistula (Beck-Jianu) (Franks) (Janeway) (Spivaks) (Ssabanejew-Frank)",43.19
+836,2,"骨皮瓣,颅的","bone flap, cranial",02.03
+836,2,"管瓣的(贝克加努)(弗兰克)(詹韦)(斯皮瓦克)(萨-弗)","tubulovalvular fistula (Beck-Jianu) (Franks) (Janeway) (Spivaks) (Ssabanejew-Frank)",43.19
 836,2,"回肠的","ileal",
 836,3,"膀胱","bladder",
 836,4,"闭合性","closed",57.87[45.51]
 836,4,"开放","open",56.51
-836,4,"通道","conduit",56.51
-836,3,"间隔的缺损,心房间","septal defect, interatrial",35.42
+836,3,"通道","conduit",56.51
+836,2,"间隔的缺损,心房间","septal defect, interatrial",35.42
 836,2,"结肠造口术—另见结肠造口术","colostomy-see Colostomy",
 836,2,"瘘","fistula",
 836,3,"动静脉(用于肾透析)(周围分流)","arteriovenous (for kidney dialysis) (peripheral shunt)",39.27
 836,4,"外部套管","external cannula",39.93
-836,4,"管瓣的(贝克加努)(弗兰克)(詹韦)(斯皮瓦克)(萨-弗)","tubulovalvular (Beck-Jianu) (Franks) (Janeway) (Spivacks) (Ssabanejew-Frank)",43.19
+836,3,"管瓣的(贝克加努)(弗兰克)(詹韦)(斯皮瓦克)(萨-弗)","tubulovalvular (Beck-Jianu) (Franks) (Janeway) (Spivacks) (Ssabanejew-Frank)",43.19
 836,3,"黏液的—另见结肠造口术","mucous-see Colostomy",
 836,3,"尿道阴道的","urethrovaginal",58.0
 836,3,"膀胱至皮肤 NEC","bladder to skin NEC",57.18
@@ -105,7 +105,7 @@ page,level,chinese,english,code
 836,2,"囊袋","pocket",
 836,3,"丘脑刺激器脉搏发生器","thalamic stimulator pulse generator",
 836,4,"伴首次电池包植入—省略编码","with initial insertion of battery package-omit code",
-837,3,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",86.09
+837,4,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",86.09
 837,3,"心脏装置(除颤器)(起搏器)","cardiac device (defibrillator) (pacemaker)",
 837,4,"伴首次心脏装置植入—省略编码","with initial insertion of cardiac device-omit code",
 837,3,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",37.79
@@ -117,7 +117,7 @@ page,level,chinese,english,code
 837,4,"伴首次操作—省略编码","with initial procedure-omit code",
 837,3,"丘脑刺激器脉搏发生器囊袋","thalamic stimulator pulse generator pocket",
 837,4,"伴首次电池包植入—省略编码","with initial insertion of battery package-omit code",
-837,3,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",86.09
+837,4,"新部位(皮肤)(皮下)","new site (skin)(subcutaneous)",86.09
 837,3,"食管","esophageal",42.86
 837,4,"伴吻合—见吻合术,食管,胸骨前的","with anastomosis-see Anastomosis, esophagus, antesternal",
 837,2,"气管食管的","tracheoesophageal",31.95
@@ -141,14 +141,14 @@ page,level,chinese,english,code
 837,3,"折流板,心房间","baffle, interatrial",35.91
 837,2,"心房间瘘","interatrial fistula",35.42
 837,2,"心脏起搏器囊袋","cardiac device (defibrillator) (pacemaker) pocket",
-838,2,"伴首次起搏器植入—省略编码","with initial insertion of cardiac device-omit code",
-838,2,"新部位(皮肤)(皮下)","new site (skin) (subcutaneous)",37.79
-838,1,"胸膜窗(为了引流)","pleural window (for drainage)",34.09
-838,1,"粘连","adhesions",
-838,2,"心包","pericardium",36.39
-838,2,"胸膜","pleura",34.6
-838,1,"直肠内回肠凹(J凹)(H凹)(S凹)(伴与肛门吻合)","endorectal ileal pouch (J-pouch) (H-pouch) (S-pouch) (with anastomosis to anus)",45.95
-838,1,"直肠阴道的瘘","rectovaginal fistula",48.99
+838,3,"伴首次起搏器植入—省略编码","with initial insertion of cardiac device-omit code",
+838,3,"新部位(皮肤)(皮下)","new site (skin) (subcutaneous)",37.79
+838,2,"胸膜窗(为了引流)","pleural window (for drainage)",34.09
+838,2,"粘连","adhesions",
+838,3,"心包","pericardium",36.39
+838,3,"胸膜","pleura",34.6
+838,2,"直肠内回肠凹(J凹)(H凹)(S凹)(伴与肛门吻合)","endorectal ileal pouch (J-pouch) (H-pouch) (S-pouch) (with anastomosis to anus)",45.95
+838,2,"直肠阴道的瘘","rectovaginal fistula",48.99
 838,1,"行为改正","Behavior modification",94.33
 838,1,"性格分析,心理学的","Character analysis, psychologic",94.03
 838,1,"性情评估","Temperament assessment",94.02

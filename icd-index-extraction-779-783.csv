@@ -34,7 +34,7 @@ page,level,chinese,english,code
 779,3,"改良(伴关节固定术)","modified (with arthrodesis)",77.57
 779,3,"改良(腱移植术伴关节固定术)","modified (tendon transfer with arthrodesis)",77.57
 779,3,"泪囊鼻腔造口术","dacryocystorhinostomy",09.81
-780,4,"爪形趾(伸拇长肌肌腱移植术)","claw toe (transfer of extensor hallucis longus tendon)",77.57
+780,3,"爪形趾(伸拇长肌肌腱移植术)","claw toe (transfer of extensor hallucis longus tendon)",77.57
 780,2,"丘脑","thalamus",01.41
 780,3,"经立体定位放射外科学","by stereotactic radiosurgery",92.32
 780,4,"单源光子","single source photon",92.31
@@ -56,7 +56,7 @@ page,level,chinese,english,code
 780,3,"手","hand",82.99
 780,2,"撒尔(食管狭窄修修补术)","Thal (repair of esophageal stricture)",42.85
 780,2,"萨登-布鲁克斯(胸大肌肌腱移植术)","Seddon-Brooks (transfer of pectoralis major tendon)",83.75
-780,2,"萨弗(永久性胃造口术)","Ssabanajew-Frank (permanent gastrostomy)",43.19
+780,2,"萨弗(永久性胃造口术)","Ssabanejew-Frank (permanent gastrostomy)",43.19
 780,2,"萨默斯基尔(泪囊鼻腔造口术,经插管法)","Summerskill (dacryocystorhinostomy by intubation)",09.81
 780,2,"腮腺或管 NEC","parotid gland or duct NEC",26.99
 780,2,"赛弗(臂软组织切断)","Sever (division of soft tissue of arm)",83.19
@@ -163,7 +163,7 @@ page,level,chinese,english,code
 783,2,"提尔施","Thiersch",
 783,3,"肛门","anus",49.79
 783,3,"皮肤移植","skin graft",86.69
-783,3,"手","hand",86.62
+783,4,"手","hand",86.62
 783,2,"提肌悬吊","levator muscle sling",
 783,3,"尿道口失禁","urinary stress incontinence",59.71
 783,3,"尿道膀胱悬吊术","urethrovesical suspension",59.71

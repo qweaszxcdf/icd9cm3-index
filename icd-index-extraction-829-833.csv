@@ -11,7 +11,7 @@ page,level,chinese,english,code
 829,2,"支气管","bronchus",33.48
 829,2,"支气管气管","bronchotracheal",33.48
 829,2,"直肠 NEC","rectum, rectal NEC",48.74
-829,2,"残端与小肠","stump to small intestine",45.92
+829,3,"残端与小肠","stump to small intestine",45.92
 829,2,"主动脉(降)肺动脉(动脉)","aorta (descending)-pulmonary (artery)",39.0
 829,2,"主动脉(髂动脉)股动脉","aorto(ilio)femoral",39.25
 829,2,"主动脉肠系膜动脉","aortomesenteric",39.26
@@ -99,7 +99,7 @@ page,level,chinese,english,code
 831,1,"下巴突出退缩术","Prognathic recession",76.64
 831,1,"下颌骨切除术(部分)","Mandibulectomy (partial)",76.31
 831,2,"全部的","total",76.42
-831,2,"伴重建","with reconstruction",76.41
+831,3,"伴重建","with reconstruction",76.41
 831,1,"下消化道钡剂摄影(X-线)","Lower GI series (x-ray)",87.64
 831,1,"下游系统(AO疗法)(水氧)","Downstream System (AO therapy) (aqueous oxygen)",00.49
 831,1,"涎道成形术 NEC","Sialodochoplasty NEC",26.49
@@ -109,8 +109,8 @@ page,level,chinese,english,code
 831,1,"涎腺切除术(腮腺)(舌下腺)(颌下腺)","Sialoadenectomy (parotid) (sublingual) (submaxillary)",26.30
 831,2,"部分","partial",26.31
 831,2,"根治","radical",26.32
-832,1,"完全","complete",26.32
-832,1,"涎腺切开术","Sialadenotomy",26.0
+832,2,"完全","complete",26.32
+832,1,"涎腺切开术","Sialoadenotomy",26.0
 832,1,"涎腺切石术","Ptyalolithotomy, Sialolithotomy",26.0
 832,1,"阴凹镜检查(后穹窿镜检查)(探查术)(异物去除或病损)","Culdoscopy (exploration) (removal of foreign body or lesion)",70.22
 832,1,"腺切除术—另见切除术,按部位","Adenectomy-see also Excision, by site",
@@ -125,8 +125,8 @@ page,level,chinese,english,code
 832,3,"肠","intestine",
 832,4,"大","large",45.49
 832,5,"内镜","endoscopic",45.43
-832,4,"大肠","large intestine",45.49
-832,5,"内镜","endoscopic",45.43
+832,3,"大肠","large intestine",45.49
+832,4,"内镜","endoscopic",45.43
 832,3,"肺","lung",32.26
 832,4,"经皮的","percutaneous",32.24
 832,4,"开放性","open",32.23
@@ -150,7 +150,7 @@ page,level,chinese,english,code
 832,5,"血管内入路","endovascular approach",37.34
 832,4,"胸腔镜入路","thoracoscopic approach",37.37
 832,4,"血管内入路","endovascular approach",37.34
-833,3,"垂体","pituitary",07.69
+833,2,"垂体","pituitary",07.69
 833,3,"经","by",
 833,4,"钴-60","Cobalt-60",92.32
 833,4,"植入(锶钇)(Y) NEC","implantation (strontium-yttrium) (Y) NEC",07.68

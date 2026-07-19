@@ -1,5 +1,5 @@
 page,level,chinese,english,code
-704,4,"丘脑刺激器脉搏发生器囊袋,新部位","thalamic stimulator pulse generator pocket, new site",86.09
+704,3,"丘脑刺激器脉搏发生器囊袋,新部位","thalamic stimulator pulse generator pocket, new site",86.09
 704,4,"伴首次电池包植入—省略编码","with initial insertion of battery package-omit code",
 704,3,"乳房","breast",85.0
 704,3,"心脏起搏器囊袋,新部位","cardiac pacemaker pocket, new site",37.79
@@ -26,7 +26,7 @@ page,level,chinese,english,code
 704,3,"伴切断","with division",83.19
 704,4,"手","hand",82.19
 704,3,"手","hand",82.09
-704,4,"伴切断","division",82.19
+704,4,"伴切断","with division",82.19
 704,2,"腮腺","parotid",
 704,3,"间隙","space",27.0
 704,3,"腺或管","gland or duct",26.0
@@ -149,9 +149,9 @@ page,level,chinese,english,code
 707,3,"用于终止妊娠","for termination of pregnancy",74.91
 707,3,"子宫颈","cervix",69.96
 707,2,"子宫颈","cervix",69.95
-707,2,"为了","to",
-707,3,"辅助分娩","assist delivery",73.93
-707,3,"内翻子宫复位","replace inverted uterus",75.93
+707,3,"为了","to",
+707,4,"辅助分娩","assist delivery",73.93
+707,4,"内翻子宫复位","replace inverted uterus",75.93
 707,2,"纵隔","mediastinum",34.1
 707,2,"左房后和冠状窦间共同壁层(伴造成缺损的遮蔽和补片移植)","common wall between posterior left atrium and coronary sinus (with roofing of resultant defect with patch graft)",35.82
 707,2,"坐骨直肠组织","ischiorectal tissue",49.02

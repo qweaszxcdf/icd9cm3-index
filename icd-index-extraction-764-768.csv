@@ -86,7 +86,7 @@ page,level,chinese,english,code
 766,2,"杜普伊特伦","Dupuytren",
 766,3,"肩关节离断","shoulder disarticulation",84.08
 766,3,"筋膜切除术","fasciectomy",82.35
-766,3,"筋膜切开术","asciotomy",82.12
+766,3,"筋膜切开术","fasciotomy",82.12
 766,4,"伴切除术","with excision",82.35
 766,2,"杜托伊特和鲁氏(钉合肩关节囊缝合术)","DuToit and Roux (staple capsulorrhaphy of shoulder)",81.82
 766,2,"对切子宫切除术","bisection hysterectomy",68.39
@@ -109,7 +109,7 @@ page,level,chinese,english,code
 767,2,"肺 NEC","lung NEC",33.99
 767,2,"肺动脉 NEC","pulmonary NEC",33.99
 767,2,"肺减容","lung volume reduction",32.22
-767,2,"生物学肺容积减少术(BLVR)一见亚目","biologic lung volume reduction (BLVR)-see subcategory",33.7
+767,3,"生物学肺容积减少术(BLVR)一见亚目","biologic lung volume reduction (BLVR)-see subcategory",33.7
 767,2,"芬尼(幽门成形术)","Finney (pyloroplasty)",44.29
 767,2,"冯克拉斯基(直肠切开术)","von Kraske (proctectomy)",48.64
 767,2,"佛朗哥(耻骨上膀胱造口术)","Franco (suprapubic cystotomy)",57.19

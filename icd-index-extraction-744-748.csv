@@ -123,7 +123,7 @@ page,level,chinese,english,code
 747,1,"疝切开术一见修补术,疝","Herniotomy-see Repair, hernia",
 747,1,"疝修复术一见修补术,疝","Hernioplasty-see Repair, hernia",
 747,1,"上消化道摄片(X线)","Upper GI series (x-ray)",87.62
-747,1,"杓状软骨固定术","Arytenidopexy",31.69
+747,1,"杓状软骨固定术","Arytenoidopexy",31.69
 747,1,"杓状软骨切除术","Arytenoidectomy",30.29
 747,1,"烧伤敷料","Burn dressing",93.57
 747,1,"烧灼术一另见破坏,病损,按部位","Cauterization-see also Destruction, lesion, by site",
@@ -136,7 +136,7 @@ page,level,chinese,english,code
 747,2,"耳,外的","ear, external",18.29
 748,2,"肺","lung",32.29
 748,3,"内镜的","endoscopic",32.28
-748,4,"胸腔镜的","thoracoscopic",32.20
+748,3,"胸腔镜的","thoracoscopic",32.20
 748,2,"肝","liver",50.29
 748,2,"肛门 NEC","anus NEC",49.39
 748,3,"内镜","endoscopic",49.31

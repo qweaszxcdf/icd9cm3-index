@@ -1,6 +1,6 @@
 page,level,chinese,english,code
-714,4,"心房和(或)心室导联(电极)","atrial and/or ventricular lead(s) (electrode)",37.76
-714,4,"心外膜导联","epicardial lead",37.74
+714,5,"心房和(或)心室导联(电极)","atrial and/or ventricular lead(s) (electrode)",37.76
+714,5,"心外膜导联","epicardial lead",37.74
 714,3,"心脏起搏器(心房)(经静脉)(心室)","cardiac pacemaker (atrial) (transvenous) (ventricular)",37.77
 714,4,"伴置换","with replacement",37.76
 714,3,"硬膜外钉","epidural pegs",01.22
@@ -49,7 +49,7 @@ page,level,chinese,english,code
 715,2,"根,残留(牙)(埋藏)(存留)","root, residual (tooth) (buried) (retained)",23.11
 715,2,"宫内避孕装置(IUD)","intrauterine contraceptive device (IUD)",97.71
 715,2,"弓形杆(齿矫形)","arch bars (orthodontic)",24.8
-715,2,"固定装置","immobilization device",97.33
+715,3,"固定装置","immobilization device",97.33
 715,2,"巩膜扣压术或植入","scleral buckle or implant",14.6
 715,2,"鼓膜切开术装置或管","myringotomy device or tube",20.1
 715,2,"骨软骨游离体,关节结构-另见关节切开术","osteocartilagenous loose body, joint structures-see also Arthrotomy",80.10
@@ -82,8 +82,8 @@ page,level,chinese,english,code
 716,4,"趾骨(足)(手)","phalanges (foot) (hand)",78.69
 716,4,"椎骨","vertebrae",78.69
 716,3,"外的","external",97.88
-716,3,"微型固定(骨)-见亚目","minifixator (bone)-see subcategory",78.6
-716,3,"下颌骨的 NEC","mandibular NEC",97.36
+716,4,"微型固定(骨)-见亚目","minifixator (bone)-see subcategory",78.6
+716,4,"下颌骨的 NEC","mandibular NEC",97.36
 716,2,"挂线法,肛门","seton, anus",49.93
 716,2,"关节(结构) NOS","joint (structure) NOS",80.90
 716,3,"踝","ankle",80.97
@@ -121,7 +121,7 @@ page,level,chinese,english,code
 717,3,"胰","pancreas",97.56
 717,3,"纵隔","mediastinum",97.42
 717,2,"冠状动脉梗阻(血栓)","coronary artery obstruction (thrombus)",36.09
-717,2,"经皮经管腔(球囊)","percutaneous transluminal (balloon)",
+717,3,"经皮经管腔(球囊)","percutaneous transluminal (balloon)",
 717,3,"开放胸入路","open chest approach",36.03
 717,3,"直接冠状动脉内输注","direct intracoronary artery infusion",36.04
 717,2,"硅橡胶管","silastic tubes",

@@ -56,9 +56,9 @@ page,level,chinese,english,code
 565,2,"奥狄括约肌","sphincter of Oddi",51.14
 565,3,"闭合性(内镜)","closed (endoscopic)",51.14
 565,3,"开放性","open",51.13
-565,2,"贲门食管的(连接处)","cardoesophageal (junction)",44.14
+565,2,"贲门食管的(连接处)","cardioesophageal (junction)",44.14
 565,3,"闭合性(内镜)","closed (endoscopic)",44.14
-565,4,"开放性","open",44.15
+565,3,"开放性","open",44.15
 565,2,"鼻,鼻的","nose, nasal",21.22
 565,3,"窦","sinus",22.11
 565,4,"闭合性(内镜)(针吸)","closed (endoscopic) (needle)",22.11
@@ -128,8 +128,8 @@ page,level,chinese,english,code
 567,3,"闭合性","closed",50.11
 567,3,"腹腔镜","laparoscopic",50.14
 567,3,"经皮的(抽吸)(针吸)","percutaneous (aspiration) (needle)",50.11
-567,4,"经颈静脉的","transjugular",50.13
-567,4,"经静脉的","transvenous",50.13
+567,3,"经颈静脉的","transjugular",50.13
+567,3,"经静脉的","transvenous",50.13
 567,3,"开放","open",50.12
 567,2,"肛门","anus",49.23
 567,2,"肛周组织","perianal tissue",49.22

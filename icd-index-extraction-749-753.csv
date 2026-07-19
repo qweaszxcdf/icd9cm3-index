@@ -48,7 +48,7 @@ page,level,chinese,english,code
 750,2,"半月的","gasserian",04.05
 750,2,"蝶腭(美克尔)","sphenopalatine (Meckel's)",05.21
 750,2,"腱鞘(腕关节)","tendon sheath (wrist)",82.21
-750,2,"除手以外的部位","site other than hand",83.31
+750,3,"除手以外的部位","site other than hand",83.31
 750,2,"三叉","trigeminal",04.05
 750,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.06
 750,3,"交感神经","sympathetic",05.29
@@ -93,7 +93,7 @@ page,level,chinese,english,code
 751,2,"射频","radiofrequency",04.2
 751,1,"神经压轧术(周围的) NEC","Neurotripsy (peripheral) NEC",04.03
 751,2,"三叉的","trigeminal",04.02
-751,1,"神经支切断术(交感神经)","Ramiseciton (sympathetic)",05.0
+751,1,"神经支切断术(交感神经)","Ramisection (sympathetic)",05.0
 751,1,"神经阻滞(颅的)(周围的) NEC一另见阻滞,按部位","Nerve block (cranial) (peripheral) NEC-see also Block, by site",04.81
 751,1,"肾部分切除术","Heminephrectomy",55.4
 751,1,"肾成形术","Nephroplasty",55.89
@@ -120,10 +120,10 @@ page,level,chinese,english,code
 752,2,"双侧","bilateral",07.3
 752,3,"部分","partial",07.29
 752,3,"大部","subtotal",07.29
-752,3,"完全","complete",07.3
+752,2,"完全","complete",07.3
 752,1,"肾上腺切开术(伴引流)","Adrenalotomy (with drainage)",07.41
 752,1,"肾石切除术","Nephrolithotomy",55.01
-752,1,"肾输尿管膀胱切除术","Nephroureterocystectomy",55.51
+752,1,"肾输尿管膀胱切除术","Nephroureterocystectomy",55.51 [57.79]
 752,1,"肾输尿管切除术(伴膀胱反折)","Nephroureterectomy (with bladder cuff)",55.51
 752,1,"肾松解术","Nephrolysis",59.02
 752,2,"腹腔镜","laparoscopic",59.03
@@ -149,7 +149,7 @@ page,level,chinese,english,code
 752,1,"肾造口术(伴引流管)","Nephrostomy (with drainage tube)",55.02
 752,2,"闭合","closure",55.82
 752,2,"经皮的","percutaneous",55.03
-753,2,"伴碎裂,破碎(超声)","with fragmentation (ultrasound)",55.04
+753,3,"伴碎裂,破碎(超声)","with fragmentation (ultrasound)",55.04
 753,1,"肾盏回肠膀胱吻合术","Calyco-ileoneocystostomy",55.86
 753,1,"肾盏切除术(肾)","Calicectomy,Calycectomy (renal)",55.4
 753,1,"肾盏切开术(肾)","Calycotomy (renal)",55.11

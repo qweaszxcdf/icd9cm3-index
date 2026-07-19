@@ -31,7 +31,7 @@ page,level,chinese,english,code
 604,1,"Kader 手术(暂时性胃造口术)","Kader operation (temporary gastrostomy)",43.19
 604,1,"Kasai 门静脉肠造口术","Kasai portoenterostomy",51.37
 604,1,"Kaufman 手术(用于尿道口失禁)","Kaufman operation (for urinary stress incontinence)",59.79
-604,1,"Kazanjian 手术(颊前庭颊唇沟或舌沟牵伸术)","Kazanjian operation (buccal vestibular sulcus extension)",24.91
+604,1,"Kazanjiian 手术(颊前庭颊唇沟或舌沟牵伸术)","Kazanjian operation (buccal vestibular sulcus extension)",24.91
 604,1,"Kehr 手术(肝固定术)","Kehr operation (hepatopexy)",50.69
 604,1,"Keller 手术(踇囊肿切除术)","Keller operation (bunionectomy)",77.59
 605,1,"Kelly(-Kennedy)手术(尿道膀胱折叠术)","Kelly (-Kennedy) operation (urethrovesical plication)",59.3
@@ -50,10 +50,10 @@ page,level,chinese,english,code
 605,2,"皮肤输尿管回肠造口术","cutaneous uretero-ileostomy",56.51
 605,2,"去除,结石","removal, calculus",57.19
 605,2,"修复术,皮肤输尿管回肠造口术","revision, cutaneous uretero-ileostomy",56.52
-605,1,"Kockogram(回肠代膀胱造影)","Kockogram (ileal conduitiogram)",87.78
+605,1,"Kockogram(回肠代膀胱造影)","Kockogram (ileal conduitogram)",87.78
 605,1,"Kockoscopy(小肠内镜检查)","Kockoscopy",45.12
 605,1,"Kondoleon 手术(淋巴水肿矫正术)","Kondoleon operation (correction of lymphedema)",40.9
-605,1,"Krause 手术(交感神经去神经术)","Krause operation (symphatetic denervation)",05.29
+605,1,"Krause 手术(交感神经去神经术)","Krause operation (sympathetic denervation)",05.29
 605,1,"Kroener 手术(部分输卵管切除术)","Kroener operation (partial salpingectomy)",66.69
 605,1,"Kroenlein 手术(眶侧切开术)","Kroenlein operation (lateral orbitotomy)",16.01
 605,1,"Kronig 手术(子宫颈下剖宫产术)","Kronig operation (low cervical cesarean section)",74.1
@@ -169,7 +169,7 @@ page,level,chinese,english,code
 608,1,"空腔造口术","Cavernostomy",33.1
 608,1,"控制","Control",
 608,2,"鼻出血","epistaxis",21.00
-608,2,"经","by",
-608,3,"鼻黏膜切除术伴移植","excision of nasal mucosa with grafting",21.07
-608,3,"电凝术(伴填塞)","electrocoagulation (with packing)",21.03
-608,3,"动脉结扎","ligation of artery",21.09
+608,3,"经","by",
+608,4,"鼻黏膜切除术伴移植","excision of nasal mucosa with grafting",21.07
+608,4,"电凝术(伴填塞)","electrocoagulation (with packing)",21.03
+608,4,"动脉结扎","ligation of artery",21.09

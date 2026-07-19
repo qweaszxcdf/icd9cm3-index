@@ -36,7 +36,7 @@ page,level,chinese,english,code
 839,4,"小肠 NEC","small intestine NEC",46.73
 839,2,"肠膨出(女性)","enterocele (female)",70.92
 839,3,"伴移植物或假体","with graft or prosthesis",70.93
-840,2,"男性","male",53.9
+840,3,"男性","male",53.9
 840,2,"肠系膜","mesentery",54.75
 840,2,"肠造口术","enterostomy",46.40
 840,2,"重叠趾","overlapping toe",77.58
@@ -74,7 +74,7 @@ page,level,chinese,english,code
 840,5,"伴","with",
 840,6,"吻合—见动脉瘤切除术,伴吻合,按部位","anastomosis-see Aneurysmectomy, with anastomosis, by site",
 840,6,"移植物置换—见动脉瘤切除术,伴移植物置换,按部位","graft replacement-see Aneurysmectomy, with graft replacement, by site",
-840,5,"切断","division",39.53
+840,4,"切断","division",39.53
 841,4,"弹簧圈,NEC(血管内入路)","coil, NEC (endovascular approach)",39.79
 841,5,"头和颈血管","head and neck vessels",
 841,6,"裸弹簧圈","bare coils",39.75
@@ -82,34 +82,34 @@ page,level,chinese,english,code
 841,2,"动脉 NEC","artery NEC",39.59
 841,3,"伴","with",
 841,4,"补片移植","patch graft",39.58
-841,4,"伴切除术或血管切除术—见动脉切除术,伴移植物置换,按部位","with excision or resection of vessel-see Arteriectomy, with graft replacement, by site",
-841,4,"人造的(涤纶)(聚四氟乙烯)","synthetic (Dacron) (Teflon)",39.57
-841,4,"组织(静脉)(自体的)(自体移植)","tissue (vein) (autogenous) (homograft)",39.56
+841,5,"伴切除术或血管切除术—见动脉切除术,伴移植物置换,按部位","with excision or resection of vessel-see Arteriectomy, with graft replacement, by site",
+841,5,"人造的(涤纶)(聚四氟乙烯)","synthetic (Dacron) (Teflon)",39.57
+841,5,"组织(静脉)(自体的)(自体移植)","tissue (vein) (autogenous) (homograft)",39.56
 841,4,"缝合","suture",39.31
 841,3,"冠状 NEC","coronary NEC",36.99
 841,4,"经动脉粥样硬化切除术—见血管成形术,冠状","by atherectomy-see Angioplasty, coronary",
 841,5,"经皮经管腔","percutaneous transluminal",17.55
 841,4,"经血管成形术—见血管成形术,冠状","by angioplasty-see Angioplasty, coronary",
-841,4,"经","by",
-841,5,"经皮经管腔非冠状血管成形术或动脉粥样硬化切除术","non-coronary percutaneous transluminal approach",
-841,4,"动脉粥样硬化切除术","atherectomy",17.56
-841,4,"血管成形术","angioplasty",
-841,5,"肠系膜","mesenteric",39.50
-841,5,"股腘的","femoropopliteal",39.50
-841,5,"基底","basilar",00.62
-841,5,"脊椎的","vertebral",00.61
-841,5,"颅内部分","intracranial portion",00.62
-841,5,"颈动脉","carotid",00.61
-841,5,"髂的","iliac",39.50
-841,5,"上肢 NOS","upper extremity NOS",39.50
-841,5,"肾的","renal",39.50
-841,5,"下肢 NOS","lower extremity NOS",39.50
-841,5,"血管内入路","endovascular approach",
-841,6,"腹主动脉","abdominal aorta",39.71
-842,5,"开窗(分支)移植","fenestrated (branching) graft",39.78
+841,3,"经","by",
+841,4,"经皮经管腔非冠状血管成形术或动脉粥样硬化切除术","non-coronary percutaneous transluminal approach",
+841,5,"动脉粥样硬化切除术","atherectomy",17.56
+841,5,"血管成形术","angioplasty",
+841,6,"肠系膜","mesenteric",39.50
+841,6,"股腘的","femoropopliteal",39.50
+841,6,"基底","basilar",00.62
+841,6,"脊椎的","vertebral",00.61
+841,7,"颅内部分","intracranial portion",00.62
+841,6,"颈动脉","carotid",00.61
+841,6,"髂的","iliac",39.50
+841,6,"上肢 NOS","upper extremity NOS",39.50
+841,6,"肾的","renal",39.50
+841,6,"下肢 NOS","lower extremity NOS",39.50
+841,4,"血管内入路","endovascular approach",
+841,5,"腹主动脉","abdominal aorta",39.71
+842,6,"开窗(分支)移植","fenestrated (branching) graft",39.78
 842,5,"经皮颅内血管修补术(用于支架插入)","percutaneous repair of intracranial vessel(s) (for stent insertion)",00.62
 842,5,"经皮颅外血管修补术(用于支架插入)","percutaneous repair of extracranial vessel(s) (for stent insertion)",00.61
-842,4,"其他修补术(动脉瘤)","other repair (of aneurysm)",39.79
+842,5,"其他修补术(动脉瘤)","other repair (of aneurysm)",39.79
 842,5,"头和颈(栓塞或闭塞)","head and neck (total embolization or occlusion)",39.72
 842,2,"动脉导管未闭","patent ductus arteriosus",38.85
 842,2,"动脉干","truncus arteriosus",
@@ -125,16 +125,16 @@ page,level,chinese,english,code
 842,6,"头和颈","head and neck",39.72
 842,4,"穿丝法","filipuncture",39.52
 842,4,"电凝术","electrocoagulation",39.52
-842,4,"伴","with",
+842,5,"伴","with",
 842,5,"吻合术—见动脉瘤切除术,伴吻合,按部位","anastomosis-see Aneurysmectomy, with anastomosis, by site",
 842,5,"移植物置换—见动脉瘤切除术,伴移植物置换,按部位","graft replacement-see Aneurysmectomy, with graft replacement, by site",
 842,5,"切除术或血管切除术—另见动脉瘤切除术,按部位","excision or resection of vessel-see also Aneurysmectomy, by site",
-842,5,"缝合","suture",39.52
-842,5,"甲基丙烯酸甲酯","methyl methacrylate",39.52
-842,6,"血管内入路","endovascular approach",39.79
-842,7,"头和颈","head and neck",39.72
-842,5,"结扎","ligation",39.52
-842,5,"凝固","coagulation",39.52
+842,4,"缝合","suture",39.52
+842,4,"甲基丙烯酸甲酯","methyl methacrylate",39.52
+842,5,"血管内入路","endovascular approach",39.79
+842,6,"头和颈","head and neck",39.72
+842,4,"结扎","ligation",39.52
+842,4,"凝固","coagulation",39.52
 843,4,"钳夹","clipping",39.51
 843,4,"栓结术","wiring",39.52
 843,4,"弹簧圈,NEC(血管内入路)","coil, NEC (endovascular approach)",39.79
@@ -148,29 +148,29 @@ page,level,chinese,english,code
 843,6,"头和颈","head and neck",39.72
 843,5,"下肢动脉","lower extremity artery(s)",39.79
 843,5,"胸主动脉","thoracic aorta",39.73
-843,5,"液体组织粘连(粘合)","liquid tissue adhesive (glue)",39.79
-843,6,"血管内入路","endovascular approach",39.79
-843,7,"头和颈","head and neck",39.72
+843,4,"液体组织粘连(粘合)","liquid tissue adhesive (glue)",39.79
+843,5,"血管内入路","endovascular approach",39.79
+843,6,"头和颈","head and neck",39.72
 843,5,"移植物置换—见动脉瘤切除术,伴移植物置换,按部位","graft replacement-see Aneurysmectomy, with graft replacement, by site",
-843,5,"瓦尔萨尔瓦窦","sinus of Valsalva",35.39
-843,5,"心脏","heart",37.32
-843,5,"胸主动脉(夹层性),经开窗术","thoracic aorta (dissecting), by fenestration",39.54
-843,4,"窦","sinus",
-843,5,"鼻 NEC","nasal NEC",22.79
-843,5,"瓦尔萨尔瓦的(动脉瘤)","of Valsalva (aneurysm)",35.39
-843,5,"腭 NEC","palate NEC",27.69
-843,5,"裂","cleft",27.62
-843,5,"Ⅱ期或随后的","secondary or subsequent",27.63
-843,5,"撕裂(经缝合)","laceration (by suture)",27.61
-843,4,"耳(外)","ear (external)",18.79
-843,5,"耳道或口","auditory canal or meatus",18.6
-843,5,"耳下垂","lop ear",18.79
-843,5,"前突或突出","prominent or protruding",18.5
-843,5,"软骨 NEC","cartilage NEC",18.79
-843,5,"撕裂(经缝合)","laceration (by suture)",18.4
-843,5,"外耳 NEC","auricle NEC",18.79
-843,5,"中 NEC","middle NEC",19.9
-843,4,"耳蜗假体装置","cochlear prosthetic device",20.99
-843,5,"仅外部成分","external components only",95.49
-843,4,"耳下垂","lop ear",18.79
-843,4,"法洛四联症","tetralogy of Fallot",
+843,3,"瓦尔萨尔瓦窦","sinus of Valsalva",35.39
+843,3,"心脏","heart",37.32
+843,3,"胸主动脉(夹层性),经开窗术","thoracic aorta (dissecting), by fenestration",39.54
+843,2,"窦","sinus",
+843,3,"鼻 NEC","nasal NEC",22.79
+843,3,"瓦尔萨尔瓦的(动脉瘤)","of Valsalva (aneurysm)",35.39
+843,2,"腭 NEC","palate NEC",27.69
+843,3,"裂","cleft",27.62
+843,4,"Ⅱ期或随后的","secondary or subsequent",27.63
+843,3,"撕裂(经缝合)","laceration (by suture)",27.61
+843,2,"耳(外)","ear (external)",18.79
+843,3,"耳道或口","auditory canal or meatus",18.6
+843,3,"耳下垂","lop ear",18.79
+843,3,"前突或突出","prominent or protruding",18.5
+843,3,"软骨 NEC","cartilage NEC",18.79
+843,3,"撕裂(经缝合)","laceration (by suture)",18.4
+843,3,"外耳 NEC","auricle NEC",18.79
+843,3,"中 NEC","middle NEC",19.9
+843,2,"耳蜗假体装置","cochlear prosthetic device",20.99
+843,3,"仅外部成分","external components only",95.49
+843,3,"耳下垂","lop ear",18.79
+843,2,"法洛四联症","tetralogy of Fallot",

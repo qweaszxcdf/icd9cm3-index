@@ -1,196 +1,174 @@
 page,level,chinese,english,code
-939,5,"分娩或流产后","after delivery or abortion",75.8
-939,4,"子宫","uterus",69.91
-939,3,"周围血管-见非冠状血管","peripheral blood vessel-see non-coronary",
-939,3,"肘假体(全部)","elbow prosthesis (total)",81.84
-939,4,"修复术","revision",81.97
-939,3,"装置","device",
-939,4,"CorCap™","CorCap™",37.41
-939,4,"Lap-Band™(可调节性胃绷带系统)","Lap-Band™",44.95
-939,4,"MitraClip®二尖瓣小叶钳","MitraClip® mitral leaflet clip",35.97
-939,4,"假体心脏支持装置","prosthetic cardiac support device",37.41
-939,4,"可调节的胃束带和端口","adjustable gastric band and port",44.95
-939,4,"心室支持装置","ventricular support device",37.41
-939,4,"心外膜支持装置","epicardial support device",37.41
-939,4,"心脏再同步化-见插入,心律再同步化装置","cardiac resynchronization-see Insertion, cardiac resynchronization device",
-939,4,"心脏支持装置(CSD)","cardiac support device (CSD)",37.41
-939,4,"胸骨固定装置伴有刚性板","sternal fixation device with rigid plates",84.94
-939,4,"血管通路","vascular access",86.07
-939,4,"支气管瓣膜","bronchial valve(s)",
-939,5,"单叶","single lobe",33.71
-939,5,"多叶","multiple lobes",33.73
-939,4,"支气管物质NOS","bronchial substance NOS",33.79
-939,4,"支气管装置NOS","bronchial device NOS",33.79
-939,4,"左心房附加装置","left atrial appendage",37.90
-939,4,"左心房过滤器","left atrial filter",37.90
-939,4,"左心房心导管闭合器","left atrial occluder",37.90
-939,3,"椎体脊椎融合装置","interbody spinal fusion device",84.51
-939,3,"子宫内","intrauterine",
-939,4,"避孕装置","contraceptive device",69.7
-939,4,"镭(腔内)","radium (intracavitary)",69.91
-939,4,"填塞(非产科)","tamponade (nonobstetric)",69.91
-939,3,"子宫托","pessary",
-939,4,"阴道","vagina",96.18
-939,4,"子宫颈","cervix",96.18
-939,5,"助产或引产","to assist delivery or induce labor",73.1
-939,3,"组织扩张器(皮肤)NEC","tissue expander (skin) NEC",86.93
-939,4,"乳房","breast",85.95
-939,3,"组织轴柄(周围血管)(涤纶)(斯帕克型)","tissue mandril (peripheral vessel) (Dacron) (Spark's type)",39.99
-939,4,"伴","with",
-940,5,"血管旁路或分流-见旁路,血管的","vascular bypass or shunt-see Bypass, vascular",
-940,4,"血管修补术","blood vessel repair",39.56
-940,3,"查恩利手术-见Charnley手术","查恩利手术—see Charnley operation",
-940,3,"查尔斯手术-见Charles手术","查尔斯手术—see Charles operation",
-940,3,"拆除术","Take-down",
-940,4,"肠造口","intestinal stoma, enterostomy",46.50
-940,5,"大的","large",46.52
-940,5,"小的","small",46.51
-940,4,"动静脉分流","arteriovenous shunt",39.43
-940,5,"伴创建新分流","with creation of new shunt",39.42
-940,4,"动脉旁路","arterial bypass",39.49
-940,4,"喉造口术","laryngostomy",31.62
-940,4,"回肠造口术","ileostomy",46.51
-940,4,"结肠造口术","colostomy",46.52
-940,4,"空肠回肠旁路","jejunoileal bypass",46.93
-940,4,"空肠造口术","jejunostomy",46.51
-940,4,"盲肠造口术","cecostomy",46.52
-940,4,"脑室分流(脑的)","ventricular shunt (cerebral)",02.43
-940,4,"气管造口","tracheostomy",31.72
-940,4,"十二指肠造口术","duodenostomy",46.51
-940,4,"食管造口","esophagostomy",42.83
-940,4,"体动脉-肺动脉吻合术","systemic-pulmonary artery anastomosis",39.49
+939,2,"腔隙（水泥）（关节）（多甲基甲基丙烯酸酯）","spacer (cement) (joint) (methylmethacrylate)",84.56
+939,2,"塞子或袋","pack or bag",
+939,3,"鼻","nose",97.21
+939,3,"伤口","wound",97.16
+939,3,"外阴","vulva",97.26
+939,3,"牙齿，牙","teeth, tooth",97.22
+939,3,"阴道","vagina",97.26
+939,2,"三尖瓣瓣膜（伴假体）","tricuspid valve (with prosthesis)",35.28
+939,3,"伴组织移植","with tissue graft",35.27
+939,2,"神经刺激器—另见植入，神经刺激器，按部位","neurostimulator-see also Implant, neurostimulator, by site",
+939,3,"骨骼肌","skeletal muscle",83.92
+939,3,"神经起搏器—见植入，神经刺激器，按部位","nuropacemaker-see Implant, neurostimulator, by site",
+939,2,"肾，机械性","kidney, mechanical",55.97
+939,2,"肾造口管","nephrostomy tube",55.93
+939,2,"石膏管型 NEC","cast NEC",97.13
+939,3,"上肢","upper limb",97.11
+939,3,"下肢","lower limb",97.12
+939,2,"输尿管（伴）","ureter (with)",
+939,3,"回肠段植入进入膀胱","ileal segment implanted into bladder",56.89[45.51]
+939,3,"膀胱皮瓣","bladder flap",56.74
+939,2,"输尿管造口术管","ureterostomy tube",59.93
+939,2,"套管","cannula",
+939,3,"动静脉分流","arteriovenous shunt",39.94
+939,3,"血管血管（动静脉）","vessel-to-vessel (arteriovenous)",39.94
+939,3,"胰腺管","pancreatic duct",97.05
+939,2,"特指的器械或装置 NEC","specified appliance or device NEC",97.29
+939,2,"胃带，腹腔镜的","gastric band, laparoscopic",44.96
+939,2,"胃端口装置（皮下）","gastric port device (subcutaneous)",44.96
+939,2,"文凯钳（颅骨）","Vinke tongs (skull)",02.94
+939,2,"膝（双间隔的）（半关节）（部分）（全部）（三间隔的）（单间隔的）","knee (bicompartmental) (hemijoint) (partial) (total) (tricompartmental) (unicompartmental)",81.54
+939,3,"修复术 NOS","revision NOS",81.55
+939,2,"心律再同步化装置","cardiac resynchronization device",
+939,3,"除颤器（CRT-D）（全系统）（双心室除颤器）（BiV ICD）（BiV 起搏器和除颤器）（BiV 起搏器）（CRT-D）（装置和一个或多个导联）（全系统）","defibrillator (biventricular defibrillator) (BiV ICD) (BiV pacemaker with defibrillator) (BiV pacing-with defibrillator) (CRT-D) (device and one or more leads) (total system)",00.51
+940,4,"仅脉搏发生器","pulse generator only",00.54
+940,4,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
+940,3,"起搏器(双心室除颤器)(BiV 起搏器)(CRT-P)(装置一个或多个导联)(全系统)","pacemaker (biventricular pacemaker) (BiV pacemaker) (CRT-P) (device and one or more leads) (total system)",00.50
+940,4,"仅脉搏发生器","pulse generator only",00.53
+940,4,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
+940,2,"心脏","heart",
+940,3,"瓣膜，NOS(伴假体)(伴组织移植)","valve, NOS (with prosthesis) (with tissue graft)",35.20
+940,4,"二尖瓣的，NOS","mitral, NOS",35.24
+940,5,"伴","with",
+940,6,"假体","prosthesis",35.24
+940,6,"组织移植物","tissue graft",35.23
+940,4,"阀(假体的)","poppet (prosthetic)",35.95
+940,4,"肺动脉，NOS","pulmonary, NOS",35.26
+940,5,"伴有","with",
+940,6,"假体","prosthesis",35.26
+940,6,"组织移植","tissue graft",35.25
 940,5,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
-940,4,"胃空肠吻合术","gastrojejunostomy",44.5
-940,4,"胃十二指肠吻合术","gastroduodenostomy",44.5
-940,4,"吻合术","anastomosis",
-940,5,"肠","intestine",46.93
-940,5,"动脉","arterial",39.49
-940,5,"脑室的","ventricular",02.43
-940,5,"胃","stomach",44.5
-940,5,"胃的,胃肠的","gastric, gastrointestinal",44.5
-940,5,"血管,血管的","blood vessel, vascular",39.49
-940,4,"血管吻合术或旁路","vascular anastomosis or bypass",39.49
-940,4,"乙状结肠造口术","sigmoidostomy",46.52
-940,4,"造口","stoma",
-940,5,"肠","intestine",46.50
-940,6,"大的","large",46.52
-940,6,"小的","small",46.51
-940,5,"胆管","bile duct",51.79
-940,5,"胆囊","gall bladder",51.92
-941,5,"胆总管","common duct",51.72
-941,5,"肝管","hepatic duct",51.79
-941,5,"喉","larynx",31.62
-941,5,"尿道","urethra",58.42
-941,5,"膀胱","bladder",57.82
-941,5,"气管","trachea",31.72
-941,5,"肾","kidney",55.82
-941,5,"食管","esophagus",42.83
-941,5,"输尿管","ureter",56.83
-941,5,"胃","stomach",44.62
-941,5,"胸","thorax",34.72
-941,5,"支气管","bronchus",33.42
-941,5,"直肠","rectum",48.72
-941,3,"产钳分娩-见分娩,产钳","Forceps delivery-see Delivery, forceps",
-941,3,"产生-另见形成和创建","Production-see also Formation and Creation",
-941,4,"皮下隧道用于食管吻合术","subcutaneous tunnel for esophageal anastomosis",42.86
-941,5,"伴吻合-见吻合术,食管,胸骨前","with anastomosis-see Anastomosis, esophagus, antesternal",
-941,4,"房间隔缺损","atrial septal defect",35.42
-941,3,"肠肠吻合术","Enteroenterostomy",45.90
-941,4,"小肠对大肠","small-to-large intestine",45.93
-941,4,"小肠对小肠","small-to-small intestine",45.91
-941,3,"肠肠营养","Enteroentectropy",46.99
-941,3,"肠穿刺术","Enterocentesis",45.00
-941,4,"大肠","large intestine",45.03
-941,4,"十二指肠","duodenum",45.01
-941,4,"小肠NEC","small intestine NEC",45.02
-941,3,"肠胆囊吻合术","Enterocholecystostomy",51.32
-941,3,"肠缝合术","Enterorrhaphy",46.79
-941,4,"大肠","large intestine",46.75
-941,4,"小肠","small intestine",46.73
-941,3,"肠切除术NEC","Enterectomy NEC",45.63
-941,3,"肠切开术","Enterotomy",45.00
-941,4,"大肠","large intestine",45.03
-941,4,"小肠","small intestine",45.02
-941,3,"肠疝切除术","Enterocelectomy",53.9
-941,4,"女性","female",70.92
-941,5,"伴移植物或假体","with graft or prosthesis",70.93
-941,4,"阴道","vaginal",70.92
-941,5,"伴移植物或假体","with graft or prosthesis",70.93
-941,3,"肠石切开术","Enterolithotomy",45.00
-942,3,"肠胃造口术","Enterogastrostomy",44.39
-942,4,"腹腔镜的","laparoscopic",44.38
-942,3,"肠吻合术","Enteroanastomosis",
-942,4,"大肠与大肠","large-to-large intestine",45.94
-942,4,"小肠与大肠","small-to-large intestine",45.93
-942,4,"小肠与小肠","small-to-small intestine",45.91
-942,3,"肠系膜固定术","Mesenteriopexy, Mesopexy",54.75
-942,3,"肠系膜切除术","Mesenterectomy",54.4
-942,3,"肠系膜折叠术","Mesenteriplication",54.75
-942,3,"肠胰吻合术","Enteropancreatostomy",52.96
-942,3,"肠营养,全部的","Parenteral nutrition, total",99.15
-942,4,"周围的","peripheral",99.15
-942,3,"肠造口术NEC","Enterostomy NEC",46.39
-942,4,"横结肠-另见结肠造口术","transverse colon-see also Colostomy",46.10
-942,5,"袢式","loop",46.03
-942,4,"回肠(布鲁克)(德拉格施泰德)","ileum (Brooke) (Dragstedt)",46.20
-942,5,"袢式","loop",46.01
-942,4,"结肠(横的)-另见结肠造口术","colon (transverse)-see also Colostomy",46.10
-942,5,"袢式","loop",46.03
-942,4,"空肠(喂养)","jejunum (feeding)",46.39
-942,5,"经皮的(内镜)","percutaneous (endoscopic)",46.32
-942,5,"袢式","loop",46.01
-942,4,"盲肠-另见结肠造口术","cecum-see also Colostomy",46.10
-942,4,"十二指肠","duodenum",46.39
-942,5,"袢式","loop",46.01
-942,4,"喂养NEC","feeding NEC",46.39
-942,5,"经皮的(内镜的)","percutaneous (endoscopic)",46.32
-942,4,"延迟性切开","delayed opening",46.31
-942,4,"乙状结肠-另见结肠造口术","sigmoid colon-see also Colostomy",46.10
-942,5,"袢式","loop",46.03
-942,3,"肠粘连松解术","Enterolysis",54.59
-942,4,"腹腔镜的","laparoscopic",54.51
-942,3,"常规","Routine",
-942,4,"精神病学就诊","psychiatric visit",94.12
-942,4,"胸X线检查","chest x-ray",87.44
-942,3,"超滤","Ultrafiltration",99.78
-942,4,"去除,血浆水分","removal, plasma water",99.78
-942,4,"血液透析(肾),血液滤过","hemodialysis (kidney), hemodiafiltration",39.95
-942,4,"治疗性血浆除去法","therapeutic plasmapheresis",99.71
-942,3,"超声","Ultrasound",
-943,4,"VH™-IVUS[虚拟组织学血管内超声]-见超声,血管内的,按部位","VH™-IVUS-see Ultrasound, intravascular, by site",
-943,4,"治疗","therapy",93.35
-943,4,"内耳","inner ear",20.79
-943,4,"碎裂,破碎(...的)","fragmentation (of)",
-943,5,"白内障(伴抽吸)","cataract (with aspiration)",13.41
-943,5,"尿路结石,结石(科克袋)","urinary calculus, stones (Kock pouch)",59.95
-943,4,"心脏","heart",
-943,5,"非侵入的","non-invasive",88.72
-943,5,"心内的(心房)(ICE)","intracardiac (heart chambers) (ICE)",37.28
-943,5,"血管内的(冠状血管)(IVUS)","intravascular (coronary vessels) (IVUS)",00.24
-943,4,"虚拟组织学血管内超声-见超声,血管内的,按部位","virtual histology intravascular ultrasound-see Ultrasound, intravascular, by site",
-943,4,"血管内(IVUS)","intravascular (IVUS) (VH™-IVUS)",00.29
-943,5,"冠状血管","coronary vessel",00.24
-943,5,"脑的血管,颅外","cerebral vessel, extracranial",00.21
-943,5,"其他特指血管","other specified vessel",00.28
-943,5,"腔静脉(下)(上)","vena cava (inferior) (superior)",00.22
-943,5,"肾血管","renal vessel",00.25
-943,5,"胸内血管","intrathoracic vessel",00.22
-943,5,"周围血管","peripheral vessel",00.23
-943,5,"主动脉","aorta",00.22
-943,5,"主动脉弓","aortic arch",00.22
-943,4,"诊断性-见超声波检查","diagnostic-see Ultrasonography",
-943,4,"治疗性","therapeutic",
-943,5,"颈","neck",00.01
-943,5,"其他治疗性超声","other therapeutic ultrasound",00.09
-943,5,"头","head",00.01
-943,5,"头和颈血管","vessels of head and neck",00.01
-943,5,"心脏","heart",00.02
-943,5,"周围血管","peripheral vascular vessels",00.03
-943,3,"超声波检查","Ultrasonography",
-943,4,"肠","intestine",88.74
-943,4,"胆道","biliary tract",88.74
-943,4,"多部位","multiple sites",88.79
-943,4,"肺","lung",88.73
-943,4,"腹","abdomen",88.76
-943,4,"腹膜后","retroperitoneum",88.76
-943,4,"泌尿系","urinary system",88.75
+940,5,"经心尖(肋间的)(经导管)(经胸腔)(经心室)","transapical (intercostal) (transcatheter) (transthoracic) (transventricular)",35.08
+940,5,"血管内的(经皮的)(PPVI)(TPVR)(经导管)(经股的)(经静脉)","endovascular (percutaneous) (PPVI) (TPVR) (transcatheter) (transvenous)",35.07
+940,4,"三尖瓣，NOS","tricuspid, NOS",35.28
+940,5,"伴有","with",
+940,6,"组织移植","tissue graft",35.27
+940,6,"假体","prosthesis",35.28
+940,4,"血管内的，NOS","endovascular, NOS",35.09
+940,4,"主动脉，NOS","aortic, NOS",35.22
+940,5,"伴","with",
+940,6,"假体","prosthesis",35.22
+940,6,"组织移植物","tissue graft",35.21
+940,7,"血管内的","endovascular",35.05
+940,5,"经心尖(肋间的)(经导管)(经胸腔)(经心室)(伴组织移植)","transapical (intercostal) (transcatheter) (transthoracic) (transventricular) (with tissue graft)",35.06
+941,5,"血管内的（经导管）（经股的）（伴有组织移植物）","endovascular (TAVI) (TAVR) (transarterial) (transcatheter) (transfemoral) (with tissue graft)",35.05
+941,3,"全内置双心室置换系统","total internal biventricular replacement system",37.52
+941,4,"经皮能量转移[TET]装置","transcutaneous energy transfer [TET] device",37.54
+941,4,"可植入电池","implantable battery",37.54
+941,4,"可植入控制器","implantable controller",37.54
+941,4,"胸腔","thoracic unit",37.53
+941,3,"人工","artificial",
+941,4,"压力反射激活装置置换系统","total internal biventricular replacement system",37.52
+941,5,"经皮能量转移[TET]装置","transcutaneous energy transfer [TET] device",37.54
+941,5,"可植入电池","implantable battery",37.54
+941,5,"可植入控制器","implantable controller",37.54
+941,5,"胸腔","thoracic unit",37.53
+941,2,"心脏收缩力调制（CCM）","cardiac contractility modulation (CCM)",
+941,3,"仅是可充电的脉冲发生器","rechargeable pulse generator only",17.52
+941,3,"全系统","total system",17.51
+941,3,"移植—见移植物","graft-see Graft",
+941,2,"阴囊中的睾丸","testis in scrotum",62.5
+941,2,"引流—另见置换，管","drain-see also Replacement, tube",
+941,3,"伤口，肌肉骨骼或皮肤","wound, musculoskeletal or skin",97.16
+941,3,"外阴","vulva",97.26
+941,3,"阴道","vagina",97.26
+941,2,"硬膜外钉","epidural pegs",02.93
+941,2,"硬膜下的","subdural",
+941,3,"条带状电极","strips electrodes",02.93
+941,3,"网状电极","grids electrodes",02.93
+941,2,"支架","stent",
+941,3,"胆管","bile duct",97.05
+941,3,"喉","larynx",31.93
+941,3,"气管","trachea",31.93
+941,3,"输卵管","fallopian tube",66.93
+941,3,"胰腺管","pancreatic duct",97.05
+941,2,"支气管瓣膜","bronchial valve(s)",
+941,3,"单叶","single lobe",33.71
+941,3,"多叶","multiple lobes",33.73
+941,2,"支气管物质 NOS","bronchial substance NOS",33.79
+941,2,"支气管装置 NOS","bronchial device NOS",33.79
+942,2,"直肠管","rectal tube",96.09
+942,2,"肘（关节），全部","elbow (joint), total",81.84
+942,2,"主动脉瓣膜（伴假体）NOS","aortic valve, NOS (with prosthesis)",35.22
+942,3,"伴","with",
+942,4,"假体","prosthesis",35.22
+942,4,"组织移植","tissue graft",35.21
+942,5,"血管内的","endovascular",35.05
+942,3,"经心尖（肋间的）（经导管）（经胸腔）（经心室） （伴组织移植）","transapical (intercostal) (transcatheter) (transthoracic) (transventricular) (with tissue graft)",35.06
+942,3,"血管内的(TAVI)(TAVR)(经动脉)(经导管)(经股的)(伴有组织移植物)","endovascular (TAVI) (TAVR) (transarterial) (transcatheter) (transfemoral) (with tissue graft)",35.05
+942,2,"装置","device",
+942,3,"皮下用于心内或大血管血流动力学监测","subcutaneous for intracardiac or great vessel hemodynamic monitoring",00.57
+942,2,"椎间盘","intervertebral disc",
+942,3,"人工的 NOS","artificial, NOS",84.60
+942,4,"颈的","cervical",84.62
+942,5,"部分的","partial",84.61
+942,5,"核","nucleus",84.61
+942,5,"全部的","total",84.62
+942,4,"胸的（部分）（全部）","thoracic (partial) (total)",84.63
+942,4,"腰，腰骶的","lumbar, lumbosacral",84.65
+942,5,"部分的","partial",84.64
+942,5,"核","nucleus",84.64
+942,5,"全部的","total",84.65
+942,2,"子宫托，阴道 NEC","pessary, vagina NEC",97.25
+942,1,"治疗安排（为了）","Referral (for)",
+942,2,"精神病学的医疗后调养（重返社会康复中心） （门诊机构）","psychiatric aftercare (halfway house) (outpatient clinic)",94.52
+942,2,"精神疗法","psychotherapy",94.51
+942,2,"康复","rehabilitation",
+942,3,"酒精中毒","alcoholism",94.53
+942,3,"心理学的 NEC","psychologic NEC",94.59
+942,3,"药物瘾","drug addiction",94.54
+942,3,"职业","vocational",94.55
+942,1,"痔切除术","Hemorrhoidectomy",49.46
+942,2,"经","by",
+942,3,"挤压术","crushing",49.45
+942,3,"结扎","ligation",49.45
+942,3,"冷冻疗法，冷冻术","cryotherapy, cryosurgery",49.44
+943,3,"切除术","excision",49.46
+943,3,"烧灼，烧灼","cautery, cauterization",49.43
+943,3,"注射","injection",49.42
+943,1,"中耳吹气法，耳咽管","Politzerization, Eustachian tube",20.8
+943,1,"中位产钳分娩","Mid forceps delivery",72.29
+943,1,"终止妊娠","Termination of pregnancy",
+943,2,"经","by",
+943,3,"抽吸刮宫","aspiration curettage",69.51
+943,3,"扩宫和刮宫","dilation and curettage",69.01
+943,3,"羊膜腔内注射（盐水）","intra-amniotic injection (saline)",75.0
+943,3,"子宫切除术—见子宫切除术","hysterectomy-see Hysterectomy",
+943,3,"子宫切开术","hysterotomy",74.91
+943,1,"肿块切除术","Lumpectomy",
+943,2,"乳房","breast",85.21
+943,2,"特指部位—见切除术，病损，按部位","specified site-see Excision, lesion, by site",
+943,1,"肿瘤切除术（乳房）（部分）","Tylectomy (breast) (partial)",85.21
+943,1,"种植，牙（蕾）（胚）","Plantation, tooth (bud) (germ)",23.5
+943,2,"假体","prosthetic",23.6
+943,1,"轴面，髋置换","Bearing surface, hip",
+943,2,"金属与金属","metal-on-metal",00.75
+943,2,"金属与聚乙烯","metal-on-polyethylene",00.74
+943,2,"陶瓷与聚乙烯","ceramic-on-polyethylene",00.77
+943,2,"陶瓷与陶瓷","ceramic-on-ceramic",00.76
+943,2,"氧化锆聚乙烯","oxidized zirconium-on-polyethylene",00.77
+943,1,"皱纹成形术（面）","Rhytidoplasty (facial)",86.82
+943,1,"皱纹切除术（面）","Rhytidectomy (facial)",86.82
+943,2,"眼睑","eyelid",
+943,3,"上的","upper",08.87
+943,3,"下的","lower",08.86
+943,1,"主动脉成形术（主动脉瓣膜）（三角片型）","Aortoplasty (aortic valve) (gusset type)",35.11
+943,1,"主动脉肺动脉开窗术","Aorticopulmonary window operation",39.59
+943,1,"主动脉切开术","Aortotomy",38.04
+943,1,"主动脉造影术（腹）（逆行的）（选择性）（经腰）","Aortogram, aortography (abdominal) (retrograde) (selective) (translumbar)",88.42
+943,1,"助产分娩","Accouchement forcé",73.99
+943,1,"注射（进入）（皮下）（肌内）（静脉内）（局部作用或全身作用）","Injection (into) (hypodermically) (intramuscularly) (intravenously) (acting locally or systemically)",
+943,2,"cintredekin besudotox（抗肿瘤药）","cintredekin besudotox",99.28
+943,2,"IgG（免疫球蛋白）","IgG (immunoglobulin)",99.14
+943,2,"IVIG（免疫球蛋白）（IVIg）","IVIG (immunoglobulin) (IVIg)",99.14

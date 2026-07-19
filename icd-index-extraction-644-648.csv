@@ -1,6 +1,6 @@
 page,level,chinese,english,code
 644,3,"腹内(动脉的) NEC","intra-abdominal (arterial) NEC",39.26
-644,3,"静脉 NEC","venous NEC",39.1
+644,4,"静脉 NEC","venous NEC",39.1
 644,3,"肝总-髂总-肾","common hepatic-common iliac-renal",39.26
 644,3,"股动脉-股动脉","femoral-femoral",39.29
 644,3,"股腓动脉","femoroperoneal",39.29
@@ -58,7 +58,6 @@ page,level,chinese,english,code
 645,2,"接触镜片","contact lens",95.32
 645,2,"视力低下辅助设备 NEC","low vision aids NEC",95.33
 645,2,"眼镜","spectacles",95.31
-645,2,"经灌注的血脑屏障[BBBD]","blood brain barrier via infusion [BBBD]",00.19
 645,1,"蓬塞手术—见 Poncet 手术","蓬塞手术— see Poncet operation",
 645,1,"膨胀,膀胱(治疗性)(间歇性)","Distention, bladder (therapeutic) (intermittent)",96.25
 645,1,"膨胀过度,膀胱(治疗性)","Overdistension, bladder (therapeutic)",96.25
@@ -124,11 +123,11 @@ page,level,chinese,english,code
 647,3,"肠(大)","intestine (large)",45.49
 647,4,"经切除","by excision",45.41
 647,5,"内镜","endoscopic",45.43
-647,4,"息肉切除术","polypectomy",45.42
+647,6,"息肉切除术","polypectomy",45.42
 647,5,"内镜","endoscopic",45.43
-647,4,"息肉切除术","polypectomy",45.42
-647,3,"小","small",45.34
-647,4,"经切除术","by excision",45.33
+647,6,"息肉切除术","polypectomy",45.42
+647,4,"小","small",45.34
+647,5,"经切除术","by excision",45.33
 647,3,"垂体腺","pituitary gland",
 647,4,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
 647,5,"单源光子","single source photon",92.31
@@ -144,7 +143,7 @@ page,level,chinese,english,code
 647,4,"广泛","wide",27.32
 647,3,"肺","lung",32.29
 647,4,"内镜","endoscopic",32.28
-647,5,"胸腔镜的","thoracoscopic",32.20
+647,4,"胸腔镜的","thoracoscopic",32.20
 647,3,"肝","liver",50.29
 647,3,"肛门","anus",49.39
 647,4,"内镜","endoscopic",49.31
@@ -174,7 +173,7 @@ page,level,chinese,english,code
 648,3,"脉络膜","choroid",14.29
 648,4,"经","by",
 648,5,"放射疗法","radiation therapy",14.26
-648,6,"放射源植入","implantation of radiation source",14.27
+648,5,"放射源植入","implantation of radiation source",14.27
 648,5,"光凝术","photocoagulation",14.25
 648,6,"激光","laser",14.24
 648,6,"氙弧光","xenon arc",14.23

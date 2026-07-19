@@ -2,8 +2,8 @@ page,level,chinese,english,code
 804,3,"手","hand",82.55
 804,3,"眼外","extraocular",15.22
 804,4,"多(两条或多条肌)","multiple (two or more muscles)",15.4
-804,3,"腱","tendon",83.85
-804,4,"手","hand",82.55
+804,2,"腱","tendon",83.85
+804,3,"手","hand",82.55
 804,2,"韧带-另见关节成形术","ligament-see also Arthroplasty",
 804,3,"圆","round",69.22
 804,3,"子宫骶骨的","uterosacral",69.22
@@ -17,6 +17,7 @@ page,level,chinese,english,code
 804,1,"缩短,静脉","Cutdown, venous",38.94
 804,1,"缩小,睑裂","Narrowing, palpebral fissure",08.51
 804,1,"缩小,睫状体","Diminution, ciliary body",12.74
+804,0,"T","T",
 804,1,"Taarnhoj 手术(三叉神经根减压)","Taarnhoj operation (trigeminal nerve root decompression)",04.41
 804,1,"Tack 手术(前庭小囊切开术)","Tack operation (sacculotomy)",20.79
 804,1,"Talma-Morison 手术(网膜固定术)","Talma-Morison operation (omentopexy)",54.74
@@ -47,7 +48,7 @@ page,level,chinese,english,code
 805,1,"Thoratec®可植入型心室辅助装置(IVAD®)","Thoratec® implantable ventricular assist device (IVAD®)",37.66
 805,1,"Thoratec®心室辅助装置系统(VAD)","Thoratec® ventricular assist device (VAD) system",37.66
 805,1,"Tomkins 手术(子宫成形术)","Tomkins operation (metroplasty)",69.49
-805,1,"Tor 钉手术(直肠子宫陷凹切除术)","Torpin operation (cul-de-sac resection)",70.92
+805,1,"Torpin 钉手术(直肠子宫陷凹切除术)","Torpin operation (cul-de-sac resection)",70.92
 805,1,"Torek(-Bevan)手术(睾丸固定术)(一期)(二期)","Torek (-Bevan) operation (orchidopexy) (first stage) (second stage)",62.5
 805,1,"Torkildsen 手术(脑室小脑延髓池分流)","Torkildsen operation (ventriculocisternal shunt)",02.22
 805,1,"Toti 手术(泪囊鼻腔造口术)","Toti operation (dacryocystorhinostomy)",09.81
@@ -101,16 +102,16 @@ page,level,chinese,english,code
 807,6,"内镜的","endoscopic",51.84
 807,5,"去除结石","removal of calculus",51.41
 807,6,"内镜的","endoscopic",51.88
-807,4,"用于解除梗阻","for relief of obstruction",51.49
-807,5,"内镜的","endoscopic",51.84
-807,3,"胆囊","gallbladder",51.04
-807,3,"胆总管","common bile duct",51.51
-807,4,"内镜的","endoscopic",51.11
-807,4,"用于","for",
-807,5,"解除梗阻","relief of obstruction",51.42
-807,6,"内镜","endoscopic",51.84
-807,5,"去除结石","removal of calculus",51.41
-807,6,"内镜的","endoscopic",51.88
+807,3,"用于解除梗阻","for relief of obstruction",51.49
+807,4,"内镜的","endoscopic",51.84
+807,2,"胆囊","gallbladder",51.04
+807,2,"胆总管","common bile duct",51.51
+807,3,"内镜的","endoscopic",51.11
+807,3,"用于","for",
+807,4,"解除梗阻","relief of obstruction",51.42
+807,5,"内镜","endoscopic",51.84
+807,4,"去除结石","removal of calculus",51.41
+807,5,"内镜的","endoscopic",51.88
 807,2,"蝶窦","sphenoidal sinus",22.52
 807,2,"动脉","artery",38.00
 807,3,"腹的","abdominal",38.06
@@ -162,7 +163,7 @@ page,level,chinese,english,code
 808,3,"手","hand",82.02
 808,2,"脊髓的(管)(神经根)","spinal (canal) (nerve root)",03.09
 808,2,"甲状腺(区)(腺)(经切开)","thyroid (field) (gland) (by incision)",06.09
-808,2,"手术后","postoperative",06.02
+808,3,"手术后","postoperative",06.02
 808,2,"腱(鞘)","tendon (sheath)",83.01
 808,3,"手","hand",82.01
 808,2,"结肠","colon",45.03

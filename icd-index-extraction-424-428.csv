@@ -1,4 +1,4 @@
-﻿page,level,chinese,english,code
+page,level,chinese,english,code
 424,1,"Bristow 手术(肩关节脱位修补术)","Bristow operation (repair of shoulder dislocation)",81.82
 424,1,"Brockman 手术(软组织松解用于畸形足)","Brockman operation (soft tissue release for clubfoot)",83.84
 424,1,"Brock 手术(肺动脉瓣膜切开术)","Brock operation (pulmonary valvotomy)",35.03
@@ -26,10 +26,6 @@
 424,1,"白细胞除去术,治疗性","Leukopheresis, therapeutic",99.72
 424,1,"班克哈特手术-见 Bankhart 手术","班克哈特手术- see Bankhart operation",
 424,1,"瓣环成形术(心脏)(中后的)","Annuloplasty (heart) (posteromedial)",35.33
-424,3,"开放和其他","open and other",45.73
-424,2,"左","left",
-424,3,"腹腔镜的","laparoscopic",17.35
-424,3,"开放和其他","open and other",45.75
 425,1,"瓣膜成形术","Valvuloplasty",
 425,2,"心脏(开放性心脏技术)(不伴有瓣置换)","heart, unspecified (without valve replacement)",35.10
 425,3,"伴假体或组织移植-见瓣膜,心脏,瓣膜,按部位","with prosthesis or tissue graft-see Replacement, heart, valve, by site",
@@ -102,7 +98,7 @@
 427,3,"腹腔镜","laparoscopic",44.67
 427,1,"贲门肌切开术","Cardiomyotomy",42.7
 427,1,"贲门切除术(胃)","Cardiectomy (stomach)",43.5
-427,1,"苯酚化学剥脱术(皮肤)","Phenopel (skin)",86.24
+427,1,"苯酚化学剥脱术(皮肤)","Phenopeel (skin)",86.24
 427,1,"绷带","Bandage",93.37
 427,2,"弹性","elastic",93.56
 427,1,"鼻测压法","Rhinomanometry",89.12
@@ -126,7 +122,7 @@
 427,1,"鼻镜检查","Rhinoscopy",21.21
 427,1,"鼻切除术","Rhinectomy",21.4
 427,1,"鼻切开术","Rhinotomy",21.1
-427,1,"鼻咽管造影","Nasopharynogram",87.09
+427,1,"鼻咽管造影","Nasopharyngogram",87.09
 427,2,"对比","contrast",87.06
 427,1,"鼻中隔成形术 NEC","Septoplasty NEC",21.88
 427,2,"伴隔黏膜下切除术","with submucous resection of septum",21.5

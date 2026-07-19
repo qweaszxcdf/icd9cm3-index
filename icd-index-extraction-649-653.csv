@@ -1,8 +1,8 @@
 page,level,chinese,english,code
 649,3,"脑的 NEC","cerebral NEC",01.59
-649,3,"脑膜","meninges",01.51
+649,4,"脑膜","meninges",01.51
 649,3,"脑膜(脑的)","meninges (cerebral)",01.51
-649,3,"脊髓的","spinal",03.4
+649,4,"脊髓的","spinal",03.4
 649,3,"尿道(切除的)","urethra (excisional)",58.39
 649,4,"内镜","endoscopic",58.31
 649,3,"膀胱","bladder",57.59
@@ -28,8 +28,8 @@ page,level,chinese,english,code
 649,5,"放射疗法","radiation therapy",14.26
 649,5,"放射源植入","implantation of radiation source",14.27
 649,5,"光凝术","photocoagulation",14.25
-649,5,"激光","laser",14.24
-649,5,"氙弧光","xenon arc",14.23
+649,6,"激光","laser",14.24
+649,6,"氙弧光","xenon arc",14.23
 649,5,"冷冻疗法","cryotherapy",14.22
 649,5,"透热法","diathermy",14.21
 649,3,"唾液腺 NEC","salivary gland NEC",26.29
@@ -60,13 +60,13 @@ page,level,chinese,english,code
 650,4,"内镜","endoscopic",32.01
 650,3,"直肠(局部的)","rectum (local)",48.32
 650,4,"根治","radical",48.31
-650,5,"经","by",
-650,6,"电凝术","electrocoagulation",48.32
-650,6,"电灼疗法","fulguration",48.32
-650,6,"激光(氩)","laser (Argon)",48.33
-650,6,"冷冻术","cryosurgery",48.34
-650,6,"切除术","excision",48.35
-650,6,"息肉","polyp",48.36
+650,4,"经","by",
+650,5,"电凝术","electrocoagulation",48.32
+650,5,"电灼疗法","fulguration",48.32
+650,5,"激光(氩)","laser (Argon)",48.33
+650,5,"冷冻术","cryosurgery",48.34
+650,5,"切除术","excision",48.35
+650,4,"息肉","polyp",48.36
 650,3,"直肠子宫陷凹","cul-de-sac",70.32
 650,3,"子宫","uterus",68.29
 650,3,"子宫颈","cervix",67.39
@@ -74,63 +74,63 @@ page,level,chinese,english,code
 650,5,"电锥形切除术","electroconization",67.32
 650,5,"冷冻术,冷冻锥形切除术","cryosurgery, cryoconization",67.33
 650,5,"烧灼","cauterization",67.32
-650,3,"睫状体","ciliary body",12.74
+650,2,"睫状体","ciliary body",12.74
 650,3,"泪囊","lacrimal sac",09.6
-650,3,"脉络膜视网膜病—另见破坏,病损,脉络膜","chorioretinopathy-see also Destruction, lesion, choroid",14.29
-650,3,"内耳 NEC","inner ear NEC",20.79
-651,4,"经注射","by injection",20.72
-651,3,"前列腺(前列腺组织)","prostate (prostatic tissue)",
-651,4,"TULIP(经尿道(超声)激光引导下前列腺切除术)","TULIP (transurethral (ultrasound) guided laser induced prostatectomy)",60.21
-651,4,"TUMT(经尿道微波热疗法)","TUMT (transurethral microwave thermotherapy)",60.96
-651,4,"TUNA(经尿道针吸消融,切除)","TUNA (transurethral needle ablation)",60.97
-651,4,"经","by",
-651,5,"冷冻疗法","cryotherapy",60.62
-651,5,"射频","radiofrequency",60.97
-651,5,"微波","microwave",60.96
-651,4,"经尿道微波热疗法(TUMT)","transurethral microwave thermotherapy (TUMT)",60.96
-651,4,"经尿道针吸消融,切除(TUNA)","transurethral needle ablation (TUNA)",60.97
-651,3,"前庭,经注射","vestibule, by injection",20.72
-651,3,"乳房","breast",85.20
-651,3,"上皮向下生长,前房","epithelial downgrowth, anterior chamber",12.93
-651,3,"神经(颅的)(周围的)(经射频)","nerve (cranial) (peripheral) (by cryoanalgesia) (by radiofrequency)",04.2
-651,4,"交感神经,经注射神经破坏剂","sympathetic, by injection of neurolytic agent",05.32
-651,3,"神经瘤","neuroma",
-651,4,"颅的","cranial",04.07
+650,2,"脉络膜视网膜病—另见破坏,病损,脉络膜","chorioretinopathy-see also Destruction, lesion, choroid",14.29
+650,2,"内耳 NEC","inner ear NEC",20.79
+651,3,"经注射","by injection",20.72
+651,2,"前列腺(前列腺组织)","prostate (prostatic tissue)",
+651,3,"TULIP(经尿道(超声)激光引导下前列腺切除术)","TULIP (transurethral (ultrasound) guided laser induced prostatectomy)",60.21
+651,3,"TUMT(经尿道微波热疗法)","TUMT (transurethral microwave thermotherapy)",60.96
+651,3,"TUNA(经尿道针吸消融,切除)","TUNA (transurethral needle ablation)",60.97
+651,3,"经","by",
+651,4,"冷冻疗法","cryotherapy",60.62
+651,4,"射频","radiofrequency",60.97
+651,4,"微波","microwave",60.96
+651,3,"经尿道微波热疗法(TUMT)","transurethral microwave thermotherapy (TUMT)",60.96
+651,3,"经尿道针吸消融,切除(TUNA)","transurethral needle ablation (TUNA)",60.97
+651,2,"前庭,经注射","vestibule, by injection",20.72
+651,2,"乳房","breast",85.20
+651,2,"上皮向下生长,前房","epithelial downgrowth, anterior chamber",12.93
+651,2,"神经(颅的)(周围的)(经射频)","nerve (cranial) (peripheral) (by cryoanalgesia) (by radiofrequency)",04.2
+651,3,"交感神经,经注射神经破坏剂","sympathetic, by injection of neurolytic agent",05.32
+651,2,"神经瘤","neuroma",
+651,3,"颅的","cranial",04.07
+651,3,"莫顿","Morton's",04.07
+651,3,"听神经","acoustic",04.01
+651,4,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
+651,5,"单源光子","single source photon",92.31
+651,5,"多源","multi-source",92.32
+651,5,"放射外科学 NEC","radiosurgery NEC",92.39
+651,5,"钴-60","cobalt 60",92.32
+651,5,"粒子","particulate",92.33
+651,5,"粒子束流","particle beam",92.33
+651,5,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
+651,4,"经颅骨切开术","by craniotomy",04.01
+651,3,"周围的","peripheral",
 651,4,"莫顿","Morton's",04.07
-651,4,"听神经","acoustic",04.01
-651,5,"经立体定位放射外科学","by stereotactic radiosurgery",92.30
-651,6,"单源光子","single source photon",92.31
-651,6,"多源","multi-source",92.32
-651,6,"放射外科学 NEC","radiosurgery NEC",92.39
-651,6,"钴-60","cobalt 60",92.32
-651,6,"粒子","particulate",92.33
-651,6,"粒子束流","particle beam",92.33
-651,6,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
-651,5,"经颅骨切开术","by craniotomy",04.01
-651,4,"周围的","peripheral",
-651,5,"莫顿","Morton's",04.07
-651,3,"输卵管","fallopian tube",66.39
-651,4,"伴","with",
-651,5,"挤压术(和结扎)","crushing (and ligation)",66.31
+651,2,"输卵管","fallopian tube",66.39
+651,3,"伴","with",
+651,4,"挤压术(和结扎)","crushing (and ligation)",66.31
 652,5,"经内镜检查(腹腔镜检查)","by endoscopy (laparoscopy)",66.21
-652,5,"结扎","ligation",66.39
-652,6,"伴","with",
-652,7,"挤压术","crushing",66.31
+652,4,"结扎","ligation",66.39
+652,5,"伴","with",
+652,6,"挤压术","crushing",66.31
 652,7,"经内镜检查(后穹窿镜检查)","by endoscopy (laparoscopy)",66.21
 652,6,"切断","division",66.32
 652,7,"经内镜检查(后穹窿镜检查)(子宫镜检查)(腹腔镜检查)(腹腔镜检查)","by endoscopy (culdoscopy) (hysteroscopy) (laparoscopy) (peritoneoscopy)",66.22
-652,6,"切断(和结扎)","division (and ligation)",66.32
-652,7,"经内镜检查(后穹窿镜检查)(子宫镜检查)(腹腔镜检查)(腹腔镜检查)","by endoscopy (culdoscopy) (hysteroscopy) (laparoscopy) (peritoneoscopy)",66.22
-652,3,"胎儿","fetus",73.8
-652,3,"痔","hemorrhoids",49.49
-652,4,"经","by",
-652,5,"冷冻疗法","cryotherapy",49.44
-652,5,"硬化疗法","sclerotherapy",49.42
-652,3,"椎间盘 NOS","intervertebral disc NOS",80.50
-652,4,"经其他特指的方法","by other specified method",80.59
-652,4,"经注射","by injection",80.52
-652,4,"疝出的(髓核)","herniated (nucleus pulposus)",80.51
-652,3,"左心耳","left atrial appendage",37.36
+652,4,"切断(和结扎)","division (and ligation)",66.32
+652,5,"经内镜检查(后穹窿镜检查)(子宫镜检查)(腹腔镜检查)(腹腔镜检查)","by endoscopy (culdoscopy) (hysteroscopy) (laparoscopy) (peritoneoscopy)",66.22
+652,2,"胎儿","fetus",73.8
+652,2,"痔","hemorrhoids",49.49
+652,3,"经","by",
+652,4,"冷冻疗法","cryotherapy",49.44
+652,4,"硬化疗法","sclerotherapy",49.42
+652,2,"椎间盘 NOS","intervertebral disc NOS",80.50
+652,3,"经其他特指的方法","by other specified method",80.59
+652,3,"经注射","by injection",80.52
+652,3,"疝出的(髓核)","herniated (nucleus pulposus)",80.51
+652,4,"左心耳","left atrial appendage",37.36
 652,1,"破裂","Rupture",
 652,2,"关节粘连,手法的","joint adhesions, manual",93.26
 652,2,"卵巢囊肿,手法的","ovarian cyst, manual",65.93

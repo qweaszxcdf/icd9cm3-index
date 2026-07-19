@@ -84,7 +84,7 @@ page,level,chinese,english,code
 430,3,"膀胱直肠的","vesicorectal",57.83
 431,3,"膀胱子宫的","vesicouterine",57.84
 431,3,"膀胱子宫颈阴道的","vesicocervicovaginal",57.84
-431,3,"膀胱子宫直肠的","vesicometrectal",57.83
+431,3,"膀胱子宫直肠的","vesicometrorectal",57.83
 431,3,"脾结肠的","splenocolic",41.95
 431,3,"脐尿管","umbilicourinary",57.51
 431,3,"气管 NEC","trachea NEC",31.73
@@ -108,7 +108,7 @@ page,level,chinese,english,code
 431,3,"输尿管子宫颈的","ureterocervical",56.84
 431,3,"外淋巴","perilymph",20.93
 431,3,"外阴","vulva",71.72
-431,3,"外阴直肠的","vulvovaginal",48.73
+431,3,"外阴直肠的","vulvorectal",48.73
 431,3,"胃 NEC","stomach NEC",44.63
 431,3,"胃结肠的","gastrocolic",44.63
 431,3,"胃空肠的","gastrojejunal",44.63
@@ -118,7 +118,7 @@ page,level,chinese,english,code
 431,3,"胃小肠结肠的","gastrojejunocolic",44.63
 431,3,"涎腺(腺)(管)","salivary(gland)(duct)",26.42
 431,3,"小肠结肠","enterocolic",46.74
-431,3,"心脏瓣膜-见修补术,心脏,瓣膜","heart valve-see Repair, heart, valve",34.73
+431,3,"心脏瓣膜-见修补术,心脏,瓣膜","heart valve-see Repair, heart, valve",
 431,3,"胸 NEC","thorax NEC",34.73
 431,3,"胸肠的","thoracointestinal",34.83
 431,3,"胸导管","thoracic duct",40.63
@@ -134,7 +134,7 @@ page,level,chinese,english,code
 432,3,"乙状结肠膀胱的","sigmoidovesical",57.83
 432,3,"乙状结肠阴道的","sigmoidovaginal",70.74
 432,3,"阴道","vagina",70.75
-432,3,"阴道肠的","vaginocentric",70.74
+432,3,"阴道肠的","vaginoenteric",70.74
 432,3,"阴道会阴的","vaginoperineal",70.75
 432,3,"阴道膀胱的","vaginovesical",57.84
 432,3,"阴道皮肤的","vaginocutaneous",70.75

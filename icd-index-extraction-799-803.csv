@@ -34,7 +34,7 @@ page,level,chinese,english,code
 799,4,"经伸长或处理","by stretching or manipulation",93.27
 799,4,"手","hand",82.91
 799,5,"经伸长或处理","by stretching or manipulation",93.26
-800,3,"眼外","extraocular",15.7
+800,4,"眼外","extraocular",15.7
 800,3,"脊髓的(索)(脑膜)(神经根)","spinal (cord) (meninges) (nerve roots)",03.6
 800,3,"腱","tendon",83.91
 800,4,"经伸长或处理","by stretching or manipulation",93.27
@@ -58,7 +58,7 @@ page,level,chinese,english,code
 800,3,"尿道(腔内)","urethra (intraluminal)",58.5
 800,3,"膀胱(颈)(腔内)","bladder (neck) (intraluminal)",57.12
 800,4,"经尿道的","transurethral",57.41
-800,5,"外部的","external",59.11
+800,4,"外部的","external",59.11
 800,5,"腹腔镜的","laparoscopic",59.12
 800,3,"膀胱周围的","perivesical",59.11
 800,4,"腹腔镜的","laparoscopic",59.12
@@ -84,11 +84,11 @@ page,level,chinese,english,code
 801,3,"输卵管卵巢","tubo-ovarian",65.89
 801,4,"腹腔镜的","laparoscopic",65.81
 801,3,"输尿管","ureter",59.02
-801,4,"一伴输尿管松解或复位","with freeing or repositioning of ureter",59.02
-801,5,"腹腔镜的","laparoscopic",59.03
-801,5,"腔内的","intraluminal",56.81
-801,4,"输尿管周围的","periureteral",59.02
-801,5,"腹腔镜的","laparoscopic",59.03
+801,4,"伴输尿管松解或复位","with freeing or repositioning of ureter",59.02
+801,4,"腹腔镜的","laparoscopic",59.03
+801,4,"腔内的","intraluminal",56.81
+801,3,"输尿管周围的","periureteral",59.02
+801,4,"腹腔镜的","laparoscopic",59.03
 801,3,"外阴","vulva",71.01
 801,3,"心包","pericardium",37.12
 801,3,"心脏","heart",37.10
@@ -124,7 +124,7 @@ page,level,chinese,english,code
 802,1,"髓核化学溶解术(髓核)","Chemonucleolysis (nucleus pulposus)",80.52
 802,1,"隧道,皮下(胸前)","Tunnel, subcutaneous (antethoracic)",42.86
 802,2,"脉搏发生器导联","pulse generator lead wire",86.99
-802,2,"一次首次操作-省略编码","with initial procedure-omit code",
+802,3,"一次首次操作-省略编码","with initial procedure-omit code",
 802,2,"食管","esophageal",42.68
 802,3,"伴吻合-见吻合术,食管,胸骨前","with anastomosis-see Anastomosis; esophagus, antesternal",42.68
 802,1,"碎裂,破碎","Fragmentation",
@@ -137,8 +137,8 @@ page,level,chinese,english,code
 802,3,"白内障(伴抽吸)","cataract (with aspiration)",13.43
 802,4,"后发性膜","secondary membrane",13.66
 802,4,"后入路","posterior route",13.42
-802,4,"后发性膜(后发障)","secondary membrane (after cataract)",13.66
-802,1,"碎石器-见碎石术","lithotriptor-see Lithotripsy",
+802,3,"后发性膜(后发障)","secondary membrane (after cataract)",13.66
+802,2,"碎石器-见碎石术","lithotriptor-see Lithotripsy",
 802,1,"碎颅术,胎儿","Cranioclasis, fetal",73.8
 802,1,"碎石术","Lithotripsy",
 802,2,"胆管NEC","bile duct NEC",51.49

@@ -1,5 +1,5 @@
 page,level,chinese,english,code
-709,2,"牙齿的","dental",96.54
+709,3,"牙齿的","dental",96.54
 709,2,"切除的,NOS","excisional, NOS",86.22
 709,3,"髌骨","patella",77.66
 709,3,"带蒂皮瓣移植","pedicle graft",86.75
@@ -7,7 +7,7 @@ page,level,chinese,english,code
 709,3,"感染(皮肤)","infection (skin)",86.22
 709,4,"指(趾)甲床或褶","nail (bed) (fold)",86.27
 709,3,"骨-另见切除术,病损,骨","bone-see also Excision, lesion, bone",77.60
-709,3,"骨折-见清创术,开放性骨折","fracture-see Debridement, open fracture",
+709,4,"骨折-见清创术,开放性骨折","fracture-see Debridement, open fracture",
 709,3,"关节-见切除术,病损,关节","joint-see Excision, lesion, joint",
 709,3,"肌肉","muscle",83.45
 709,4,"手","hand",82.36
@@ -31,29 +31,29 @@ page,level,chinese,english,code
 709,4,"趾骨","phalanges",
 709,5,"手","hand",79.64
 709,5,"足","foot",79.68
-709,5,"足 NEC","foot NEC",79.67
+709,4,"足 NEC","foot NEC",79.67
 709,3,"颅骨","skull",01.25
-709,3,"复合性骨折","compound fracture",02.02
+709,4,"复合性骨折","compound fracture",02.02
 709,3,"脑","brain",01.59
 709,3,"脑膜(大脑的)","meninges (cerebral)",01.51
 709,4,"脊髓的","spinal",03.4
-709,2,"脑脑膜","cerebral meninges",01.51
-709,2,"黏液囊","bursa",83.5
-709,2,"皮瓣移植","flap graft",86.75
+709,3,"脑脑膜","cerebral meninges",01.51
+709,3,"黏液囊","bursa",83.5
+709,3,"皮瓣移植","flap graft",86.75
 710,3,"皮肤或皮下组织(烧伤)(感染)(伤口)","skin or subcutaneous tissue (burn) (infection) (wound)",86.22
-710,3,"复律器/除颤器(自动的)囊袋","cardioverter/defibrillator (automatic) pocket",37.79
-710,3,"囊袋","pocket",
-710,4,"复律器/除颤器(自动的)","cardioverter/defibrillator (automatic)",37.79
-710,4,"心脏起搏器","cardiac pacemaker",37.79
-710,4,"心脏装置 NEC","cardiac device NEC",37.79
+710,4,"复律器/除颤器(自动的)囊袋","cardioverter/defibrillator (automatic) pocket",37.79
+710,4,"囊袋","pocket",
+710,5,"复律器/除颤器(自动的)","cardioverter/defibrillator (automatic)",37.79
+710,5,"心脏起搏器","cardiac pacemaker",37.79
+710,5,"心脏装置 NEC","cardiac device NEC",37.79
 710,4,"起搏器囊袋","pacemaker pocket",37.79
-710,3,"移植","graft",86.75
-710,3,"指甲,指甲床,或指甲褶","nail, nail bed, or nail fold",86.27
-710,2,"伤口(皮肤)","wound (skin)",86.22
-710,2,"烧伤(皮肤)","burn (skin)",86.22
-710,2,"神经(周围的)","nerve (peripheral)",04.07
-710,2,"心脏瓣膜(钙化)-见瓣膜成形术,心脏","heart valve (calcified)-see Valvuloplasty, heart",
-710,2,"移植物(皮瓣)(蒂)","graft (flap) (pedicle)",86.75
+710,4,"移植","graft",86.75
+710,4,"指甲,指甲床,或指甲褶","nail, nail bed, or nail fold",86.27
+710,3,"伤口(皮肤)","wound (skin)",86.22
+710,3,"烧伤(皮肤)","burn (skin)",86.22
+710,3,"神经(周围的)","nerve (peripheral)",04.07
+710,3,"心脏瓣膜(钙化)-见瓣膜成形术,心脏","heart valve (calcified)-see Valvuloplasty, heart",
+710,3,"移植物(皮瓣)(蒂)","graft (flap) (pedicle)",86.75
 710,2,"指(趾)甲","nail (bed) (fold)",86.27
 710,1,"清扫术-另见切除术","Dissection-see also Excision",
 710,2,"动脉静脉神经束","artery-vein-nerve bundle",39.91
@@ -148,11 +148,11 @@ page,level,chinese,english,code
 712,4,"内镜","endoscopic",51.88
 712,3,"十二指肠","duodenum",45.01
 712,2,"导管(留置的)-另见去除,管","catheter (indwelling)-see also Removal, tube",
-712,2,"颅腔","cranial cavity",01.27
+712,3,"颅腔","cranial cavity",01.27
 712,3,"泌尿系","urinary",97.64
 712,3,"膀胱","bladder",97.64
 712,3,"输尿管","ureter",97.62
-712,2,"中耳(鼓室)","middle ear (tympanum)",20.1
+712,3,"中耳(鼓室)","middle ear (tympanum)",20.1
 712,2,"导联(心的)-见去除,电极,心脏起搏器","leads (cardiac)-see Removal, electrodes, cardiac pacemaker",
 713,2,"碘苯醌染色,脊髓管","pantopaque dye, spinal canal",03.31
 713,2,"电刺激器-见去除,电的,刺激器,按部位","electrostimulator-see Removal, electronic, stimulator, by site",

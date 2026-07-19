@@ -73,7 +73,7 @@ page,level,chinese,english,code
 625,2,"特指部位 NEC","specified site NEC",88.49
 625,2,"胸壁","chest wall",87.38
 625,1,"卢卡斯和默里手术—见 Lucas and Murray 手术","卢卡斯和默里手术— see Lucas 和 Murray operation",
-625,1,"颅底破碎术","Basilotripsy",73.8
+625,1,"颅底破碎术","Basiotripsy",73.8
 625,1,"颅骨部分切除术","Craniectomy",01.25
 625,2,"部位再切开","reopening of site",01.23
 625,2,"条带状(颅缝分开术)","strip (opening of cranial suture)",02.01
@@ -92,7 +92,7 @@ page,level,chinese,english,code
 626,1,"鲁伊斯莫拉手术—见 Ruiz-Mora 手术","鲁伊斯-莫拉手术— see Ruiz-Mora operation",
 626,1,"滤网,腔静脉","Sieve, vena cava",38.7
 626,1,"卵巢成形术","Oophoroplasty",65.79
-626,1,"卵巢缝合术","Oophorrhaphy",65.71
+626,1,"卵巢缝合术","Oophororrhaphy",65.71
 626,2,"腹腔镜的","laparoscopic",65.74
 626,1,"卵巢固定术","Oophoropexy",65.79
 626,1,"卵巢囊切除术","Oophorocystectomy",65.29
@@ -153,8 +153,8 @@ page,level,chinese,english,code
 628,2,"伴移植物或假体","with graft or prosthesis",70.63
 628,1,"McKeever 手术(融合术第一跖趾关节,用于踇外翻修补术)","McKeever operation (fusion of first metatarsophalangeal joint for hallux valgus repair)",77.52
 628,1,"McKissock 手术(乳房缩小)","McKissock operation (breast reduction)",85.33
-628,1,"McReyn陈旧性手术(翼状胬肉转位)","McReynolds operation (transposition of pterygium)",
-628,1,"McVay 手术","McVay operation",11.31
+628,1,"McReyn陈旧性手术(翼状胬肉转位)","McReynolds operation (transposition of pterygium)",11.31
+628,1,"McVay 手术","McVay operation",
 628,2,"腹股沟疝—见修补术,疝,腹股沟的","inguinal hernia-see Repair, hernia, inguinal",
 628,2,"股骨疝—见修补术,疝,股的","femoral hernia-see Repair, hernia, femoral",
 628,1,"Mikulicz 手术(肠外置术)(一期)","Mikulicz operation (exteriorization of intestine) (first stage)",46.03

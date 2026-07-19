@@ -88,7 +88,7 @@ page,level,chinese,english,code
 641,3,"出血控制","control of hemorrhage",
 641,4,"膀胱","bladder",57.93
 641,4,"前列腺","prostate",60.94
-641,2,"逆行的肾盂造影术","retrograde pyelography",87.74
+641,3,"逆行的肾盂造影术","retrograde pyelography",87.74
 642,1,"膀胱内压图","Cystometrogram",89.22
 642,1,"膀胱尿道成形术","Cystourethroplasty, Vesicourethroplasty",57.85
 642,1,"膀胱尿道固定术(经)","Cystourethropexy (by)",59.79
@@ -124,9 +124,9 @@ page,level,chinese,english,code
 642,3,"颅外-颅内[EC-IC]","extracranial-intracranial [EC-IC]",39.28
 642,3,"胸内 NEC","intrathoracic NEC",39.23
 642,3,"周围的 NEC","peripheral NEC",39.29
-642,3,"肺动脉","pulmonary",39.61
-642,4,"经皮的(闭合的)","percutaneous (closed)",39.66
-642,4,"开放性","open",39.61
+642,2,"肺动脉","pulmonary",39.61
+642,3,"经皮的(闭合的)","percutaneous (closed)",39.66
+642,3,"开放性","open",39.61
 643,2,"分流","shunt",
 643,3,"肠","intestine",
 643,4,"大至大","large-to-large",45.94

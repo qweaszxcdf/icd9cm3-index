@@ -1,7 +1,7 @@
 page,level,chinese,english,code
-694,3,"弓形韧带(脊柱)—省略编码","arcuate ligament (spine)-omit code",
-694,3,"骨—另见骨切开术","bone-see also Osteotomy",77.30
-694,3,"鼓膜","tympanum",20.23
+694,2,"弓形韧带(脊柱)—省略编码","arcuate ligament (spine)-omit code",
+694,2,"骨—另见骨切开术","bone-see also Osteotomy",77.30
+694,2,"鼓膜","tympanum",20.23
 694,2,"关节囊","joint capsule",80.40
 694,3,"踝","ankle",80.47
 694,3,"肩","shoulder",80.41
@@ -46,11 +46,11 @@ page,level,chinese,english,code
 695,3,"上肢","upper limb",38.83
 695,3,"头和颈 NEC","head and neck NEC",38.82
 695,3,"下肢","lower limb",38.89
-695,3,"静脉曲张","varicose",38.59
-695,4,"胸的 NEC","thoracic NEC",38.85
+695,3,"静脉曲张","varicose",38.50
+695,4,"胸的 NEC","thoracic NEC",38.55
 695,2,"括约肌","sphincter",
 695,3,"奥狄","of Oddi",51.82
-695,3,"内镜","endoscopic",51.85
+695,4,"内镜","endoscopic",51.85
 695,3,"贲门的","cardiac",42.7
 695,3,"肛门的(外的)(内的)","anal (external) (internal)",49.59
 695,4,"后的","posterior",49.52
@@ -62,7 +62,7 @@ page,level,chinese,english,code
 695,2,"脑膜(脑的)","meninges (cerebral)",01.31
 695,2,"脑束","cerebral tracts",01.32
 695,2,"脑组织","brain tissue",01.32
-695,2,"皮质粘连","cortical adhesions",02.91
+695,3,"皮质粘连","cortical adhesions",02.91
 695,2,"内收肌腱(髋)","adductor tendon (hip)",83.12
 695,2,"膀胱颈","bladder neck",57.91
 695,2,"髂胫束","iliotibial band",83.14
@@ -114,7 +114,7 @@ page,level,chinese,english,code
 696,3,"肾上腺","adrenal gland",07.42
 696,3,"束","tracts",
 696,4,"脊髓","spinal cord",03.29
-696,4,"经皮的","percutaneous",03.21
+696,5,"经皮的","percutaneous",03.21
 696,4,"脑的","cerebral",01.32
 696,3,"听神经","acoustic",04.01
 696,2,"神经节,交感神经","ganglion, sympathetic",05.0
@@ -125,8 +125,8 @@ page,level,chinese,english,code
 697,3,"唇的","labial",27.91
 697,3,"舌,舌的","tongue,lingual",25.91
 697,2,"峡","isthmus",
-697,2,"甲状腺","thyroid",06.91
-697,2,"马蹄形肾","horseshoe kidney",55.85
+697,3,"甲状腺","thyroid",06.91
+697,3,"马蹄形肾","horseshoe kidney",55.85
 697,2,"下颌骨角(开放)","angle of mandible (open)",76.62
 697,3,"闭合性","closed",76.61
 697,2,"先天性蹼","congenital web",
@@ -176,10 +176,10 @@ page,level,chinese,english,code
 698,3,"用于","for",
 698,4,"解除梗阻","relief of obstruction",51.49
 698,4,"探查术","exploration",51.59
-698,4,"总(探查术)","common (exploratory)",51.51
-698,3,"用于","for",
-698,4,"解除梗阻 NEC","relief of obstruction NEC",51.42
-698,4,"去除结石","removal of calculus",51.41
+698,3,"总(探查术)","common (exploratory)",51.51
+698,4,"用于","for",
+698,5,"解除梗阻 NEC","relief of obstruction NEC",51.42
+698,5,"去除结石","removal of calculus",51.41
 698,2,"胆囊","gallbladder",51.04
 698,2,"胆总管(用于探查术)","common bile duct (for exploration)",51.51
 698,3,"用于","for",

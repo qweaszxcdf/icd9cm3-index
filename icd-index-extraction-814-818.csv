@@ -18,7 +18,7 @@ page,level,chinese,english,code
 814,3,"镫骨切除术-另见镫骨切除术","stapedectomy-see also Stapedectomy",19.19
 814,3,"镫骨松动术","stapes mobilization",19.0
 814,3,"鼓室成形术","tympanoplasty",19.53
-814,3,"修复术","revision",19.6
+814,4,"修复术","revision",19.6
 814,1,"听小骨切开术NEC","Ossiculotomy NEC",19.3
 814,1,"停止","Arrest",
 814,2,"出血-见控制,出血","hemorrhage-see Control, hemorrhage",
@@ -49,7 +49,7 @@ page,level,chinese,english,code
 815,2,"呼气末正压呼吸[PEEP]","positive end expiratory pressure [PEEP]",
 815,3,"非侵入性","non-invasive",93.90
 815,3,"侵入性-见亚目","invasive-see subcategory",96.7
-815,3,"机械性,NOS","mechanical, NOS",93.90
+815,2,"机械性,NOS","mechanical, NOS",93.90
 815,3,"非侵入性[NIPPV]","non-invasive [NIPPV]",93.90
 815,3,"其他连续性(未特指时限)","other continuous invasive (unspecified duration)",96.70
 815,4,"用于连续96小时或多于","for 96 consecutive hours or more",96.72
@@ -77,10 +77,10 @@ page,level,chinese,english,code
 816,2,"鼻甲","nasal turbinates",21.61
 816,2,"脉络膜-见透热疗法,视网膜","choroid-see Diathermy, retina",
 816,2,"视网膜","retina",
-816,2,"用于","for",
-816,3,"病损破坏","destruction of lesion",14.21
-816,3,"撕裂修补术","repair of tear",14.31
-816,3,"再附着","reattachment",14.51
+816,3,"用于","for",
+816,4,"病损破坏","destruction of lesion",14.21
+816,4,"撕裂修补术","repair of tear",14.31
+816,4,"再附着","reattachment",14.51
 816,2,"外科手术的-见破坏,病损,按部位","surgical-see Destruction, lesion, by site",
 816,1,"透视法","Transillumination",
 816,2,"鼻窦","nasal sinuses",89.35
@@ -102,9 +102,9 @@ page,level,chinese,english,code
 816,2,"腓肠腱(斯特赖克手术)","gastrocnemius tendon (Strayer operation)",83.72
 816,2,"腱","tendon",83.72
 816,3,"手","hand",82.52
-816,2,"凸颌","prognatic jaw",76.64
+816,2,"凸颌","prognathic jaw",76.64
 816,2,"眼外肌","extraocular muscle",15.11
-817,2,"多数的(两条或多条肌)(伴前徙术或切除术)","multiple (two or more muscles) (with advancement or resection)",15.3
+817,3,"多数的(两条或多条肌)(伴前徙术或切除术)","multiple (two or more muscles) (with advancement or resection)",15.3
 817,1,"吞钡","Barium swallow",87.61
 817,1,"臀助吸术-见抽吸术,臀","Breech extraction-see Extraction, breech",
 817,1,"托蒂手术-见 Toti 手术","托蒂手术-see Toti operation",
@@ -114,8 +114,8 @@ page,level,chinese,english,code
 817,1,"脱落,皮肤,经化学","Exfoliation, skin, by chemical",86.24
 817,1,"脱毛法","Epilation",
 817,2,"眉(镊子)","eyebrow (forceps)",08.93
-817,2,"电外科","electrosurgical",08.91
-817,2,"冷冻外科","cryosurgical",08.92
+817,3,"电外科","electrosurgical",08.91
+817,3,"冷冻外科","cryosurgical",08.92
 817,2,"皮肤","skin",86.92
 817,2,"眼睑(产钳)NEC","eyelid (forceps) NEC",08.93
 817,3,"电外科","electrosurgical",08.91

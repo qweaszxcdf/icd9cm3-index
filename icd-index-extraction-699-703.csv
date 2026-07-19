@@ -44,9 +44,9 @@ page,level,chinese,english,code
 700,3,"特指部位 NEC","specified site NEC",77.19
 700,3,"腕骨,掌骨","carpals, metacarpals",77.14
 700,3,"胸(肋骨)(胸骨)","thorax (ribs) (sternum)",77.11
-700,2,"牙龈,牙槽的","alveolus, alveolar",24.0
-700,2,"趾骨(足)(手)","phalanges (foot) (hand)",77.19
-700,2,"椎骨","vertebrae",77.19
+700,3,"牙龈,牙槽的","alveolus, alveolar",24.0
+700,3,"趾骨(足)(手)","phalanges (foot) (hand)",77.19
+700,3,"椎骨","vertebrae",77.19
 700,2,"关节结构—另见关节切开术","joint structures-see also Arthrotomy",80.10
 700,2,"腘动脉间隙","popliteal space",86.09
 700,2,"汗腺,皮肤","sweat glands, skin",86.04
@@ -67,7 +67,7 @@ page,level,chinese,english,code
 700,3,"索","cord",03.09
 700,2,"脊柱","vertebral column",03.09
 700,2,"季肋部","hypochondrium",54.0
-700,2,"腹内","intra-abdominal",54.19
+700,3,"腹内","intra-abdominal",54.19
 700,2,"颊","cheek",86.09
 700,2,"甲沟炎","paronychia",86.09
 700,2,"颊腔","buccal space",27.0
@@ -80,7 +80,7 @@ page,level,chinese,english,code
 700,3,"伴切断","with division",83.13
 700,4,"手","hand",82.11
 700,3,"手","hand",82.01
-700,4,"伴切断","with division",82.11
+700,3,"伴切断","with division",82.11
 700,2,"角膜","cornea",11.1
 701,3,"放射状的(折射的)","radial (refractive)",11.75
 701,2,"疖—见切开,按部位","furuncle-see Incision, by site",
@@ -122,7 +122,7 @@ page,level,chinese,english,code
 701,2,"颅骨(骨)","skull (bone)",01.24
 701,2,"颅颊囊","craniobuccal pouch",07.72
 701,2,"颅内(硬膜外腔)(硬膜外间隙)","intracranial (epidural space) (extradural space)",01.24
-702,2,"蛛网膜下或硬膜下腔","subarachnoid or subdural space",01.31
+702,3,"蛛网膜下或硬膜下腔","subarachnoid or subdural space",01.31
 702,2,"卵巢","ovary",65.09
 702,3,"腹腔镜","laparoscopic",65.01
 702,2,"麦粒肿","stye",08.09
@@ -162,7 +162,7 @@ page,level,chinese,english,code
 702,3,"肝下的","subhepatic",54.19
 702,3,"肛周","perianal",49.01
 702,3,"膈下的","subphrenic",54.19
-702,2,"巩膜","sclera",12.89
+702,3,"巩膜","sclera",12.89
 703,3,"腘动脉间隙","popliteal space",86.04
 703,3,"颌下腺的","submaxillary",86.04
 703,3,"横膈下","subdiaphragmatic",54.19
@@ -197,9 +197,9 @@ page,level,chinese,english,code
 703,2,"脾","spleen",41.2
 703,2,"皮肤","skin",86.09
 703,3,"伴引流","with drainage",86.04
-703,4,"鼻","nose",21.1
-703,4,"耳","ear",18.09
-703,4,"皮下管道,用于脉搏发生器导联线","tunnel, subcutaneous for pulse generator lead wire",86.99
-703,5,"伴首次操作—省略编码","with initial procedure-omit code",
-703,4,"皮下隧道用于脉搏发生器导联","subcutaneous tunnel for pulse generator lead wire",86.99
-703,5,"伴首次操作—省略编码","with initial procedure-omit code",
+703,3,"鼻","nose",21.1
+703,3,"耳","ear",18.09
+703,3,"皮下管道,用于脉搏发生器导联线","tunnel, subcutaneous for pulse generator lead wire",86.99
+703,4,"伴首次操作—省略编码","with initial procedure-omit code",
+703,3,"皮下隧道用于脉搏发生器导联","subcutaneous tunnel for pulse generator lead wire",86.99
+703,4,"伴首次操作—省略编码","with initial procedure-omit code",

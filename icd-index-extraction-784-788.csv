@@ -57,7 +57,7 @@ page,level,chinese,english,code
 785,2,"心的 NEC","cardiac NEC",37.99
 785,3,"瓣膜 NEC","valve NEC",35.99
 785,3,"隔 NEC","septum NEC",35.98
-785,2,"心肉柱(心脏) NEC","trabeculae carneae cordis (heart) NEC",35.35
+785,2,"心肉柱(心脏) NEC","trabeculae corneae cordis (heart) NEC",35.35
 785,2,"心脏 NEC","heart NEC",37.99
 785,3,"瓣膜 NEC","valve NEC",35.99
 785,4,"邻近结构 NEC","adjacent structure NEC",35.39
@@ -93,6 +93,7 @@ page,level,chinese,english,code
 786,2,"血管 NEC","vessel,blood vessel NEC",39.99
 786,3,"心的 NEC","cardiac NEC",36.99
 786,2,"血管的 NEC","vascular NEC",39.99
+786,2,"Roux-en-Y","Roux-en-Y",
 786,3,"胆管","bile duct",51.36
 786,3,"胆囊空肠吻合术","cholecystojejunostomy",51.32
 786,3,"食管(胸内)","esophagus (intrathoracic)",42.54
@@ -176,8 +177,8 @@ page,level,chinese,english,code
 788,2,"子宫 NEC","uterus NEC",69.99
 788,3,"支持结构 NEC","supporting structures NEC",69.98
 788,2,"子宫颈 NEC","cervix NEC",69.99
-788,2,"手术中麻醉效果监测和滴定法(IAEMT) [89.14]","Intraoperative anesthetic effect monitoring and titration (IAEMT) [89.14]",00.94
-788,2,"手语","Sign language",93.75
-788,2,"授精,人工","Insemination, artificial",69.92
-788,2,"输出量和清除,循环的","Output and clearance, circulatory",92.05
-788,2,"输精管缝合术","Vasorrhaphy",63.81
+788,1,"手术中麻醉效果监测和滴定法(IAEMT)","Intraoperative anesthetic effect monitoring and titration (IAEMT)",00.94[89.14]
+788,1,"手语","Sign language",93.75
+788,1,"授精,人工","Insemination, artificial",69.92
+788,1,"输出量和清除,循环的","Output and clearance, circulatory",92.05
+788,1,"输精管缝合术","Vasorrhaphy",63.81

@@ -63,8 +63,8 @@ page,level,chinese,english,code
 655,2,"脊髓的 NEC","spinal NEC",93.42
 655,3,"伴颅骨装置(环钳)(卡钳)(克拉奇菲尔德)(加德纳维尔斯)(文凯)(钳)","with skull device (halo) (caliper) (Crutchfield) (Gardner Wells) (Vinke) (tongs)",93.41
 655,4,"同时伴装置插入","with synchronous insertion of device",02.94
-655,3,"加德纳维尔斯","Gardner Wells",93.41
-655,4,"同时伴装置插入","with synchronous insertion of device",02.94
+655,2,"加德纳维尔斯","Gardner Wells",93.41
+655,3,"同时伴装置插入","with synchronous insertion of device",02.94
 655,2,"胶带(皮肤)","adhesive tape (skin)",93.46
 655,2,"卡钳","caliper tongs",93.41
 655,3,"同时伴插入装置","with synchronous insertion of device",02.94
@@ -115,7 +115,7 @@ page,level,chinese,english,code
 657,2,"经囊 NEC","transcapsular NEC",60.69
 657,3,"耻骨后","retropubic",60.4
 657,2,"经尿道","transurethral",60.29
-657,2,"超声引导激光诱发的(TULIP)","ultrasound guided laser induced (TULIP)",60.21
+657,3,"超声引导激光诱发的(TULIP)","ultrasound guided laser induced (TULIP)",60.21
 657,3,"电汽化术","electrovaporization",60.29
 657,3,"前列腺切除术(TURP)","resection of prostate (TURP)",60.29
 657,3,"剜出术","enucleative",60.29
@@ -164,11 +164,11 @@ page,level,chinese,english,code
 658,2,"瘢痕(皮肤)","cicatrix (skin)",86.3
 658,2,"瘢痕疙瘩(瘢痕),皮肤","keloid (scar), skin",86.3
 658,2,"半月板(膝)","meniscus (knee)",80.6
-658,2,"颌骨","jaw",76.5
-658,2,"肩锁","acromioclavicular",80.91
-658,2,"肩锁骨的","sternoclavicular",80.91
-658,2,"颞下颌的(关节)","temporomandibular (joint)",76.5
-658,2,"腕","wrist",80.93
+658,3,"颌骨","jaw",76.5
+658,3,"肩锁","acromioclavicular",80.91
+658,3,"肩锁骨的","sternoclavicular",80.91
+658,3,"颞下颌的(关节)","temporomandibular (joint)",76.5
+658,3,"腕","wrist",80.93
 658,2,"伴增殖腺切除术","with adenoidectomy",28.3
 658,2,"贝克囊肿,膝","Baker's cyst, knee",83.39
 658,2,"鼻唇囊肿","nasolabial cyst",27.49

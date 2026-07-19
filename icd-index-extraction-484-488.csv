@@ -81,9 +81,9 @@ page,level,chinese,english,code
 486,2,"替奈普酶(tPA,generic)","Tenecteplase (tPA, generic)",99.10
 486,2,"替奈替普酶","TNKase",99.10
 486,2,"韦克斯勒","Wechsler",
-486,3,"Xigris[重组人活化蛋白C]","Xigris",00.11
 486,3,"记忆测量","Memory Scale",94.02
 486,3,"智力测量(成人)(儿童)","Intelligence Scale (adult) (children)",94.01
+486,2,"Xigris[重组人活化蛋白C]","Xigris",00.11
 486,2,"吸入一氧化氮","inhaled nitric oxide",00.12
 486,2,"心理测验","psychologic test",94.02
 486,2,"疫苗-另见接种疫苗","vaccine-see also Vaccination",
@@ -162,7 +162,7 @@ page,level,chinese,english,code
 488,2,"角膜","cornea",12.91
 488,2,"膀胱","bladder",57.11
 488,2,"前房,眼","anterior chamber, eye",12.91
-488,2,"胸","thoracic",34.91
+488,2,"胸","thoracic, thoracis",34.91
 488,2,"眼(前房)","eye (anterior chamber)",12.91
 488,1,"穿孔","Perforation",
 488,2,"镫骨底板","stapes footplate",19.0

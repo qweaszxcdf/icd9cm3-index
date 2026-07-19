@@ -52,7 +52,7 @@ page,level,chinese,english,code
 545,3,"半规管开窗","fenestra in semicircular canal",19.55
 545,3,"移植物靠紧","graft against",
 545,4,"活动且完整的镫骨","mobile and intact stapes",19.53
-545,3,"砧镫骨固定术","incudostapediopexy",19.52
+545,4,"砧镫骨固定术","incudostapediopexy",19.52
 545,4,"砧骨或锤骨","incus or malleus",19.52
 545,3,"圆窗上含气小室","air pocket over round window",19.54
 545,2,"鼓室上的,I型","epitympanic,type I",19.4
@@ -120,7 +120,7 @@ page,level,chinese,english,code
 547,3,"伴移植物或假体","with graft or prosthesis",70.78
 547,2,"脾","spleen",41.95
 547,2,"韧带","ligament",
-547,3,"眼睑","palpebrae",8.36
+547,3,"眼睑","palpebrae",08.36
 547,3,"主要的(子宫颈横(侧)韧带)","cardinal",69.22
 547,2,"乳房(悬垂的)","breast (pendulous)",85.6
 547,2,"舌","tongue",25.59
@@ -183,4 +183,4 @@ page,level,chinese,english,code
 548,2,"关节—见切除术,病损,关节","joint-see also Excision, lesion, joint",80.80
 548,2,"肌肉","muscle",83.32
 548,3,"手","hand",82.22
-548,2,"脊索(脑膜)","spinal cord (meninges)",3.4
+548,2,"脊索(脑膜)","spinal cord (meninges)",03.4

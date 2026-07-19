@@ -8,7 +8,7 @@ page,level,chinese,english,code
 689,3,"喉","larynx",30.29
 689,3,"声带","vocal cords",30.22
 689,2,"黏液囊","bursa",83.5
-689,2,"手","hand",82.31
+689,3,"手","hand",82.31
 689,2,"膀胱(部分)(节段的)(经膀胱的)(楔形)","bladder (partial) (segmental) (transvesical) (wedge)",57.6
 689,3,"病损 NEC","lesion NEC",57.59
 689,4,"经尿道入路","transurethral approach",57.49
@@ -78,9 +78,9 @@ page,level,chinese,english,code
 690,3,"楔形","wedge",43.42
 690,4,"内镜的","endoscopic",43.41
 690,2,"心包(部分)(为了)","pericardium (partial) (for)",
-691,4,"慢性狭窄性心包炎","chronic constrictive pericarditis",37.31
-691,4,"引流","drainage",37.12
-691,4,"粘连去除","removal of adhesions",37.31
+691,3,"慢性狭窄性心包炎","chronic constrictive pericarditis",37.31
+691,3,"引流","drainage",37.12
+691,3,"粘连去除","removal of adhesions",37.31
 691,2,"心肌","myocardium",37.33
 691,2,"心室(心脏)(左)","ventricle (heart)",37.35
 691,3,"漏斗状","infundibula",35.34
@@ -132,23 +132,23 @@ page,level,chinese,english,code
 692,4,"开放性","open",48.52
 692,4,"其他","other",48.59
 692,3,"后的","posterior",48.64
-692,4,"黏膜下的(索夫)","submucosal (Soave)",48.41
-692,5,"腹联合的,NOS","combined abdominal, NOS",48.50
-692,6,"腹腔镜的","laparoscopic",48.51
-692,6,"开放性","open",48.52
-692,6,"其他","other",48.59
-692,4,"前的","anterior",48.63
-692,5,"伴肠造口术(同时的)","with colostomy (synchronous)",48.62
-692,4,"拖出 NEC","pull-through NEC",48.49
-692,5,"腹腔镜的","laparoscopic",48.42
-692,5,"开放性","open",48.43
-692,5,"其他方面未特指的","not otherwise specified",48.40
-692,5,"直肠内的","endorectal",48.41
-692,4,"直肠内","endorectal",48.41
-692,5,"腹联合的,NOS","combined abdominal, NOS",48.50
-692,6,"腹腔镜的","laparoscopic",48.51
-692,6,"开放性","open",48.52
-692,6,"其他","other",48.59
+692,3,"黏膜下的(索夫)","submucosal (Soave)",48.41
+692,4,"腹联合的,NOS","combined abdominal, NOS",48.50
+692,5,"腹腔镜的","laparoscopic",48.51
+692,5,"开放性","open",48.52
+692,5,"其他","other",48.59
+692,3,"前的","anterior",48.63
+692,4,"伴肠造口术(同时的)","with colostomy (synchronous)",48.62
+692,3,"拖出 NEC","pull-through NEC",48.49
+692,4,"腹腔镜的","laparoscopic",48.42
+692,4,"开放性","open",48.43
+692,4,"其他方面未特指的","not otherwise specified",48.40
+692,4,"直肠内的","endorectal",48.41
+692,3,"直肠内","endorectal",48.41
+692,4,"腹联合的,NOS","combined abdominal, NOS",48.50
+692,5,"腹腔镜的","laparoscopic",48.51
+692,5,"开放性","open",48.52
+692,5,"其他","other",48.59
 692,2,"直肠内(拖出)(索夫)","endorectal (pull-through) (Soave)",48.41
 692,3,"腹联合的,NOS","combined abdominal, NOS",48.50
 692,4,"腹腔镜的","laparoscopic",48.51
@@ -163,7 +163,7 @@ page,level,chinese,english,code
 693,2,"脊髓神经根","spinal nerve root",03.1
 693,2,"尿道括约肌","urethral-sphincter",58.5
 693,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.03
-693,2,"耳的","auditory",04.01
+693,3,"耳的","auditory",04.01
 693,3,"脊髓神经根","root, spinal",03.1
 693,3,"交感神经的","sympathetic",05.0
 693,3,"前庭","vestibular",04.01

@@ -10,62 +10,62 @@ page,level,chinese,english,code
 794,3,"肾(经导管)","renal (transcatheter)",38.86
 794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
 794,3,"胃的(经导管)","gastric (transcatheter)",44.44
-794,2,"经","by",
-794,3,"经皮经导管输注","percutaneous transcatheter infusion",99.29
-794,3,"血管内入路","endovascular approach",39.79
-794,4,"部分闭合(球囊)(暂时性)","partial occlusion (balloon) (temporary)",39.77
-794,4,"头和颈血管","head and neck vessels",39.72
-794,4,"裸弹簧圈","bare coils",39.75
+794,3,"经","by",
+794,4,"经皮经导管输注","percutaneous transcatheter infusion",99.29
+794,4,"血管内入路","endovascular approach",39.79
+794,5,"部分闭合(球囊)(暂时性)","partial occlusion (balloon) (temporary)",39.77
+794,5,"头和颈血管","head and neck vessels",39.72
+794,6,"裸弹簧圈","bare coils",39.75
 794,4,"生物活性弹簧圈","bioactive coils",39.76
 794,3,"颅内的NEC","intracranial NEC",38.81
 794,3,"上肢","upper limb",38.83
-794,3,"肾(经导管)","renal (transcatheter)",38.86
-794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+794,4,"肾(经导管)","renal (transcatheter)",38.86
+794,4,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
 794,3,"头和颈NEC","head and neck NEC",38.82
-794,3,"胃的(经导管)","gastric (transcatheter)",44.44
+794,4,"胃的(经导管)","gastric (transcatheter)",44.44
 794,3,"下肢","lower limb",38.88
 794,3,"胸NEC","thoracic NEC",38.85
 794,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.84
-794,3,"暂时性治疗血管内的(球囊)(部分闭合)","temporary therapeutic endovascular (balloon) (partial occlusion)",39.77
-794,2,"子宫(明胶海绵)(明胶海绵)(微球体)(PVA)(球形栓子)(无弹簧圈)","uterine (gelatin sponge) (gelfoam) (microspheres) (PVA) (spherical embolics) (without coil(s))",68.25
+794,4,"暂时性治疗血管内的(球囊)(部分闭合)","temporary therapeutic endovascular (balloon) (partial occlusion)",39.77
+794,3,"子宫(明胶海绵)(明胶海绵)(微球体)(PVA)(球形栓子)(无弹簧圈)","uterine (gelatin sponge) (gelfoam) (microspheres) (PVA) (spherical embolics) (without coil(s))",68.25
 794,2,"化学物质栓塞术","chemoembolization",99.25
 794,2,"颈动静脉瘘","carotid cavernous fistula",39.53
 794,2,"静脉(选择性)","vein (selective)",38.80
 794,3,"腹的NEC","abdominal NEC",38.87
 794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
 795,3,"胃的(经导管)","gastric (transcatheter)",44.44
-795,2,"经","by",
-795,3,"血管内入路","endovascular approach",39.79
-795,4,"部分闭合(球囊)(暂时性)","partial occlusion (balloon) (temporary)",39.77
-795,4,"头和颈","head and neck",39.72
-795,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
-795,3,"胃的(经导管)","gastric (transcatheter)",44.44
+795,3,"经","by",
+795,4,"血管内入路","endovascular approach",39.79
+795,5,"部分闭合(球囊)(暂时性)","partial occlusion (balloon) (temporary)",39.77
+795,5,"头和颈","head and neck",39.72
+795,4,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+795,4,"胃的(经导管)","gastric (transcatheter)",44.44
 795,2,"弹簧圈,血管内","coil, endovascular",39.79
 795,3,"头和颈","head and neck",39.75
 795,3,"裸弹簧圈","bare coils",39.75
 795,3,"生物活性弹簧圈","bioactive coils",39.76
-795,2,"子宫动脉","uterine artery",68.24
+795,3,"子宫动脉","uterine artery",68.24
 795,2,"粘连(粘合)","adhesive (glue)",39.79
 795,3,"头和颈","head and neck",39.72
 795,1,"栓子切除术","Embolectomy",38.00
 795,2,"伴动脉内膜切除术-见动脉内膜切除术","with endarterectomy-see Endarterectomy",
 795,2,"动静脉分流或套管","arteriovenous shunt or cannula",39.49
 795,2,"肺的(动脉)(静脉)","pulmonary:(artery):(vein)",38.05
-795,2,"腹的","abdominal",38.05
+795,2,"腹的","abdominal",
 795,3,"动脉","artery",38.06
 795,3,"静脉","vein",38.07
 795,2,"机械性","mechanical",
 795,3,"血管内的","endovascular",
 795,4,"头和颈","head and neck",39.74
-795,3,"颅内的NEC","intracranial NEC",38.01
-795,3,"牛移植物","bovine graft",39.49
-795,3,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
-795,3,"头和颈NEC","head and neck NEC",38.02
-795,3,"下肢","lower limb",
-795,4,"动脉","artery",38.08
-795,4,"静脉","vein",38.09
-795,3,"胸NEC","thoracic NEC",38.05
-795,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+795,2,"颅内的NEC","intracranial NEC",38.01
+795,2,"牛移植物","bovine graft",39.49
+795,2,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+795,2,"头和颈NEC","head and neck NEC",38.02
+795,2,"下肢","lower limb",
+795,3,"动脉","artery",38.08
+795,3,"静脉","vein",38.09
+795,2,"胸NEC","thoracic NEC",38.05
+795,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
 795,1,"双频指数监测[BIS]","BIS (bispectral index) monitoring",00.94[89.14]
 795,1,"双水平正气压[BiPAP]","BiPAP",93.90
 795,2,"由","delivered by",
@@ -101,7 +101,7 @@ page,level,chinese,english,code
 796,1,"斯文尼手术-见 Swinney 手术","斯文尼手术-see Swinney operation",
 796,1,"撕脱","Evulsion",
 796,2,"皮肤","skin",86.3
-796,3,"皮下组织","subcutaneous tissue",86.3
+796,2,"皮下组织","subcutaneous tissue",86.3
 796,1,"死骨切除术","Sequestrectomy",
 796,2,"鼻","nose",21.32
 796,2,"骨","bone",77.00
@@ -138,12 +138,12 @@ page,level,chinese,english,code
 797,1,"松解术","Release",
 797,2,"瘢痕组织","scar tissue",
 797,3,"口-见修复术,口","stoma-see Revision, stoma",
-797,2,"皮肤","skin",86.84
+797,3,"皮肤","skin",86.84
 797,2,"扳机状指或拇指","trigger finger or thumb",82.01
 797,2,"德奎尔万腱鞘炎","de Quervain's tenosynovitis",82.01
 797,2,"杜普伊特伦挛缩(经手掌筋膜切除术)","Dupuytren's contracture (by palmar fasciectomy)",82.35
 797,3,"经筋膜切开术(皮下的)","by fasciotomy (subcutaneous)",82.12
-797,3,"伴切除术","with excision",82.35
+797,4,"伴切除术","with excision",82.35
 797,2,"福尔克曼挛缩","Volkmann's contracture",
 797,3,"瘢痕切除术,肌肉","excision of scar, muscle",83.32
 797,3,"肌移植","muscle transplantation",83.77

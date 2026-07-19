@@ -41,7 +41,7 @@ page,level,chinese,english,code
 664,3,"网膜","omentum",54.4
 664,3,"胃 NEC","stomach NEC",43.42
 665,4,"内镜的","endoscopic",43.41
-665,4,"息肉","polyp",43.41
+665,5,"息肉","polyp",43.41
 665,4,"息肉(内镜的)","polyp (endoscopic)",43.41
 665,3,"腺样增殖体","adenoids",28.92
 665,3,"心包","pericardium",37.31
@@ -67,14 +67,14 @@ page,level,chinese,english,code
 665,4,"腹的","abdominal",
 665,5,"动脉","artery",38.66
 665,5,"静脉","vein",38.67
-665,5,"颅内的 NEC","intracranial NEC",38.61
-665,5,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.63
-665,5,"头和颈 NEC","head and neck NEC",38.62
-665,5,"下肢","lower limb",
-665,6,"动脉","artery",38.68
-665,6,"静脉","vein",38.69
-665,5,"胸的 NEC","thoracic NEC",38.65
-665,5,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.64
+665,4,"颅内的 NEC","intracranial NEC",38.61
+665,4,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.63
+665,4,"头和颈 NEC","head and neck NEC",38.62
+665,4,"下肢","lower limb",
+665,5,"动脉","artery",38.68
+665,5,"静脉","vein",38.69
+665,4,"胸的 NEC","thoracic NEC",38.65
+665,4,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.64
 665,3,"牙的(颌骨)","dental (jaw)",24.4
 665,3,"牙龈","gum",24.31
 665,3,"牙槽","alveolus",24.4
@@ -86,9 +86,9 @@ page,level,chinese,english,code
 666,4,"大的","major",
 666,5,"板层","partial-thickness",08.23
 666,5,"全层","full-thickness",08.24
-666,5,"经","by",
-666,6,"楔形切除术","wedge resection",08.24
-666,6,"半操作","halving procedure",08.24
+666,4,"经","by",
+666,5,"楔形切除术","wedge resection",08.24
+666,5,"半操作","halving procedure",08.24
 666,4,"小的","minor",08.22
 666,3,"咽","pharynx",29.39
 666,4,"憩室","diverticulum",29.32
@@ -116,87 +116,87 @@ page,level,chinese,english,code
 666,3,"纵隔","mediastinum",34.3
 666,3,"嘴唇","lip",27.43
 666,4,"经广泛切除术","by wide excision",27.42
-666,3,"玻璃体混浊","vitreous opacity",14.74
-666,4,"前入路","anterior approach",14.73
-666,3,"残余(扁桃体)","tag",28.4
-666,3,"藏毛囊肿或窦(开放)(伴部分闭合)","pilonidal cyst or sinus (open) (with partial closure)",86.21
-666,3,"肠—另见切除术,肠","intestine-see also Resection, intestine",
-666,4,"大的(全部)","large (total)",
+666,2,"玻璃体混浊","vitreous opacity",14.74
+666,3,"前入路","anterior approach",14.73
+666,2,"残余(扁桃体)","tag",28.4
+666,2,"藏毛囊肿或窦(开放)(伴部分闭合)","pilonidal cyst or sinus (open) (with partial closure)",86.21
+666,2,"肠—另见切除术,肠","intestine-see also Resection, intestine",
+666,3,"大的(全部)","large (total)",
 667,4,"腹腔镜的","laparoscopic",45.81
 667,4,"节段的","segmental",
 667,5,"多的","multiple",
 667,6,"腹腔镜的","laparoscopic",17.31
 667,6,"开放和其他","open and other",45.71
-667,6,"腹腔镜的","laparoscopic",17.39
-667,6,"开放和其他","open and other",45.79
-667,5,"局部的","local",45.41
-667,6,"内镜的","endoscopic",45.43
-667,5,"开放的","open",45.82
-667,5,"其他","other",45.83
-667,5,"未特指的","unspecified",45.83
-667,5,"用于间置术","for interposition",45.52
-667,4,"小的(全部)","small (total)",45.63
-667,5,"部分的","partial",45.62
-667,5,"节段的","segmental",45.62
+667,5,"腹腔镜的","laparoscopic",17.39
+667,5,"开放和其他","open and other",45.79
+667,4,"局部的","local",45.41
+667,5,"内镜的","endoscopic",45.43
+667,4,"开放的","open",45.82
+667,4,"其他","other",45.83
+667,4,"未特指的","unspecified",45.83
+667,4,"用于间置术","for interposition",45.52
+667,3,"小的(全部)","small (total)",45.63
+667,4,"部分的","partial",45.62
+667,4,"节段的","segmental",45.62
 667,5,"多的","multiple",45.61
-667,5,"局部的","local",45.33
-667,5,"用于间置术","for interposition",45.51
-667,4,"用于间置术","for interposition",45.50
-667,5,"大的","large",45.52
-667,5,"小的","small",45.51
-667,3,"肠脂垂","appendices epiploicae",54.4
-667,3,"齿龈","gum,gingiva",24.31
-667,3,"处女膜(残余)","hymen (tag)",70.31
-667,3,"处女膜尿道融合术","hymeno-urethral fusion",70.31
-667,3,"垂体腺(完全)(全部)—另见垂体切除术","pituitary gland (complete) (total)-see also Hypophysectomy",07.69
+667,4,"局部的","local",45.33
+667,4,"用于间置术","for interposition",45.51
+667,3,"用于间置术","for interposition",45.50
+667,4,"大的","large",45.52
+667,4,"小的","small",45.51
+667,2,"肠脂垂","appendices epiploicae",54.4
+667,2,"齿龈","gum,gingiva",24.31
+667,2,"处女膜(残余)","hymen (tag)",70.31
+667,2,"处女膜尿道融合术","hymeno-urethral fusion",70.31
+667,2,"垂体腺(完全)(全部)—另见垂体切除术","pituitary gland (complete) (total)-see also Hypophysectomy",07.69
 667,3,"唇","lip",27.43
-667,3,"错构瘤,乳房的","hamartoma, mammary",85.21
-667,3,"胆管","bile duct",51.69
-667,4,"内镜的","endoscopic",51.64
-667,3,"胆质瘤—见切除术,病损,按部位","cholesteatoma-see Excision, lesion, by site",
+667,2,"错构瘤,乳房的","hamartoma, mammary",85.21
+667,2,"胆管","bile duct",51.69
+667,3,"内镜的","endoscopic",51.64
+667,2,"胆质瘤—见切除术,病损,按部位","cholesteatoma-see Excision, lesion, by site",
 667,3,"顶泌腺","apocrine gland",86.3
-667,3,"动静脉瘘—见动脉瘤切除术","arteriovenous fistula-see also Aneurysmectomy",38.60
-667,3,"动脉—另见动脉切除术","artery-see also Arteriectomy",38.60
-667,3,"动脉瘤(动静脉的)—另见动脉瘤切除术","aneurysm (arteriovenous)-see also Aneurysmectomy",38.60
-667,4,"冠状动脉","coronary artery",36.91
-667,4,"瓦尔萨尔瓦窦","sinus of Valsalva",35.39
-667,4,"心肌","myocardium",37.32
-668,4,"心室(心脏)","ventricle (heart)",37.32
-668,4,"心脏","heart",37.32
-668,3,"窦—另见切除术,病损,按部位","sinus-see also Excision, lesion, by site",
-668,4,"鼻的—见窦切除术","nasal-see Sinusectomy",
-668,4,"藏毛的","pilonidal",86.21
-668,4,"耳前(耳)(根治)","preauricular (ear) (radical)",18.21
-668,4,"跗骨","tarsi",80.88
-668,4,"甲状舌管(伴舌骨切除术)","thyroglossal (with resection of hyoid bone)",06.7
+667,2,"动静脉瘘—见动脉瘤切除术","arteriovenous fistula-see also Aneurysmectomy",38.60
+667,2,"动脉—另见动脉切除术","artery-see also Arteriectomy",38.60
+667,2,"动脉瘤(动静脉的)—另见动脉瘤切除术","aneurysm (arteriovenous)-see also Aneurysmectomy",38.60
+667,3,"冠状动脉","coronary artery",36.91
+667,3,"瓦尔萨尔瓦窦","sinus of Valsalva",35.39
+667,3,"心肌","myocardium",37.32
+668,3,"心室(心脏)","ventricle (heart)",37.32
+668,3,"心脏","heart",37.32
+668,2,"窦—另见切除术,病损,按部位","sinus-see also Excision, lesion, by site",
+668,3,"鼻的—见窦切除术","nasal-see Sinusectomy",
+668,3,"藏毛的","pilonidal",86.21
+668,3,"耳前(耳)(根治)","preauricular (ear) (radical)",18.21
+668,3,"跗骨","tarsi",80.88
+668,3,"甲状舌管(伴舌骨切除术)","thyroglossal (with resection of hyoid bone)",06.7
 668,3,"脐尿管的(膀胱)","urachal (bladder)",57.51
 668,4,"腹壁","abdominal wall",54.3
-668,3,"多余","supernumerary",
-668,4,"乳房","breast",85.24
-668,4,"指(趾)","digits",86.26
-668,3,"多余黏膜","redundant mucosa",
-668,4,"回肠造口术","ileostomy",45.33
-668,4,"会阴","perineum",71.3
-668,4,"结肠造口术","colostomy",45.41
-668,5,"内镜的","endoscopic",45.43
-668,4,"空肠造口术","jejunostomy",45.33
-668,4,"十二指肠造口术","duodenostomy",45.31
-668,5,"内镜","endoscopic",45.30
-668,4,"外阴","vulva",71.3
-668,4,"直肠","rectum",48.35
-668,3,"耳,外的(完全) NEC","ear, external (complete) NEC",18.39
-668,4,"部分","partial",18.29
+668,2,"多余","supernumerary",
+668,3,"乳房","breast",85.24
+668,3,"指(趾)","digits",86.26
+668,2,"多余黏膜","redundant mucosa",
+668,3,"回肠造口术","ileostomy",45.33
+668,3,"会阴","perineum",71.3
+668,3,"结肠造口术","colostomy",45.41
+668,4,"内镜的","endoscopic",45.43
+668,3,"空肠造口术","jejunostomy",45.33
+668,3,"十二指肠造口术","duodenostomy",45.31
+668,4,"内镜","endoscopic",45.30
+668,3,"外阴","vulva",71.3
+668,3,"直肠","rectum",48.35
+668,2,"耳,外的(完全) NEC","ear, external (complete) NEC",18.39
+668,3,"部分","partial",18.29
 668,4,"根治","radical",18.31
-668,3,"耳前","preauricular",
-668,4,"残余","remnant",18.29
-668,4,"副耳(残余)","appendage (remnant)",18.29
-668,4,"囊肿,瘘,或窦(先天性的)","cyst, fistula, or sinus (congenital)",18.21
-668,3,"法特氏壶腹(伴胆总管再植入)","ampulla of Vater (with reimplantation of common duct)",51.62
-668,3,"肺(完全)(伴纵隔清扫)","lung (with mediastinal dissection)",32.59
-668,4,"肺容量减少术","volume reduction surgery",32.22
-668,5,"生物学肺容积减少术—见亚目","biologic lung volume reduction (BLVR)-see subcategory",33.7
-668,4,"副或异位组织","accessory or ectopic tissue",32.29
-668,5,"内镜的","endoscopic",32.28
-668,6,"胸腔镜的","thoracoscopic",32.20
-668,4,"节段的","segmental",32.39
-668,5,"胸腔镜的","thoracoscopic",32.30
+668,2,"耳前","preauricular",
+668,3,"残余","remnant",18.29
+668,3,"副耳(残余)","appendage (remnant)",18.29
+668,3,"囊肿,瘘,或窦(先天性的)","cyst, fistula, or sinus (congenital)",18.21
+668,2,"法特氏壶腹(伴胆总管再植入)","ampulla of Vater (with reimplantation of common duct)",51.62
+668,2,"肺(完全)(伴纵隔清扫)","lung (with mediastinal dissection)",32.59
+668,3,"肺容量减少术","volume reduction surgery",32.22
+668,4,"生物学肺容积减少术—见亚目","biologic lung volume reduction (BLVR)-see subcategory",33.7
+668,3,"副或异位组织","accessory or ectopic tissue",32.29
+668,4,"内镜的","endoscopic",32.28
+668,5,"胸腔镜的","thoracoscopic",32.20
+668,3,"节段的","segmental",32.39
+668,4,"胸腔镜的","thoracoscopic",32.30

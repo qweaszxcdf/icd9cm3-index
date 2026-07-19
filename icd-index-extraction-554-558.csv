@@ -30,7 +30,7 @@ page,level,chinese,english,code
 554,3,"化学疗法 NEC","chemotherapy NEC",99.25
 554,3,"激素疗法 NEC","hormone therapy NEC",99.24
 554,2,"肢体(下的)(上的)","limb (lower) (upper)",39.97
-554,2,"蛛网膜下(脊索)(冷冻盐水)","subarachnoid (spinal cord) (refrigerated saline)",3.92
+554,2,"蛛网膜下(脊索)(冷冻盐水)","subarachnoid (spinal cord) (refrigerated saline)",03.92
 554,1,"贯通-另见固定","Transfixion-see also Fixation",
 554,2,"虹膜(凸起的)","iris (bombe)",12.11
 554,1,"光化学疗法 NEC","Photochemotherapy NEC",99.83
@@ -86,7 +86,7 @@ page,level,chinese,english,code
 556,1,"Heine 手术(睫状体分离术)","Heine operation (cyclodialysis)",12.55
 556,1,"Heineke-Mikulicz 手术(幽门成形术)","Heineke-Mikulicz operation (pyloroplasty)",44.29
 556,1,"Heller 手术(食管肌切开术)","Heller operation (esophagomyotomy)",42.7
-556,1,"Hellström 手术(迷行肾血管移植)","Hellstrom operation (transplantation of aberrant renal vessel)",39.55
+556,1,"Hellstöm 手术(迷行肾血管移植)","Hellstom operation (transplantation of aberrant renal vessel)",39.55
 556,1,"Henley 手术(空肠转位)","Henley operation (jejunal transposition)",43.81
 556,1,"Hey 手术(足截断术)","Hey operation (amputation of foot)",84.12
 556,1,"Hey-Groves 手术(前交叉韧带重建术)","Hey-Groves operation (reconstruction of anterior cruciate ligament)",81.45
@@ -94,7 +94,7 @@ page,level,chinese,english,code
 556,1,"Heyman 手术(软组织松解用于畸形足)","Heyman operation (soft tissue release for clubfoot)",83.84
 556,1,"Hibbs 手术(腰的脊椎融合术)-见融合术,腰的","Hibbs operation (lumbar spinal fusion)-see Fusion, lumbar",
 556,1,"Higgins 手术-见修补术,疝,股的","Higgins operation-see Repair, hernia, femoral",
-556,1,"Hill-Allison 手术(裂孔疝修补术,经胸膜入路)","Hill-Allison operation (hiatal hernia repair, transpleural approach)",53.8
+556,1,"Hill-Allison 手术(裂孔疝修补术,经胸膜入路)","Hill-Allison operation (hiatal hernia repair, transpleural approach)",53.80
 556,1,"Hinging,二尖瓣","Hinging, mitral valve",35.12
 556,1,"Hitchcock 手术(固定二头肌肌腱)","Hitchcock operation (anchoring tendon of biceps)",83.88
 556,1,"Hofmeister 手术(胃切除术)","Hofmeister operation (gastrectomy)",43.7
@@ -102,7 +102,7 @@ page,level,chinese,english,code
 556,2,"跗骨间的融合术","midtarsal fusion",81.14
 557,2,"三关节固定术","triple arthrodesis",81.12
 557,1,"Holth 手术","Holth operation",
-557,2,"巩膜切除术","sclelectomy",12.65
+557,2,"巩膜切除术","sclerectomy",12.65
 557,2,"虹膜嵌顿术","iridencleisis",12.63
 557,1,"Homan 手术(淋巴水肿矫正术)","Homan operation (correction of lymphedema)",40.9
 557,1,"Hutch 手术(输尿管肾囊肿吻合术)","Hutch operation (ureteroneocystostomy)",56.74
@@ -131,7 +131,7 @@ page,level,chinese,english,code
 557,1,"亨利手术—见 Henley 手术","亨利手术— see Henley operation",
 557,1,"横结肠造口术—另见结肠造口术","Transversostomy-see also Colostomy",46.10
 557,1,"横切—另见切断","Transection-see also Division",
-558,2,"动脉(伴结扎)-另见切断,动脉","artery (with ligation)-see also Division, artery",38.8
+558,2,"动脉(伴结扎)-另见切断,动脉","artery (with ligation)-see also Division, artery",38.80
 558,3,"肾,迷行的(伴再植入)","renal, aberrant (with reimplantation)",39.55
 558,2,"骨—另见骨切开术","bone-see also Osteotomy",77.3
 558,2,"肌","muscle",83.19
@@ -139,26 +139,26 @@ page,level,chinese,english,code
 558,3,"眼","eye",15.13
 558,4,"多数的(两条或多条肌)","multiple (two or more muscles)",15.3
 558,2,"脊髓的","spinal",
-558,3,"神经根","nerve root",3.1
-558,3,"索束","cord tracts",3.29
+558,3,"神经根","nerve root",03.1
+558,3,"索束","cord tracts",03.29
 558,2,"腱","tendon",83.13
 558,3,"手","hand",82.11
-558,2,"静脉(伴结扎)-另见切断,静脉","vein (with ligation)-see also Division, vein",38.8
+558,2,"静脉(伴结扎)-另见切断,静脉","vein (with ligation)-see also Division, vein",38.80
 558,3,"静脉曲张(下肢)","varicose (lower limb)",38.59
 558,3,"肾,迷行的(伴再植入)","renal, aberrant (with reimplantation)",39.55
-558,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",4.03
-558,3,"根(脊髓的)","root (spinal)",3.1
-558,3,"脊索内束","tracts in spinal cord",3.29
-558,3,"交感神经","sympathetic",5.0
-558,3,"迷走神经(经腹)-另见迷走神经切断术","vagus (transabdominal)-see also Vagotomy",44.0
-558,3,"三叉","trigeminal",4.02
-558,3,"听神经","acoustic",4.01
+558,2,"神经(颅的)(周围的) NEC","nerve (cranial) (peripheral) NEC",04.03
+558,3,"根(脊髓的)","root (spinal)",03.1
+558,3,"脊索内束","tracts in spinal cord",03.29
+558,3,"交感神经","sympathetic",05.0
+558,3,"迷走神经(经腹)-另见迷走神经切断术","vagus (transabdominal)-see also Vagotomy",44.00
+558,3,"三叉","trigeminal",04.02
+558,3,"听神经","acoustic",04.01
 558,2,"肾血管,迷行的(伴再植入)","renal vessel, aberrant (with reimplantation)",39.55
 558,2,"输精管","vas deferens",63.71
 558,2,"输卵管(双侧)(残留)(孤立的)","fallopian tube (bilateral) (remaining) (solitary)",66.39
 558,3,"单侧","unilateral",66.92
 558,3,"经内镜检查","by endoscopy",66.22
-558,2,"峡,甲状腺","isthmus, thyroid",6.91
+558,2,"峡,甲状腺","isthmus, thyroid",06.91
 558,2,"悬雍垂","uvula",27.71
 558,2,"幽门(伴楔形切除术)","pylorus (with wedge resection)",43.3
 558,1,"红细胞成分分血,治疗性","Erythrocytapheresis, therapeutic",99.73

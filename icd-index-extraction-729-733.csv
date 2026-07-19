@@ -43,7 +43,7 @@ page,level,chinese,english,code
 730,4,"不伴切开入脑","without incision into brain",01.24
 730,3,"脑膜(脑的)","meninges (cerebral)",01.31
 730,4,"脊髓的","spinal",03.01
-730,4,"脑膜","cerebral meninges",01.31
+730,3,"脑膜","cerebral meninges",01.31
 730,3,"内固定装置一见去除,固定,内的","internal fixation device-see Removal, fixation device, internal",
 730,3,"黏液囊","bursa",83.03
 730,4,"手","hand",82.03
@@ -73,10 +73,10 @@ page,level,chinese,english,code
 730,3,"肾(经尿道)(经内镜检查)","kidney (transurethral) (by endoscopy)",56.0
 730,4,"骨盆(经尿道)","pelvis (transurethral)",56.0
 730,5,"经切开","by incision",55.11
-730,5,"经切开","by incision",55.01
-730,4,"肾盂(经尿道)","renal pelvis (transurethral)",56.0
-730,5,"经切开","by incision",56.1
-730,4,"肾周围组织","perirenal tissue",59.09
+730,4,"经切开","by incision",55.01
+730,3,"肾盂(经尿道)","renal pelvis (transurethral)",56.0
+730,4,"经切开","by incision",56.1
+730,3,"肾周围组织","perirenal tissue",59.09
 730,3,"十二指肠","duodenum",98.03
 730,4,"经切开","by incision",45.01
 730,3,"食管(腔内)","esophagus (intraluminal)",98.02
@@ -98,7 +98,7 @@ page,level,chinese,english,code
 731,4,"经切开","by incision",71.09
 731,3,"胃(腔内)","stomach (intraluminal)",98.03
 731,4,"经切开","by incision",43.0
-731,3,"泡(球囊)","bubble (balloon)",44.94
+731,4,"泡(球囊)","bubble (balloon)",44.94
 731,3,"下肢,除外足","lower limb, except foot",98.29
 731,4,"足","foot",98.28
 731,3,"腺样增殖体","adenoid",98.13
@@ -151,9 +151,9 @@ page,level,chinese,english,code
 732,4,"穿透性的","penetrating",69.97
 732,3,"纵隔","mediastinum",34.1
 732,3,"足","foot",98.28
-732,3,"翼状胬肉","pterygium",11.39
-732,4,"伴角膜移植","with corneal graft",11.32
-732,3,"阴道膈","diaphragm, vagina",97.73
+732,2,"翼状胬肉","pterygium",11.39
+732,3,"伴角膜移植","with corneal graft",11.32
+732,2,"阴道膈","diaphragm, vagina",97.73
 732,2,"引流装置一见去除,管","drainage device-see Removal, tube",
 732,2,"硬膜下的","subdural",
 732,3,"条带状","strips",01.22
@@ -162,41 +162,41 @@ page,level,chinese,english,code
 732,3,"骨一见死骨切除术,骨","bone-see Sequestrectomy, bone",
 732,3,"关节","joint",80.10
 732,3,"网状物(外科手术的)一见去除,异物,按部位","mesh (surgical)-see Removal, foreign body, by site",
-733,1,"暂时性经静脉起搏器系统一省略编码","temporary transvenous pacemaker system-omit code",
-733,1,"支持物","brace",97.88
-733,1,"支架","stent",
-733,2,"胆管","bile duct",97.55
-733,2,"喉","larynx",31.98
-733,2,"尿道","urethral",97.65
-733,2,"输尿管的","ureteral",97.62
-733,1,"支气管装置或物质","bronchial device or substance",
-733,1,"内镜的","endoscopic",33.78
-733,1,"肢体延长装置,内的一见亚目","limb lengthening device, internal-see subcategory",78.6
-733,1,"植入","implant",
-733,2,"耳蜗假体装置","cochlear prosthetic device",20.99
-733,2,"鼓膜","tympanum",20.1
-733,2,"角膜","cornea",11.92
-733,2,"晶体(假体)","lens (prosthetic)",13.8
-733,2,"眶","orbit",16.72
-733,2,"乳房","breast",85.94
-733,2,"视网膜","retina",14.6
-733,2,"眼","ocular",16.71
-733,3,"后的段","posterior segment",14.6
-733,2,"中耳 NEC","middle ear NEC",20.99
-733,1,"趾,多余","toes, supernumerary",86.26
-733,1,"指甲(床)(褶)","nail (bed) (fold)",86.23
-733,1,"内固定装置一见去除,固定装置,内的","internal fixation device-see Removal, fixation device, internal",
-733,1,"滞留胎盘(经)","retained placenta (by)",
-733,2,"抽吸刮宫","aspiration curettage",69.52
-733,2,"手法的","manual",75.4
-733,2,"子宫颈扩宫和刮宫","D and C",69.02
-733,1,"主动脉内球囊泵(IABP)","intra-aortic balloon pump (IABP)",97.44
-733,1,"贮池,脑室(欧麻亚)(里克汉)","reservoir, ventricular (Ommaya) (Rickham)",02.43
-733,2,"同时伴置换","with synchronous replacement",02.42
-733,1,"装置(治疗性) NEC","device (therapeutic) NEC",97.89
-733,2,"腹 NEC","abdomen NEC",97.86
-733,2,"脊柱","spine",80.09
-733,2,"泌尿系 NEC","urinary system NEC",97.69
-733,2,"躯干 NEC","trunk NEC",97.87
-733,2,"生殖器道 NEC","genital tract NEC",97.79
-733,2,"头和颈 NEC","head and neck NEC",97.39
+733,2,"暂时性经静脉起搏器系统一省略编码","temporary transvenous pacemaker system-omit code",
+733,2,"支持物","brace",97.88
+733,2,"支架","stent",
+733,3,"胆管","bile duct",97.55
+733,3,"喉","larynx",31.98
+733,3,"尿道","urethral",97.65
+733,3,"输尿管的","ureteral",97.62
+733,2,"支气管装置或物质","bronchial device or substance",
+733,3,"内镜的","endoscopic",33.78
+733,2,"肢体延长装置,内的一见亚目","limb lengthening device, internal-see subcategory",78.6
+733,2,"植入","implant",
+733,3,"耳蜗假体装置","cochlear prosthetic device",20.99
+733,3,"鼓膜","tympanum",20.1
+733,3,"角膜","cornea",11.92
+733,3,"晶体(假体)","lens (prosthetic)",13.8
+733,3,"眶","orbit",16.72
+733,3,"乳房","breast",85.94
+733,3,"视网膜","retina",14.6
+733,3,"眼","ocular",16.71
+733,4,"后的段","posterior segment",14.6
+733,3,"中耳 NEC","middle ear NEC",20.99
+733,2,"趾,多余","toes, supernumerary",86.26
+733,2,"指甲(床)(褶)","nail (bed) (fold)",86.23
+733,3,"内固定装置一见去除,固定装置,内的","internal fixation device-see Removal, fixation device, internal",
+733,2,"滞留胎盘(经)","retained placenta (by)",
+733,3,"抽吸刮宫","aspiration curettage",69.52
+733,3,"手法的","manual",75.4
+733,3,"子宫颈扩宫和刮宫","D and C",69.02
+733,2,"主动脉内球囊泵(IABP)","intra-aortic balloon pump (IABP)",97.44
+733,2,"贮池,脑室(欧麻亚)(里克汉)","reservoir, ventricular (Ommaya) (Rickham)",02.43
+733,3,"同时伴置换","with synchronous replacement",02.42
+733,2,"装置(治疗性) NEC","device (therapeutic) NEC",97.89
+733,3,"腹 NEC","abdomen NEC",97.86
+733,3,"脊柱","spine",80.09
+733,3,"泌尿系 NEC","urinary system NEC",97.69
+733,3,"躯干 NEC","trunk NEC",97.87
+733,3,"生殖器道 NEC","genital tract NEC",97.79
+733,3,"头和颈 NEC","head and neck NEC",97.39

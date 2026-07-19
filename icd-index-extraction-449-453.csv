@@ -96,7 +96,7 @@ page,level,chinese,english,code
 451,2,"电极","electrode(s)",
 451,3,"骶神经","sacral nerve",04.92
 451,3,"蝶的","sphenoidal",02.96
-451,2,"骨生长刺激器（侵入）（经皮）（半侵入）见亚目","bone growth stimulator (invasive) (percutaneous) (semi-invasive)-see subcategory",78.9
+451,3,"骨生长刺激器（侵入）（经皮）（半侵入）见亚目","bone growth stimulator (invasive) (percutaneous) (semi-invasive)-see subcategory",78.9
 452,3,"骨原性（用于骨生长刺激）—见亚目","osteogenic (for bone growth stimulation)-see subcategory",78.9
 452,3,"脊柱","spine",03.93
 452,3,"颅内","intracranial",02.93
@@ -161,4 +161,4 @@ page,level,chinese,english,code
 453,3,"鼻肠的","naso-intestinal",96.08
 453,3,"鼻胆的（引流）","nasobiliary (drainage)",51.86
 453,3,"鼻胃的（用于肠减压）NEC","nasogastric (for intestinal decompression) NEC",96.07
-453,2,"鼻胰引流（内镜的）","nasopancreatic drainage (endoscopic)",52.97
+453,3,"鼻胰引流（内镜的）","nasopancreatic drainage (endoscopic)",52.97

@@ -100,7 +100,7 @@ page,level,chinese,english,code
 516,2,"部分的","partial",
 516,3,"部分切除术(楔形),一叶","resection (wedge), one lobe",32.39
 516,3,"完全切除术,一叶","complete excision, one lobe",32.49
-516,3,"胸腔镜的","thoracoscopic",32.50
+516,2,"胸腔镜的","thoracoscopic",32.50
 516,1,"肺切开术(伴探查术)","Pneumonotomy (with exploration)",33.1
 516,1,"肺松解术(用于肺萎陷)","Pneumonolysis (for collapse of lung)",33.39
 516,1,"肺小舌切除术,肺","Lingulectomy, lung",32.39

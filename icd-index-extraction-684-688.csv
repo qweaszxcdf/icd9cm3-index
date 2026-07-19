@@ -3,44 +3,44 @@ page,level,chinese,english,code
 684,4,"伴盲肠","with cecum",
 684,5,"腹腔镜的","laparoscopic",17.32
 684,5,"开放和其他","open and other",45.72
-684,4,"节段的(大肠)","segmental (large intestine)",
-684,5,"多数的","multiple",
-684,6,"腹腔镜的","laparoscopic",17.31
-684,6,"开放和其他","open and other",45.71
-684,5,"腹腔镜的","laparoscopic",17.39
-684,5,"开放和其他","open and other",45.79
-684,5,"小肠","small intestine",45.62
-684,6,"多数的","multiple",45.61
-684,5,"开放和其他","open and other",45.79
-684,4,"盲肠(伴回肠末端)","cecum (with terminal ileum)",
-684,5,"腹腔镜的","laparoscopic",17.32
-684,5,"开放和其他","open and other",45.72
-684,4,"全前的","total",
-684,5,"大肠","large intestine",
-684,6,"腹腔镜的","laparoscopic",45.81
-684,6,"开放","open",45.82
-684,6,"其他","other",45.83
-684,7,"未特指的","unspecified",45.83
-684,5,"小肠","small intestine",45.63
-684,4,"外置的(大肠)","exteriorized (large intestine)",46.04
+684,3,"节段的(大肠)","segmental (large intestine)",
+684,4,"多数的","multiple",
+684,5,"腹腔镜的","laparoscopic",17.31
+684,5,"开放和其他","open and other",45.71
+684,4,"腹腔镜的","laparoscopic",17.39
+684,4,"开放和其他","open and other",45.79
+684,4,"小肠","small intestine",45.62
+684,5,"多数的","multiple",45.61
+684,4,"开放和其他","open and other",45.79
+684,3,"盲肠(伴回肠末端)","cecum (with terminal ileum)",
+684,4,"腹腔镜的","laparoscopic",17.32
+684,4,"开放和其他","open and other",45.72
+684,3,"全前的","total",
+684,4,"大肠","large intestine",
+684,5,"腹腔镜的","laparoscopic",45.81
+684,5,"开放","open",45.82
+684,5,"其他","other",45.83
+684,5,"未特指的","unspecified",45.83
+684,4,"小肠","small intestine",45.63
+684,3,"外置的(大肠)","exteriorized (large intestine)",46.04
 684,4,"小肠","small intestine",46.02
-684,4,"小的(部分的)(节段的) NEC","small (partial) (segmental) NEC",45.62
-684,5,"多节段的","multiple segmental",45.61
-684,5,"全部的","total",45.63
-684,5,"用于间置术","for interposition",45.51
-684,4,"乙状","sigmoid",
-684,5,"腹腔镜的","laparoscopic",17.36
-684,5,"开放和其他","open and other",45.76
-684,4,"用于间置术","for interposition",45.50
-684,5,"大肠","large intestine",45.52
-684,5,"小肠","small intestine",45.51
-684,4,"右半结肠","right hemicolon",
-684,5,"腹腔镜的","laparoscopic",17.33
-684,5,"开放和其他","open and other",45.73
-684,4,"左半结肠","left hemicolon",
-684,5,"腹腔镜的","laparoscopic",17.35
-684,5,"开放和其他","open and other",45.75
-684,3,"肠系膜","mesentery",54.4
+684,3,"小的(部分的)(节段的) NEC","small (partial) (segmental) NEC",45.62
+684,4,"多节段的","multiple segmental",45.61
+684,4,"全部的","total",45.63
+684,4,"用于间置术","for interposition",45.51
+684,3,"乙状","sigmoid",
+684,4,"腹腔镜的","laparoscopic",17.36
+684,4,"开放和其他","open and other",45.76
+684,3,"用于间置术","for interposition",45.50
+684,4,"大肠","large intestine",45.52
+684,4,"小肠","small intestine",45.51
+684,3,"右半结肠","right hemicolon",
+684,4,"腹腔镜的","laparoscopic",17.33
+684,4,"开放和其他","open and other",45.73
+684,3,"左半结肠","left hemicolon",
+684,4,"腹腔镜的","laparoscopic",17.35
+684,4,"开放和其他","open and other",45.75
+684,2,"肠系膜","mesentery",54.4
 685,2,"胆管 NEC","bile duct NEC",51.69
 685,3,"胆总管 NEC","common duct NEC",51.63
 685,2,"胆囊(全部的)","gallbladder (total)",51.22
@@ -52,10 +52,10 @@ page,level,chinese,english,code
 685,2,"耳内的","endaural",20.79
 685,2,"肺(楔形) NEC","lung (wedge) NEC",32.29
 685,3,"节段的(任何部分)","segmental (any part)",32.39
-685,3,"胸腔镜的","thoracoscopic",32.30
+685,3,"胸腔镜的","thoracoscopic",32.20
 685,3,"内镜的","endoscopic",32.28
 685,3,"容量减小","volume reduction",32.22
-685,3,"生物学肺容积减少术—见亚目","biologic lung volume reduction (BLVR)-see subcategory",33.7
+685,4,"生物学肺容积减少术—见亚目","biologic lung volume reduction (BLVR)-see subcategory",33.7
 685,3,"胸腔镜的","thoracoscopic",32.20
 685,2,"腹会阴的(直肠),NOS","abdominoperineal (rectum), NOS",48.50
 685,3,"拖出(阿尔特迈尔)(斯温森) NEC","pull-through (Altemeier) (Swenson) NEC",48.49
@@ -80,7 +80,7 @@ page,level,chinese,english,code
 685,3,"用于肺萎陷","for collapse of lung",33.31
 685,2,"根(牙)(尖)","root (tooth) (apex)",23.73
 685,3,"伴根管疗法","with root canal therapy",23.72
-686,4,"残留或滞留","residual or retained",23.11
+686,3,"残留或滞留","residual or retained",23.11
 686,2,"巩膜","sclera",12.65
 686,3,"板层的(用于视网膜再附着)","lamellar (for retinal reattachment)",14.49
 686,4,"伴植入","with implant",14.41
@@ -95,16 +95,16 @@ page,level,chinese,english,code
 686,2,"滑膜(完全的)(部分的)—另见滑膜切除术","synovial membrane (complete) (partial)-see also Synovectomy",80.70
 686,2,"肌肉","muscle",83.45
 686,3,"手","hand",82.36
-686,3,"用于移植","for graft",82.34
+686,3,"用于移植","for graft",83.43
 686,3,"眼—见切除术,肌,眼外的","ocular-see Resection, muscle, extraocular",
 686,3,"眼外的","extraocular",15.13
 686,4,"伴","with",
 686,5,"其他眼肌前徙术或退缩术","advancement or recession of other eye muscle",15.3
 686,5,"首次插入的缝合","suture of original insertion",15.13
-686,5,"睑板的,用于下垂","tarsal, for blepharoptosis",08.35
-686,5,"穆勒,用于下垂","Muller's, for blepharoptosis",08.35
-686,5,"提上睑肌","levator palpebrae",08.33
-686,5,"眼轮匝肌","orbicularis oculi",08.20
+686,4,"睑板的,用于下垂","tarsal, for blepharoptosis",08.35
+686,4,"穆勒,用于下垂","Muller's, for blepharoptosis",08.35
+686,4,"提上睑肌","levator palpebrae",08.33
+686,4,"眼轮匝肌","orbicularis oculi",08.20
 686,3,"用于移植","for graft",83.43
 686,4,"手","hand",82.34
 686,2,"脊索(脑膜)","spinal cord (meninges)",03.4
@@ -159,10 +159,10 @@ page,level,chinese,english,code
 687,4,"腹腔镜的","laparoscopic",17.36
 687,4,"开放和其他","open and other",45.76
 687,3,"用于间置术","for interposition",45.52
-687,2,"右根治(半结肠)(回肠结肠切除术)","right radical (hemicolon) (ileocolectomy)",
+687,3,"右根治(半结肠)(回肠结肠切除术)","right radical (hemicolon) (ileocolectomy)",
 688,4,"腹腔镜的","laparoscopic",17.33
 688,4,"开放和其他","open and other",45.73
-688,2,"左根治(半结肠)","left radical (hemicolon)",
+688,3,"左根治(半结肠)","left radical (hemicolon)",
 688,4,"腹腔镜的","laparoscopic",17.35
 688,4,"开放和其他","open and other",45.75
 688,2,"结膜,用于翼状窝肉","conjunctiva, for pterygium",11.39
@@ -179,7 +179,7 @@ page,level,chinese,english,code
 688,2,"眶上颌,根治性","orbitomaxillary, radical",16.51
 688,2,"阔韧带","broad ligament",69.19
 688,2,"肋骨(经腋的)","rib (transaxillary)",77.91
-688,2,"附属于胸的手术—省略编码","incidental to thoracic operation-omit code",
+688,3,"附属于胸的手术—省略编码","incidental to thoracic operation-omit code",
 688,3,"作为手术入路—省略编码","as operative approach-omit code",
 688,2,"漏斗状,心脏(右)","infundibula, heart (right)",35.34
 688,2,"卵巢—另见卵巢切除术","ovary-see also Oophorectomy",
@@ -200,4 +200,4 @@ page,level,chinese,english,code
 688,5,"粒子","particulate",92.33
 688,5,"粒子束流","particle beam",92.33
 688,5,"线性加速器(LINAC)","linear accelerator (LINAC)",92.31
-688,2,"叶","lobe",01.53
+688,3,"叶","lobe",01.53

@@ -57,9 +57,9 @@ page,level,chinese,english,code
 725,4,"单室装置","single-chamber device",37.85
 725,5,"节律反应","rate responsive",37.86
 725,4,"双室装置","dual chamber device",37.87
-725,3,"心律再同步化起搏器(CRT-P)","cardiac resynchronization pacemaker (CRT-P)",
-725,4,"仅装置","device only",00.53
-725,4,"全系统","total system",00.50
+725,4,"心律再同步化起搏器(CRT-P)","cardiac resynchronization pacemaker (CRT-P)",
+725,5,"仅装置","device only",00.53
+725,5,"全系统","total system",00.50
 725,2,"心脏置换系统","heart replacement system",
 725,3,"内双心室的","internal biventricular",37.55
 725,2,"胸畸形的植入装置","pectus deformity implant device",34.01
@@ -72,9 +72,9 @@ page,level,chinese,english,code
 725,3,"输尿管","ureter",
 725,4,"经切开","by incision",56.2
 725,2,"血栓","thrombus",38.00
-726,2,"伴动脉内膜切除术-见动脉内膜切除术","with endarterectomy-see Endarterectomy",
-726,2,"动静脉分流或套管","arteriovenous shunt or cannula",39.49
-726,2,"肺动脉(动脉)(静脉)","pulmonary (artery) (vein)",38.05
+726,3,"伴动脉内膜切除术-见动脉内膜切除术","with endarterectomy-see Endarterectomy",
+726,3,"动静脉分流或套管","arteriovenous shunt or cannula",39.49
+726,3,"肺动脉(动脉)(静脉)","pulmonary (artery) (vein)",38.05
 726,3,"腹的","abdominal",
 726,4,"动脉","artery",38.06
 726,4,"静脉","vein",38.07
@@ -96,7 +96,7 @@ page,level,chinese,english,code
 726,4,"残留根","residual root",23.11
 726,4,"根尖","root apex",23.73
 726,5,"伴根管疗法","with root canal therapy",23.72
-726,3,"嵌顿","impacted",23.19
+726,4,"嵌顿","impacted",23.19
 726,2,"牙斑去除","plaque, dental",96.54
 726,2,"牙齿栓结术(固定装置)","dental wiring (immobilization device)",97.33
 726,3,"牙齿矫形的","orthodontic",24.8
@@ -106,7 +106,7 @@ page,level,chinese,english,code
 726,3,"伴肌附着","with attachment of muscles",16.41
 726,2,"咽(部分)","pharynx (partial)",29.33
 726,2,"异位胎儿(自)","ectopic fetus (from)",66.02
-726,2,"部位 NEC","site NEC",74.3
+726,3,"部位 NEC","site NEC",74.3
 726,3,"腹膜的(子宫或输卵管破裂后)","peritoneal (following uterine or tubal rupture)",74.3
 726,3,"腹膜外的(韧带内)","extraperitoneal (intraligamentous)",74.3
 726,3,"腹腔","abdominal cavity",74.3
@@ -125,9 +125,9 @@ page,level,chinese,english,code
 727,4,"蝶","sphenoid",22.52
 727,4,"窦","antrum",22.2
 727,5,"伴考德威尔卢克入路","with Caldwell-Luc approach",22.39
-727,5,"额的","frontal",22.41
-727,5,"筛的","ethmoid",22.51
-727,5,"上颌","maxillary",22.2
+727,4,"额的","frontal",22.41
+727,4,"筛的","ethmoid",22.51
+727,4,"上颌","maxillary",22.2
 727,3,"扁桃体","tonsil",98.13
 727,4,"经切开","by incision",28.91
 727,3,"玻璃体(经切开)","vitreous (by incision)",14.00
@@ -136,7 +136,7 @@ page,level,chinese,english,code
 727,3,"肠","intestine",
 727,4,"大的(腔内)","large (intraluminal)",98.04
 727,5,"经切开","by incision",45.03
-727,5,"经切开","by incision",45.00
+727,5,"经切开","by incision",45.03
 727,4,"小的(腔内)","small (intraluminal)",98.03
 727,5,"经切开","by incision",45.02
 727,3,"齿龈","gum",98.22
@@ -148,9 +148,9 @@ page,level,chinese,english,code
 727,4,"蝶","sphenoid",22.52
 727,4,"窦","antrum",22.2
 727,5,"伴考德威尔卢克入路","with Caldwell-Luc approach",22.39
-727,5,"额的","frontal",22.41
-727,5,"筛的","ethmoid",22.51
-727,5,"上颌","maxillary",22.2
+727,4,"额的","frontal",22.41
+727,4,"筛的","ethmoid",22.51
+727,4,"上颌","maxillary",22.2
 728,5,"伴考德威尔卢克入路","with Caldwell-Luc approach",22.39
 728,3,"腭(穿透性的)","palate (penetrating)",98.22
 728,4,"经切开","by incision",27.1
@@ -172,8 +172,8 @@ page,level,chinese,english,code
 728,3,"巩膜(经切开)","sclera (by incision)",12.00
 728,4,"伴使用磁铁","with use of magnet",12.01
 728,4,"不伴使用磁铁","without use of magnet",12.02
-728,2,"骨,除外固定装置-另见切开,骨","bone, except fixation device-see also Incision, bone",77.10
-728,3,"牙龈,牙槽的","alveolus, alveolar",98.22
+728,3,"骨,除外固定装置-另见切开,骨","bone, except fixation device-see also Incision, bone",77.10
+728,4,"牙龈,牙槽的","alveolus, alveolar",98.22
 728,4,"经切开","by incision",24.0
 728,3,"关节结构-另见关节切开术","joint structures-see also Arthrotomy",80.10
 728,3,"腘动脉间隙","popliteal space",98.29
