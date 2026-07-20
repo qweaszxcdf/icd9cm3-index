@@ -26,22 +26,32 @@ function sanitize(text) {
 }
 
 function extractNodeReferences(node) {
-  const references = [];
+  const chineseReferences = [];
+  const englishReferences = [];
   const chinesePattern = /(?:[-（(]?\s*)(另见|见)\s*([^；;\n]+)/gi;
   const englishPattern = /\b(see also|see)\s+([^;\n]+)/gi;
 
   for (const match of String(node.chinese || "").matchAll(chinesePattern)) {
     const target = match[2].trim();
-    if (target) references.push({ kind: match[1], target });
+    if (target) chineseReferences.push({ kind: match[1], target });
   }
   for (const match of String(node.english || "").matchAll(englishPattern)) {
     const target = match[2].trim();
-    if (target) references.push({ kind: match[1].toLowerCase(), target });
+    if (target) englishReferences.push({ kind: match[1].toLowerCase(), target });
   }
-  return references;
+
+  // The bilingual columns describe the same reference. Always locate by the
+  // English target, while retaining the Chinese target for display.
+  return [
+    ...chineseReferences.map((ref, index) => ({
+      ...ref,
+      queryTarget: englishReferences[index]?.target || ref.target,
+    })),
+    ...englishReferences.map((ref) => ({ ...ref, queryTarget: ref.target })),
+  ];
 }
 
-function createRefAnchor(target) {
+function createRefAnchor(target, queryTarget = target) {
   const a = document.createElement('a');
   a.href = '#';
   a.className = 'ref-inline';
@@ -55,7 +65,7 @@ function createRefAnchor(target) {
       return;
     }
     try {
-      const url = `/api/locate?target=${encodeURIComponent(target)}&mark=false`;
+      const url = `/api/locate?target=${encodeURIComponent(queryTarget)}&mark=false`;
       const resp = await fetch(url);
       const data = await resp.json();
       if (data.ignored) {
@@ -162,7 +172,7 @@ function embedRefTargetsInTitle(titleText, rawTitle, refs) {
     const index = candidateIndexes.find((candidate) => markerPattern.test(rawTitle.slice(0, candidate)))
       ?? candidateIndexes[0];
     if (index !== -1) {
-      matches.push({start: index, end: index + target.length, target});
+      matches.push({start: index, end: index + target.length, target, queryTarget: ref.queryTarget || target});
     }
   });
   if (!matches.length) {
@@ -183,7 +193,7 @@ function embedRefTargetsInTitle(titleText, rawTitle, refs) {
     if (match.start > cursor) {
       titleText.appendChild(document.createTextNode(rawTitle.substring(cursor, match.start)));
     }
-    titleText.appendChild(createRefAnchor(match.target));
+    titleText.appendChild(createRefAnchor(match.target, match.queryTarget));
     cursor = match.end;
   });
   if (cursor < rawTitle.length) {
@@ -242,7 +252,9 @@ function renderNode(node, asPath = false) {
   details.className = "node-details";
   details.innerHTML = "";
 
-  const nodeReferences = Array.isArray(node.references) ? node.references : extractNodeReferences(node);
+  // Rebuild from both bilingual columns so Chinese references can use their
+  // corresponding English target for locating.
+  const nodeReferences = extractNodeReferences(node);
   if (nodeReferences.length) {
     const refs = nodeReferences.filter((r) => {
       const kl = (r.kind || '').toLowerCase();
@@ -253,7 +265,8 @@ function renderNode(node, asPath = false) {
       const rawTitle = [node.chinese, node.english].filter(Boolean).join(' / ');
       const embedded = embedRefTargetsInTitle(titleText, rawTitle, refs);
       if (!embedded) {
-        const a = createRefAnchor((refs[0].target || '').trim());
+        const firstRef = refs[0];
+        const a = createRefAnchor((firstRef.target || '').trim(), (firstRef.queryTarget || firstRef.target || '').trim());
         titleText.appendChild(a);
       }
     }

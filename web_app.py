@@ -538,76 +538,44 @@ def row_to_json(row: pd.Series, matched: bool = False, has_children: bool = Fals
 
 
 def row_matches_target(row: pd.Series, target_lower: str, strict_prefix: bool = False) -> bool:
-    for key in ["english", "chinese"]:
-        text = normalize_text(row.get(key, "")).lower()
-        if not text:
-            continue
-        if strict_prefix:
-            if text == target_lower:
-                return True
-            if text.startswith(target_lower):
-                remainder = text[len(target_lower):]
-                if remainder and remainder[0] in " ,-/()—":
-                    return True
-        else:
-            if text == target_lower or text.startswith(target_lower) or target_lower in text:
-                return True
-    return False
+    text = normalize_text(row.get("english", "")).lower()
+    if strict_prefix:
+        if text == target_lower:
+            return True
+        if text.startswith(target_lower):
+            remainder = text[len(target_lower):]
+            return bool(remainder and remainder[0] in " ,-/()—")
+        return False
+    return text == target_lower
 
 
 def find_ordered_target_rows(df: pd.DataFrame, parts: List[str]) -> pd.DataFrame:
-    scored = []
+    if not parts:
+        return df.iloc[0:0]
+
     for idx, row in df.iterrows():
-        english = normalize_text(row.get("english", "")).lower()
-        chinese = normalize_text(row.get("chinese", "")).lower()
-        combined = " / ".join([p for p in [english, chinese] if p])
-        cursor = 0
-        ok = True
-        positions = []
-        for part in parts:
-            pos = combined.find(part, cursor)
-            if pos == -1:
-                ok = False
-                break
-            positions.append(pos)
-            cursor = pos + len(part)
-        if not ok:
+        if not row_matches_target(row, parts[0], strict_prefix=True):
             continue
 
-        score = 0
-        see_index = combined.find(" see ")
-        if see_index == -1:
-            see_index = combined.find(" see also ")
-        if see_index == -1:
-            see_index = len(combined)
+        current_index = int(idx)
+        part_index = 1
+        for cursor in range(current_index + 1, len(df)):
+            if part_index >= len(parts):
+                break
+            if row_matches_target(df.loc[cursor], parts[part_index], strict_prefix=True):
+                current_index = cursor
+                part_index += 1
+        if part_index == len(parts):
+            return df.loc[[current_index]].copy()
 
-        final_pos = positions[-1]
-        if final_pos < see_index:
-            score += 100
-        if final_pos == 0:
-            score += 50
-        if combined.startswith(parts[0]):
-            score += 30
-        if combined.startswith(parts[-1]):
-            score += 20
-        if final_pos <= combined.find(parts[0]) + len(parts[0]) + 20:
-            score += 10
-
-        # Prefer titles that start with the first path part and that don't place the
-        # final target exclusively inside a 'see' clause.
-        scored.append((score, idx))
-
-    if not scored:
-        return df.iloc[0:0]
-    scored.sort(key=lambda item: (-item[0], item[1]))
-    best_idx = scored[0][1]
-    return df.loc[[best_idx]].copy()
+    return df.iloc[0:0]
 
 
 def find_hierarchical_target_rows(df: pd.DataFrame, parts: List[str]) -> pd.DataFrame:
     if not parts:
         return df.iloc[0:0]
 
+    candidates = []
     for idx, row in df.iterrows():
         if not row_matches_target(row, parts[0], strict_prefix=True):
             continue
@@ -634,9 +602,19 @@ def find_hierarchical_target_rows(df: pd.DataFrame, parts: List[str]) -> pd.Data
                 break
             current_index = found_index
         if success:
-            return df.loc[[current_index]].copy()
+            candidates.append(
+                (
+                    parse_int(row.get("level", 0), 0),
+                    not row_matches_target(row, parts[0]),
+                    int(idx),
+                    current_index,
+                )
+            )
 
-    return df.iloc[0:0]
+    if not candidates:
+        return df.iloc[0:0]
+    candidates.sort()
+    return df.loc[[candidates[0][3]]].copy()
 
 
 @app.route("/")
@@ -693,23 +671,38 @@ def api_locate() -> Any:
     if re.fullmatch(r"\d+(?:\.\d+)?", target_lower):
         results = df[df["_code_lower"] == target_lower].copy()
     else:
-        # Exact text match against chinese or english columns first
-        mask_cn = df["_chinese_lower"].str.strip() == target_lower
+        # Locate references against the English index title only. The Chinese
+        # title is display text and may not map literally to the canonical row.
         mask_en = df["_english_lower"].str.strip() == target_lower
-        results = df[mask_cn | mask_en].copy()
+        results = df[mask_en].copy()
 
-        # If not found, try exact-leading-token match (e.g., reference 'Buckling' -> 'Buckling, scleral')
+        # Prefer the shallowest English heading over exact deep descendants.
+        starts_en = df.apply(lambda row: row_matches_target(row, target_lower, strict_prefix=True), axis=1)
+        candidates = df[starts_en].copy()
+        if not candidates.empty:
+            candidates["_locate_exact"] = candidates["_english_lower"].str.strip() == target_lower
+            candidates = candidates.sort_values(
+                by=["level", "_locate_exact"],
+                ascending=[True, False],
+                kind="stable",
+            )
+            results = candidates.iloc[:1].drop(columns=["_locate_exact"])
+        else:
+            results = df.iloc[0:0]
+
         if results.empty:
-            starts_cn = df["_chinese_lower"].str.strip().str.startswith(target_lower)
-            starts_en = df["_english_lower"].str.strip().str.startswith(target_lower)
-            if starts_cn.any() or starts_en.any():
-                results = df[starts_cn | starts_en].copy()
-            elif "," in target_lower:
+            if "," in target_lower or "，" in target_lower:
                 parts = [part.strip() for part in re.split(r"[，,]", target_lower) if part.strip()]
                 if len(parts) > 1:
-                    results = find_hierarchical_target_rows(df, parts)
-                    if results.empty:
-                        results = find_ordered_target_rows(df, parts)
+                    variants = [parts]
+                    if parts[-1] == "by site":
+                        variants.append(parts[:-1])
+                    for variant in variants:
+                        results = find_hierarchical_target_rows(df, variant)
+                        if results.empty:
+                            results = find_ordered_target_rows(df, variant)
+                        if not results.empty:
+                            break
             else:
                 # If still not found, try to extract trailing code like '... 78.1'
                 m = re.search(r"(\d+(?:\.\d+)?)$", target_lower)

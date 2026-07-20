@@ -124,12 +124,14 @@ function collectRelevantRows(dataset, resultIndices, markMatches = true) {
 
 function rowMatchesTarget(row, target, strictPrefix = false) {
   const targetText = normalizeText(target).toLowerCase();
-  const chinese = normalizeText(row[ROW_CHINESE]).toLowerCase();
   const english = normalizeText(row[ROW_ENGLISH]).toLowerCase();
   if (strictPrefix) {
-    return chinese.startsWith(targetText) || english.startsWith(targetText);
+    if (english === targetText) return true;
+    if (!english.startsWith(targetText)) return false;
+    const remainder = english.slice(targetText.length);
+    return Boolean(remainder && " ,-/()—".includes(remainder[0]));
   }
-  return chinese === targetText || english === targetText;
+  return english === targetText;
 }
 
 function findHierarchicalTargetRows(dataset, parts) {
@@ -192,8 +194,8 @@ function findHierarchicalTargetRows(dataset, parts) {
     }
   }
   candidates.sort(
-    (left, right) => Number(right.firstExact) - Number(left.firstExact)
-      || left.parentLevel - right.parentLevel
+    (left, right) => left.parentLevel - right.parentLevel
+      || Number(right.firstExact) - Number(left.firstExact)
       || left.index - right.index,
   );
   return candidates.length ? [candidates[0].index] : [];
@@ -418,25 +420,27 @@ async function handleLocate(request, env) {
     count = exactIndices.length;
     resultIndices = exactIndices;
   } else {
-    const exact = [];
-    const prefix = [];
+    const textCandidates = [];
     for (let index = 0; index < rows.length; index += 1) {
       const row = rows[index];
-      const chinese = normalizeText(row[ROW_CHINESE]).toLowerCase();
       const english = normalizeText(row[ROW_ENGLISH]).toLowerCase();
-      if (chinese === lowerTarget || english === lowerTarget) {
-        exact.push(index);
-      } else if (chinese.startsWith(lowerTarget) || english.startsWith(lowerTarget)) {
-        prefix.push(index);
+      if (english === lowerTarget || rowMatchesTarget(row, lowerTarget, true)) {
+        textCandidates.push({
+          index,
+          exact: english === lowerTarget,
+          level: parseIntSafe(row[ROW_LEVEL], 0),
+        });
       }
     }
 
-    if (exact.length) {
-      count = exact.length;
-      resultIndices = exact;
-    } else if (prefix.length) {
-      count = prefix.length;
-      resultIndices = prefix;
+    if (textCandidates.length) {
+      textCandidates.sort(
+        (left, right) => left.level - right.level
+          || Number(right.exact) - Number(left.exact)
+          || left.index - right.index,
+      );
+      count = 1;
+      resultIndices = [textCandidates[0].index];
     } else if (lowerTarget.includes(",") || lowerTarget.includes("，")) {
       const parts = lowerTarget.split(/[，,]/).map((part) => part.trim()).filter(Boolean);
       if (parts.length > 1) {

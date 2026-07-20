@@ -53,9 +53,6 @@ page,level,chinese,english,code
 585,2,"直肠","rectum",48.0
 585,2,"椎板切除术","laminectomy",03.09
 585,2,"椎板切开术","laminotomy",03.09
-585,3,"经插管法","by intubation",51.43
-585,4,"经皮的","percutaneous",51.98
-585,4,"内镜的","endoscopic",51.87
 585,1,"监测","Monitoring",
 585,2,"BIS(双频指数)监测","BIS (bispectral index) monitoring",00.94[89.14]
 585,2,"IAEMT[手术中麻醉效果监测和滴定法]","IAEMT [intraoperative anesthetic effect monitoring and titration]",00.94[89.14]
