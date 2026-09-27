@@ -60,9 +60,9 @@ page,level,chinese,english,code
 685,2,"腹会阴的(直肠),NOS","abdominoperineal (rectum), NOS",48.50
 685,3,"拖出(阿尔特迈尔)(斯温森) NEC","pull-through (Altemeier) (Swenson) NEC",48.49
 685,4,"杜哈梅尔型","Duhamel type",48.65
-685,5,"腹腔镜的","laparoscopic",48.42
-685,5,"开放性","open",48.43
-685,5,"其他方面未特指的","not otherwise specified",48.40
+685,4,"腹腔镜的","laparoscopic",48.42
+685,4,"开放性","open",48.43
+685,4,"其他方面未特指的","not otherwise specified",48.40
 685,2,"腹膜","peritoneum",54.4
 685,2,"腹直肠内(联合的),NOS","abdominoendorectal (combined), NOS",48.50
 685,3,"腹腔镜的","laparoscopic",48.51

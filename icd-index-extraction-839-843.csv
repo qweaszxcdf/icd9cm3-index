@@ -145,7 +145,7 @@ page,level,chinese,english,code
 843,5,"腹主动脉","abdominal aorta",39.71
 843,6,"开窗(分支)移植","fenestrated (branching)",39.78
 843,5,"上肢动脉","upper extremity artery(s)",39.79
-843,6,"头和颈","head and neck",39.72
+843,5,"头和颈","head and neck",39.72
 843,5,"下肢动脉","lower extremity artery(s)",39.79
 843,5,"胸主动脉","thoracic aorta",39.73
 843,4,"液体组织粘连(粘合)","liquid tissue adhesive (glue)",39.79
@@ -172,5 +172,5 @@ page,level,chinese,english,code
 843,3,"中 NEC","middle NEC",19.9
 843,2,"耳蜗假体装置","cochlear prosthetic device",20.99
 843,3,"仅外部成分","external components only",95.49
-843,3,"耳下垂","lop ear",18.79
+843,2,"耳下垂","lop ear",18.79
 843,2,"法洛四联症","tetralogy of Fallot",

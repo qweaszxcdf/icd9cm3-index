@@ -91,7 +91,7 @@ page,level,chinese,english,code
 846,3,"喉","larynx",31.64
 846,3,"椎骨","vertebra",03.53
 846,2,"关节(囊)(软骨) NEC-另见关节成形术","joint (capsule) (cartilage) NEC-see also Arthroplasty",81.96
-846,3,"冠状动脉 NEC","coronary artery NEC",36.99
+846,2,"冠状动脉 NEC","coronary artery NEC",36.99
 846,4,"经动脉粥样硬化切除术","by atherectomy",
 846,5,"经皮经管腔","percutaneous transluminal",17.55
 846,6,"经血管成形术-见血管成形术,冠状","by angioplasty-see Angioplasty, coronary",
@@ -108,7 +108,7 @@ page,level,chinese,english,code
 847,2,"会阴(女性)","perineum (female)",71.79
 847,3,"男性 NEC","male NEC",86.89
 847,4,"撕裂(经缝合)","laceration (by suture)",86.59
-847,4,"撕裂(经缝合)","laceration (by suture)",86.59
+847,3,"撕裂(经缝合)","laceration (by suture)",86.59
 847,4,"产科的(近期)","obstetric (current)",75.69
 847,5,"陈旧性","old",71.79
 847,2,"肌 NEC","muscle NEC",83.87
@@ -136,11 +136,11 @@ page,level,chinese,english,code
 847,3,"伴","with",
 847,4,"假体(开放性心脏技术)","prosthesis (open heart technique)",35.53
 847,5,"闭合性心脏技术","closed heart technique",35.55
-847,6,"组织移植","tissue graft",35.62
+847,4,"组织移植","tissue graft",35.62
 847,2,"脊髓的(索)(脑膜)(结构) NEC","spinal (cord) (meninges) (structures) NEC",03.59
 847,3,"脊髓脊膜突出","myelomeningocele",03.52
 847,3,"脑(脊)膜突出","meningocele",03.51
-847,4,"脊髓脊膜突出","myelomeningocele",03.52
+847,2,"脊髓脊膜突出","myelomeningocele",03.52
 847,2,"脊髓纵裂","diastematomyelia",03.59
 848,2,"脊柱裂 NEC","spina bifida NEC",03.59
 848,3,"脊髓脊膜突出","myelomeningocele",03.52

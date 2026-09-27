@@ -213,6 +213,10 @@ function appendInlineCodeToTitle(titleText, code) {
 // Titles will be clickable when the node/item has references; separate reference-chip UI removed.
 
 function renderNode(node, asPath = false) {
+  // Capture the identity at render time. The tree is lazily expanded and its
+  // DOM containers are replaced asynchronously; the request must always use
+  // the identity of this rendered node.
+  const nodeId = String(node.id || '');
   const wrapper = document.createElement("div");
   wrapper.className = node.matched ? "tree-node matched-node" : "tree-node";
   if (node.children && node.children.length) {
@@ -299,7 +303,7 @@ function renderNode(node, asPath = false) {
         return;
       }
       try {
-        const url = `/api/children?id=${encodeURIComponent(node.id)}&q=${encodeURIComponent(currentQuery)}&mode=${encodeURIComponent(currentMode)}&fields=${encodeURIComponent(currentFields)}`;
+        const url = `/api/children?id=${encodeURIComponent(nodeId)}&q=${encodeURIComponent(currentQuery)}&mode=${encodeURIComponent(currentMode)}&fields=${encodeURIComponent(currentFields)}`;
         const response = await fetch(url);
         const data = await response.json();
         fullContainer = document.createElement("div");

@@ -1,8 +1,8 @@
 page,level,chinese,english,code
 874,4,"胫骨成分","tibial component",00.81
-874,4,"股骨成分","femoral component",00.82
-874,4,"胫骨插入","tibial insert",00.84
-874,4,"胫骨成分","tibial component",00.81
+874,3,"股骨成分","femoral component",00.82
+874,3,"胫骨插入","tibial insert",00.84
+874,3,"胫骨成分","tibial component",00.81
 874,3,"全部的(所有组成)","total (all components)",00.80
 874,2,"心律再同步化除颤器(CRT-D)","cardiac resynchronization defibrillator (CRT-D)",
 874,3,"电极","electrode(s)",37.75
@@ -133,8 +133,8 @@ page,level,chinese,english,code
 877,3,"脊椎的","vertebral",00.61
 877,4,"颅内部分","intracranial portion",00.62
 877,3,"颈动脉","carotid",00.61
-877,4,"颅内的","intracranial",00.62
-877,4,"颅外的","extracranial",00.61
+877,3,"颅内的","intracranial",00.62
+877,3,"颅外的","extracranial",00.61
 877,3,"脑血管的","cerebrovascular",
 877,4,"颅内的","intracranial",00.62
 877,4,"颅外的","extracranial",00.61

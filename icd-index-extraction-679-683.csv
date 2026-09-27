@@ -16,7 +16,7 @@ page,level,chinese,english,code
 679,4,"经颅骨切开术","by craniotomy",04.01
 679,2,"肾上腺—另见肾上腺切除术","adrenal gland-see also Adrenalectomy",07.22
 679,2,"肾血管,迷行的","renal vessel, aberrant",38.66
-679,3,"肾周围组织","perirenal tissue",59.91
+679,2,"肾周围组织","perirenal tissue",59.91
 679,2,"声带索(黏膜下)","vocal cord(s) (submucous)",30.22
 679,2,"食管—另见食管切除术","esophagus-see also Esophagectomy",42.40
 679,2,"输卵管—见输卵管切除术","fallopian tube-see Salpingectomy",
@@ -28,7 +28,7 @@ page,level,chinese,english,code
 679,3,"狭窄","stricture",56.41
 679,2,"输尿管疝","ureterocele",56.41
 679,2,"水囊瘤,囊性","hygroma, cystic",40.29
-679,3,"斯基恩腺(女性尿道旁腺)","Skene's gland",71.3
+679,2,"斯基恩腺(女性尿道旁腺)","Skene's gland",71.3
 679,2,"松果腺(完全)(全部)","pineal gland (complete) (total)",07.54
 679,3,"部分的","partial",07.53
 679,2,"锁骨(头)(部分)","clavicle (head) (partial)",77.81
@@ -112,12 +112,12 @@ page,level,chinese,english,code
 681,2,"阴蒂","clitoris",71.4
 681,2,"阴囊血肿,睾丸鞘膜","hematocele, tunica vaginalis",61.92
 681,2,"龈瘤(齿龈)","epulis (gingiva)",24.31
-681,3,"疣—另见切除术,病损,按部位","verucca, wart-see also Excision, lesion, by site",
+681,2,"疣—另见切除术,病损,按部位","verucca, wart-see also Excision, lesion, by site",
 681,3,"眼睑","eyelid",08.22
 682,2,"游离体","loose body",
 682,3,"骨—见死骨切除术,骨","bone-see Sequestrectomy, bone",
 682,3,"关节","joint",80.10
-682,3,"圆韧带","round ligament",69.19
+682,2,"圆韧带","round ligament",69.19
 682,2,"增殖体(残余)","adenoids (tag)",28.6
 682,3,"伴扁桃体切除术","with tonsillectomy",28.3
 682,2,"粘连—另见松解术,粘连","synechiae-see also Lysis, synechiae",
@@ -131,7 +131,7 @@ page,level,chinese,english,code
 682,3,"内镜的","endoscopic",32.01
 682,2,"直肠—见切除术,直肠","rectum-see Resection, rectum",
 682,2,"直肠黏膜","rectal mucosa",48.35
-682,3,"直肠周围组织","perirectal tissue",48.82
+682,2,"直肠周围组织","perirectal tissue",48.82
 682,2,"直肠子宫陷凹(道格拉斯)","cul-de-sac (Douglas')",70.92
 682,3,"伴移植物或假体","with graft or prosthesis",70.93
 682,2,"指(趾)甲(床)(褶)","nail (bed) (fold)",86.23

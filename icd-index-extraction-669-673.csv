@@ -54,9 +54,9 @@ page,level,chinese,english,code
 670,3,"甲状舌管(伴舌骨切除术)","thyroglossal (with resection of hyoid bone)",06.7
 670,3,"苗勒管","mullerian",69.19
 670,2,"管内乳头状瘤","intraductal papilloma",85.21
-670,3,"汗腺","sweat gland",86.3
+670,2,"汗腺","sweat gland",86.3
 670,2,"颌下腺—另见切除术,涎液腺","submaxillary gland-see also Excision, salivary gland",26.30
-670,3,"横膈","diaphragm",34.81
+670,2,"横膈","diaphragm",34.81
 670,2,"虹膜脱出(伤口中)","prolapsed iris (in wound)",12.13
 670,2,"虹膜脱垂","iris prolapse",12.13
 670,2,"后发性膜,晶状体","secondary membrane, lens",13.65
@@ -137,7 +137,7 @@ page,level,chinese,english,code
 672,4,"内镜的","endoscopic",45.30
 672,3,"胃","stomach",43.42
 672,4,"内镜的","endoscopic",43.41
-672,3,"阔韧带","broad ligament",69.19
+672,2,"阔韧带","broad ligament",69.19
 672,2,"阑尾—另见阑尾切除术","appendix-see also Appendectomy",
 672,3,"附睾","epididymis",63.3
 672,3,"睾丸","testis",62.2
@@ -175,7 +175,7 @@ page,level,chinese,english,code
 673,5,"根治(包括肌和深筋膜)","radical (including muscle and deep fascia)",40.40
 673,6,"单侧","unilateral",40.41
 673,6,"双侧","bilateral",40.42
-673,6,"区域性(扩大)","regional (extended)",40.3
+673,5,"区域性(扩大)","regional (extended)",40.3
 673,4,"颈的—见切除术,淋巴,结,颈的","jugular-see Excision, lymph, node, cervical",
 673,4,"气管旁的—见切除术,淋巴,结,颈的","paratracheal-see Excision, lymph, node, cervical",
 673,4,"髂的","iliac",40.29
@@ -184,7 +184,7 @@ page,level,chinese,english,code
 673,4,"区域性(扩大的)","regional (extended)",40.3
 673,4,"乳房的(内部的)","mammary (internal)",40.22
 673,5,"根治性","radical",40.59
-673,5,"区域性(扩大)","regional (extended)",40.3
+673,6,"区域性(扩大)","regional (extended)",40.3
 673,5,"外的","external",40.29
 673,6,"根治性","radical",40.59
 673,6,"区域性(扩大的)","regional (extended)",40.3

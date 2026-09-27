@@ -26,7 +26,7 @@ page,level,chinese,english,code
 929,3,"腕腕的，腕掌的","carpocarpal, carpometacarpal",81.74
 929,3,"膝（部分）（全部）","knee (partial) (total)",81.54
 929,4,"修复术 NOS","revision NOS",81.55
-929,4,"掌指的","metacarpophalangeal",81.71
+929,3,"掌指的","metacarpophalangeal",81.71
 929,3,"指（趾）间关节","interphalangeal",81.71
 929,3,"趾","toe",81.57
 929,4,"用于𧿹外翻修补术","for hallux valgus repair",77.59
@@ -78,7 +78,7 @@ page,level,chinese,english,code
 931,3,"辅助心室","auxiliary ventricle",37.62
 931,3,"假体心脏支持装置","prosthetic cardiac support device",37.41
 931,3,"起搏器一另见置入，起搏器，心的","pacemaker-see also Implant, pacemaker, cardiac",37.80
-931,4,"全内置双心室置换系统","total internal biventricular replacement system",37.52
+931,3,"全内置双心室置换系统","total internal biventricular replacement system",37.52
 931,3,"人工","artificial",37.52
 931,4,"全内置双心室置换系统","total internal biventricular replacement system",37.52
 931,5,"AbioCor ®","AbioCor®",37.52
@@ -91,7 +91,7 @@ page,level,chinese,english,code
 932,2,"心脏收缩力调制(CCM)","CCM (cardiac contractility modulation)",
 932,3,"仅是可充电的脉冲发生器","rechargeable pulse generator only",17.52
 932,3,"全系统","total system",17.51
-932,3,"心脏支持装置(CSD)","cardiac support device (CSD)",37.41
+932,2,"心脏支持装置(CSD)","cardiac support device (CSD)",37.41
 932,2,"胸壁(网状物)(硅橡胶)","chest wall (mesh) (silastic)",34.79
 932,2,"血管通路装置","vascular access device",86.07
 932,2,"血管与心肌","blood vessels to myocardium",36.2

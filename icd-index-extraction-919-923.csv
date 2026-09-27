@@ -3,7 +3,7 @@ page,level,chinese,english,code
 919,2,"瓣膜","valve(s)",
 919,3,"血管内的一见置换，心脏瓣膜，按部位","endovascular-see Replacement, heart valve, by site",
 919,2,"泵，输注","pump, infusion",86.06
-919,3,"鼻","nose",21.85
+919,2,"鼻","nose",21.85
 919,2,"玻璃体（硅）","vitreous (silicone)",14.75
 919,3,"用于视网膜再附着","for retinal reattachment",14.41
 919,4,"伴环扎术","with buckling",14.41
@@ -136,7 +136,7 @@ page,level,chinese,english,code
 923,3,"手指","finger",81.71
 923,3,"腕关节（部分）","wrist (partial)",81.74
 923,4,"全部置换","total replacement",81.73
-923,5,"修复术","revision",81.97
+923,4,"修复术","revision",81.97
 923,3,"腕腕的，腕掌的","carpocarpal, carpometacarpal",81.74
 923,3,"膝（部分）（全部）","knee (partial) (total)",81.54
 923,4,"修复术 NOS","revision NOS",81.55

@@ -17,7 +17,7 @@ page,level,chinese,english,code
 659,3,"肠","intestine",
 659,4,"大的","large",45.41
 659,5,"内镜的 NEC","endoscopic NEC",45.43
-659,5,"息肉切除术","polypectomy",45.42
+659,6,"息肉切除术","polypectomy",45.42
 659,4,"小的 NEC","small NEC",45.33
 659,3,"肠系膜","mesentery",54.4
 659,3,"垂体(腺)—另见垂体切除术,部分","pituitary (gland)-see also Hypophysectomy, partial",07.63
@@ -119,8 +119,8 @@ page,level,chinese,english,code
 661,4,"肘","elbow",80.82
 661,4,"足和趾","foot and toe",80.88
 662,3,"汗腺","sweat gland",86.3
-662,4,"颌骨","jaw",76.2
-662,5,"牙的","dental",24.4
+662,3,"颌骨","jaw",76.2
+662,4,"牙的","dental",24.4
 662,3,"横膈","diaphragm",34.81
 662,3,"虹膜","iris",12.42
 662,3,"喉","larynx",30.09

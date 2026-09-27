@@ -119,7 +119,7 @@ page,level,chinese,english,code
 811,2,"鼻窦(经穿刺)","nasal sinus (by puncture)",22.01
 811,3,"经自然腔口","through natural ostium",22.02
 811,2,"动静脉","arteriovenous",39.93
-811,3,"动脉","artery",38.91
+811,2,"动脉","artery",38.91
 812,2,"窦(鼻的)(经穿刺)","sinus (nasal) (by puncture)",22.01
 812,3,"经自然腔口","through natural ostium",22.02
 812,2,"窦","antrum",22.01
@@ -133,7 +133,7 @@ page,level,chinese,english,code
 812,2,"乳糜池","cisterna chyli",40.61
 812,2,"肾静脉门静脉的","renoportal",39.1
 812,2,"胸管(颈入路)(胸入路)","thoracic duct (cervical approach) (thoracic approach)",40.61
-812,3,"胰腺管(置换)","pancreatic duct",52.92
+812,2,"胰腺管(置换)","pancreatic duct",52.92
 812,3,"经逆行内镜检查(ERP)","by retrograde endoscopy (ERP)",52.93
 812,1,"特科手术-见 Turco 手术","特科手术-see Turco operation",
 812,1,"特劳纳手术-见 Trauner 手术","特劳纳手术-see Trauner operation",

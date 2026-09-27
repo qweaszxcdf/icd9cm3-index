@@ -119,8 +119,8 @@ page,level,chinese,english,code
 917,5,"刷洗","brush",33.24
 917,2,"纤维光学的","fiberoptic",33.22
 917,3,"伴活组织检查","with biopsy",33.24
-917,3,"肺","lung",33.27
-917,4,"刷洗","brush",33.24
+917,4,"肺","lung",33.27
+917,5,"刷洗","brush",33.24
 917,1,"支气管切开术","Bronchotomy",33.0
 917,1,"支气管造口术","Bronchostomy",33.0
 917,2,"闭合","closure",33.42
@@ -182,6 +182,6 @@ page,level,chinese,english,code
 918,3,"仅脉搏发生器","pulse generator only",00.53
 918,3,"仅左心室冠状静脉导联","left ventricular coronary venous lead only",00.52
 918,2,"Dynesys®(腰椎椎弓根螺钉软系统固定装置)","Dynesys®",84.82
-918,3,"Lap-Band®(可调节性胃细带系统绑扎带)","Lap-Band™",44.95
+918,2,"Lap-Band®(可调节性胃细带系统绑扎带)","Lap-Band™",44.95
 918,2,"M-Brace™(一种脊椎固定装置)","M-Brace™",84.82
 918,2,"Rheos™颈动脉窦压力反射激活装置","Rheos™ carotid sinus baroreflex activation device",39.81

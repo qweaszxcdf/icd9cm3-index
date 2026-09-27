@@ -526,7 +526,8 @@ def load_source_rows(paths: Iterable[Path]) -> list[SourceRow]:
                         chinese=chinese,
                         english=english,
                         code=code,
-                        hierarchy=" > ".join(visible_hierarchy),
+                        # Level 0 is a block marker, not a semantic ancestor.
+                        hierarchy=" > ".join(comparable_hierarchy),
                         hierarchy_norm=normalize_hierarchy(comparable_hierarchy),
                     )
                 )
@@ -3397,6 +3398,26 @@ def validate_source_rows(
             counts["pass_parent_disambiguated"] += 1
             severities["通过"] += 1
 
+    for record in records:
+        if str(record.get("status")) not in {"pass_parent_disambiguated", "pass_path_exact", "pass_path_alias_exact"}:
+            continue
+        source = [p.strip() for p in str(record.get("hierarchy", "")).split(" > ") if p.strip()]
+        paths = [p.strip() for p in str(record.get("official_hierarchy", "")).split("|") if p.strip()]
+        if len(source) < 2 or not paths:
+            continue
+        parent_text = re.split(r"\bsee(?:\s+also)?\b", source[-2], maxsplit=1, flags=re.IGNORECASE)[0]
+        parent = normalize_text(parent_text)
+        parent_aliases = set(comma_alias_norms(parent_text)) | {parent}
+        if any(
+            normalize_text(re.split(r"\bsee(?:\s+also)?\b", p.split(" > ")[-2], maxsplit=1, flags=re.IGNORECASE)[0]) in parent_aliases
+            for p in paths if len(p.split(" > ")) >= 2
+        ):
+            continue
+        old = str(record.get("status")); counts[old] -= 1; severities[str(record.get("severity"))] -= 1
+        record["status"] = "hierarchy_mismatch"; record["severity"] = "警告"
+        record["hierarchy_status"] = "mismatch"
+        record["details"] = "CSV 直接父级不属于任何官方候选路径。"
+        counts["hierarchy_mismatch"] += 1; severities["警告"] += 1
     return records, counts, severities
 
 

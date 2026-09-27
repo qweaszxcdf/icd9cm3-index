@@ -33,7 +33,7 @@ page,level,chinese,english,code
 924,5,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
 924,5,"髋臼成分","acetabular component only",00.71
 925,5,"髋臼和股骨成分（全部的）","acetabular and femoral components (total)",00.70
-925,5,"全部的（髋臼和股骨成分","total (acetabular and femoral components",00.70
+925,5,"全部的（髋臼和股骨成分）","total (acetabular and femoral components)",00.70
 925,3,"关节（斯旺森型）NEC","joint (Swanson type) NEC",81.96
 925,4,"踝（全部）","ankle (total)",81.56
 925,4,"肩（部分）","shoulder (partial)",81.81
@@ -49,10 +49,10 @@ page,level,chinese,english,code
 925,7,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
 925,7,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
 925,7,"髋臼成分","acetabular component only",00.71
-925,7,"仅股骨成分","femoral component only",00.72
-925,7,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
-925,7,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
-925,7,"髋臼成分","acetabular component only",00.71
+925,6,"仅股骨成分","femoral component only",00.72
+925,6,"仅股骨头和（或）髋臼衬垫","femoral head only and/or acetabular liner",00.73
+925,6,"仅髋臼衬垫和（或）股骨头","acetabular liner and/or femoral head only",00.73
+925,6,"髋臼成分","acetabular component only",00.71
 925,6,"髋臼和股骨成分（全部的）","acetabular and femoral components (total)",00.70
 925,6,"全部的（髋臼和股骨成分）","total (acetabular and femoral components)",00.70
 925,4,"手（掌指的）（指（趾）间关节）","hand (metacarpophalangeal) (interphalangeal)",81.71
@@ -142,7 +142,7 @@ page,level,chinese,english,code
 928,6,"节律反应","rate responsive",37.86
 928,4,"双房装置（初始的）","dual-chamber device (initial)",37.83
 928,5,"置换","replacement",37.87
-928,4,"再同步化装置（双心室起搏器）（BiV 起搏 器)(CRT-P)","resynchronization device (biventricular pacemaker) (BiV pacemaker) (CRT-P)",
+928,4,"再同步化装置(双心室起搏器)(BiV 起搏器)(CRT-P)","resynchronization device (biventricular pacemaker) (BiV pacemaker) (CRT-P)",
 928,5,"仅装置（初始的）（置换）","device only (initial) (replacement)",00.53
 928,5,"经静脉导联进入左心室冠状静脉系统","transvenous lead into left ventricular coronary venous system",00.52
 928,5,"全系统（装置和一个或多个导联）","total system (device and one or more leads)",00.50
@@ -152,8 +152,8 @@ page,level,chinese,english,code
 928,2,"前颌骨","premaxilla",76.68
 928,2,"桡动脉","radial artery",36.19
 928,2,"人工角膜上皮","epikeratoprosthesis",11.73
-928,3,"乳房（用于增大）（双侧）","breast (for augmentation) (bilateral)",85.54
-928,4,"单侧的","unilateral",85.53
+928,2,"乳房（用于增大）（双侧）","breast (for augmentation) (bilateral)",85.54
+928,3,"单侧的","unilateral",85.53
 928,2,"乳房动脉","mammary artery",
 928,3,"心室内（瓦因伯格）","in ventricle (Vineberg)",36.2
 928,3,"至冠状动脉（单根血管）","to coronary artery (single vessel)",36.15

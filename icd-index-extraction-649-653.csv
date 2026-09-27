@@ -75,7 +75,7 @@ page,level,chinese,english,code
 650,5,"冷冻术,冷冻锥形切除术","cryosurgery, cryoconization",67.33
 650,5,"烧灼","cauterization",67.32
 650,2,"睫状体","ciliary body",12.74
-650,3,"泪囊","lacrimal sac",09.6
+650,2,"泪囊","lacrimal sac",09.6
 650,2,"脉络膜视网膜病—另见破坏,病损,脉络膜","chorioretinopathy-see also Destruction, lesion, choroid",14.29
 650,2,"内耳 NEC","inner ear NEC",20.79
 651,3,"经注射","by injection",20.72
@@ -130,7 +130,7 @@ page,level,chinese,english,code
 652,3,"经其他特指的方法","by other specified method",80.59
 652,3,"经注射","by injection",80.52
 652,3,"疝出的(髓核)","herniated (nucleus pulposus)",80.51
-652,4,"左心耳","left atrial appendage",37.36
+652,2,"左心耳","left atrial appendage",37.36
 652,1,"破裂","Rupture",
 652,2,"关节粘连,手法的","joint adhesions, manual",93.26
 652,2,"卵巢囊肿,手法的","ovarian cyst, manual",65.93

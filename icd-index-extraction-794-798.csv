@@ -7,22 +7,22 @@ page,level,chinese,english,code
 794,3,"血管内的","endovascular",39.72
 794,2,"动脉(选择性)","artery (selective)",38.80
 794,3,"腹的NEC","abdominal NEC",38.86
-794,3,"肾(经导管)","renal (transcatheter)",38.86
-794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
-794,3,"胃的(经导管)","gastric (transcatheter)",44.44
+794,4,"肾(经导管)","renal (transcatheter)",38.86
+794,4,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+794,4,"胃的(经导管)","gastric (transcatheter)",44.44
 794,3,"经","by",
 794,4,"经皮经导管输注","percutaneous transcatheter infusion",99.29
 794,4,"血管内入路","endovascular approach",39.79
 794,5,"部分闭合(球囊)(暂时性)","partial occlusion (balloon) (temporary)",39.77
 794,5,"头和颈血管","head and neck vessels",39.72
 794,6,"裸弹簧圈","bare coils",39.75
-794,4,"生物活性弹簧圈","bioactive coils",39.76
+794,6,"生物活性弹簧圈","bioactive coils",39.76
 794,3,"颅内的NEC","intracranial NEC",38.81
 794,3,"上肢","upper limb",38.83
-794,4,"肾(经导管)","renal (transcatheter)",38.86
-794,4,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+794,3,"肾(经导管)","renal (transcatheter)",38.86
+794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
 794,3,"头和颈NEC","head and neck NEC",38.82
-794,4,"胃的(经导管)","gastric (transcatheter)",44.44
+794,3,"胃的(经导管)","gastric (transcatheter)",44.44
 794,3,"下肢","lower limb",38.88
 794,3,"胸NEC","thoracic NEC",38.85
 794,3,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.84
@@ -33,17 +33,17 @@ page,level,chinese,english,code
 794,2,"静脉(选择性)","vein (selective)",38.80
 794,3,"腹的NEC","abdominal NEC",38.87
 794,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
-795,3,"胃的(经导管)","gastric (transcatheter)",44.44
+795,4,"胃的(经导管)","gastric (transcatheter)",44.44
 795,3,"经","by",
 795,4,"血管内入路","endovascular approach",39.79
 795,5,"部分闭合(球囊)(暂时性)","partial occlusion (balloon) (temporary)",39.77
 795,5,"头和颈","head and neck",39.72
-795,4,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
-795,4,"胃的(经导管)","gastric (transcatheter)",44.44
+795,3,"十二指肠的(经导管)","duodenal (transcatheter)",44.44
+795,3,"胃的(经导管)","gastric (transcatheter)",44.44
 795,2,"弹簧圈,血管内","coil, endovascular",39.79
 795,3,"头和颈","head and neck",39.75
-795,3,"裸弹簧圈","bare coils",39.75
-795,3,"生物活性弹簧圈","bioactive coils",39.76
+795,4,"裸弹簧圈","bare coils",39.75
+795,4,"生物活性弹簧圈","bioactive coils",39.76
 795,3,"子宫动脉","uterine artery",68.24
 795,2,"粘连(粘合)","adhesive (glue)",39.79
 795,3,"头和颈","head and neck",39.72

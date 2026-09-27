@@ -1,15 +1,15 @@
 page,level,chinese,english,code
-879,7,"腹","abdominal",
-879,8,"动脉","artery",38.06
-879,8,"静脉","Vein",38.07
-879,7,"颅内 NEC","intracranial NEC",38.01
-879,7,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
-879,7,"头和颈 NEC","head and neck NEC",38.02
-879,7,"下肢","lower limb",
-879,8,"动脉","artery",38.08
-879,8,"静脉","vein",38.09
-879,7,"胸 NEC","thoracic NEC",38.05
-879,7,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
+879,2,"腹","abdominal",
+879,3,"动脉","artery",38.06
+879,3,"静脉","Vein",38.07
+879,2,"颅内 NEC","intracranial NEC",38.01
+879,2,"上肢(动脉)(静脉)","upper limb (artery) (vein)",38.03
+879,2,"头和颈 NEC","head and neck NEC",38.02
+879,2,"下肢","lower limb",
+879,3,"动脉","artery",38.08
+879,3,"静脉","vein",38.09
+879,2,"胸 NEC","thoracic NEC",38.05
+879,2,"主动脉(弓)(升)(降)","aorta (arch) (ascending) (descending)",38.04
 879,1,"血管通路移植","Vectra vascular access graft",86.07
 879,1,"血管通路装置,完全可植入的","Vascular access device, totally implantable",86.07
 879,1,"血管形成-见血管再形成","Vascularization-see Revascularization",

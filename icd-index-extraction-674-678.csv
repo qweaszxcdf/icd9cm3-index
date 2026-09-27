@@ -35,7 +35,7 @@ page,level,chinese,english,code
 674,5,"腹腔镜的","laparoscopic",65.24
 674,2,"卵巢旁囊肿","parovarian cyst",69.19
 674,3,"伴假体植入","with prosthetic implant",77.59
-674,3,"脉络膜丛","choroid plexus",02.14
+674,2,"脉络膜丛","choroid plexus",02.14
 675,2,"迷行组织—见切除术,病损,按组织来源的部位","aberrant tissue-see Excision, lesion, by site of tissue origin",
 675,2,"苗勒管囊肿","mullerian duct cyst",60.73
 675,2,"莫尔加尼囊","hydatid of Morgagni",
@@ -108,8 +108,8 @@ page,level,chinese,english,code
 676,2,"潘克斯特瘤(肺)","Pancoast tumor (lung)",32.6
 676,2,"膀胱—另见囊切除术","bladder-see also Cystectomy",
 676,2,"膀胱阴道隔","vesicovaginal septum",70.33
-676,3,"膀胱周围组织","perivesical tissue",59.91
-676,3,"盆腔直肠组织","pelvirectal tissue",48.82
+676,2,"膀胱周围组织","perivesical tissue",59.91
+676,2,"盆腔直肠组织","pelvirectal tissue",48.82
 676,2,"脾(全部)","spleen (total)",41.5
 676,3,"部分的","partial",41.43
 676,3,"副","accessory",41.93

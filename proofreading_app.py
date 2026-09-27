@@ -782,6 +782,26 @@ def render_main() -> None:
     render_sidebar(page_list)
     render_page_navigation(page_list)
 
+    next_issue_col, _ = st.columns([1, 3])
+    with next_issue_col:
+        if st.button("显示下一个需要关注的校验记录", width="stretch"):
+            next_pages = [page for page in page_list if page > int(st.session_state.current_page)] + [
+                page for page in page_list if page <= int(st.session_state.current_page)
+            ]
+            target_page = None
+            for page in next_pages:
+                candidate = add_validation_columns(get_active_page_df(page))
+                if candidate.empty:
+                    continue
+                mask = candidate["proofreading"].fillna("").astype(str).str.startswith(("错误", "警告", "人工复核"))
+                if mask.any():
+                    target_page = page
+                    break
+            if target_page is not None:
+                st.session_state.current_page = int(target_page)
+                st.rerun()
+            st.info("没有找到需要关注的校验记录。")
+
     if st.session_state.last_action_message:
         st.info(st.session_state.last_action_message)
 

@@ -16,8 +16,8 @@ page,level,chinese,english,code
 934,3,"刺激接收器—见植入，刺激接收器，按部位","stimoeiver-see Implant, stimoeiver, by site",
 934,2,"刺激器","stimulator",
 934,3,"电极","electrode(s)",
-934,3,"颈动脉窦","carotid sinus",39.82
-934,4,"伴同步脉冲发生器置换（全系统）","with synchronous pulse generator replacement (total system)",39.81
+934,4,"颈动脉窦","carotid sinus",39.82
+934,5,"伴同步脉冲发生器置换（全系统）","with synchronous pulse generator replacement (total system)",39.81
 934,3,"脉冲发生器","pulse generator",
 934,4,"颈动脉窦","carotid sinus",39.83
 934,5,"伴同步电极置换（全系统）","with synchronous electrode(s) replacement (total system)",39.81
@@ -57,16 +57,15 @@ page,level,chinese,english,code
 935,2,"耳（假体）","ear (prosthetic)",18.71
 935,2,"二尖瓣NOS","mitral valve, NOS",35.24
 935,3,"伴有","with",
-935,3,"假体","prosthesis",35.24
-935,3,"组织移植","tissue graft",35.23
+935,4,"假体","prosthesis",35.24
+935,4,"组织移植","tissue graft",35.23
 935,2,"肺动脉瓣膜，NOS","pulmonary valve, NOS",35.26
 935,3,"伴有","with",
-935,3,"假体","prosthesis",35.26
-935,3,"组织移植","tissue graft",35.25
+935,4,"假体","prosthesis",35.26
+935,4,"组织移植","tissue graft",35.25
 935,3,"法洛四联症全部修补术","in total repair of tetralogy of Fallot",35.81
 935,3,"经心尖（肋间的）（经导管）（经胸腔）（经心室）","transapical (intercostal) (transcatheter) (transthoracic) (transventricular)",35.08
-935,3,"肾盂造口术管","pyelostomy tube",55.94
-936,3,"管)(经股的)(经静脉)","endovascular (percutaneous) (PPVI) (TPVR) (transcatheter) (transfemoral) (transvenous)",35.07
+936,3,"血管内的(经皮的)(PPVI)(TPVR)(经导管)(经股的)(经静脉)","endovascular (percutaneous) (PPVI) (TPVR) (transcatheter) (transfemoral) (transvenous)",35.07
 936,2,"复律器/除颤器(全系统)","cardioverter/defibrillator (total system)",37.94
 936,3,"仅导联(电极)(感知)(起搏)","leads only (electrodes) (sensing) (pacing)",37.97
 936,3,"仅脉搏发生器","pulse generator only:",37.98
