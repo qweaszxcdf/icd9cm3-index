@@ -12,9 +12,9 @@ page,level,chinese,english,code
 924,2,"黄体酮（皮下）","progesterone (subdermal)",99.23
 924,2,"脊柱NEC","spine NEC",84.59
 924,3,"突减压装置","interspinous process decompression device",84.80
-924,3,"后路运动保护装置一见亚目","posterior motion preservation device (s)- see subcategory",84.8
-924,3,"椎弓根动力稳定装置","pedicle-based dynamic stabilization device (s)",84.82
-924,3,"椎骨关节面置换装置","facet replacement device (s)",84.84
+924,3,"后路运动保护装置一见亚目","posterior motion preservation device(s)-see subcategory",84.8
+924,3,"椎弓根动力稳定装置","pedicle-based dynamic stabilization device(s)",84.82
+924,3,"椎骨关节面置换装置","facet replacement device(s)",84.84
 924,2,"假体，假体装置","prosthesis, prosthetic device",
 924,3,"臂（生物电的）（运动成型性）（运动成型性）","arm (bioelectric) (cineplastic) (kineplastic)",84.44
 924,3,"耳蜗","cochlear",20.96
@@ -101,7 +101,7 @@ page,level,chinese,english,code
 927,2,"眶","orbit",16.69
 927,3,"再插入","reinsertion",16.62
 927,2,"镭（氡）","radium (radon)",92.27
-927,2,"离心泵（心脏）","Tandem $ ™ $ heart",37.68
+927,2,"离心泵（心脏）","Tandem™ heart",37.68
 927,2,"里克汉囊","Rickham reservoir",02.22
 927,2,"流出道假体（心脏）（三角片型）","outflow tract prosthesis (heart) (gusset type)",
 927,3,"在……中的","in",

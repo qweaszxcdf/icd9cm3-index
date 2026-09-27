@@ -13,7 +13,7 @@ page,level,chinese,english,code
 934,3,"小肠","small intestine",97.03
 934,2,"传感器（导线）","sensor (lead)",
 934,3,"心内血流动力学监测","intracardiac or great vessel hemodynamic monitoring",00.56
-934,3,"刺激接收器—见植入，刺激接收器，按部位","stimoeiver-see Implant, stimoeiver, by site",
+934,3,"刺激接收器—见植入，神经刺激器，按部位","stimoceiver-see Implant, neurostimulator, by site",
 934,2,"刺激器","stimulator",
 934,3,"电极","electrode(s)",
 934,4,"颈动脉窦","carotid sinus",39.82
@@ -35,7 +35,7 @@ page,level,chinese,english,code
 935,4,"肌肉（骨骼）","muscle (skeletal)",83.92
 935,4,"膀胱","bladder",57.97
 935,4,"输尿管","ureter",56.93
-935,3,"导联（电极）—见置换，起搏器，电极，心的","leads (electrode) (s)-see Replacement, electrode(s)",
+935,3,"导联（电极）—见置换，起搏器，电极，心的","leads (electrode)(s)-see Replacement, electrode(s)",
 935,3,"复律器/除颤器—见置换，复律器/除颤器","cardioverter/defibrillator-see Replacement, cardioverter/defibrillator",
 935,2,"电极—见植入，电极或导联经部位或装置名称","electrode(s)-see Implant, electrode or lead by site or name of device",
 935,3,"骶神经","sacral nerve",04.92
@@ -98,7 +98,7 @@ page,level,chinese,english,code
 936,2,"机械性肾","mechanical kidney",55.97
 936,2,"脊柱运动保护装置","spinal motion preservation device",
 936,3,"棘突装置","interspinous process device(s)",84.80
-936,3,"椎弓根动力稳定装置","pedicle-based dynamic stabilization device (s)",84.82
+936,3,"椎弓根动力稳定装置","pedicle-based dynamic stabilization device(s)",84.82
 936,3,"椎骨关节面置换装置","facet replacement device(s)",84.84
 936,2,"夹板","splint",97.14
 937,2,"加德纳维尔斯钳（颅骨）","Gardner Wells tongs (skull)",02.94
