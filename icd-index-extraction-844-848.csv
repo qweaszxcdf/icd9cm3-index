@@ -92,9 +92,9 @@ page,level,chinese,english,code
 846,3,"椎骨","vertebra",03.53
 846,2,"关节(囊)(软骨) NEC-另见关节成形术","joint (capsule) (cartilage) NEC-see also Arthroplasty",81.96
 846,2,"冠状动脉 NEC","coronary artery NEC",36.99
-846,4,"经动脉粥样硬化切除术","by atherectomy",
-846,5,"经皮经管腔","percutaneous transluminal",17.55
-846,6,"经血管成形术-见血管成形术,冠状","by angioplasty-see Angioplasty, coronary",
+846,3,"经动脉粥样硬化切除术","by atherectomy",
+846,4,"经皮经管腔","percutaneous transluminal",17.55
+846,3,"经血管成形术-见血管成形术,冠状","by angioplasty-see Angioplasty, coronary",
 846,2,"横膈 NEC","diaphragm NEC",34.84
 846,2,"虹膜(破裂) NEC","iris (rupture) NEC",12.39
 846,2,"喉","larynx",31.69
