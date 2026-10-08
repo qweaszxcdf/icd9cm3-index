@@ -10,6 +10,34 @@ let currentQuery = "";
 let currentMode = "auto";
 let currentFields = "chinese,english,code";
 let currentSearchController = null;
+// Version every cached API response so positional row IDs stay build-local.
+let datasetRevision =
+  document.querySelector('meta[name="dataset-version"]')?.content || `legacy-${Date.now().toString(36)}`;
+
+function withDatasetRevision(url) {
+  return `${url}${url.includes("?") ? "&" : "?"}v=${encodeURIComponent(datasetRevision)}`;
+}
+
+async function fetchIndex(url, options = {}) {
+  let response = await fetch(withDatasetRevision(url), options);
+  if (response.status === 409) {
+    const update = await response.json();
+    if (!update.current_version) {
+      throw new Error("Index version unavailable");
+    }
+    datasetRevision = update.current_version;
+    if (url.startsWith("/api/children?")) {
+      // The old row-number ID must never be reused against the new dataset.
+      // The caller silently re-runs the search to regenerate the tree.
+      throw new Error("stale_index_node");
+    }
+    response = await fetch(withDatasetRevision(url), options);
+  }
+  if (!response.ok) {
+    throw new Error(`API request failed: HTTP ${response.status}`);
+  }
+  return response;
+}
 
 function buildSearchUrl(query, mode = "auto") {
   const params = new URLSearchParams();
@@ -66,7 +94,7 @@ function createRefAnchor(target, queryTarget = target) {
     }
     try {
       const url = `/api/locate?target=${encodeURIComponent(queryTarget)}&mark=false`;
-      const resp = await fetch(url);
+      const resp = await fetchIndex(url);
       const data = await resp.json();
       if (data.ignored) {
         summaryEl.textContent = '此引用指向子目（亚目），已忽略。';
@@ -107,7 +135,7 @@ async function showTabularPageForCode(code) {
   reverseContainer.style.display = "block";
   reverseContainer.textContent = `正在查询类目表代码 ${code} ...`;
   try {
-    const response = await fetch(`/api/tabular?code=${encodeURIComponent(code)}`);
+    const response = await fetchIndex(`/api/tabular?code=${encodeURIComponent(code)}`);
     const data = await response.json();
     if (!data || !data.count || !data.page) {
       reverseContainer.textContent = `未找到代码 ${code} 对应的类目表页面。`;
@@ -219,7 +247,7 @@ function renderNode(node, asPath = false) {
   const nodeId = String(node.id || '');
   const wrapper = document.createElement("div");
   wrapper.className = node.matched ? "tree-node matched-node" : "tree-node";
-  if (node.children && node.children.length) {
+  if (node.has_children || (node.children && node.children.length)) {
     wrapper.classList.add("has-children");
   }
 
@@ -304,17 +332,21 @@ function renderNode(node, asPath = false) {
       }
       try {
         const url = `/api/children?id=${encodeURIComponent(nodeId)}&q=${encodeURIComponent(currentQuery)}&mode=${encodeURIComponent(currentMode)}&fields=${encodeURIComponent(currentFields)}`;
-        const response = await fetch(url);
+        const response = await fetchIndex(url);
         const data = await response.json();
         fullContainer = document.createElement("div");
         fullContainer.className = "child-list";
         if (data.children && data.children.length) {
           data.children.forEach((child) => fullContainer.appendChild(renderNode(child, false)));
         }
+        loaded = true;
       } catch (error) {
+        if (error?.message === "stale_index_node") {
+          await performSearch();
+          return;
+        }
         console.error("加载子节点失败：", error);
       }
-      loaded = true;
     };
 
     const updateIcon = () => {
@@ -331,6 +363,7 @@ function renderNode(node, asPath = false) {
         }
         if (node.has_children && !loaded) {
           await loadChildren();
+          if (!loaded) return;
         }
         // Replace the visible path with the full child subtree in the same position
         if (pathContainer && pathContainer.parentNode) {
@@ -413,7 +446,7 @@ async function performSearch() {
   treeContainer.innerHTML = "";
 
   try {
-    const response = await fetch(url, { signal: currentSearchController.signal });
+    const response = await fetchIndex(url, { signal: currentSearchController.signal });
     const data = await response.json();
     if (currentSearchController.signal.aborted) {
       return;

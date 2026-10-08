@@ -6,7 +6,7 @@ const DATA_COLUMNS = ["page", "level", "chinese", "english", "code"];
 const TABULAR_PAGE_MIN = 21;
 const TABULAR_PAGE_MAX = 415;
 const TABULAR_PDF_KEY = "target.pdf";
-const API_CACHE_SECONDS = 365 * 24 * 60 * 60;
+const API_CACHE_SECONDS = 5 * 60;
 const PDF_CACHE_SECONDS = 365 * 24 * 60 * 60;
 
 const ROW_PAGE = 0;
@@ -683,6 +683,16 @@ function rangeNotSatisfiable(totalSize) {
 export default {
   async fetch(request, env) {
     const url = new URL(request.url);
+    // Prevent cached search paths from resolving IDs against another build.
+    if (url.pathname.startsWith("/api/")) {
+      const revision = url.searchParams.get("v");
+      if (revision && !revision.startsWith("legacy-") && revision !== searchDataset.meta.version) {
+        return jsonResponse(
+          { error: "dataset_version_mismatch", current_version: searchDataset.meta.version },
+          { status: 409, headers: { "cache-control": "no-store" } },
+        );
+      }
+    }
     if (url.pathname === "/api/search") return cachedJsonResponse(request, API_CACHE_SECONDS, () => handleSearch(request, env));
     if (url.pathname === "/api/locate") return cachedJsonResponse(request, API_CACHE_SECONDS, () => handleLocate(request, env));
     if (url.pathname === "/api/children") return cachedJsonResponse(request, API_CACHE_SECONDS, () => handleChildren(request, env));

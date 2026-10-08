@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import csv
+import hashlib
 import json
 import shutil
 from pathlib import Path
@@ -189,6 +190,31 @@ def main() -> None:
     copy_tree(ROOT_DIR / "static", STATIC_DIR)
 
     dataset, tabular_dataset = build_dataset()
+    # Version the dataset and UI/API implementation as a single release.
+    revision_hash = hashlib.sha256()
+    revision_hash.update(json.dumps(dataset, ensure_ascii=False, separators=(",", ":")).encode("utf-8"))
+    revision_hash.update((ROOT_DIR / "static" / "app.js").read_bytes())
+    revision_hash.update((WORKERS_DIR / "src" / "index.js").read_bytes())
+    revision_hash.update((ROOT_DIR / "templates" / "index.html").read_bytes())
+    revision = revision_hash.hexdigest()[:16]
+    dataset["meta"]["version"] = revision
+
+    index_path = PUBLIC_DIR / "index.html"
+    index_html = index_path.read_text(encoding="utf-8")
+    if 'src="/static/app.js"' not in index_html or "</head>" not in index_html:
+        raise RuntimeError("Cannot inject dataset version into HTML")
+    index_html = index_html.replace(
+        "</head>",
+        f'  <meta name="dataset-version" content="{revision}" />\n  </head>',
+        1,
+    )
+    index_html = index_html.replace(
+        'src="/static/app.js"',
+        f'src="/static/app.js?v={revision}"',
+        1,
+    )
+    index_path.write_text(index_html, encoding="utf-8")
+
     (DATA_DIR / "dataset.json").write_text(json.dumps(dataset, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (DATA_DIR / "tabular.json").write_text(
         json.dumps(tabular_dataset, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
