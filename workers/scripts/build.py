@@ -188,6 +188,7 @@ def main() -> None:
 
     copy_tree(ROOT_DIR / "templates" / "index.html", PUBLIC_DIR / "index.html")
     copy_tree(ROOT_DIR / "static", STATIC_DIR)
+    copy_tree(ROOT_DIR / "assets" / "favicon.ico", PUBLIC_DIR / "favicon.ico")
 
     dataset, tabular_dataset = build_dataset()
     # Version the dataset and UI/API implementation as a single release.
@@ -196,6 +197,7 @@ def main() -> None:
     revision_hash.update((ROOT_DIR / "static" / "app.js").read_bytes())
     revision_hash.update((WORKERS_DIR / "src" / "index.js").read_bytes())
     revision_hash.update((ROOT_DIR / "templates" / "index.html").read_bytes())
+    revision_hash.update((ROOT_DIR / "assets" / "favicon.ico").read_bytes())
     revision = revision_hash.hexdigest()[:16]
     dataset["meta"]["version"] = revision
 
@@ -206,6 +208,11 @@ def main() -> None:
     index_html = index_html.replace(
         "</head>",
         f'  <meta name="dataset-version" content="{revision}" />\n  </head>',
+        1,
+    )
+    index_html = index_html.replace(
+        'href="/favicon.ico"',
+        f'href="/favicon.ico?v={revision}"',
         1,
     )
     index_html = index_html.replace(
