@@ -6,7 +6,7 @@ const DATA_COLUMNS = ["page", "level", "chinese", "english", "code"];
 const TABULAR_PAGE_MIN = 21;
 const TABULAR_PAGE_MAX = 415;
 const TABULAR_PDF_KEY = "target.pdf";
-const API_CACHE_SECONDS = 5 * 60;
+const API_CACHE_SECONDS = 365 * 24 * 60 * 60;
 const PDF_CACHE_SECONDS = 365 * 24 * 60 * 60;
 
 const ROW_PAGE = 0;
