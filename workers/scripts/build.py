@@ -17,7 +17,6 @@ PDF_DIR = PUBLIC_DIR / "pdf"
 DATA_COLUMNS = ["page", "level", "chinese", "english", "code"]
 TABULAR_PAGE_MIN = 21
 TABULAR_PAGE_MAX = 415
-TABULAR_PDF_KEY = "target.pdf"
 
 # Compact row layout consumed by workers/src/index.js:
 # page, level, chinese, english, code, source_file_index, search_blob,
@@ -227,15 +226,8 @@ def main() -> None:
         json.dumps(tabular_dataset, ensure_ascii=False, separators=(",", ":")), encoding="utf-8"
     )
 
-    pdf_path = ROOT_DIR / "target.pdf"
-    pdf_manifest = {
-        "available": pdf_path.exists() and pdf_path.stat().st_size > 0,
-        "storage": "r2",
-        "key": TABULAR_PDF_KEY,
-        "total_size": pdf_path.stat().st_size if pdf_path.exists() else 0,
-    }
-
-    (DATA_DIR / "pdf-manifest.json").write_text(json.dumps(pdf_manifest, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    # Remove stale build-time availability metadata; the Worker checks R2 directly.
+    (DATA_DIR / "pdf-manifest.json").unlink(missing_ok=True)
 
 
 if __name__ == "__main__":

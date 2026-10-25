@@ -1,6 +1,5 @@
 import searchDataset from "../public/data/dataset.json";
 import tabularDataset from "../public/data/tabular.json";
-import pdfManifestData from "../public/data/pdf-manifest.json";
 
 const DATA_COLUMNS = ["page", "level", "chinese", "english", "code"];
 const TABULAR_PAGE_MIN = 21;
@@ -333,10 +332,6 @@ function getTabularData() {
   return tabularDataset;
 }
 
-function getPdfManifest() {
-  return pdfManifestData;
-}
-
 function jsonResponse(payload, init = {}) {
   return new Response(JSON.stringify(payload), {
     ...init,
@@ -594,12 +589,13 @@ async function handleTabularPdf(request, env) {
     return new Response("Tabular PDF not found", { status: 404 });
   }
 
-  const pdfManifest = getPdfManifest();
-  const pdfKey = normalizeText(pdfManifest.key) || TABULAR_PDF_KEY;
-  const totalSize = parseIntSafe(pdfManifest.total_size, 0);
-  if (!pdfManifest.available || totalSize <= 0) {
+  // R2 is the source of truth: a build without a local target.pdf must not disable the PDF.
+  const pdfKey = TABULAR_PDF_KEY;
+  const metadata = await env.TABULAR_PDF.head(pdfKey);
+  if (!metadata || metadata.size <= 0) {
     return new Response("Tabular PDF not found", { status: 404 });
   }
+  const totalSize = metadata.size;
 
   const rangeHeader = request.headers.get("range") || "";
   const parsedRange = parseRangeHeader(rangeHeader, totalSize);

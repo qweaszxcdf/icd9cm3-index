@@ -176,7 +176,7 @@ The Cloudflare-ready version lives under `workers/` and serves the read-only sea
 The Worker uses:
 
 - Workers Assets for the generated HTML, CSS, JS, and JSON search dataset.
-- R2 bucket `icd9cm3-index-pdf` for `target.pdf`.
+- R2 bucket `icd9cm3-index-pdf` for `target.pdf` (the Worker reads object metadata directly at request time; local PDF files are not required for the build).
 - Worker cache enabled in `wrangler.jsonc`.
 - Workers Caching for successful API responses by full request URL for 1 day.
 - PDF response caching for 7 days while preserving byte-range requests.
@@ -209,7 +209,7 @@ npm run deploy
 
 If the R2 bucket already exists, `npm run r2:create` can be skipped.
 
-The build step packages the CSV sources into a compact `workers/public/data/dataset.json`, writes the small tabular lookup to `workers/public/data/tabular.json`, writes `workers/public/data/pdf-manifest.json`, and copies the UI assets into `workers/public/` so the Worker can run without Flask or pandas at runtime. Search responses still include every match; hierarchy metadata and code indexes are prepared during the build to reduce Worker CPU time. `workers/public/` is generated output and should not be committed.
+The build step packages the CSV sources into a compact `workers/public/data/dataset.json`, writes the small tabular lookup to `workers/public/data/tabular.json`, and copies the UI assets into `workers/public/` so the Worker can run without Flask or pandas at runtime. Search responses still include every match; hierarchy metadata and code indexes are prepared during the build to reduce Worker CPU time. `workers/public/` is generated output and should not be committed.
 
 Routes and custom domains are intentionally not documented here. Keep route details in the Cloudflare Dashboard or in a private local Wrangler config, not in committed files.
 
