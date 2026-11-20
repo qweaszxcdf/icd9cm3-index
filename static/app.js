@@ -305,14 +305,21 @@ function closeFeedback() {
   feedbackDialog.close();
 }
 
+const INDEX_PDF_PAGE_OFFSET = 18;
+
+function formatIndexPage(pdfPage) {
+  const printedPage = Number(pdfPage) - INDEX_PDF_PAGE_OFFSET;
+  return `书页 ${printedPage}（PDF 第 ${pdfPage} 页）`;
+}
+
 function openFeedback(node = null) {
   clearFeedbackCloseTimer();
   feedbackRecord = node
-    ? { id: node.id, page: node.page, level: node.level, chinese: node.chinese,
+    ? { id: node.id, page: node.page, printed_page: Number(node.page) - INDEX_PDF_PAGE_OFFSET, level: node.level, chinese: node.chinese,
       english: node.english, code: node.code, source_file: node.source_file }
     : {};
   const titleParts = node
-    ? [`第 ${node.page} 页`, node.chinese, node.english, node.code]
+    ? [formatIndexPage(node.page), node.chinese, node.english, node.code]
     : ["全局反馈（可用于补充缺少的词条）"];
   feedbackRecordName.textContent = titleParts.filter(Boolean).join(" / ");
   feedbackType.value = node ? "" : "缺少词条";
@@ -406,7 +413,7 @@ function renderNode(node, asPath = false) {
 
   const meta = document.createElement("div");
   meta.className = "node-meta";
-  meta.textContent = `层级 ${node.level} · 页 ${node.page}`;
+  meta.textContent = `层级 ${node.level} · ${formatIndexPage(node.page)}`;
 
   title.appendChild(heading);
   const actions = document.createElement("div");
