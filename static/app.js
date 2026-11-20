@@ -151,7 +151,7 @@ async function performLocate(target, { updateUrl = true } = {}) {
 function createCodeAnchor(code) {
   const link = document.createElement("a");
   link.href = "#";
-  link.className = "code-inline-link";
+  link.className = "code-link";
   link.textContent = code;
   link.addEventListener("click", async (event) => {
     event.preventDefault();
@@ -409,7 +409,9 @@ function renderNode(node, asPath = false) {
   meta.textContent = `层级 ${node.level} · 页 ${node.page}`;
 
   title.appendChild(heading);
-  title.appendChild(meta);
+  const actions = document.createElement("div");
+  actions.className = "node-actions";
+  actions.appendChild(meta);
 
   const feedbackButton = document.createElement("button");
   feedbackButton.type = "button";
@@ -419,7 +421,8 @@ function renderNode(node, asPath = false) {
     event.stopPropagation();
     openFeedback(node);
   });
-  title.appendChild(feedbackButton);
+  actions.appendChild(feedbackButton);
+  title.appendChild(actions);
   wrapper.appendChild(title);
 
   const details = document.createElement("div");
