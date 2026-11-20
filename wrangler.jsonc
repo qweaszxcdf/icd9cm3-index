@@ -3,7 +3,6 @@
   "name": "icd9cm3-index",
   "main": "workers/src/index.js",
   "compatibility_date": "2026-07-13",
-  "workers_dev": false,
   "previews": {},
   "build": {
     "command": "if [ -f workers/scripts/build.py ]; then python3 workers/scripts/build.py; else python3 scripts/build.py; fi"
