@@ -10,8 +10,8 @@ let currentQuery = "";
 let currentMode = "auto";
 let currentFields = "chinese,english,code";
 let currentSearchController = null;
-// Version every cached API response so positional row IDs stay build-local.
-let datasetRevision =
+// Keep the versioned data and the browser module in sync.
+const datasetRevision =
   document.querySelector('meta[name="dataset-version"]')?.content;
 
 let clientIndexPromise;
@@ -38,9 +38,9 @@ async function fetchNavigation(url, options = {}) {
   const requestUrl = new URL(url, location.href);
   const [core, dataset] = await loadClientIndex();
   const handlers = {
-    "/api/search": core.handleSearch,
-    "/api/locate": core.handleLocate,
-    "/api/children": core.handleChildren,
+    "/search": core.handleSearch,
+    "/locate": core.handleLocate,
+    "/children": core.handleChildren,
   };
   return handlers[requestUrl.pathname](new Request(requestUrl, options), dataset);
 }
@@ -49,20 +49,21 @@ function withDatasetRevision(url) {
   return `${url}${url.includes("?") ? "&" : "?"}v=${encodeURIComponent(datasetRevision)}`;
 }
 
-async function fetchIndex(url, options = {}) {
-  let response = await fetch(withDatasetRevision(url), options);
-  if (response.status === 409) {
-    const update = await response.json();
-    if (!update.current_version) {
-      throw new Error("Index version unavailable");
-    }
-    datasetRevision = update.current_version;
-    response = await fetch(withDatasetRevision(url), options);
+let tabularDataPromise;
+
+function loadTabularData() {
+  if (!tabularDataPromise) {
+    tabularDataPromise = fetch(withDatasetRevision("/data/tabular.json"))
+      .then((response) => {
+        if (!response.ok) throw new Error(`Tabular data request failed: HTTP ${response.status}`);
+        return response.json();
+      })
+      .catch((error) => {
+        tabularDataPromise = undefined;
+        throw error;
+      });
   }
-  if (!response.ok) {
-    throw new Error(`API request failed: HTTP ${response.status}`);
-  }
-  return response;
+  return tabularDataPromise;
 }
 
 function buildSearchUrl(query, mode = "auto") {
@@ -70,7 +71,7 @@ function buildSearchUrl(query, mode = "auto") {
   params.set("q", query);
   params.set("mode", mode);
   params.set("fields", currentFields);
-  return `/api/search?${params.toString()}`;
+  return `/search?${params.toString()}`;
 }
 
 function sanitize(text) {
@@ -139,7 +140,7 @@ function createRefAnchor(target, queryTarget = target) {
 
 async function performLocate(target, { updateUrl = true } = {}) {
   await loadNavigation(
-    `/api/locate?target=${encodeURIComponent(target)}&mark=false`,
+    `/locate?target=${encodeURIComponent(target)}&mark=false`,
     "定位失败，请重试。",
     (data) => {
       if (data.ignored) {
@@ -182,8 +183,8 @@ async function showTabularPageForCode(code) {
   reverseContainer.style.display = "block";
   reverseContainer.textContent = `正在查询类目表代码 ${code} ...`;
   try {
-    const response = await fetchIndex(`/api/tabular?code=${encodeURIComponent(code)}`);
-    const data = await response.json();
+    const [[core], tabularData] = await Promise.all([loadClientIndex(), loadTabularData()]);
+    const data = core.lookupTabular(tabularData, code);
     if (!data || !data.count || !data.page) {
       reverseContainer.textContent = `未找到代码 ${code} 对应的类目表页面。`;
       return;
@@ -378,7 +379,7 @@ function renderNode(node, asPath = false) {
         return;
       }
       try {
-        const url = `/api/children?id=${encodeURIComponent(nodeId)}&q=${encodeURIComponent(currentQuery)}&mode=${encodeURIComponent(currentMode)}&fields=${encodeURIComponent(currentFields)}`;
+        const url = `/children?id=${encodeURIComponent(nodeId)}&q=${encodeURIComponent(currentQuery)}&mode=${encodeURIComponent(currentMode)}&fields=${encodeURIComponent(currentFields)}`;
         const data = await fetchNavigation(url);
         fullContainer = document.createElement("div");
         fullContainer.className = "child-list";

@@ -426,3 +426,106 @@ export function handleChildren(request, dataset) {
 
   return { children };
 }
+
+function parseCodeKey(code) {
+  if (!code) return null;
+  const text = normalizeCode(code);
+  if (!text || !/^\d{1,2}(?:\.\d{1,2})?$/.test(text)) return null;
+  if (!text.includes(".")) return [Number.parseInt(text, 10), -1];
+
+  const [majorText, minorText] = text.split(".", 2);
+  const minorScaled = Number.parseInt(minorText.padEnd(2, "0").slice(0, 2), 10);
+  return [Number.parseInt(majorText, 10), minorScaled];
+}
+
+function compareCodeKeys(left, right) {
+  if (left[0] !== right[0]) return left[0] - right[0];
+  return left[1] - right[1];
+}
+
+function compareText(left, right) {
+  const leftText = normalizeText(left);
+  const rightText = normalizeText(right);
+  if (leftText < rightText) return -1;
+  if (leftText > rightText) return 1;
+  return 0;
+}
+
+export function lookupTabular(tabularData, code) {
+  const queryCode = normalizeText(code);
+  if (!queryCode) {
+    return { query: queryCode, count: 0, rows: [], page: null };
+  }
+
+  const codeNorm = normalizeCode(queryCode);
+  if (!codeNorm) {
+    return { query: queryCode, count: 0, rows: [], page: null };
+  }
+
+  const tabularRows = tabularData.rows || [];
+  let rows = [];
+
+  const exactMatches = tabularRows.filter((row) => row.code_norm === codeNorm);
+  if (exactMatches.length) {
+    rows = [...exactMatches].sort((left, right) => {
+      const pageDelta = parseIntSafe(left.page, -1) - parseIntSafe(right.page, -1);
+      if (pageDelta !== 0) return pageDelta;
+      const codeDelta = compareText(normalizeCode(left.code), normalizeCode(right.code));
+      if (codeDelta !== 0) return codeDelta;
+      return compareText(left.row_type, right.row_type);
+    }).slice(0, 10);
+  } else {
+    const queryKey = parseCodeKey(codeNorm);
+    let selectedBoundary = null;
+    if (queryKey) {
+      const seenPages = new Set();
+      const boundaries = [...tabularRows]
+        .sort((left, right) => {
+          const pageDelta = parseIntSafe(left.page, -1) - parseIntSafe(right.page, -1);
+          if (pageDelta !== 0) return pageDelta;
+          return compareText(normalizeCode(left.code), normalizeCode(right.code));
+        })
+        .filter((row) => {
+          const page = parseIntSafe(row.page, -1);
+          const boundaryKey = parseCodeKey(row.code_norm);
+          if (seenPages.has(page) || !boundaryKey) return false;
+          seenPages.add(page);
+          return true;
+        });
+
+      for (const boundary of boundaries) {
+        const boundaryKey = parseCodeKey(boundary.code_norm);
+        if (!boundaryKey) continue;
+        if (compareCodeKeys(boundaryKey, queryKey) > 0) continue;
+        if (selectedBoundary === null) {
+          selectedBoundary = boundary;
+          continue;
+        }
+        const comparison = compareCodeKeys(boundaryKey, selectedBoundary.code_key);
+        if (comparison > 0 || (comparison === 0 && parseIntSafe(boundary.page, -1) < parseIntSafe(selectedBoundary.page, -1))) {
+          selectedBoundary = boundary;
+        }
+      }
+    }
+
+    if (!selectedBoundary) {
+      return { query: queryCode, count: 0, rows: [], page: null };
+    }
+
+    rows = [{ page: selectedBoundary.page, code: selectedBoundary.code, row_type: "page_boundary" }];
+  }
+
+  const selected = rows[0];
+  const page = parseIntSafe(selected.page, -1);
+  return {
+    query: queryCode,
+    count: rows.length,
+    rows: rows.map((row) => ({
+      page: parseIntSafe(row.page, -1),
+      code: normalizeText(row.code),
+      row_type: normalizeText(row.row_type),
+    })),
+    page,
+    pdf_url: "/tabular-pdf",
+  };
+}
