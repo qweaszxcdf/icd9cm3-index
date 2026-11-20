@@ -12,7 +12,7 @@ let currentFields = "chinese,english,code";
 let currentSearchController = null;
 // Version every cached API response so positional row IDs stay build-local.
 let datasetRevision =
-  document.querySelector('meta[name="dataset-version"]')?.content || `legacy-${Date.now().toString(36)}`;
+  document.querySelector('meta[name="dataset-version"]')?.content;
 
 let clientIndexPromise;
 
@@ -35,8 +35,6 @@ function loadClientIndex() {
 }
 
 async function fetchNavigation(url, options = {}) {
-  // The Flask app serves the same UI with its existing API.
-  if (datasetRevision.startsWith("legacy-")) return (await fetchIndex(url, options)).json();
   const requestUrl = new URL(url, location.href);
   const [core, dataset] = await loadClientIndex();
   const handlers = {
@@ -59,11 +57,6 @@ async function fetchIndex(url, options = {}) {
       throw new Error("Index version unavailable");
     }
     datasetRevision = update.current_version;
-    if (url.startsWith("/api/children?")) {
-      // The old row-number ID must never be reused against the new dataset.
-      // The caller silently re-runs the search to regenerate the tree.
-      throw new Error("stale_index_node");
-    }
     response = await fetch(withDatasetRevision(url), options);
   }
   if (!response.ok) {
@@ -394,10 +387,6 @@ function renderNode(node, asPath = false) {
         }
         loaded = true;
       } catch (error) {
-        if (error?.message === "stale_index_node") {
-          await restoreNavigationState();
-          return;
-        }
         console.error("加载子节点失败：", error);
       }
     };

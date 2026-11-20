@@ -27,10 +27,8 @@ This repository is intended to share and collaborate on the electronic ICD-9-CM-
 ## Files
 
 - `proofreading_app.py` — main Streamlit proofreading app.
-- `web_app.py` — Flask ICD index search/browse web app.
 - `workers/` — Cloudflare Worker version of the read-only web app.
 - `requirements-proofreading.txt` — Python dependencies for the proofreading app.
-- `requirements-web.txt` — Python dependencies for the Flask web app.
 - `icd-index-extraction-*.csv` — original extracted CSVs.
 - `data/tabular_code_page_map.csv` — tabular code-to-PDF page map.
 - `target.pdf` — optional PDF source file (ignored from Git).
@@ -158,20 +156,9 @@ level 偏移，并分轮修正到稳定状态；不会自动插入、删除或�
 每条问题的源行号、原始中英文、校验状态、官方完整路径和处理建议；编辑表格
 仍只显示原始提取字段。报告更新后点击“从磁盘重新加载”即可刷新校验信息。
 
-## ICD Web App (Flask)
-
-A mobile-first browser interface without Streamlit.
-
-```bash
-pip install -r requirements-web.txt
-.venv/bin/python web_app.py
-```
-
-Then open `http://localhost:8000` in your browser.
-
 ## Cloudflare Deployment
 
-The Cloudflare-ready version lives under `workers/` and serves the read-only search and browse UI through a Worker with static assets. Its runtime data layout is optimized independently from the Flask app.
+The Cloudflare-ready version lives under `workers/` and serves the read-only search and browse UI through a Worker with static assets.
 
 The Worker uses:
 
@@ -209,7 +196,7 @@ npm run deploy
 
 If the R2 bucket already exists, `npm run r2:create` can be skipped.
 
-The build step packages the CSV sources into a compact `workers/public/data/dataset.json`, writes the small tabular lookup to `workers/public/data/tabular.json`, and copies the UI assets into `workers/public/` so the Worker can run without Flask or pandas at runtime. Search responses still include every match; hierarchy metadata and code indexes are prepared during the build to reduce Worker CPU time. `workers/public/` is generated output and should not be committed.
+The build step packages the CSV sources into a compact `workers/public/data/dataset.json`, writes the small tabular lookup to `workers/public/data/tabular.json`, and copies the UI assets into `workers/public/` for serving the index. The browser runs searches and opens index branches using the prebuilt hierarchy and code indexes. `workers/public/` is generated output and should not be committed.
 
 Routes and custom domains are intentionally not documented here. Keep route details in the Cloudflare Dashboard or in a private local Wrangler config, not in committed files.
 
