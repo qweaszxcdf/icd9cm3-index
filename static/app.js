@@ -10,19 +10,13 @@ let currentQuery = "";
 let currentMode = "auto";
 let currentFields = "chinese,english,code";
 let currentSearchController = null;
-// Version every cached API response so positional row IDs stay build-local.
-let datasetRevision =
-  document.querySelector('meta[name="dataset-version"]')?.content;
-
 let clientIndexPromise;
 
 function loadClientIndex() {
   if (!clientIndexPromise) {
-    const moduleUrl = new URL("/static/index-core.mjs", location.href);
-    moduleUrl.searchParams.set("v", datasetRevision);
     clientIndexPromise = Promise.all([
-      import(moduleUrl.href),
-      fetch(withDatasetRevision("/data/dataset.json")).then((response) => {
+      import("./index-core.mjs"),
+      fetch("/data/dataset.json").then((response) => {
         if (!response.ok) throw new Error(`Dataset request failed: HTTP ${response.status}`);
         return response.json();
       }),
@@ -38,31 +32,28 @@ async function fetchNavigation(url, options = {}) {
   const requestUrl = new URL(url, location.href);
   const [core, dataset] = await loadClientIndex();
   const handlers = {
-    "/api/search": core.handleSearch,
-    "/api/locate": core.handleLocate,
-    "/api/children": core.handleChildren,
+    "/search": core.handleSearch,
+    "/locate": core.handleLocate,
+    "/children": core.handleChildren,
   };
   return handlers[requestUrl.pathname](new Request(requestUrl, options), dataset);
 }
 
-function withDatasetRevision(url) {
-  return `${url}${url.includes("?") ? "&" : "?"}v=${encodeURIComponent(datasetRevision)}`;
-}
+let tabularDataPromise;
 
-async function fetchIndex(url, options = {}) {
-  let response = await fetch(withDatasetRevision(url), options);
-  if (response.status === 409) {
-    const update = await response.json();
-    if (!update.current_version) {
-      throw new Error("Index version unavailable");
-    }
-    datasetRevision = update.current_version;
-    response = await fetch(withDatasetRevision(url), options);
+function loadTabularData() {
+  if (!tabularDataPromise) {
+    tabularDataPromise = fetch("/data/tabular.json")
+      .then((response) => {
+        if (!response.ok) throw new Error(`Tabular data request failed: HTTP ${response.status}`);
+        return response.json();
+      })
+      .catch((error) => {
+        tabularDataPromise = undefined;
+        throw error;
+      });
   }
-  if (!response.ok) {
-    throw new Error(`API request failed: HTTP ${response.status}`);
-  }
-  return response;
+  return tabularDataPromise;
 }
 
 function buildSearchUrl(query, mode = "auto") {
@@ -70,7 +61,7 @@ function buildSearchUrl(query, mode = "auto") {
   params.set("q", query);
   params.set("mode", mode);
   params.set("fields", currentFields);
-  return `/api/search?${params.toString()}`;
+  return `/search?${params.toString()}`;
 }
 
 function sanitize(text) {
@@ -139,7 +130,7 @@ function createRefAnchor(target, queryTarget = target) {
 
 async function performLocate(target, { updateUrl = true } = {}) {
   await loadNavigation(
-    `/api/locate?target=${encodeURIComponent(target)}&mark=false`,
+    `/locate?target=${encodeURIComponent(target)}&mark=false`,
     "定位失败，请重试。",
     (data) => {
       if (data.ignored) {
@@ -160,7 +151,7 @@ async function performLocate(target, { updateUrl = true } = {}) {
 function createCodeAnchor(code) {
   const link = document.createElement("a");
   link.href = "#";
-  link.className = "code-inline-link";
+  link.className = "code-link";
   link.textContent = code;
   link.addEventListener("click", async (event) => {
     event.preventDefault();
@@ -182,8 +173,8 @@ async function showTabularPageForCode(code) {
   reverseContainer.style.display = "block";
   reverseContainer.textContent = `正在查询类目表代码 ${code} ...`;
   try {
-    const response = await fetchIndex(`/api/tabular?code=${encodeURIComponent(code)}`);
-    const data = await response.json();
+    const [[core], tabularData] = await Promise.all([loadClientIndex(), loadTabularData()]);
+    const data = core.lookupTabular(tabularData, code);
     if (!data || !data.count || !data.page) {
       reverseContainer.textContent = `未找到代码 ${code} 对应的类目表页面。`;
       return;
@@ -287,6 +278,107 @@ function appendInlineCodeToTitle(titleText, code) {
 
 // Titles will be clickable when the node/item has references; separate reference-chip UI removed.
 
+const feedbackGeneralButton = document.getElementById("feedbackGeneralButton");
+const feedbackDialog = document.getElementById("feedbackDialog");
+const feedbackForm = document.getElementById("feedbackForm");
+const feedbackRecordName = document.getElementById("feedbackRecordName");
+const feedbackType = document.getElementById("feedbackType");
+const feedbackProposedValue = document.getElementById("feedbackProposedValue");
+const feedbackMessage = document.getElementById("feedbackMessage");
+const feedbackContact = document.getElementById("feedbackContact");
+const feedbackStatus = document.getElementById("feedbackStatus");
+const feedbackSubmitButton = document.getElementById("feedbackSubmitButton");
+const feedbackCloseButton = document.getElementById("feedbackCloseButton");
+const feedbackCancelButton = document.getElementById("feedbackCancelButton");
+let feedbackRecord = {};
+let feedbackCloseTimer = null;
+
+function clearFeedbackCloseTimer() {
+  if (feedbackCloseTimer !== null) {
+    window.clearTimeout(feedbackCloseTimer);
+    feedbackCloseTimer = null;
+  }
+}
+
+function closeFeedback() {
+  clearFeedbackCloseTimer();
+  feedbackDialog.close();
+}
+
+const INDEX_PDF_PAGE_OFFSET = 18;
+
+function formatIndexPage(pdfPage) {
+  const printedPage = Number(pdfPage) - INDEX_PDF_PAGE_OFFSET;
+  return `页${printedPage}`;
+}
+
+function openFeedback(node = null) {
+  clearFeedbackCloseTimer();
+  feedbackRecord = node
+    ? { id: node.id, page: node.page, printed_page: Number(node.page) - INDEX_PDF_PAGE_OFFSET, level: node.level, chinese: node.chinese,
+      english: node.english, code: node.code, source_file: node.source_file }
+    : {};
+  const titleParts = node
+    ? [formatIndexPage(node.page), node.chinese, node.english, node.code]
+    : ["全局反馈（可用于补充缺少的词条）"];
+  feedbackRecordName.textContent = titleParts.filter(Boolean).join(" / ");
+  feedbackType.value = node ? "" : "缺少词条";
+  feedbackProposedValue.value = "";
+  feedbackMessage.value = "";
+  feedbackContact.value = "";
+  feedbackStatus.textContent = "";
+  feedbackSubmitButton.disabled = false;
+  feedbackSubmitButton.textContent = "提交反馈";
+  feedbackDialog.showModal();
+}
+
+async function submitFeedback(event) {
+  event.preventDefault();
+  clearFeedbackCloseTimer();
+  feedbackSubmitButton.disabled = true;
+  feedbackSubmitButton.textContent = "正在提交……";
+  feedbackStatus.textContent = "正在提交……";
+  let submitted = false;
+  try {
+    const response = await fetch("/api/feedback", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        feedbackType: feedbackType.value,
+        proposedValue: feedbackProposedValue.value,
+        message: feedbackMessage.value,
+        contact: feedbackContact.value,
+        url: window.location.href,
+        record: feedbackRecord,
+      }),
+    });
+    const result = await response.json().catch(() => ({}));
+    if (!response.ok || !result.ok) throw new Error(result.error || "提交失败");
+    submitted = true;
+    feedbackStatus.textContent = `反馈已提交${result.id ? `，编号 ${result.id}` : ""}`;
+    feedbackCloseTimer = window.setTimeout(() => {
+      feedbackCloseTimer = null;
+      feedbackDialog.close();
+    }, 1000);
+  } catch (error) {
+    feedbackStatus.textContent = error instanceof Error ? error.message : "提交失败，请稍后重试。";
+  } finally {
+    if (!submitted) {
+      feedbackSubmitButton.disabled = false;
+      feedbackSubmitButton.textContent = "提交反馈";
+    }
+  }
+}
+
+feedbackGeneralButton.addEventListener("click", () => openFeedback(null));
+feedbackCloseButton.addEventListener("click", closeFeedback);
+feedbackCancelButton.addEventListener("click", closeFeedback);
+feedbackForm.addEventListener("submit", submitFeedback);
+feedbackDialog.addEventListener("click", (event) => {
+  if (event.target === feedbackDialog) closeFeedback();
+});
+
+
 function renderNode(node, asPath = false) {
   // Capture the identity at render time. The tree is lazily expanded and its
   // DOM containers are replaced asynchronously; the request must always use
@@ -321,10 +413,23 @@ function renderNode(node, asPath = false) {
 
   const meta = document.createElement("div");
   meta.className = "node-meta";
-  meta.textContent = `层级 ${node.level} · 页 ${node.page}`;
+  meta.textContent = `层级 ${node.level} · ${formatIndexPage(node.page)}`;
 
   title.appendChild(heading);
-  title.appendChild(meta);
+  const actions = document.createElement("div");
+  actions.className = "node-actions";
+  actions.appendChild(meta);
+
+  const feedbackButton = document.createElement("button");
+  feedbackButton.type = "button";
+  feedbackButton.className = "node-feedback";
+  feedbackButton.textContent = "反馈";
+  feedbackButton.addEventListener("click", (event) => {
+    event.stopPropagation();
+    openFeedback(node);
+  });
+  actions.appendChild(feedbackButton);
+  title.appendChild(actions);
   wrapper.appendChild(title);
 
   const details = document.createElement("div");
@@ -378,7 +483,7 @@ function renderNode(node, asPath = false) {
         return;
       }
       try {
-        const url = `/api/children?id=${encodeURIComponent(nodeId)}&q=${encodeURIComponent(currentQuery)}&mode=${encodeURIComponent(currentMode)}&fields=${encodeURIComponent(currentFields)}`;
+        const url = `/children?id=${encodeURIComponent(nodeId)}&q=${encodeURIComponent(currentQuery)}&mode=${encodeURIComponent(currentMode)}&fields=${encodeURIComponent(currentFields)}`;
         const data = await fetchNavigation(url);
         fullContainer = document.createElement("div");
         fullContainer.className = "child-list";
