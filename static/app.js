@@ -411,25 +411,23 @@ function renderNode(node, asPath = false) {
   titleText.textContent = parts.length ? parts.join(" / ") : "(无标题)";
   heading.appendChild(titleText);
 
-  const meta = document.createElement("div");
+  const meta = document.createElement("button");
+  meta.type = "button";
   meta.className = "node-meta";
-  meta.textContent = `层级 ${node.level} · ${formatIndexPage(node.page)}`;
-
-  title.appendChild(heading);
-  const actions = document.createElement("div");
-  actions.className = "node-actions";
-  actions.appendChild(meta);
-
-  const feedbackButton = document.createElement("button");
-  feedbackButton.type = "button";
-  feedbackButton.className = "node-feedback";
-  feedbackButton.textContent = "反馈";
-  feedbackButton.addEventListener("click", (event) => {
+  const levelLabel = document.createElement("span");
+  levelLabel.textContent = `层级 ${node.level}`;
+  const pageLabel = document.createElement("span");
+  pageLabel.textContent = formatIndexPage(node.page);
+  meta.append(levelLabel, pageLabel);
+  meta.title = "反馈此词条";
+  meta.setAttribute("aria-label", `${levelLabel.textContent}，${pageLabel.textContent}，反馈此词条`);
+  meta.addEventListener("click", (event) => {
     event.stopPropagation();
     openFeedback(node);
   });
-  actions.appendChild(feedbackButton);
-  title.appendChild(actions);
+
+  title.appendChild(heading);
+  title.appendChild(meta);
   wrapper.appendChild(title);
 
   const details = document.createElement("div");

@@ -231,6 +231,27 @@ function rowMatchesSearch(row, queryLower, mode, fields, isCodeQuery = false) {
   return text.includes(queryLower);
 }
 
+function searchMatchScore(row, query, fields) {
+  let score = 0;
+  for (const field of fields) {
+    const value = rowSearchText(row, [field]);
+    if (value === query) return 3;
+    if (value.startsWith(query)) score = Math.max(score, 2);
+    else if (value.includes(query)) score = Math.max(score, 1);
+  }
+  return score;
+}
+
+function sortSearchBranches(nodes, matchOrder) {
+  const ranked = nodes.map((node) => ({
+    node,
+    rank: Math.min(matchOrder.get(node.id) ?? Infinity, sortSearchBranches(node.children, matchOrder)),
+  }));
+  ranked.sort((left, right) => left.rank - right.rank);
+  nodes.splice(0, nodes.length, ...ranked.map(({ node }) => node));
+  return ranked[0]?.rank ?? Infinity;
+}
+
 function searchRows(dataset, query, mode, fields, filters) {
   const rows = dataset.rows;
   const queryText = query.trim();
@@ -280,12 +301,20 @@ function searchRows(dataset, query, mode, fields, filters) {
     }
   }
 
-  return {
-    count,
-    limited: false,
-    shown: resultIndices.length,
-    treeRows: collectRelevantRows(dataset, resultIndices),
-  };
+  const treeRows = collectRelevantRows(dataset, resultIndices);
+  const codeSearch = isCodeQuery || mode === "code";
+  const matchQuery = codeSearch ? normalizeCode(queryLower) : queryLower;
+  const matchFields = codeSearch ? ["code"] : fields;
+  const rankedMatches = resultIndices.map((index) => ({
+    index,
+    score: searchMatchScore(rows[index], matchQuery, matchFields),
+  }));
+  rankedMatches.sort((left, right) =>
+    rows[left.index][ROW_LEVEL] - rows[right.index][ROW_LEVEL]
+    || right.score - left.score
+    || left.index - right.index);
+  const matchOrder = new Map(rankedMatches.map(({ index }, rank) => [`r${index}`, rank]));
+  return { count, limited: false, shown: resultIndices.length, treeRows, matchOrder };
 }
 
 export function handleSearch(request, dataset) {
@@ -302,7 +331,7 @@ export function handleSearch(request, dataset) {
   const levelMax = url.searchParams.has("level_max") ? parseIntSafe(url.searchParams.get("level_max"), null) : null;
   const fileFilters = url.searchParams.getAll("file");
 
-  const { count, limited, shown, treeRows } = searchRows(dataset, query, mode, fields, [
+  const { count, limited, shown, treeRows, matchOrder } = searchRows(dataset, query, mode, fields, [
     pageMin,
     pageMax,
     levelMin,
@@ -310,13 +339,9 @@ export function handleSearch(request, dataset) {
     fileFilters,
   ]);
 
-  return {
-    query,
-    count,
-    limited,
-    shown,
-    tree: buildHierarchy(treeRows),
-  };
+  const tree = buildHierarchy(treeRows);
+  if (matchOrder) sortSearchBranches(tree, matchOrder);
+  return { query, count, limited, shown, tree };
 }
 
 export function handleLocate(request, dataset) {
