@@ -309,7 +309,7 @@ const INDEX_PDF_PAGE_OFFSET = 18;
 
 function formatIndexPage(pdfPage) {
   const printedPage = Number(pdfPage) - INDEX_PDF_PAGE_OFFSET;
-  return `书页 ${printedPage}（PDF 第 ${pdfPage} 页）`;
+  return `页${printedPage}`;
 }
 
 function openFeedback(node = null) {
