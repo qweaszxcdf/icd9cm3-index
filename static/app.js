@@ -79,35 +79,56 @@ function extractNodeReferences(node) {
   ];
 }
 
+function navigationUrl(params) {
+  const url = new URL(location.href);
+  for (const key of ["q", "mode", "locate"]) url.searchParams.delete(key);
+  for (const [key, value] of Object.entries(params)) {
+    if (value) url.searchParams.set(key, value);
+  }
+  return url;
+}
+
+function pushNavigation(params) {
+  const url = navigationUrl(params);
+  if (url.href !== location.href) history.pushState(null, "", url);
+}
+
 function createRefAnchor(target, queryTarget = target) {
-  const a = document.createElement('a');
-  a.href = '#';
-  a.className = 'ref-inline';
+  const a = document.createElement("a");
+  a.href = navigationUrl({ locate: queryTarget }).href;
+  a.className = "ref-inline";
   a.textContent = target;
-  a.addEventListener('click', async (ev) => {
-    ev.preventDefault();
+  a.addEventListener("click", (event) => {
+    if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return;
+    event.preventDefault();
     if (!target) return;
-    const tl = target.toLowerCase();
-    if (target.includes('亚目') || tl.includes('subcategory')) {
-      summaryEl.textContent = '此引用指向子目（亚目），已忽略。';
+    if (target.includes("亚目") || target.toLowerCase().includes("subcategory")) {
+      summaryEl.textContent = "此引用指向子目（亚目），已忽略。";
       return;
     }
-    try {
-      const url = `/api/locate?target=${encodeURIComponent(queryTarget)}&mark=false`;
-      const resp = await fetchIndex(url);
-      const data = await resp.json();
-      if (data.ignored) {
-        summaryEl.textContent = '此引用指向子目（亚目），已忽略。';
-        return;
-      }
-      renderSummary(data);
-      renderTree(data);
-    } catch (err) {
-      console.error('定位引用失败：', err);
-      summaryEl.textContent = '定位失败，请重试。';
-    }
+    performLocate(queryTarget);
   });
   return a;
+}
+
+async function performLocate(target, { updateUrl = true } = {}) {
+  await loadNavigation(
+    `/api/locate?target=${encodeURIComponent(target)}&mark=false`,
+    "定位失败，请重试。",
+    (data) => {
+      if (data.ignored) {
+        summaryEl.textContent = "此引用指向子目（亚目），已忽略。";
+        return;
+      }
+      currentQuery = "";
+      currentMode = "auto";
+      setSearchMode("auto");
+      queryInput.value = target;
+      renderSummary(data);
+      renderTree(data);
+      if (updateUrl) pushNavigation({ locate: target });
+    },
+  );
 }
 
 function createCodeAnchor(code) {
@@ -342,7 +363,7 @@ function renderNode(node, asPath = false) {
         loaded = true;
       } catch (error) {
         if (error?.message === "stale_index_node") {
-          await performSearch();
+          await restoreNavigationState();
           return;
         }
         console.error("加载子节点失败：", error);
@@ -430,40 +451,53 @@ function renderTree(data) {
   treeContainer.appendChild(fragment);
 }
 
-async function performSearch() {
-  const query = queryInput.value.trim();
-  currentQuery = query;
-  currentMode = document.querySelector("input[name='searchMode']:checked").value;
-  const url = buildSearchUrl(query, currentMode);
+function setSearchMode(mode) {
+  const radios = Array.from(document.querySelectorAll("input[name='searchMode']"));
+  (radios.find((radio) => radio.value === mode) || radios.find((radio) => radio.value === "auto")).checked = true;
+}
 
-  if (currentSearchController) {
-    currentSearchController.abort();
-  }
-  currentSearchController = new AbortController();
-
-  summaryEl.textContent = "加载中...";
-  reverseContainer.innerHTML = "";
-  treeContainer.innerHTML = "";
+async function loadNavigation(url, errorMessage, render) {
+  currentSearchController?.abort();
+  const controller = new AbortController();
+  currentSearchController = controller;
 
   try {
-    const response = await fetchIndex(url, { signal: currentSearchController.signal });
+    const response = await fetchIndex(url, { signal: controller.signal });
     const data = await response.json();
-    if (currentSearchController.signal.aborted) {
-      return;
-    }
-    renderSummary(data);
-    renderTree(data);
+    if (!controller.signal.aborted) render(data);
   } catch (error) {
-    if (error && error.name === "AbortError") {
-      return;
-    }
-    summaryEl.textContent = "检索失败，请稍后重试。";
+    if (controller.signal.aborted) return;
+    summaryEl.textContent = errorMessage;
     console.error(error);
   } finally {
-    if (currentSearchController && !currentSearchController.signal.aborted) {
-      currentSearchController = null;
-    }
+    if (currentSearchController === controller) currentSearchController = null;
   }
+}
+
+async function performSearch({ updateUrl = true } = {}) {
+  const query = queryInput.value.trim();
+  const mode = document.querySelector("input[name='searchMode']:checked").value;
+  summaryEl.textContent = "加载中...";
+  reverseContainer.replaceChildren();
+  treeContainer.replaceChildren();
+
+  await loadNavigation(buildSearchUrl(query, mode), "检索失败，请稍后重试。", (data) => {
+    currentQuery = query;
+    currentMode = mode;
+    renderSummary(data);
+    renderTree(data);
+    if (updateUrl) pushNavigation({ q: query, mode: mode === "auto" ? "" : mode });
+  });
+}
+
+function restoreNavigationState() {
+  const params = new URL(location.href).searchParams;
+  const target = params.get("locate");
+  if (target) return performLocate(target, { updateUrl: false });
+
+  queryInput.value = params.get("q") || "";
+  setSearchMode(params.get("mode") || "auto");
+  return performSearch({ updateUrl: false });
 }
 
 searchButton.addEventListener("click", () => performSearch());
@@ -484,9 +518,8 @@ queryInput.addEventListener("keydown", (event) => {
   }
 });
 
-window.addEventListener("load", () => {
-  performSearch();
-});
+window.addEventListener("load", restoreNavigationState);
+window.addEventListener("popstate", restoreNavigationState);
 
 async function toggleAllNodes(collapse) {
   if (collapse) {
