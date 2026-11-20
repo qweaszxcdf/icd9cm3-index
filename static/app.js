@@ -497,7 +497,9 @@ function renderNode(node, asPath = false) {
     };
 
     const updateIcon = () => {
-      toggleIcon.style.transform = wrapper.classList.contains("collapsed") ? "rotate(-90deg)" : "rotate(0deg)";
+      const expanded = !wrapper.classList.contains("collapsed");
+      toggleIcon.style.transform = expanded ? "rotate(0deg)" : "rotate(-90deg)";
+      title.setAttribute("aria-expanded", String(expanded));
     };
 
     const toggleNode = async () => {
@@ -549,9 +551,13 @@ function renderNode(node, asPath = false) {
       }
     };
 
-    toggleIcon.addEventListener("click", (event) => {
+    title.tabIndex = 0;
+    title.addEventListener("click", (event) => {
+      if (!event.target.closest("a, button")) toggleNode();
+    });
+    title.addEventListener("keydown", (event) => {
+      if (event.target !== title || event.repeat || (event.key !== "Enter" && event.key !== " ")) return;
       event.preventDefault();
-      event.stopPropagation();
       toggleNode();
     });
 
