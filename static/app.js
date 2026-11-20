@@ -14,6 +14,39 @@ let currentSearchController = null;
 let datasetRevision =
   document.querySelector('meta[name="dataset-version"]')?.content || `legacy-${Date.now().toString(36)}`;
 
+let clientIndexPromise;
+
+function loadClientIndex() {
+  if (!clientIndexPromise) {
+    const moduleUrl = new URL("/static/index-core.mjs", location.href);
+    moduleUrl.searchParams.set("v", datasetRevision);
+    clientIndexPromise = Promise.all([
+      import(moduleUrl.href),
+      fetch(withDatasetRevision("/data/dataset.json")).then((response) => {
+        if (!response.ok) throw new Error(`Dataset request failed: HTTP ${response.status}`);
+        return response.json();
+      }),
+    ]).catch((error) => {
+      clientIndexPromise = undefined;
+      throw error;
+    });
+  }
+  return clientIndexPromise;
+}
+
+async function fetchNavigation(url, options = {}) {
+  // The Flask app serves the same UI with its existing API.
+  if (datasetRevision.startsWith("legacy-")) return (await fetchIndex(url, options)).json();
+  const requestUrl = new URL(url, location.href);
+  const [core, dataset] = await loadClientIndex();
+  const handlers = {
+    "/api/search": core.handleSearch,
+    "/api/locate": core.handleLocate,
+    "/api/children": core.handleChildren,
+  };
+  return handlers[requestUrl.pathname](new Request(requestUrl, options), dataset);
+}
+
 function withDatasetRevision(url) {
   return `${url}${url.includes("?") ? "&" : "?"}v=${encodeURIComponent(datasetRevision)}`;
 }
@@ -353,8 +386,7 @@ function renderNode(node, asPath = false) {
       }
       try {
         const url = `/api/children?id=${encodeURIComponent(nodeId)}&q=${encodeURIComponent(currentQuery)}&mode=${encodeURIComponent(currentMode)}&fields=${encodeURIComponent(currentFields)}`;
-        const response = await fetchIndex(url);
-        const data = await response.json();
+        const data = await fetchNavigation(url);
         fullContainer = document.createElement("div");
         fullContainer.className = "child-list";
         if (data.children && data.children.length) {
@@ -462,8 +494,7 @@ async function loadNavigation(url, errorMessage, render) {
   currentSearchController = controller;
 
   try {
-    const response = await fetchIndex(url, { signal: controller.signal });
-    const data = await response.json();
+    const data = await fetchNavigation(url, { signal: controller.signal });
     if (!controller.signal.aborted) render(data);
   } catch (error) {
     if (controller.signal.aborted) return;
