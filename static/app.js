@@ -10,19 +10,13 @@ let currentQuery = "";
 let currentMode = "auto";
 let currentFields = "chinese,english,code";
 let currentSearchController = null;
-// Keep the versioned data and the browser module in sync.
-const datasetRevision =
-  document.querySelector('meta[name="dataset-version"]')?.content;
-
 let clientIndexPromise;
 
 function loadClientIndex() {
   if (!clientIndexPromise) {
-    const moduleUrl = new URL("/static/index-core.mjs", location.href);
-    moduleUrl.searchParams.set("v", datasetRevision);
     clientIndexPromise = Promise.all([
-      import(moduleUrl.href),
-      fetch(withDatasetRevision("/data/dataset.json")).then((response) => {
+      import("./index-core.mjs"),
+      fetch("/data/dataset.json").then((response) => {
         if (!response.ok) throw new Error(`Dataset request failed: HTTP ${response.status}`);
         return response.json();
       }),
@@ -45,15 +39,11 @@ async function fetchNavigation(url, options = {}) {
   return handlers[requestUrl.pathname](new Request(requestUrl, options), dataset);
 }
 
-function withDatasetRevision(url) {
-  return `${url}${url.includes("?") ? "&" : "?"}v=${encodeURIComponent(datasetRevision)}`;
-}
-
 let tabularDataPromise;
 
 function loadTabularData() {
   if (!tabularDataPromise) {
-    tabularDataPromise = fetch(withDatasetRevision("/data/tabular.json"))
+    tabularDataPromise = fetch("/data/tabular.json")
       .then((response) => {
         if (!response.ok) throw new Error(`Tabular data request failed: HTTP ${response.status}`);
         return response.json();
