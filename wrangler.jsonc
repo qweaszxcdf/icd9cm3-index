@@ -6,8 +6,7 @@
   "workers_dev": false,
   "previews": {},
   "build": {
-    "command": "python3 scripts/build.py",
-    "cwd": "workers"
+    "command": "if [ -f workers/scripts/build.py ]; then python3 workers/scripts/build.py; else python3 scripts/build.py; fi"
   },
   "observability": {
     "enabled": true,
