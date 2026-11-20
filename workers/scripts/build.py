@@ -194,6 +194,7 @@ def main() -> None:
     revision_hash = hashlib.sha256()
     revision_hash.update(json.dumps(dataset, ensure_ascii=False, separators=(",", ":")).encode("utf-8"))
     revision_hash.update((ROOT_DIR / "static" / "app.js").read_bytes())
+    revision_hash.update((ROOT_DIR / "static" / "index-core.mjs").read_bytes())
     revision_hash.update((WORKERS_DIR / "src" / "index.js").read_bytes())
     revision_hash.update((ROOT_DIR / "templates" / "index.html").read_bytes())
     revision_hash.update((ROOT_DIR / "assets" / "favicon.ico").read_bytes())
