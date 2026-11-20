@@ -61,9 +61,7 @@ h1 { margin: 0 0 8px; font-size: clamp(1.4rem, 4vw, 2rem); }
   .footer code { background: #26354d; }
 }
 
-.node-meta { display: flex; align-items: center; gap: 8px; white-space: nowrap; }
-.node-feedback { border: 1px solid #cbd5e1; border-radius: 9px; padding: 5px 9px; background: #fff; color: #2457d6; cursor: pointer; font-size: .78rem; }
-.node-feedback:hover { background: #eef3ff; }
+.node-meta { appearance: none; border: 0; padding: 0; background: transparent; cursor: pointer; display: flex; align-items: center; gap: 8px; white-space: nowrap; }
 .feedback-dialog { width: min(620px, calc(100% - 24px)); max-height: calc(100vh - 24px); border: 1px solid #dbe3ef; border-radius: 18px; padding: 0; background: #fff; color: #172033; box-shadow: 0 24px 70px rgba(15,23,42,.25); }
 .feedback-dialog::backdrop { background: rgba(15,23,42,.55); backdrop-filter: blur(3px); }
 .feedback-dialog form { padding: 22px; }
@@ -88,8 +86,6 @@ h1 { margin: 0 0 8px; font-size: clamp(1.4rem, 4vw, 2rem); }
 }
 
 @media (prefers-color-scheme: dark) {
-  .node-feedback { background: #111a2b; border-color: #34435b; color: #b9d7ff; }
-  .node-feedback:hover { background: #243454; }
   .feedback-dialog { background: #182235; color: #e5e7eb; border-color: #34435b; }
   .feedback-record-name, .dialog-close, .feedback-status { color: #aebbd0; }
   .feedback-field > span { color: #d8e5ff; }
@@ -184,7 +180,7 @@ h1 { margin: 0 0 8px; font-size: clamp(1.4rem, 4vw, 2rem); }
   .search-row input { font-size: 16px; padding: 8px; }
   .search-row button { padding-inline: 12px; }
   .search-row button, .browse-row button, .options-row label,
-  .node-label, .node-feedback, .dialog-close, .feedback-actions button {
+  .node-label, .node-meta, .dialog-close, .feedback-actions button {
     min-height: 44px;
   }
 
@@ -194,8 +190,6 @@ h1 { margin: 0 0 8px; font-size: clamp(1.4rem, 4vw, 2rem); }
   .summary, .tree-container { padding: 8px; }
   .node-label { gap: 6px; padding: 6px; }
   .node-meta { flex-direction: column; align-items: flex-end; gap: 2px; }
-  .node-feedback { padding-inline: 4px; }
-  .node-feedback { min-width: 44px; }
   .child-list, .path-children { margin-inline-start: 4px; padding-inline-start: 4px; }
   .tree-node .tree-node .tree-node :is(.child-list, .path-children) {
     margin-inline-start: 0;
