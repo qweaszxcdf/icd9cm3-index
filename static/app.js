@@ -415,25 +415,20 @@ function renderNode(node, asPath = false) {
   meta.className = "node-meta";
   const levelLabel = document.createElement("span");
   levelLabel.textContent = `层级 ${node.level}`;
-  const pageLabel = document.createElement("span");
-  pageLabel.textContent = formatIndexPage(node.page);
-  meta.append(levelLabel, pageLabel);
-
-  title.appendChild(heading);
-  const actions = document.createElement("div");
-  actions.className = "node-actions";
-  actions.appendChild(meta);
-
-  const feedbackButton = document.createElement("button");
-  feedbackButton.type = "button";
-  feedbackButton.className = "node-feedback";
-  feedbackButton.textContent = "反馈";
-  feedbackButton.addEventListener("click", (event) => {
+  const pageButton = document.createElement("button");
+  pageButton.type = "button";
+  pageButton.className = "node-feedback";
+  pageButton.textContent = formatIndexPage(node.page);
+  pageButton.title = "反馈此词条";
+  pageButton.setAttribute("aria-label", `${pageButton.textContent}，反馈此词条`);
+  pageButton.addEventListener("click", (event) => {
     event.stopPropagation();
     openFeedback(node);
   });
-  actions.appendChild(feedbackButton);
-  title.appendChild(actions);
+  meta.append(levelLabel, pageButton);
+
+  title.appendChild(heading);
+  title.appendChild(meta);
   wrapper.appendChild(title);
 
   const details = document.createElement("div");
