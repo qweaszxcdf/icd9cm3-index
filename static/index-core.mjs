@@ -526,7 +526,7 @@ export function lookupTabular(tabularData, code) {
           selectedBoundary = boundary;
           continue;
         }
-        const comparison = compareCodeKeys(boundaryKey, selectedBoundary.code_key);
+        const comparison = compareCodeKeys(boundaryKey, parseCodeKey(selectedBoundary.code_norm));
         if (comparison > 0 || (comparison === 0 && parseIntSafe(boundary.page, -1) < parseIntSafe(selectedBoundary.page, -1))) {
           selectedBoundary = boundary;
         }
