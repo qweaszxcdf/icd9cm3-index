@@ -46,8 +46,6 @@ h1 { margin: 0 0 8px; font-size: clamp(1.4rem, 4vw, 2rem); }
   .topbar { border-radius: 14px; padding: 18px 15px; }
   .search-row { grid-template-columns: 1fr; }
   .search-row button { padding: 11px 14px; }
-  .node-label { display: block; }
-  .node-meta { margin: 3px 0 0 26px; text-align: left; }
   .child-list, .path-children { margin-left: 13px; padding-left: 8px; }
 }
 @media (prefers-color-scheme: dark) {
@@ -86,7 +84,6 @@ h1 { margin: 0 0 8px; font-size: clamp(1.4rem, 4vw, 2rem); }
 .secondary-btn { border: 1px solid #cbd5e1; background: transparent; color: #334155; }
 
 @media (max-width: 640px) {
-  .node-actions { margin: 5px 0 0 26px; justify-content: space-between; }
   .feedback-dialog form { padding: 18px; }
 }
 
@@ -195,9 +192,8 @@ h1 { margin: 0 0 8px; font-size: clamp(1.4rem, 4vw, 2rem); }
   .options-row label, .browse-row button { padding-inline: 8px; }
   .browse-row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .summary, .tree-container { padding: 8px; }
-  .node-label { padding: 6px; }
-  .node-actions { margin-inline-start: 0; flex-wrap: wrap; }
-  .node-actions .node-meta { margin-inline-start: 0; }
+  .node-label { gap: 6px; padding: 6px; }
+  .node-actions { gap: 4px; white-space: nowrap; }
   .node-feedback { min-width: 44px; }
   .child-list, .path-children { margin-inline-start: 4px; padding-inline-start: 4px; }
   .tree-node .tree-node .tree-node :is(.child-list, .path-children) {
