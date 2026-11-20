@@ -413,7 +413,11 @@ function renderNode(node, asPath = false) {
 
   const meta = document.createElement("div");
   meta.className = "node-meta";
-  meta.textContent = `层级 ${node.level} · ${formatIndexPage(node.page)}`;
+  const levelLabel = document.createElement("span");
+  levelLabel.textContent = `层级 ${node.level}`;
+  const pageLabel = document.createElement("span");
+  pageLabel.textContent = formatIndexPage(node.page);
+  meta.append(levelLabel, pageLabel);
 
   title.appendChild(heading);
   const actions = document.createElement("div");
