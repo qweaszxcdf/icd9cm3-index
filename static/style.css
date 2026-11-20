@@ -172,3 +172,41 @@ h1 { margin: 0 0 8px; font-size: clamp(1.4rem, 4vw, 2rem); }
   .tabular-pdf-link { background: #17345d; border-color: #315d96; color: #b9d7ff; }
   .tabular-pdf-link:hover { background: #243454; }
 }
+
+@media (max-width: 440px) {
+  .page-shell {
+    padding: max(8px, env(safe-area-inset-top))
+      max(8px, env(safe-area-inset-right))
+      max(8px, env(safe-area-inset-bottom))
+      max(8px, env(safe-area-inset-left));
+  }
+
+  .topbar, .search-panel { padding: 12px; }
+  .search-panel, .summary, .tree-container { margin-top: 10px; }
+  .search-row { grid-template-columns: minmax(0, 1fr) auto; gap: 6px; }
+  .search-row input { font-size: 16px; padding: 8px; }
+  .search-row button { padding-inline: 12px; }
+  .search-row button, .browse-row button, .options-row label,
+  .node-label, .node-feedback, .dialog-close, .feedback-actions button {
+    min-height: 44px;
+  }
+
+  .options-row, .browse-row { gap: 6px; }
+  .options-row label, .browse-row button { padding-inline: 8px; }
+  .browse-row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .summary, .tree-container { padding: 8px; }
+  .node-label { padding: 6px; }
+  .node-actions { margin-inline-start: 0; flex-wrap: wrap; }
+  .node-actions .node-meta { margin-inline-start: 0; }
+  .node-feedback { min-width: 44px; }
+  .child-list, .path-children { margin-inline-start: 4px; padding-inline-start: 4px; }
+  .tree-node .tree-node .tree-node :is(.child-list, .path-children) {
+    margin-inline-start: 0;
+    padding-inline-start: 2px;
+  }
+
+  .feedback-dialog { max-height: calc(100dvh - 24px); overflow: auto; }
+  .feedback-dialog form { padding: 12px; }
+  .feedback-field input, .feedback-field select, .feedback-field textarea { font-size: 16px; }
+  .tabular-pdf-frame { min-height: 0; height: 60dvh; }
+}
