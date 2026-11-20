@@ -355,3 +355,39 @@ body {
     width: 100%;
   }
 }
+
+.node-feedback { border: 1px solid #cbd5e1; border-radius: 9px; padding: 5px 9px; background: #fff; color: #2457d6; cursor: pointer; font-size: .78rem; }
+.node-feedback:hover { background: #eef3ff; }
+.feedback-dialog { width: min(620px, calc(100% - 24px)); max-height: calc(100vh - 24px); border: 1px solid #dbe3ef; border-radius: 18px; padding: 0; background: #fff; color: #172033; box-shadow: 0 24px 70px rgba(15,23,42,.25); }
+.feedback-dialog::backdrop { background: rgba(15,23,42,.55); backdrop-filter: blur(3px); }
+.feedback-dialog form { padding: 22px; }
+.feedback-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; margin-bottom: 18px; }
+.feedback-header strong { font-size: 1.05rem; }
+.feedback-record-name { margin-top: 5px; color: #64748b; font-size: .82rem; line-height: 1.5; overflow-wrap: anywhere; }
+.dialog-close { border: 0; background: transparent; color: #64748b; font-size: 1.7rem; line-height: 1; cursor: pointer; }
+.feedback-field { display: grid; gap: 7px; margin-bottom: 14px; }
+.feedback-field > span { font-size: .9rem; font-weight: 700; color: #334155; }
+.feedback-field input, .feedback-field select, .feedback-field textarea { width: 100%; border: 1px solid #cbd5e1; border-radius: 10px; padding: 11px 12px; background: #f8fafc; color: #172033; font: inherit; }
+.feedback-field textarea { resize: vertical; min-height: 120px; }
+.feedback-field input:focus, .feedback-field select:focus, .feedback-field textarea:focus { outline: none; border-color: #3567dc; box-shadow: 0 0 0 3px rgba(53,103,220,.14); }
+.feedback-status { min-height: 22px; color: #64748b; font-size: .86rem; }
+.feedback-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 14px; }
+.primary-btn, .secondary-btn { border-radius: 10px; padding: 10px 16px; cursor: pointer; font-weight: 700; }
+.primary-btn { border: 0; background: #2457d6; color: #fff; }
+.primary-btn:disabled { cursor: wait; opacity: .65; }
+.secondary-btn { border: 1px solid #cbd5e1; background: transparent; color: #334155; }
+
+@media (max-width: 640px) {
+  .node-actions { margin: 5px 0 0 26px; justify-content: space-between; }
+  .feedback-dialog form { padding: 18px; }
+}
+
+@media (prefers-color-scheme: dark) {
+  .node-feedback { background: #111a2b; border-color: #34435b; color: #b9d7ff; }
+  .node-feedback:hover { background: #243454; }
+  .feedback-dialog { background: #182235; color: #e5e7eb; border-color: #34435b; }
+  .feedback-record-name, .dialog-close, .feedback-status { color: #aebbd0; }
+  .feedback-field > span { color: #d8e5ff; }
+  .feedback-field input, .feedback-field select, .feedback-field textarea { background: #111a2b; border-color: #34435b; color: #e5e7eb; }
+  .secondary-btn { border-color: #34435b; color: #d8e5ff; }
+}

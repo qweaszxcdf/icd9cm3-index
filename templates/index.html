@@ -35,6 +35,7 @@
           </label>
         </div>
         <div class="browse-row">
+          <button id="feedbackGeneralButton" type="button">反馈 / 补充词条</button>
           <button id="browseRootButton" type="button">浏览整个索引</button>
           <button id="expandAllButton" type="button">展开全部</button>
           <button id="collapseAllButton" type="button">折叠全部</button>
@@ -52,5 +53,47 @@
       </footer>
     </div>
     <script src="/static/app.js"></script>
+    <dialog id="feedbackDialog" class="feedback-dialog">
+      <form id="feedbackForm" method="dialog">
+        <div class="feedback-header">
+          <div>
+            <strong>提交数据反馈</strong>
+            <div id="feedbackRecordName" class="feedback-record-name"></div>
+          </div>
+          <button id="feedbackCloseButton" class="dialog-close" type="button" aria-label="关闭">×</button>
+        </div>
+        <label class="feedback-field">
+          <span>问题类型</span>
+          <select id="feedbackType" required>
+            <option value="">请选择</option>
+            <option>中文名称错误</option>
+            <option>英文名称错误</option>
+            <option>主编码错误</option>
+            <option>层级错误</option>
+            <option>页码错误</option>
+            <option>缺少词条</option>
+            <option>重复词条</option>
+            <option>其他</option>
+          </select>
+        </label>
+        <label class="feedback-field">
+          <span>建议修改为</span>
+          <input id="feedbackProposedValue" maxlength="500" placeholder="可选，例如：改为 E23.0 或调整到某词条下" />
+        </label>
+        <label class="feedback-field">
+          <span>问题说明</span>
+          <textarea id="feedbackMessage" maxlength="2000" rows="6" required placeholder="请说明依据、书中页码或建议修改内容"></textarea>
+        </label>
+        <label class="feedback-field">
+          <span>联系方式</span>
+          <input id="feedbackContact" maxlength="200" placeholder="可选，邮箱或其他联系方式" />
+        </label>
+        <div id="feedbackStatus" class="feedback-status" role="status"></div>
+        <div class="feedback-actions">
+          <button id="feedbackCancelButton" type="button" class="secondary-btn">取消</button>
+          <button id="feedbackSubmitButton" type="submit" class="primary-btn">提交反馈</button>
+        </div>
+      </form>
+    </dialog>
   </body>
 </html>

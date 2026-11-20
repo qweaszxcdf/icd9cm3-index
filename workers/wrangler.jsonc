@@ -18,6 +18,13 @@
     "binding": "ASSETS",
     "run_worker_first": ["/api/*", "/tabular-pdf"]
   },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "feedback",
+      "database_id": "f755b043-bb86-4ea8-ae8c-e56991814433"
+    }
+  ],
   "r2_buckets": [
     {
       "binding": "TABULAR_PDF",

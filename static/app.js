@@ -278,6 +278,100 @@ function appendInlineCodeToTitle(titleText, code) {
 
 // Titles will be clickable when the node/item has references; separate reference-chip UI removed.
 
+const feedbackGeneralButton = document.getElementById("feedbackGeneralButton");
+const feedbackDialog = document.getElementById("feedbackDialog");
+const feedbackForm = document.getElementById("feedbackForm");
+const feedbackRecordName = document.getElementById("feedbackRecordName");
+const feedbackType = document.getElementById("feedbackType");
+const feedbackProposedValue = document.getElementById("feedbackProposedValue");
+const feedbackMessage = document.getElementById("feedbackMessage");
+const feedbackContact = document.getElementById("feedbackContact");
+const feedbackStatus = document.getElementById("feedbackStatus");
+const feedbackSubmitButton = document.getElementById("feedbackSubmitButton");
+const feedbackCloseButton = document.getElementById("feedbackCloseButton");
+const feedbackCancelButton = document.getElementById("feedbackCancelButton");
+let feedbackRecord = {};
+let feedbackCloseTimer = null;
+
+function clearFeedbackCloseTimer() {
+  if (feedbackCloseTimer !== null) {
+    window.clearTimeout(feedbackCloseTimer);
+    feedbackCloseTimer = null;
+  }
+}
+
+function closeFeedback() {
+  clearFeedbackCloseTimer();
+  feedbackDialog.close();
+}
+
+function openFeedback(node = null) {
+  clearFeedbackCloseTimer();
+  feedbackRecord = node
+    ? { id: node.id, page: node.page, level: node.level, chinese: node.chinese,
+      english: node.english, code: node.code, source_file: node.source_file }
+    : {};
+  const titleParts = node
+    ? [`第 ${node.page} 页`, node.chinese, node.english, node.code]
+    : ["全局反馈（可用于补充缺少的词条）"];
+  feedbackRecordName.textContent = titleParts.filter(Boolean).join(" / ");
+  feedbackType.value = node ? "" : "缺少词条";
+  feedbackProposedValue.value = "";
+  feedbackMessage.value = "";
+  feedbackContact.value = "";
+  feedbackStatus.textContent = "";
+  feedbackSubmitButton.disabled = false;
+  feedbackSubmitButton.textContent = "提交反馈";
+  feedbackDialog.showModal();
+}
+
+async function submitFeedback(event) {
+  event.preventDefault();
+  clearFeedbackCloseTimer();
+  feedbackSubmitButton.disabled = true;
+  feedbackSubmitButton.textContent = "正在提交……";
+  feedbackStatus.textContent = "正在提交……";
+  let submitted = false;
+  try {
+    const response = await fetch("/api/feedback", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({
+        feedbackType: feedbackType.value,
+        proposedValue: feedbackProposedValue.value,
+        message: feedbackMessage.value,
+        contact: feedbackContact.value,
+        url: window.location.href,
+        record: feedbackRecord,
+      }),
+    });
+    const result = await response.json().catch(() => ({}));
+    if (!response.ok || !result.ok) throw new Error(result.error || "提交失败");
+    submitted = true;
+    feedbackStatus.textContent = `反馈已提交${result.id ? `，编号 ${result.id}` : ""}`;
+    feedbackCloseTimer = window.setTimeout(() => {
+      feedbackCloseTimer = null;
+      feedbackDialog.close();
+    }, 1000);
+  } catch (error) {
+    feedbackStatus.textContent = error instanceof Error ? error.message : "提交失败，请稍后重试。";
+  } finally {
+    if (!submitted) {
+      feedbackSubmitButton.disabled = false;
+      feedbackSubmitButton.textContent = "提交反馈";
+    }
+  }
+}
+
+feedbackGeneralButton.addEventListener("click", () => openFeedback(null));
+feedbackCloseButton.addEventListener("click", closeFeedback);
+feedbackCancelButton.addEventListener("click", closeFeedback);
+feedbackForm.addEventListener("submit", submitFeedback);
+feedbackDialog.addEventListener("click", (event) => {
+  if (event.target === feedbackDialog) closeFeedback();
+});
+
+
 function renderNode(node, asPath = false) {
   // Capture the identity at render time. The tree is lazily expanded and its
   // DOM containers are replaced asynchronously; the request must always use
@@ -316,6 +410,16 @@ function renderNode(node, asPath = false) {
 
   title.appendChild(heading);
   title.appendChild(meta);
+
+  const feedbackButton = document.createElement("button");
+  feedbackButton.type = "button";
+  feedbackButton.className = "node-feedback";
+  feedbackButton.textContent = "反馈";
+  feedbackButton.addEventListener("click", (event) => {
+    event.stopPropagation();
+    openFeedback(node);
+  });
+  title.appendChild(feedbackButton);
   wrapper.appendChild(title);
 
   const details = document.createElement("div");
