@@ -300,11 +300,14 @@ function searchRows(dataset, query, mode, fields, filters) {
     }
   }
 
+  const pathMatches = new Set();
   if (mode === "auto" && /[,，]/u.test(queryText)) {
     const parts = queryLower.split(/[,，]/u).map((part) => part.trim()).filter(Boolean);
     if (parts.length > 1) {
       for (const index of findHierarchicalTargetRows(dataset, parts)) {
-        if (!resultIndices.includes(index) && rowMatchesFilters(dataset, rows[index], ...filters)) {
+        if (!rowMatchesFilters(dataset, rows[index], ...filters)) continue;
+        pathMatches.add(index);
+        if (!resultIndices.includes(index)) {
           resultIndices.push(index);
           count += 1;
         }
@@ -321,7 +324,8 @@ function searchRows(dataset, query, mode, fields, filters) {
     score: searchMatchScore(rows[index], matchQuery, matchFields),
   }));
   rankedMatches.sort((left, right) =>
-    rows[left.index][ROW_LEVEL] - rows[right.index][ROW_LEVEL]
+    Number(pathMatches.has(right.index)) - Number(pathMatches.has(left.index))
+    || rows[left.index][ROW_LEVEL] - rows[right.index][ROW_LEVEL]
     || right.score - left.score
     || left.index - right.index);
   const matchOrder = new Map(rankedMatches.map(({ index }, rank) => [`r${index}`, rank]));
