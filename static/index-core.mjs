@@ -227,16 +227,23 @@ function rowMatchesSearch(row, queryLower, mode, fields, isCodeQuery = false) {
     const tokens = queryLower.split(/\s+/).filter(Boolean);
     return tokens.some((token) => text.includes(token));
   }
-  return text.includes(queryLower);
+  if (mode !== "auto") return text.includes(queryLower);
+  const tokens = queryLower.split(/[\s,，]+/u).filter(Boolean);
+  return tokens.length > 0 && tokens.every((token) => text.includes(token));
+}
+
+function normalizeMatchPhrase(value) {
+  return value.replace(/\s*[,，]\s*/gu, ",").replace(/\s+/gu, " ").trim();
 }
 
 function searchMatchScore(row, query, fields) {
+  const target = normalizeMatchPhrase(query);
   let score = 0;
   for (const field of fields) {
-    const value = rowSearchText(row, [field]);
-    if (value === query) return 3;
-    if (value.startsWith(query)) score = Math.max(score, 2);
-    else if (value.includes(query)) score = Math.max(score, 1);
+    const value = normalizeMatchPhrase(rowSearchText(row, [field]));
+    if (value === target) return 3;
+    if (value.startsWith(target)) score = Math.max(score, 2);
+    else if (value.includes(target)) score = Math.max(score, 1);
   }
   return score;
 }
@@ -272,24 +279,13 @@ function searchRows(dataset, query, mode, fields, filters) {
   const queryLower = queryText.toLowerCase();
   const resultIndices = [];
   let count = 0;
-  const hasFilters = filters.some((value, index) => index < 4 ? value !== null : value.length > 0);
-
   if (isCodeQuery || mode === "code") {
     const codeNorm = normalizeCode(queryLower);
-    const exactIndices = dataset.code_index[codeNorm] || [];
-    if (exactIndices.length) {
-      for (const index of exactIndices) {
-        if (hasFilters && !rowMatchesFilters(dataset, rows[index], ...filters)) continue;
-        count += 1;
-        resultIndices.push(index);
-      }
-    } else {
-      for (let index = 0; index < rows.length; index += 1) {
-        const row = rows[index];
-        if (!row[ROW_CODE_NORM].startsWith(codeNorm) || !rowMatchesFilters(dataset, row, ...filters)) continue;
-        count += 1;
-        resultIndices.push(index);
-      }
+    for (let index = 0; index < rows.length; index += 1) {
+      const row = rows[index];
+      if (!row[ROW_CODE_NORM].startsWith(codeNorm) || !rowMatchesFilters(dataset, row, ...filters)) continue;
+      count += 1;
+      resultIndices.push(index);
     }
   } else {
     for (let index = 0; index < rows.length; index += 1) {
