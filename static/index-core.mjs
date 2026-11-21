@@ -87,14 +87,13 @@ function collectRelevantRows(dataset, resultIndices, markMatches = true) {
 
 function rowMatchesTarget(row, target, strictPrefix = false) {
   const targetText = normalizeText(target).toLowerCase();
-  const english = normalizeText(row[ROW_ENGLISH]).toLowerCase();
-  if (strictPrefix) {
-    if (english === targetText) return true;
-    if (!english.startsWith(targetText)) return false;
-    const remainder = english.slice(targetText.length);
-    return Boolean(remainder && " ,-/()—".includes(remainder[0]));
-  }
-  return english === targetText;
+  return [row[ROW_ENGLISH], row[ROW_CHINESE]].some((value) => {
+    const text = normalizeText(value).toLowerCase();
+    if (text === targetText) return true;
+    if (!strictPrefix || !text.startsWith(targetText)) return false;
+    const next = text[targetText.length];
+    return Boolean(next && " ,，-/()（）—[【".includes(next));
+  });
 }
 
 function findHierarchicalTargetRows(dataset, parts) {
@@ -298,6 +297,18 @@ function searchRows(dataset, query, mode, fields, filters) {
       if (!rowMatchesFilters(dataset, row, ...filters) || !rowMatchesSearch(row, queryLower, mode, fields)) continue;
       count += 1;
       resultIndices.push(index);
+    }
+  }
+
+  if (mode === "auto" && /[,，]/u.test(queryText)) {
+    const parts = queryLower.split(/[,，]/u).map((part) => part.trim()).filter(Boolean);
+    if (parts.length > 1) {
+      for (const index of findHierarchicalTargetRows(dataset, parts)) {
+        if (!resultIndices.includes(index) && rowMatchesFilters(dataset, rows[index], ...filters)) {
+          resultIndices.push(index);
+          count += 1;
+        }
+      }
     }
   }
 

@@ -97,7 +97,7 @@ function extractNodeReferences(node) {
 
 function navigationUrl(params) {
   const url = new URL(location.href);
-  for (const key of ["q", "mode", "locate"]) url.searchParams.delete(key);
+  for (const key of ["q", "mode", "locate", "label"]) url.searchParams.delete(key);
   for (const [key, value] of Object.entries(params)) {
     if (value) url.searchParams.set(key, value);
   }
@@ -111,7 +111,7 @@ function pushNavigation(params) {
 
 function createRefAnchor(target, queryTarget = target) {
   const a = document.createElement("a");
-  a.href = navigationUrl({ locate: queryTarget }).href;
+  a.href = navigationUrl({ locate: queryTarget, label: target !== queryTarget ? target : "" }).href;
   a.className = "ref-inline";
   a.textContent = target;
   a.addEventListener("click", (event) => {
@@ -122,12 +122,12 @@ function createRefAnchor(target, queryTarget = target) {
       summaryEl.textContent = "此引用指向子目（亚目），已忽略。";
       return;
     }
-    performLocate(queryTarget);
+    performLocate(queryTarget, { label: target });
   });
   return a;
 }
 
-async function performLocate(target, { updateUrl = true } = {}) {
+async function performLocate(target, { updateUrl = true, label = target } = {}) {
   await loadNavigation(
     `/locate?target=${encodeURIComponent(target)}&mark=false`,
     "定位失败，请重试。",
@@ -139,10 +139,10 @@ async function performLocate(target, { updateUrl = true } = {}) {
       currentQuery = "";
       currentMode = "auto";
       setSearchMode("auto");
-      queryInput.value = target;
+      queryInput.value = label;
       renderSummary(data);
       renderTree(data);
-      if (updateUrl) pushNavigation({ locate: target });
+      if (updateUrl) pushNavigation({ locate: target, label: label !== target ? label : "" });
     },
   );
 }
@@ -581,7 +581,7 @@ async function performSearch({ updateUrl = true } = {}) {
 function restoreNavigationState() {
   const params = new URL(location.href).searchParams;
   const target = params.get("locate");
-  if (target) return performLocate(target, { updateUrl: false });
+  if (target) return performLocate(target, { updateUrl: false, label: params.get("label") || target });
 
   queryInput.value = params.get("q") || "";
   setSearchMode(params.get("mode") || "auto");
